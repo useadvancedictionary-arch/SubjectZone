@@ -1,0 +1,242 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The outer body of dry cell serves as anode, it is made up of:",
+    "options": [
+      "Copper",
+      "Zinc",
+      "Lead",
+      "Iron"
+    ],
+    "correct": "b",
+    "explanation": "In the dry cell (Leclanché cell) the container itself is the anode, and it is made of zinc. The zinc can is filled with a moist paste of NH₄Cl and ZnCl₂, while the central carbon rod surrounded by MnO₂ and graphite is the cathode. At the anode the zinc is oxidised, Zn → Zn²⁺ + 2e⁻, so the metal forming the outer body must be the reducing electrode; zinc is chosen because it is cheap, easily pressed into a can, and has a sufficiently negative electrode potential (−0.76 V). Copper, lead and iron are not used for the container of a dry cell, so (a), (c) and (d) are wrong.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The conduction of electricity through an electrolytic solution is due to the flow of:",
+    "options": [
+      "Electrons",
+      "Ions",
+      "Atoms",
+      "Molecules"
+    ],
+    "correct": "b",
+    "explanation": "An electrolyte dissociates in solution into freely moving cations and anions, and these ions carry the current: cations migrate towards the cathode and anions towards the anode, each ion carrying its charge and being discharged at the electrode. There are no free electrons in the bulk of the solution (electrons are transferred only at the electrode surfaces), and neutral atoms or molecules carry no charge, so they cannot transport electricity. This ionic conduction is the reason why an electrolyte conducts only when molten or dissolved, and why its conductivity rises with concentration and temperature.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "During electrolysis, the reaction that takes place at anode is:",
+    "options": [
+      "Oxidation",
+      "Reduction",
+      "Hydrolysis",
+      "Simultaneous oxidation and reduction"
+    ],
+    "correct": "a",
+    "explanation": "The anode is, by definition, the electrode at which oxidation takes place. In an electrolytic cell the anode is the positive electrode: it attracts the negative ions (anions), which give up electrons to it, for example 2Cl⁻ → Cl₂ + 2e⁻ or 4OH⁻ → O₂ + 2H₂O + 4e⁻. Reduction always occurs at the cathode, where cations accept electrons. Oxidation at the anode and reduction at the cathode occur together in the cell as a whole, but the reaction occurring at the anode itself is oxidation, not hydrolysis or simultaneous oxidation and reduction.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "This statement is not correct for lead storage battery:",
+    "options": [
+      "It can be recharged",
+      "It is a primary battery",
+      "Anode is made up of lead",
+      "Cathode is made up of lead oxide"
+    ],
+    "correct": "b",
+    "explanation": "The lead storage battery is a secondary (storage) cell, not a primary cell. Its electrode reactions are reversible, so it can be discharged and then recharged many times by passing a current in the reverse direction; therefore statement (b) is incorrect and is the required answer. The other three statements are all true: the battery can be recharged (a); its anode is a lead grid filled with spongy lead (c); and its cathode is lead dioxide, PbO₂, packed on a lead grid (d). Dilute sulphuric acid (about 38%) is the electrolyte, and on discharge both electrodes are converted into PbSO₄.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "In Zn-SHE voltaic cell, the half reaction occurs at anode is:",
+    "options": [
+      "Zn²⁺ + 2e⁻ → Zn",
+      "Zn → Zn²⁺ + 2e⁻",
+      "2H⁺ + 2e⁻ → H₂",
+      "H₂ → 2H⁺ + 2e⁻"
+    ],
+    "correct": "b",
+    "explanation": "In the cell Zn | Zn²⁺(1 M) || H⁺(1 M) | H₂(1 atm), Pt, zinc is the anode because it is much more electropositive (E° = −0.76 V) than the standard hydrogen electrode (E° = 0.00 V). At the anode the zinc metal is oxidised and passes into solution as Zn²⁺, releasing two electrons that travel through the external circuit to the SHE: Zn(s) → Zn²⁺(aq) + 2e⁻. Option (a) is the reduction of Zn²⁺, which would occur at a zinc cathode in some other cell; options (c) and (d) describe the hydrogen electrode, which here acts as the cathode, where 2H⁺ + 2e⁻ → H₂ takes place.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The strongest oxidizing agent in the electro chemical series is:",
+    "options": [
+      "Li",
+      "H₂",
+      "Cu",
+      "F₂"
+    ],
+    "correct": "d",
+    "explanation": "The strongest oxidising agent is the species that is most easily reduced, that is, the one with the most positive standard reduction potential. In the electrochemical series the couple F₂/F⁻ has E° = +2.87 V, the highest value of all, so fluorine readily accepts electrons (F₂ + 2e⁻ → 2F⁻) and is the strongest oxidising agent among the four substances listed. Lithium has the most negative potential (E° = −3.05 V) and is therefore the strongest reducing agent, not an oxidising agent; H₂ (E° = 0.00 V) and Cu (E° = +0.34 V) are much weaker oxidising agents than F₂.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Galvanized rode of iron is coated with:",
+    "options": [
+      "Nickel",
+      "Zinc",
+      "Chromium",
+      "Carbon"
+    ],
+    "correct": "b",
+    "explanation": "Galvanisation is the coating of iron or steel with a thin layer of zinc, usually by dipping the article in molten zinc or by electroplating. Zinc protects the iron in two ways: it acts as a physical barrier against air and moisture, and because it is more electropositive than iron (E° = −0.76 V for Zn against −0.44 V for Fe) it is oxidised preferentially, so even a scratched or broken coating continues to protect the iron by sacrificial (cathodic) protection. Nickel and chromium coatings are applied by electroplating, not galvanising, and carbon is never used as a protective coating.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Fuel cell is a typical Galvanic cell which is based on the reaction between:",
+    "options": [
+      "Nitrogen and oxygen",
+      "Hydrogen and oxygen",
+      "Methane and oxygen",
+      "Hydrogen and zinc"
+    ],
+    "correct": "b",
+    "explanation": "A fuel cell converts the chemical energy of a fuel and an oxidant, supplied continuously, directly into electrical energy; the common hydrogen–oxygen fuel cell uses H₂ as the fuel and O₂ as the oxidant. At the anode 2H₂ + 4OH⁻ → 4H₂O + 4e⁻, at the cathode O₂ + 2H₂O + 4e⁻ → 4OH⁻, giving the overall reaction 2H₂ + O₂ → 2H₂O with a standard emf of about 1.23 V. The only product is water, so the cell is non-polluting and has a high efficiency. Nitrogen is inert towards oxygen under cell conditions, and neither methane–oxygen nor hydrogen–zinc is the reaction on which the standard fuel cell is based.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Oxidation number of Cr in Na₂Cr₂O₇ is:",
+    "options": [
+      "+3",
+      "+6",
+      "+8",
+      "+12"
+    ],
+    "correct": "b",
+    "explanation": "In Na₂Cr₂O₇ the oxidation number of sodium is +1, that of oxygen is −2 and that of chromium is x. Because the compound is electrically neutral, the algebraic sum of the oxidation numbers is zero: 2(+1) + 2x + 7(−2) = 0, that is 2 + 2x − 14 = 0, so 2x = 12 and x = +6. Each chromium is therefore in the +6 state, as expected for dichromate(VI), and the check +2 + 12 − 14 = 0 confirms the result.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Which of the following half cell reaction show oxidation:",
+    "options": [
+      "Fe³⁺ → Fe²⁺",
+      "Cl₂ → 2Cl⁻",
+      "SO₄²⁻ → SO₄³⁻",
+      "Zn → Zn²⁺"
+    ],
+    "correct": "d",
+    "explanation": "Oxidation is loss of electrons and is shown by an increase in oxidation number. In Zn → Zn²⁺ + 2e⁻ the oxidation number of zinc rises from 0 to +2, so this half reaction is an oxidation; it is in fact the anode reaction of the zinc half cell. Option (a), Fe³⁺ → Fe²⁺, is a gain of one electron (reduction of iron from +3 to +2); option (b), Cl₂ → 2Cl⁻, is reduction of chlorine from 0 to −1; and in option (c), SO₄²⁻ → SO₄³⁻, the oxidation number of sulphur falls from +6 to +4, which is also a reduction. Hence only (d) represents oxidation.",
+    "pdfPage": 264,
+    "bookPage": 258
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following:\n(i) Primary and secondary cell\n(ii) Oxidizing agent and reducing agent\n(iii) Redox reactions\n(iv) Oxidation and reduction\n(v) Oxidation number",
+    "answer": "(i) Primary and secondary cell: A primary cell is a cell in which the chemical reaction is irreversible, so it cannot be recharged; the reactants are sealed inside it and the cell delivers current only until the active material is used up, after which it is discarded. Examples are the dry (Leclanché) cell, the alkaline MnO₂ cell and the mercury cell. A secondary cell is a cell in which the electrode reactions are reversible, so it can be recharged by passing a current in the opposite direction and used again and again; the products formed during discharge are converted back into the original reactants during charging. Examples are the lead storage battery, the nickel–cadmium cell and the lithium-ion cell.\n(ii) Oxidizing agent and reducing agent: An oxidising agent (oxidant) is a substance that oxidises another substance and is itself reduced, that is, it accepts electrons; for example KMnO₄, K₂Cr₂O₇, Cl₂, O₂, conc. HNO₃ and F₂. A reducing agent (reductant) is a substance that reduces another substance and is itself oxidised, that is, it donates electrons; for example H₂, Zn, Fe, Na, SO₂, CO and H₂S. In a reaction the oxidising agent is reduced and the reducing agent is oxidised.\n(iii) Redox reactions: Redox (oxidation–reduction) reactions are reactions in which oxidation and reduction occur simultaneously. The electrons lost by the reducing agent are gained by the oxidising agent, so the total increase in oxidation number equals the total decrease and the number of electrons lost equals the number gained. An example is Zn + CuSO₄ → ZnSO₄ + Cu, in which zinc is oxidised (0 → +2) and copper is reduced (+2 → 0).\n(iv) Oxidation and reduction: Oxidation is the loss of electrons, which corresponds to an increase in oxidation number, and also to the addition of oxygen or the removal of hydrogen; for example Fe²⁺ → Fe³⁺ + e⁻. Reduction is the gain of electrons, corresponding to a decrease in oxidation number, and also to the addition of hydrogen or the removal of oxygen; for example Cl₂ + 2e⁻ → 2Cl⁻. The two processes are complementary and always occur together.\n(v) Oxidation number: The oxidation number (oxidation state) of an element in a compound or ion is the charge that its atom would carry if the shared pair of electrons in each bond were assigned completely to the more electronegative atom; for a monatomic ion it is simply the charge on the ion. It may be positive, negative or zero, and it is written for each atom, not for the compound as a whole: for example +1 for Na in NaCl, −2 for O in most compounds, +6 for S in H₂SO₄ and 0 for an element in the free state.",
+    "explanation": "Each of the five terms is a starred definition and is marked separately, so each needs a complete statement plus at least one example. The examiner looks for the key idea in each pair: irreversibility and non-rechargeability for primary cells against reversibility and rechargeability for secondary cells, and electron acceptance against electron donation for oxidising and reducing agents. For oxidation/reduction the modern electron-transfer definition should be supported by the oxidation-number definition, and the definition of oxidation number must mention that it is the apparent charge obtained by assigning bond electrons to the more electronegative atom.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "What is meant by oxidation number? Determine the oxidation number in following.\n(i) Cr in H₂CrO₄\n(ii) S in K₂S₄O₆\n(iii) Fe in Fe₃O₄\n(iv) Cl in HClO₄",
+    "answer": "Oxidation number (oxidation state) is the charge that the atom of an element appears to carry in a compound or ion when the electrons of every covalent bond are assigned completely to the more electronegative atom; for a monatomic ion it is simply the charge on the ion. The rules used are: the oxidation number of an element in the free (uncombined) state is zero; the oxidation number of a monatomic ion equals its charge; hydrogen is +1 (except −1 in metal hydrides); oxygen is −2 (except −1 in peroxides such as H₂O₂ and +2 in OF₂); the algebraic sum of the oxidation numbers of all the atoms in a neutral compound is zero, and in a polyatomic ion it is equal to the charge on the ion.\n(i) Cr in H₂CrO₄: let the oxidation number of chromium be x. Then 2(+1) + x + 4(−2) = 0, i.e. 2 + x − 8 = 0, so x = +6. Chromium in chromic acid is in the +6 state.\n(ii) S in K₂S₄O₆: let the oxidation number of sulphur be x. Then 2(+1) + 4x + 6(−2) = 0, i.e. 2 + 4x − 12 = 0, so 4x = 10 and x = +2.5. This is the average oxidation number of the four sulphur atoms of the tetrathionate ion S₄O₆²⁻; the individual atoms are not all equivalent (two sulphur atoms are of the sulphonate type, at +5, and two are sulphane-type sulphur, at 0), so a fractional average is obtained. The result is checked by 2 + 4(2.5) − 12 = 0.\n(iii) Fe in Fe₃O₄: let the oxidation number of iron be x. Then 3x + 4(−2) = 0, so 3x = 8 and x = +8/3 ≈ +2.67. Fe₃O₄ is a mixed oxide, FeO·Fe₂O₃, that contains one Fe²⁺ ion and two Fe³⁺ ions per formula unit, so the average value 8/3 lies between +2 and +3.\n(iv) Cl in HClO₄: let the oxidation number of chlorine be x. Then (+1) + x + 4(−2) = 0, i.e. 1 + x − 8 = 0, so x = +7. Chlorine in perchloric acid is therefore in its highest oxidation state, +7.",
+    "explanation": "The answer must first define oxidation number as an apparent charge obtained by assigning bonding electrons to the more electronegative atom, then apply the rule that the sum of the oxidation numbers equals zero for a neutral molecule and the ionic charge for an ion. The two results that need comment are the fractional values: +2.5 for sulphur in K₂S₄O₆ and +8/3 for iron in Fe₃O₄, both of which are averages over non-equivalent atoms in the same formula unit; a full-mark answer explains why the average is fractional instead of simply stating the number.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Define the term standard electrode potential and hydrogen electrode.",
+    "answer": "Standard electrode potential: When a metal is dipped into a solution of its own ions an equilibrium is set up between the metal atoms going into solution as ions and the ions being deposited as metal, and the potential difference developed between the metal and the solution is the electrode potential of that electrode. Since its absolute value cannot be measured, it is measured relative to a reference electrode and is called the standard electrode potential, E°, when the electrode is dipped in a solution of its own ions of unit concentration (1 mol dm⁻³) at 298 K (25 °C), with gases at 1 atm pressure and with the standard hydrogen electrode (E° = 0.00 V) as the reference. By IUPAC convention it is quoted as a reduction potential, e.g. E°(Zn²⁺/Zn) = −0.76 V and E°(Cu²⁺/Cu) = +0.34 V. A more negative E° means a greater tendency to lose electrons (stronger reducing agent); a more positive E° means a greater tendency to gain electrons (stronger oxidising agent).\nHydrogen electrode (standard hydrogen electrode, SHE): A platinum foil or plate coated with finely divided platinum black is partly dipped in 1 M aqueous hydrogen ion solution (usually 1 M HCl or H₂SO₄) at 298 K, and pure hydrogen gas at 1 atm is bubbled over the platinum surface. The half reaction is 2H⁺(aq) + 2e⁻ ⇌ H₂(g), and the electrode is represented as Pt(s) | H₂(g, 1 atm) | H⁺(aq, 1 M). By international convention its potential is fixed at exactly 0.00 V at all temperatures, and all other electrode potentials are measured against it. Platinum is used because it is inert and its finely divided (black) surface adsorbs hydrogen; the electrode can act as anode (H₂ → 2H⁺ + 2e⁻) or as cathode (2H⁺ + 2e⁻ → H₂) depending on the other half cell, which makes it a universal reference electrode.",
+    "explanation": "Two definitions are required. For standard electrode potential the essential points are: it is a potential difference between an electrode and its solution, it cannot be measured absolutely, it is measured under standard conditions (1 M, 298 K, 1 atm) and is quoted relative to the SHE as a reduction potential. For the hydrogen electrode the essential points are the construction (platinised platinum, 1 M H⁺, H₂ at 1 atm, 298 K), the half reaction 2H⁺ + 2e⁻ ⇌ H₂ and the convention E° = 0.00 V, together with the reason why platinum is used and why the electrode is reversible.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "In the process of electroplating the item to be plated is made cathode, give reason?",
+    "answer": "Electroplating is the deposition of a thin, firmly adherent layer of one metal on the surface of another metal by electrolysis, and deposition of a metal always requires the reduction of its ions. Reduction can occur only at the cathode, because the cathode is the electrode connected to the negative terminal of the d.c. supply and therefore supplies electrons to the cations. The article to be plated is therefore made the cathode so that the metal ions of the electrolyte (for example Cu²⁺ from CuSO₄, Ag⁺ from AgNO₃ or Ni²⁺ from NiSO₄) migrate to it, gain electrons and are deposited as metal: Mⁿ⁺ + ne⁻ → M. The anode is a rod of the pure plating metal, which dissolves to replace the ions removed from the solution (M → Mⁿ⁺ + ne⁻), so the concentration of the electrolyte stays constant. If the article were made the anode it would itself be oxidised and dissolve instead of being coated, and the plating metal would be deposited on the other electrode. Making the article the cathode also gives a uniform, well-adhering coating, because its whole surface is at the same negative potential and is continuously supplied with electrons from the external circuit.",
+    "explanation": "The mark is for linking the position of the article in the circuit to the nature of the reaction: coating means deposition, deposition means reduction, and reduction occurs only at the cathode, which is the negative electrode in an electrolytic cell. A good answer also names the anode reaction and points out that making the article the anode would dissolve it, and mentions that the anode of pure plating metal keeps the electrolyte concentration constant.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "What is corrosion? What causes it to form? What can be done to prevent its formation?",
+    "answer": "Corrosion is the slow destruction of a metal by the chemical and electrochemical action of the surrounding environment, in which the metal is converted into its compounds such as oxides, hydroxides, sulphides and salts. The most familiar example is the rusting of iron; others are the tarnishing of silver, the green basic copper carbonate patina on copper and the dull white layer on aluminium.\nCauses: corrosion is essentially an electrochemical process. On the surface of a metal such as iron, small anodic and cathodic regions are set up by impurities, grain boundaries, strain or contact with a less active metal, and moisture containing dissolved oxygen and carbon dioxide (or dissolved salts) acts as the electrolyte. At the anode the metal dissolves: Fe → Fe²⁺ + 2e⁻; the electrons travel through the metal to the cathode, where dissolved oxygen is reduced: O₂ + 2H₂O + 4e⁻ → 4OH⁻. The Fe²⁺ and OH⁻ ions combine and are further oxidised by air to hydrated iron(III) oxide, Fe₂O₃·xH₂O, which is rust. Oxygen and water are therefore both essential for rusting, and the rate is increased by dissolved salts such as NaCl, by acids and acid rain (SO₂, NO₂), by high humidity and temperature, by contact with a dissimilar metal (galvanic corrosion) and by mechanical stress.\nPrevention: (1) Barrier coatings that keep out air and moisture, such as paint, varnish, grease, oil, enamel and plastic. (2) Metallic coatings, such as galvanising with zinc and electroplating with chromium, nickel or tin. (3) Alloying: stainless steel containing chromium and nickel resists corrosion because it forms a protective oxide film. (4) Cathodic (sacrificial) protection: blocks of a more electropositive metal such as Mg, Zn or Al are attached as sacrificial anodes, or an impressed d.c. current is applied, so that the protected metal is made cathodic. (5) Keeping the surface clean, dry and free from salt. (6) Producing a thick protective oxide layer by anodising aluminium or by phosphating. (7) Adding corrosion inhibitors to water or acid that circulates in contact with the metal.",
+    "explanation": "The question has three separate parts and each must be answered: a definition with a familiar example, an explanation of the mechanism (anodic dissolution of the metal coupled with reduction of oxygen at the cathode, with moist air as the electrolyte) and a list of preventive methods. Marks are awarded for naming specific methods — painting, galvanising, alloying, cathodic protection — rather than for vague statements such as keeping the metal away from air.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "How can you define an electrochemical series? Give its properties.",
+    "answer": "Definition: The electrochemical series (activity or reactivity series) is a list of the elements, more strictly of redox couples, arranged in order of their standard electrode potentials, usually in order of increasing standard reduction potential at 298 K, with the standard hydrogen electrode (E° = 0.00 V) as the reference. A common order is K, Ca, Na, Mg, Al, Zn, Fe, Sn, Pb, H, Cu, Hg, Ag, Au, Pt, F₂, the metals at the top having the most negative potentials and being the most reactive.\nProperties and uses:\n(1) A metal placed above hydrogen in the series (negative E°) displaces hydrogen from dilute acids, e.g. Zn + 2HCl → ZnCl₂ + H₂, whereas metals below hydrogen such as Cu, Ag and Au do not.\n(2) A metal higher in the series displaces a metal lower down from a solution of its salt; zinc displaces copper from CuSO₄ (Zn + CuSO₄ → ZnSO₄ + Cu), but copper cannot displace zinc.\n(3) Metals at the top are strongly electropositive and are powerful reducing agents, and their ions are weak oxidising agents; the ions of metals at the bottom (Ag⁺, Au³⁺) and F₂ are powerful oxidising agents.\n(4) The greater the separation of the two electrodes in the series, the greater the emf of the cell formed from them, since E°cell = E°cathode − E°anode; a positive value shows that the cell reaction is spontaneous.\n(5) It predicts whether a redox reaction is feasible and in which direction it will go: the species with the higher reduction potential oxidises the species with the lower reduction potential.\n(6) It predicts the products of electrolysis, because the ion with the higher (more positive) reduction potential is preferentially discharged at the cathode.\n(7) It indicates the reactivity and stability of metals: metals high in the series are more reactive and cannot be extracted by reduction with carbon (they are obtained by electrolysis), while metals low in the series occur native or are easily reduced.\n(8) It allows the standard emf of any cell to be calculated from tabulated values, and shows that when one electrode is the SHE the emf of the cell is numerically equal to the standard electrode potential of the other electrode.",
+    "explanation": "The definition must state that the arrangement is in order of standard electrode potential and that the SHE is the zero of the scale. For the properties, at least five or six distinct points are expected, drawn from displacement of hydrogen from acids, displacement of one metal by another, strength of oxidising and reducing agents, calculation of cell emf by E°cell = E°cathode − E°anode, prediction of the direction of redox reactions and of electrolysis products, and extraction methods. A single list of metals without the properties would lose most of the marks.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "(a) What is meant by electrode potential and standard Hydrogen electrode (SHE).\n(b) Describe how the electrode potential of copper is determined.",
+    "answer": "(a) Electrode potential: When a metal is dipped into a solution of its own ions, an equilibrium is established between the metal atoms leaving the lattice as ions (M → Mⁿ⁺ + ne⁻) and the ions in solution taking electrons and depositing as metal (Mⁿ⁺ + ne⁻ → M). If the tendency to dissolve is the greater, the metal becomes negatively charged with respect to the solution; if the tendency to deposit is greater, it becomes positively charged, and the solution acquires the opposite charge. The potential difference thus set up between the metal and the solution is called the electrode potential of that metal. Its absolute value cannot be measured, so electrode potentials are measured relative to a reference electrode and are called standard electrode potentials, E°, when the ion concentration is 1 mol dm⁻³, the temperature is 298 K and any gas is at 1 atm. By IUPAC convention the values are quoted as reduction potentials: a negative E° means the metal tends to lose electrons, a positive E° means its ion tends to gain electrons.\nStandard hydrogen electrode (SHE): It consists of a platinum plate or foil coated with platinum black and partly dipped in 1 M H⁺ (1 M HCl or H₂SO₄) at 298 K, with pure hydrogen gas at 1 atm bubbled over the platinum. The half reaction is 2H⁺(aq) + 2e⁻ ⇌ H₂(g) and the electrode is written Pt(s) | H₂(g, 1 atm) | H⁺(aq, 1 M). Its potential is fixed by international convention at exactly 0.00 V at all temperatures, and it is used as the reference against which all other electrode potentials are measured. Platinum is inert and its finely divided deposit adsorbs hydrogen and catalyses the reaction. The electrode is reversible: it acts as anode (H₂ → 2H⁺ + 2e⁻) when coupled with a metal above hydrogen and as cathode (2H⁺ + 2e⁻ → H₂) when coupled with a metal below hydrogen.\n(b) Determination of the electrode potential of copper: A clean copper strip is dipped in 1 M CuSO₄ solution at 298 K and coupled through a salt bridge (KCl or KNO₃ in agar) to a standard hydrogen electrode; the two electrodes are connected across a high-resistance voltmeter:\nPt(s) | H₂(g, 1 atm) | H⁺(aq, 1 M) || Cu²⁺(aq, 1 M) | Cu(s)\nThe voltmeter reads 0.34 V and the copper electrode is found to be the positive terminal, so copper is the cathode and reduction takes place there: Cu²⁺ + 2e⁻ → Cu, while hydrogen is oxidised at the SHE: H₂ → 2H⁺ + 2e⁻. The overall cell reaction is Cu²⁺ + H₂ → Cu + 2H⁺. For this cell\nE°cell = E°cathode − E°anode = E°(Cu²⁺/Cu) − E°(H⁺/H₂) = E°(Cu²⁺/Cu) − 0.00 V.\nSince E°cell is measured as +0.34 V, it follows that E°(Cu²⁺/Cu) = +0.34 V; the oxidation potential of copper is therefore −0.34 V. The positive sign shows that Cu²⁺ has a greater tendency to be reduced than H⁺, so copper lies below hydrogen in the electrochemical series. If the metal under investigation were zinc, it would be the negative terminal and its standard potential would come out as −0.76 V, showing that zinc has a greater tendency to be oxidised than hydrogen.",
+    "explanation": "Part (a) needs the idea of an equilibrium between a metal and its ions and the charge separation that produces the electrode potential, together with the construction, half reaction and zero value of the SHE. Part (b) is a method question: the examiner expects the cell Pt | H₂(1 atm) | H⁺(1 M) || Cu²⁺(1 M) | Cu, the observation that the copper electrode is positive and the voltmeter reads 0.34 V, the identification of the cathode and anode reactions, and the calculation E°cell = E°cathode − E°anode with E°(H⁺/H₂) = 0 to give E°(Cu²⁺/Cu) = +0.34 V, including the meaning of the positive sign.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Sketch a copper-zinc Galvanic cell, write the cell reaction and show the direction of electron flow.",
+    "answer": "Sketch (described): Two beakers are placed side by side. In the left beaker a zinc rod dips into 1 M ZnSO₄ solution and in the right beaker a copper rod dips into 1 M CuSO₄ solution. The two solutions are joined by a salt bridge, a U-tube containing agar gel with KCl or KNO₃, whose ends dip into the two solutions. The zinc rod and the copper rod are connected externally through a voltmeter (and a switch). The zinc rod is labelled anode (−) and the copper rod cathode (+); arrows on the wire point from zinc to copper and are labelled e⁻. In the left beaker an arrow shows Zn²⁺ leaving the rod; in the right beaker an arrow shows Cu²⁺ depositing on the rod; inside the salt bridge arrows show K⁺ moving towards the copper half cell and Cl⁻ towards the zinc half cell.\nCell notation: Zn(s) | Zn²⁺(aq, 1 M) || Cu²⁺(aq, 1 M) | Cu(s)\nElectrode reactions: at the anode (zinc, oxidation) Zn(s) → Zn²⁺(aq) + 2e⁻, E° = −0.76 V; at the cathode (copper, reduction) Cu²⁺(aq) + 2e⁻ → Cu(s), E° = +0.34 V.\nOverall cell reaction: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), and the standard emf of the cell is E°cell = E°cathode − E°anode = 0.34 − (−0.76) = 1.10 V.\nDirection of electron flow: the electrons set free by the oxidation of zinc leave the zinc electrode (the negative terminal) and travel through the external wire and voltmeter to the copper electrode (the positive terminal), where they are taken up by Cu²⁺ ions. Electrons therefore flow from Zn to Cu in the external circuit, while the conventional current flows in the opposite direction, from Cu to Zn outside the cell. Inside the solutions the current is carried by ions, not by electrons: Zn²⁺ moves away from the anode, Cu²⁺ moves towards the cathode, K⁺ from the salt bridge enters the copper half cell and Cl⁻ enters the zinc half cell, thereby completing the circuit and keeping both solutions electrically neutral. As the cell operates the zinc rod dissolves and loses mass, the copper rod gains mass and the blue colour of the CuSO₄ solution fades.",
+    "explanation": "A labelled sketch is required, not merely a description, so the diagram should show the two beakers with 1 M ZnSO₄ and 1 M CuSO₄, the zinc and copper rods, the salt bridge, the voltmeter and the electron-flow arrow. The cell reaction must be given as the sum of the two half reactions with the emf calculated from E°cell = E°cathode − E°anode = 1.10 V, and the direction of electron flow must be stated explicitly as from zinc (anode) to copper (cathode) through the external circuit, with the conventional current in the opposite direction.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is the difference between a primary cell and secondary cell sketch a diagram of dry cell and explain its working.",
+    "answer": "Differences between a primary and a secondary cell:\n(1) In a primary cell the chemical reaction is irreversible, whereas in a secondary cell the electrode reactions are reversible.\n(2) A primary cell cannot be recharged and is thrown away when exhausted; a secondary cell can be recharged by passing a current in the reverse direction and used for many charge–discharge cycles.\n(3) In a primary cell the active materials are consumed once and for all, while in a secondary cell the products formed during discharge are converted back into the original reactants during charging.\n(4) Examples of primary cells are the dry (Leclanché) cell, the alkaline MnO₂ cell and the mercury cell; examples of secondary cells are the lead storage battery, the nickel–cadmium cell and the lithium-ion cell.\n(5) Primary cells are cheap and give a steady low current for a limited time, whereas secondary cells are more expensive but can deliver large currents and have a long life; the lead accumulator can be recharged hundreds of times.\n(6) A primary cell is used only as a source of current (torches, clocks, remote controls), whereas a secondary cell stores electrical energy and is used in automobiles, UPS systems and mobile devices.\nDiagram of a dry cell (described): A cylindrical zinc container forms the outer body and is the anode (negative terminal); it is lined with a porous paper or cardboard separator. Inside is a moist paste of ammonium chloride, zinc chloride and manganese dioxide mixed with graphite powder to make it conducting. A central carbon (graphite) rod, surrounded by the MnO₂ paste, acts as the cathode current collector and is fitted with a brass cap that forms the positive terminal. The top is closed with sealing wax or pitch so that the paste does not dry out.\nWorking: When the cell is connected to an external circuit, zinc is oxidised at the anode and gives up electrons: Zn(s) → Zn²⁺(aq) + 2e⁻. The electrons pass through the external circuit to the carbon rod, where manganese dioxide is reduced at the cathode: 2MnO₂(s) + 2H₂O(l) + 2e⁻ → 2MnO(OH)(s) + 2OH⁻(aq), or, in terms of the ammonium ion, 2MnO₂ + 2NH₄⁺ + 2e⁻ → Mn₂O₃ + 2NH₃ + H₂O. The MnO₂ therefore acts as a depolariser, removing the hydrogen that would otherwise collect on the carbon rod and polarise the cell. The ammonia produced combines with Zn²⁺ to form the complex ion [Zn(NH₃)₄]²⁺ (or zinc chloride), which prevents a build-up of ammonia. The overall reaction is Zn + 2MnO₂ + 2NH₄Cl → ZnCl₂ + Mn₂O₃ + 2NH₃ + H₂O (equivalently Zn + 2MnO₂ + H₂O → ZnO + 2MnO(OH)), and the emf of a fresh cell is about 1.5 V. The cell is primary because these reactions are not reversible; as it is used the zinc container is gradually consumed, and eventually it becomes thin and the electrolyte leaks out, which is why a dead dry cell must be discarded.",
+    "explanation": "Two separate tasks are set. The comparison should be given as at least four clear points — reversibility, rechargeability, regeneration of reactants, examples and cost/life — and not merely as two definitions. The diagram must be labelled (zinc can as anode, carbon rod, MnO₂ paste, NH₄Cl/ZnCl₂ paste, brass cap, seal) and the working must include the anode and cathode reactions, the role of MnO₂ as depolariser, the overall reaction and the emf of about 1.5 V, together with the reason why the cell is not rechargeable.",
+    "pdfPage": 265,
+    "bookPage": 259
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Balance the following equations by ion electron method.\n(i) Cr₂O₇²⁻ + I₂ → Cr³⁺ + IO₃⁻ (acidic medium)\n(ii) MnO₄⁻ + SO₃²⁻ → Mn²⁺ + SO₄²⁻ (basic medium)\n(iii) MnO₄⁻ + Cl⁻ → Mn²⁺ + Cl₂ (acidic medium)\n(iv) Cl₂ + OH⁻ → Cl⁻ + ClO₃⁻ + H₂O (basic medium)\n(v) MnO₄⁻ + C₂O₄²⁻ + H⁺ → Mn²⁺ + CO₂ + H₂O (acidic medium)\n(vi) Fe²⁺ + Cr₂O₇²⁻ + H⁺ → Fe³⁺ + Cr³⁺ + H₂O (acidic medium)",
+    "answer": "(i) Cr₂O₇²⁻ + I₂ → Cr³⁺ + IO₃⁻ (acidic medium)\nStep 1 – oxidation numbers: Cr in Cr₂O₇²⁻ is +6 and becomes +3 in Cr³⁺ (decrease, so reduction); I in I₂ is 0 and becomes +5 in IO₃⁻ (increase, so oxidation).\nStep 2 – oxidation half-reaction: I₂ → 2IO₃⁻. Balance O with 6H₂O and H with 12H⁺: I₂ + 6H₂O → 2IO₃⁻ + 12H⁺. The right side has charge +10, so add 10e⁻ on the right: I₂ + 6H₂O → 2IO₃⁻ + 12H⁺ + 10e⁻.\nStep 3 – reduction half-reaction: Cr₂O₇²⁻ → 2Cr³⁺. Add 7H₂O for oxygen and 14H⁺ for hydrogen: Cr₂O₇²⁻ + 14H⁺ → 2Cr³⁺ + 7H₂O. The left side is +12 and the right +6, so add 6e⁻ on the left: Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O.\nStep 4 – equalise electrons (LCM of 10 and 6 is 30): multiply the oxidation half by 3, 3I₂ + 18H₂O → 6IO₃⁻ + 36H⁺ + 30e⁻, and the reduction half by 5, 5Cr₂O₇²⁻ + 70H⁺ + 30e⁻ → 10Cr³⁺ + 35H₂O.\nStep 5 – add and cancel: 70 − 36 = 34H⁺ remain on the left and 35 − 18 = 17H₂O on the right.\nBalanced equation: 5Cr₂O₇²⁻ + 3I₂ + 34H⁺ → 10Cr³⁺ + 6IO₃⁻ + 17H₂O.\nCheck: charge left = 5(−2) + 34 = +24, right = 10(+3) + 6(−1) = +24; Cr 10 = 10, I 6 = 6, O 35 = 18 + 17, H 34 = 34.\n\n(ii) MnO₄⁻ + SO₃²⁻ → Mn²⁺ + SO₄²⁻ (basic medium)\nStep 1 – oxidation numbers: Mn in MnO₄⁻ is +7 and becomes +2 (reduction, 5e⁻ per Mn); S in SO₃²⁻ is +4 and becomes +6 in SO₄²⁻ (oxidation, 2e⁻ per S).\nStep 2 – oxidation half-reaction: SO₃²⁻ + H₂O → SO₄²⁻ + 2H⁺ + 2e⁻. Converting to basic medium by adding 2OH⁻ to both sides and cancelling water gives SO₃²⁻ + 2OH⁻ → SO₄²⁻ + H₂O + 2e⁻ (charge −4 on each side).\nStep 3 – reduction half-reaction: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O. Adding 8OH⁻ to both sides and cancelling gives MnO₄⁻ + 4H₂O + 5e⁻ → Mn²⁺ + 8OH⁻ (charge −7 on each side).\nStep 4 – equalise electrons (LCM 10): oxidation × 5 gives 5SO₃²⁻ + 10OH⁻ → 5SO₄²⁻ + 5H₂O + 10e⁻; reduction × 2 gives 2MnO₄⁻ + 8H₂O + 10e⁻ → 2Mn²⁺ + 16OH⁻.\nStep 5 – add and cancel: 16 − 10 = 6OH⁻ on the right and 8 − 5 = 3H₂O on the left.\nBalanced equation: 2MnO₄⁻ + 5SO₃²⁻ + 3H₂O → 2Mn²⁺ + 5SO₄²⁻ + 6OH⁻.\nCheck: charge left = −2 − 10 = −12, right = +4 − 10 − 6 = −12; Mn 2 = 2, S 5 = 5, O 26 = 20 + 6, H 6 = 6.\n\n(iii) MnO₄⁻ + Cl⁻ → Mn²⁺ + Cl₂ (acidic medium)\nStep 1 – oxidation numbers: Mn +7 → +2 (reduction, 5e⁻); Cl −1 → 0 (oxidation, 1e⁻ per Cl).\nStep 2 – oxidation half-reaction: 2Cl⁻ → Cl₂ + 2e⁻.\nStep 3 – reduction half-reaction: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O.\nStep 4 – equalise electrons (LCM 10): oxidation × 5 gives 10Cl⁻ → 5Cl₂ + 10e⁻; reduction × 2 gives 2MnO₄⁻ + 16H⁺ + 10e⁻ → 2Mn²⁺ + 8H₂O.\nStep 5 – add and cancel the electrons.\nBalanced equation: 2MnO₄⁻ + 10Cl⁻ + 16H⁺ → 2Mn²⁺ + 5Cl₂ + 8H₂O.\nCheck: charge left = −2 − 10 + 16 = +4, right = 2(+2) = +4; Mn 2 = 2, Cl 10 = 10, O 8 = 8, H 16 = 16.\n\n(iv) Cl₂ + OH⁻ → Cl⁻ + ClO₃⁻ + H₂O (basic medium)\nStep 1 – oxidation numbers: chlorine is 0 in Cl₂ and is both reduced to −1 in Cl⁻ and oxidised to +5 in ClO₃⁻; this is a disproportionation.\nStep 2 – reduction half-reaction: Cl₂ + 2e⁻ → 2Cl⁻.\nStep 3 – oxidation half-reaction: Cl₂ + 6H₂O → 2ClO₃⁻ + 12H⁺ + 10e⁻. Adding 12OH⁻ to both sides and cancelling water gives Cl₂ + 12OH⁻ → 2ClO₃⁻ + 6H₂O + 10e⁻ (charge −12 on each side).\nStep 4 – equalise electrons (LCM 10): reduction × 5 gives 5Cl₂ + 10e⁻ → 10Cl⁻; the oxidation half is used as it is.\nStep 5 – add and simplify: 6Cl₂ + 12OH⁻ → 10Cl⁻ + 2ClO₃⁻ + 6H₂O, and dividing throughout by 2.\nBalanced equation: 3Cl₂ + 6OH⁻ → 5Cl⁻ + ClO₃⁻ + 3H₂O.\nCheck: charge left = −6, right = −5 − 1 = −6; Cl 6 = 5 + 1, O 6 = 3 + 3, H 6 = 6.\n\n(v) MnO₄⁻ + C₂O₄²⁻ + H⁺ → Mn²⁺ + CO₂ + H₂O (acidic medium)\nStep 1 – oxidation numbers: Mn +7 → +2 (reduction, 5e⁻); C in C₂O₄²⁻ is +3 and becomes +4 in CO₂ (oxidation, 2e⁻ per oxalate ion).\nStep 2 – oxidation half-reaction: C₂O₄²⁻ → 2CO₂ + 2e⁻ (C and charge already balance).\nStep 3 – reduction half-reaction: MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O.\nStep 4 – equalise electrons (LCM 10): oxidation × 5 gives 5C₂O₄²⁻ → 10CO₂ + 10e⁻; reduction × 2 gives 2MnO₄⁻ + 16H⁺ + 10e⁻ → 2Mn²⁺ + 8H₂O.\nStep 5 – add and cancel the electrons.\nBalanced equation: 2MnO₄⁻ + 5C₂O₄²⁻ + 16H⁺ → 2Mn²⁺ + 10CO₂ + 8H₂O.\nCheck: charge left = −2 − 10 + 16 = +4, right = 2(+2) = +4; Mn 2 = 2, C 10 = 10, O 28 = 20 + 8, H 16 = 16.\n\n(vi) Fe²⁺ + Cr₂O₇²⁻ + H⁺ → Fe³⁺ + Cr³⁺ + H₂O (acidic medium)\nStep 1 – oxidation numbers: iron changes from +2 in Fe²⁺ to +3 in Fe³⁺ (oxidation, 1e⁻ per Fe²⁺); chromium changes from +6 in Cr₂O₇²⁻ to +3 in Cr³⁺ (reduction, 3e⁻ per Cr, so 6e⁻ per Cr₂O₇²⁻).\nStep 2 – oxidation half-reaction: Fe²⁺ → Fe³⁺ + e⁻.\nStep 3 – reduction half-reaction: Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O (oxygen balanced with 7H₂O, hydrogen with 14H⁺, charge: +12 − 6 = +6 on the left, +6 on the right).\nStep 4 – equalise electrons: multiply the oxidation half by 6, 6Fe²⁺ → 6Fe³⁺ + 6e⁻.\nStep 5 – add and cancel the electrons.\nBalanced equation: Cr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O.\nCheck: charge left = −2 + 12 + 14 = +24, right = 2(+3) + 6(+3) = +24; Cr 2 = 2, Fe 6 = 6, O 7 = 7, H 14 = 14.",
+    "explanation": "Each equation must be balanced by the ion-electron (half-reaction) method, so both half-reactions, the number of electrons transferred and the final balanced equation have to be shown; writing only the answer scores few marks. The working sequence is: assign oxidation numbers, split into oxidation and reduction half-reactions, balance atoms other than H and O, balance O with H₂O, balance H with H⁺, balance charge with electrons, multiply the halves so that the electrons cancel, then add and cancel H⁺ and H₂O. In basic medium the H⁺ produced in a half-reaction is removed by adding an equal number of OH⁻ ions to both sides and cancelling water. Every final equation should be checked for both atoms and charge; for example in (i) the charge is +24 on each side, and in (iv) the disproportionation of chlorine gives 3Cl₂ + 6OH⁻ → 5Cl⁻ + ClO₃⁻ + 3H₂O with a charge of −6 on each side.",
+    "pdfPage": 265,
+    "bookPage": 259
+  }
+]

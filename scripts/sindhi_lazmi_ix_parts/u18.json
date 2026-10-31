@@ -1,0 +1,191 @@
+[
+  {"id":"u18_A_q1","unit":18,"letter":"الف","type":"sq","number":1,
+   "question":"راجڪماريءَ کي فقير ڇا چيو؟",
+   "answer":"فقير راجڪماريءَ کي چيو ته ”پٽڙو سو ملندئي، پر اهو پاڻهين جي سسي ڌڙ کان ڌار ڪندو“ يعني کيس پٽ ضرور ملندو، پر اهو پٽ سندس ڌيءَ (سسي) جو مٿو ڌڙ کان ڌار ڪندو.",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_A_q2","unit":18,"letter":"الف","type":"sq","number":2,
+   "question":"راجڪماريءَ جنهن صندوق ۾ وجهي ٻار کي لوڙهيو هو، اها صندوق ڪنهن کي هٿ آئي؟",
+   "answer":"اها صندوق رتنو ڪنڀار کي هٿ آئي. هو پاڻ به اولاد لاءِ سڪايل هو، سو ملوڪ ٻار ڏسي ڏاڍو خوش ٿيو ۽ کيس پنهنجي گهر کڻي آيو.",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_A_q3","unit":18,"letter":"الف","type":"sq","number":3,
+   "question":"انيراءِ جهونا ڳڙهہ تي ڇو ڪاهي آيو؟",
+   "answer":"انيراءِ کي جڏهن خبر پئي ته راءِ ڏياج پنهنجي ئي ملڪ جي هڪ اپسرا سورٺ سان وهانءُ ڪيو آهي، تڏهن هو وڏو لشڪر سنڀرائي جهونا ڳڙهہ تي ڪاهي آيو ۽ ٻارنهن مهينا ان جو گهيرو ڪيو.",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_A_q4","unit":18,"letter":"الف","type":"sq","number":4,
+   "question":"راءِ ڏياج جو روح ڇا تي ريجهي پيو؟",
+   "answer":"راءِ ڏياج جو روح ٻيجل جي چنگ (سرندي) جي ساز ۽ سندس سوز ڀرين سرن تي ريجهي پيو.",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_A_q5","unit":18,"letter":"الف","type":"sq","number":5,
+   "question":"ٻيجل، راءِ ڏياج کان ڪهڙي گهر ڪئي؟",
+   "answer":"ٻيجل چيو ته ”مال متاع جي مون وٽ ڪا به ڪمي ڪانهي، تنهنجي سر جو گهورو آهيان، اهو ملي ته هن مڱتي (مڱڻي) کي ڪو مانُ ملي.“ يعني هن پنهنجي سر جي بدلي مڱتيءَ کي عزت ۽ مانُ ڏيارڻ جي گهر ڪئي.",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_A_q6","unit":18,"letter":"الف","type":"sq","number":6,
+   "question":"ٻيجل، راءِ ڏياج جو سر کڻي جڏهن انيراءِ وٽ پهتو، تڏهن هن ڇا چيس؟",
+   "answer":"انيراءِ پريان ئي هڪل ڪئي: ”هيڏي وڏي سي سردار جو سر لڳو آيو آهين، سو اسان جو وري ڪهڙو سڄڻ ٿيندين! هاڻي ڏيهہ نيڪالي اٿئي، جيڏانهن جو آهين تيڏانهن هليو وڃ!“",
+   "explanation":"","image":94,"figure":"مشق (الف) ـ سوال 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q1","unit":18,"letter":"ب","type":"sq","number":1,
+   "question":"لفظ: لڱا — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: ڀيرا، دفعا، وارا (لڱ = ڀيرو، دفعو). جملو: هڪ لڱا ڪنهن فقير راجڪماريءَ لاءِ دعا ڪئي.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q2","unit":18,"letter":"ب","type":"sq","number":2,
+   "question":"لفظ: ملوڪ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: سهڻو، خوبصورت، دلڪش. جملو: صندوق ۾ هڪ ملوڪ ٻار پيو هو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q3","unit":18,"letter":"ب","type":"sq","number":3,
+   "question":"لفظ: پرولي — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: ڳجهارت، معما، ڳوڙهي ڳالهه. جملو: ٻيجل اهي آنڊا ڏسي اها پرولي سلي ورتي.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q4","unit":18,"letter":"ب","type":"sq","number":4,
+   "question":"لفظ: سَرهو — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: خوش، شادمان، پرجوش. جملو: ملوڪ ٻار ڏسي رتنو ڏاڍو سرهو ٿيو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q5","unit":18,"letter":"ب","type":"sq","number":5,
+   "question":"لفظ: سمي — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: وقت، زمانو، دور. جملو: ڪنهن سمي راءِ ڏياج نالي هڪ راجا جهونا ڳڙهہ تي راڄ ڪندو هو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q6","unit":18,"letter":"ب","type":"sq","number":6,
+   "question":"لفظ: چوچ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: چاهه، سک، پيار (هتي ”چوچ سان پالڻ“ = پيار ۽ مامتا سان پالڻ). جملو: رتنو ٻار کي پنهنجي گهر آڻي چوچ سان پاليائينس.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q7","unit":18,"letter":"ب","type":"sq","number":7,
+   "question":"لفظ: سُڌ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: خبر، ڄاڻ، اطلاع. جملو: سورٺ جي سونهن جي سڌ هنڌين ماڳين پکڙجي وئي.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 7","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q8","unit":18,"letter":"ب","type":"sq","number":8,
+   "question":"لفظ: اپسرا — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: حسينہ، پريءَ جهڙي سهڻي عورت، زال. جملو: راءِ ڏياج پنهنجي ملڪ جي هڪ اپسرا سورٺ سان وهانءُ ڪيو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 8","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q9","unit":18,"letter":"ب","type":"sq","number":9,
+   "question":"لفظ: وهانءُ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: شادي، نڪاح، گهر ڪرڻ. جملو: راءِ ڏياج سورٺ سان وهانءُ ڪيو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 9","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q10","unit":18,"letter":"ب","type":"sq","number":10,
+   "question":"لفظ: پڄرڻ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: سڙڻ، ٻرڻ، ساڙ کائڻ، اندر ۾ ڪاوڙ ۽ حسد سان جلڻ. جملو: انيراءِ وير وٺڻ جي باهه تي ويتر پڄرڻ لڳو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 10","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q11","unit":18,"letter":"ب","type":"sq","number":11,
+   "question":"لفظ: منشا — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: مرضي، خواهش، ارادو. جملو: ٻيجل جي زال چيو ته ”منهنجو مڙس راجا جي منشا پوري ڪندو.“",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 11","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q12","unit":18,"letter":"ب","type":"sq","number":12,
+   "question":"لفظ: وچن — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: واعدو، قول، انجام. جملو: ٻيجل جي زال راجا کي وچن ڏئي چڪي هئي.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 12","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q13","unit":18,"letter":"ب","type":"sq","number":13,
+   "question":"لفظ: رنگ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: رنگ، روپ، رونق؛ هتي ”رنگ رتول“ = سينگاريل ۽ رونق واري جاءِ (رنگ محل). جملو: ٻيجل کي رنگ رتول ۾ آندو ويو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 13","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q14","unit":18,"letter":"ب","type":"sq","number":14,
+   "question":"لفظ: رتول — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: سينگاريل ڪمرو، رنگيل محل، رونق واري جاءِ. جملو: رنگ رتول جي دري کولي راجا ٻاهر نهاريو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 14","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q15","unit":18,"letter":"ب","type":"sq","number":15,
+   "question":"لفظ: وويڪ — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: ويڪ = عيب، گهٽتائي؛ سبق جي حوالي سان ”دل تي وڍ ۽ ڏک“. جملو: ٻيجل کي پنهنجي ملڪ مان نيڪالي ملي ۽ سندس دل تي وويڪ جا وڍ پوڻ لڳا.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 15","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_B_q16","unit":18,"letter":"ب","type":"sq","number":16,
+   "question":"لفظ: ڀسر — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+   "answer":"معنيٰ: راک، خاڪ؛ ”سڙي ڀسر ٿي وڃڻ“ = مڪمل سڙي راک ٿي وڃڻ. جملو: ٻيجل باہ جي آڙاهه ۾ ڪاهي پيو ۽ سڙي ڀسر ٿي ويو.",
+   "explanation":"","image":94,"figure":"مشق (ب) ـ لفظ 16","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q1","unit":18,"letter":"ج","type":"sq","number":1,
+   "question":"اصطلاح: پرولي سلڻ — سمجهاڻي لکو.",
+   "answer":"پرولي سلڻ: ڳجهارت حل ڪرڻ، معما سمجهڻ، ڳوڙهي ڳالهه جي پروڙ پوڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q2","unit":18,"letter":"ج","type":"sq","number":2,
+   "question":"اصطلاح: چنگ چورڻ — سمجهاڻي لکو.",
+   "answer":"چنگ چورڻ: ساز وڄائڻ، سرندي/چنگ جا تار ڇيڙڻ، راڳ ڳائڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q3","unit":18,"letter":"ج","type":"sq","number":3,
+   "question":"اصطلاح: هڙ حاصل ن ٿيڻ — سمجهاڻي لکو.",
+   "answer":"هڙ حاصل ن ٿيڻ: ڪا به حاصل ۽ ڪاميابي نه ٿيڻ، محنت ضايع ٿيڻ، هٿ ڪجهہ نه اچڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q4","unit":18,"letter":"ج","type":"sq","number":4,
+   "question":"اصطلاح: ڇهہ ڇڄڻ — سمجهاڻي لکو.",
+   "answer":"ڇهہ ڇڄڻ: همت ۽ حوصلو ڇڏي وڃڻ، دل ٽٽي پوڻ، بيوس ٿي وڃڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q5","unit":18,"letter":"ج","type":"sq","number":5,
+   "question":"اصطلاح: تند تنوارڻ — سمجهاڻي لکو.",
+   "answer":"تند تنوارڻ: ساز جي تندن کي وڄائڻ، سر ڇيڙڻ، راڳ جو آواز پيدا ڪرڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_C_q6","unit":18,"letter":"ج","type":"sq","number":6,
+   "question":"اصطلاح: ماڻڪن مينهن وسڻ — سمجهاڻي لکو.",
+   "answer":"ماڻڪن مينهن وسڻ: ماڻڪن/هيرن جي برسات وانگر لڳاتار نوازڻ، گهڻي دولت ۽ نعمتن جو وسڻ.",
+   "explanation":"","image":94,"figure":"مشق (ج) ـ اصطلاح 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q1","unit":18,"letter":"د","type":"sq","number":1,
+   "question":"لفظن جا ضد لکو: راجا",
+   "answer":"راجا × رعيت",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q2","unit":18,"letter":"د","type":"sq","number":2,
+   "question":"لفظن جا ضد لکو: ڏيهہ",
+   "answer":"ڏيهہ × پرڏيهہ",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q3","unit":18,"letter":"د","type":"sq","number":3,
+   "question":"لفظن جا ضد لکو: سَرهو",
+   "answer":"سَرهو × ڏکيو (غمگين)",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q4","unit":18,"letter":"د","type":"sq","number":4,
+   "question":"لفظن جا ضد لکو: مانُ",
+   "answer":"مانُ × بي مانُ (بي عزتي)",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q5","unit":18,"letter":"د","type":"sq","number":5,
+   "question":"لفظن جا ضد لکو: پاٺي",
+   "answer":"پاٺي × اُستاد",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_D_q6","unit":18,"letter":"د","type":"sq","number":6,
+   "question":"لفظن جا ضد لکو: سڄڻ",
+   "answer":"سڄڻ × دشمن (وري)",
+   "explanation":"","image":94,"figure":"مشق (د) ـ ضد 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_E_q1","unit":18,"letter":"هـ","type":"sq","number":1,
+   "question":"هن سبق مان مرڪب لفظ چونڊي لکو: جيئن ”مال متاع“.",
+   "answer":"سبق مان مرڪب لفظ: مال متاع، دهل دماما، گڏھ گهوڙا، جڻ ٻچو، سونهن سُرهاڻ، ماءُ پيءُ، ڳالهه ڪهاڻي.",
+   "explanation":"مرڪب لفظ ٻن يا ٻن کان وڌيڪ لفظن جو اهڙو جوڙ هوندا آهن، جن سان هڪ ئي مطلب ادا ٿيندو آهي.","image":94,"figure":"مشق (هـ) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_F_q1","unit":18,"letter":"و","type":"sq","number":1,
+   "question":"هر ٻوليءَ ۾ اهڙا ساڳيا لفظ هوندا آهن، جن جون استعمال جي لحاظ کان مختلف معنائون بيھنديون آهن، جيئن: آرسي = سسٽ-ڪاهل ۽ درسني-آئينو، ڦُٽي = مکڻ جو ذرو ۽ وڻئي يا ڪپھ جو ٻوٽو. اوهين کي به اهڙا ٻٽي معنيٰ وارا لفظ لکي ڏيکاريو.",
+   "answer":"ٻٽي معنيٰ وارا لفظ:\n(1) دل = اندر جو عضوو؛ ۽ دل = همت، حوصلو.\n(2) سر = مٿو؛ ۽ سر = ساز جو آواز/راڳ.\n(3) ڪار = ڪم؛ ۽ ڪار = گاڏي.\n(4) سوٽ = مائٽ/ڀاءُ؛ ۽ سوٽ = ڪپڙن جو جوڙ.\n(5) چال = هلڻ جو انداز؛ ۽ چال = روايت/رواج.\n(6) پن = وڻ جو پنو؛ ۽ پن = پاڻي.",
+   "explanation":"","image":94,"figure":"مشق (و) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_G_q1","unit":18,"letter":"ز","type":"sq","number":1,
+   "question":"”ظرف“ اهو لفظ آهي، جو فعل يا صفت يا ٻئي ظرف سان ٿو لڳي ۽ وقت، هنڌ، دستور، انداز يا انڪار ڏيکاري. جڏهن وقت ڏيکاري تڏهن ”ظرف زمان“ ۽ جڏهن هنڌ ڏيکاري تڏهن ”ظرف مڪان“ چئبو آهي. توهين ”ظرف زمان“ ۽ ”ظرف مڪان“ جا ڄاڻايل لفظ پنهنجن جملن ۾ ڪتب آڻي ڏيکاريو.",
+   "answer":"ظرف زمان جا جملو:\n(1) اڄ اسڪول ۾ موڪل آهي.\n(2) سڀاڻي اسان جي جماعت ۾ ميزاب جو امتحان ٿيندو.\n(3) هو هميشہ سچ ٿو ڳالهائي.\nظرف مڪان جا جملو:\n(4) ڪتاب ميز جي مٿي رکيل آهي.\n(5) ٻار باغ ۾ هيٺ ويهي رهيا.\n(6) اسان جي گهر جي اڳيان هڪ وڏو وڻ آهي.",
+   "explanation":"اڄ، سڀاڻي، هاڻي، پوءِ، هميشہ = ظرف زمان؛ هتي، هُتي، مٿي، هيٺ، اڳيان، پٺيان = ظرف مڪان.","image":95,"figure":"مشق (ز) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+  {"id":"u18_S_q1","unit":18,"letter":"سرگرمي","type":"sq","number":1,
+   "question":"سرگرمي: شاگرد اخبار جو مطالعو ڪن ۽ ڪنهن ڪالم تي پنهنجي راءِ لکن.",
+   "answer":"نمونو: مون اخبار ”سنڌي اخبار“ ۾ ”تعليم ۽ اسان جو سماج“ عنوان هيٺ ڇپيل هڪ ڪالم پڙهيو. ڪالم ۾ لکيل هو ته اڄ جي دور ۾ شاگردن جي تعليم ۾ اخلاقيات جي کوٽ هڪ وڏو مسئلو آهي ۽ استاد ۽ مائٽ ڏاڍيءَ ذميواريءَ سان ٻارن جي تربيت ڪن.\nمنهنجي راءِ: مون کي ڪالم جو خيال پسند آيو. صحيح آهي ته رڳو ڪتابي علم ڪافي ناهي؛ ٻارن کي سچائي، محنت، ايماندار ۽ احترام جهڙا اخلاق به سيکارڻ گهرجن. استاد ۽ مائٽن کي پاڻ مثال بڻجي ٻارن جي تربيت ڪرڻ گهرجي. ان سان ئي هڪ چڱو ۽ صحتمند سماج ٺهي سگهي ٿو.",
+   "explanation":"","image":95,"figure":"سرگرمي 1","options":null,"optionsRaw":null,"correctAnswer":null}
+]

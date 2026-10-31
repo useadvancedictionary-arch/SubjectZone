@@ -1,0 +1,402 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Work done by centripetal force is always:",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "None of these"
+    ],
+    "correct": "c",
+    "answer": "(c) Zero",
+    "explanation": "Centripetal force always acts along the radius, i.e. perpendicular to the instantaneous velocity, so the angle θ between force and displacement is 90°. Hence W = Fd cos 90° = 0, whatever the magnitude of the force or of the speed. The force changes only the direction of motion, never the speed, so no energy is transferred. It is therefore neither maximum nor minimum but always zero.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "A body of mass 5 kg is moving with a momentum of 10 kg m/s . A force of 0.2 N acts on it in the direction of motion of the body for 10 seconds. The increase in kinetic energy is:",
+    "options": [
+      "2.8 J",
+      "3.2 J",
+      "3.8 J",
+      "4.4 J"
+    ],
+    "correct": "d",
+    "answer": "(d) 4.4 J",
+    "explanation": "Initial speed u = p/m = 10/5 = 2 m/s and a = F/m = 0.2/5 = 0.04 m/s², so after 10 s v = 2 + 0.04 × 10 = 2.4 m/s. Then ΔK = ½m(v² − u²) = 2.5 × (5.76 − 4) = 4.4 J. Equivalently the impulse adds 2 kg m/s to the momentum (10 → 12 kg m/s), and K = p²/2m gives 10 J → 14.4 J, again +4.4 J. The distractors come from using the momentum change or the acceleration alone.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "The kinetic energy of a light and a heavy object is same. Which object has maximum momentum?",
+    "options": [
+      "Light object",
+      "Heavy object",
+      "Both have same momentum",
+      "N.O.T"
+    ],
+    "correct": "b",
+    "answer": "(b) Heavy object",
+    "explanation": "Since K = p²/2m, we have p = √(2mK); for the same kinetic energy the momentum is proportional to √m. The heavier object therefore has the greater momentum, although it moves more slowly. The lighter object must move much faster for the same K, but its momentum is still smaller, so (a), (c) and (d) are wrong.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Two bodies of mass 1 kg and 2 kg have equal momentum. Then the ratio of their kinetic energies is:",
+    "options": [
+      "2 :1",
+      "3:1",
+      "1 :3",
+      "1:1"
+    ],
+    "correct": "a",
+    "answer": "(a) 2 :1",
+    "explanation": "For equal momentum, K = p²/2m shows that kinetic energy is inversely proportional to mass. Hence K₁/K₂ = m₂/m₁ = 2/1, i.e. the 1 kg body has twice the kinetic energy of the 2 kg body. Options (b), (c) and (d) ignore this inverse dependence on mass.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "A body fallen from height h . After it has fallen a height h/2 , its will possess :",
+    "options": [
+      "only potential energy",
+      "only kinetic energy",
+      "half potential half kinetic energy",
+      "more kinetic and less potential"
+    ],
+    "correct": "c",
+    "answer": "(c) half potential half kinetic energy",
+    "explanation": "Initially all the energy is potential, mgh. After falling h/2 the body is at height h/2 above the ground, so U = mg(h/2) = mgh/2, and by conservation of energy K = mgh − mgh/2 = mgh/2. Thus PE and KE are equal at that instant, so none of the other descriptions fits.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Which of the following quantity can be calculated by multiplying force and velocity ?",
+    "options": [
+      "acceleration",
+      "power",
+      "torque",
+      "work"
+    ],
+    "correct": "b",
+    "answer": "(b) power",
+    "explanation": "Power is the rate of doing work, P = W/t = Fd/t = Fv, when force and velocity are along the same direction (in general P = F·v = Fv cos θ), and it is measured in watts. Force multiplied by displacement gives work, force multiplied by perpendicular distance gives torque, and force divided by mass gives acceleration, so the other options are wrong.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The minimum velocity given to an object so that it emerges out from the gravitational field of earth is about _________ :",
+    "options": [
+      "11.2 km/s",
+      "15.3 km/s",
+      "5 km/s",
+      "9.8 km/s"
+    ],
+    "correct": "a",
+    "answer": "(a) 11.2 km/s",
+    "explanation": "This is the escape velocity, v_e = √(2gR) = √(2 × 9.8 × 6.4 × 10⁶) ≈ 1.12 × 10⁴ m/s = 11.2 km/s. A speed of 5 km/s is far below this value, so the object would rise and fall back; 9.8 km/s merely repeats the numerical value of g in m/s²; 15.3 km/s is much larger than needed.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "When one joule of work is done on a body in one second, power of body is said to be :",
+    "options": [
+      "One watt",
+      "0.5 watt",
+      "zero",
+      "100 watt"
+    ],
+    "correct": "a",
+    "answer": "(a) One watt",
+    "explanation": "Power = work done / time taken = 1 J / 1 s = 1 W; the watt is defined exactly as one joule per second. The other options would require 0.5 J, 0 J and 100 J of work per second respectively, so they are inconsistent with the data.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The absolute potential energy of an object depends on:",
+    "options": [
+      "The object's mass and height",
+      "The object's mass and speed",
+      "The object's shape and size",
+      "The object's color and temperature"
+    ],
+    "correct": "a",
+    "answer": "(a) The object's mass and height",
+    "explanation": "Near the earth U = mgh, and in general U = −GMm/r, so gravitational potential energy depends on the mass of the object and on its position (height) relative to the reference level. Speed determines kinetic energy, not potential energy, and shape, size, colour and temperature play no part in gravitational PE.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The escape velocity of a planet depends on which of the following factors?",
+    "options": [
+      "The mass of the planet only",
+      "The radius of the planet only",
+      "Both the mass and the radius of the planet",
+      "The density of the planet"
+    ],
+    "correct": "c",
+    "answer": "(c) Both the mass and the radius of the planet",
+    "explanation": "The escape velocity is v_e = √(2GM/R), so it depends on both the mass M and the radius R of the planet; neither one alone fixes it (a massive but very large planet can have a small escape speed). Density by itself is also insufficient, because the same density with a different radius gives a different v_e. Hence only (c) is complete.",
+    "pdfPage": 124,
+    "bookPage": 120
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "How does work relate to the transfer of energy?",
+    "answer": "Work is the process by which energy is transferred from one body to another by a force acting through a displacement, W = F d cos θ. When positive work W is done on a body, its energy increases by exactly W; this is the work–energy theorem, W_net = ΔK. When the body does work on something else, its energy decreases by the same amount. Work is therefore energy in transit, not energy stored in a body, and its unit (joule) is the same as that of energy. For example, pushing a trolley transfers energy from the pusher to the trolley, while friction transfers part of it to the surroundings as heat. If the force is perpendicular to the displacement, no energy is transferred and W = 0.",
+    "explanation": "Stress that work is a process of energy transfer, not a stored quantity; the work–energy theorem gives the exact bookkeeping W_net = ΔK.",
+    "pdfPage": 124,
+    "bookPage": 120,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "How is power related to work and time?",
+    "answer": "Power is the rate at which work is done, i.e. the rate at which energy is transferred: P_av = W/t, and instantaneous power P = dW/dt = F·v. For the same amount of work, a shorter time means a larger power, so power measures how quickly, not how much, energy is transferred. The SI unit is the watt, 1 W = 1 J s⁻¹, and the kilowatt (10³ W) and megawatt (10⁶ W) are common multiples. For example, a 100 W lamp converts 100 J of electrical energy every second, and a 1 kW motor does 1000 J of work each second.",
+    "explanation": "Key relation P = W/t; a common mistake is to think a more powerful machine does more work — it only does the same work faster.",
+    "pdfPage": 124,
+    "bookPage": 120,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What is the difference between average power and instantaneous power?",
+    "answer": "Average power is the total work done divided by the total time taken, P_av = ΔW/Δt, and it gives no information about how the power varied during that interval. Instantaneous power is the power at one particular instant, P = lim(Δt→0) ΔW/Δt = dW/dt = F·v; it equals the slope of the work–time graph at that instant. For example, a crane that lifts a load slowly and then quickly has a small instantaneous power most of the time but a moderate average power for the whole lift. Average power is quoted for complete jobs (a car's power over a journey), instantaneous power for engines whose output changes from moment to moment.",
+    "explanation": "Average power uses the whole interval; instantaneous power is the limit Δt → 0 and equals F·v at that instant.",
+    "pdfPage": 124,
+    "bookPage": 120,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "How does gravitational potential energy change with height and mass?",
+    "answer": "For heights small compared with the earth's radius, gravitational potential energy is U = mgh, where h is the height above the chosen reference level and g is practically constant. U is directly proportional to the mass m and to the height h, so doubling either the mass or the height doubles the potential energy. For example, a 2 kg body raised 5 m has U = 2 × 9.8 × 5 = 98 J, while a 4 kg body at the same height has 196 J. At very large heights g is not constant and one must use U = −GMm/r, which becomes less negative, i.e. increases, as the height and hence r increases.",
+    "explanation": "U = mgh is linear in both m and h only near the earth's surface; for large heights the exact −GMm/r form must be used.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "What is the law of conservation of energy?",
+    "answer": "The law of conservation of energy states that energy can neither be created nor destroyed; it can only be changed from one form into another, so the total energy of an isolated system remains constant. In mechanics, if only conservative forces act, K + U = constant, that is ½mv² + mgh = constant, so any loss of potential energy appears as an equal gain of kinetic energy and vice versa. When friction or air resistance acts, the mechanical energy lost reappears as heat and sound, so the total energy is still conserved. A swinging pendulum and a stone falling freely are simple illustrations of the law.",
+    "explanation": "Total energy of an isolated system is constant; mechanical energy alone is conserved only when non-conservative forces do no work.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "How does energy efficiency play a role in various energy transformations?",
+    "answer": "Energy efficiency compares the useful energy obtained from a device with the total energy supplied to it: η = (useful energy output / total energy input) × 100%. In every real transformation some energy is dissipated by friction, air resistance, electrical resistance or sound, so the efficiency is always less than 100%. A filament lamp converts only about 5% of the electrical energy into light, the rest becoming heat; a petrol engine is typically 25–40% efficient. Efficiency therefore decides running cost and fuel consumption — a 40% efficient engine wastes 60% of the fuel energy. Better design and lubrication raise η and conserve energy resources.",
+    "explanation": "η = useful output / total input × 100%; no real device reaches 100% because some energy is always degraded to heat.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "What is the work-energy theorem and how is it expressed mathematically?",
+    "answer": "The work–energy theorem states that the net work done on a body equals the change in its kinetic energy: W_net = ΔK = ½mv_f² − ½mv_i². For a constant net force acting along the displacement, W = Fs = (ma)s, and since v_f² = v_i² + 2as we have as = (v_f² − v_i²)/2, giving W = ½m(v_f² − v_i²). For a variable force the same result follows on integrating, W = ∫F dx. The theorem holds for any combination of forces; work done by friction appears as a decrease of K, while work done by a driving force increases it.",
+    "explanation": "W_net = ΔK; remember that only the NET work (work of all forces) changes the kinetic energy.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "How is the work done by a variable force calculated?",
+    "answer": "When the force is not constant the work is not simply F × d. The displacement is divided into small elements Δx over which the force is practically constant, the work for each element being F Δx, and the total work is the limit of the sum: W = ∫F(x) dx between the initial and final positions. Graphically, this integral is the area under the force–displacement graph, counted positive above the axis and negative below it. For a spring obeying Hooke's law F = kx, the graph is a straight line and the area is a triangle, so W = ½kx². This method is used for springs, stretched wires, and any force that changes with position.",
+    "explanation": "W = ∫F dx = area under the F–x graph; a frequent error is to use the average force multiplied by distance without justification.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "How the work done in gravitational field is independent of path",
+    "answer": "Consider a body of mass m moved slowly from a point A at height h₁ to a point B at height h₂ (h₂ > h₁) above a reference level in the earth's field, where g is constant.\n\nPath 1 — vertical: the applied force must just balance the weight, F = mg upward, and the displacement is h₂ − h₁ upward, so W₁ = mg(h₂ − h₁).\n\nPath 2 — along a smooth incline of length L making an angle θ with the horizontal: the force needed along the plane is mg sin θ and h₂ − h₁ = L sin θ, so W₂ = (mg sin θ)L = mg(h₂ − h₁) = W₁.\n\nPath 3 — an arbitrary zig-zag curve: divide the path into elements ds making an angle α with the vertical. The work of the applied force on one element is mg ds cos α, but ds cos α = dy, the vertical rise of that element. Hence W₃ = ∫mg dy from h₁ to h₂ = mg(h₂ − h₁). All horizontal portions contribute nothing, because the force is perpendicular to them.\n\nThus the work depends only on the initial and final heights, not on the route, its length or its shape. This is the defining property of a conservative force. As a consequence the work done in carrying the body round any closed path back to A is zero, and a potential energy function U = mgh can be defined with W = −ΔU. For the exact inverse-square field the same reasoning gives U = −GMm/r.",
+    "explanation": "The key step is ds cos α = dy for every element; only the vertical rise matters, which is why gravity is conservative.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Calculate gravitational potential energy at a certain height due to work against gravity.",
+    "answer": "Gravitational potential energy is the energy a body possesses because of its position in the earth's gravitational field, and it is equal to the work done in raising the body from the reference level to that height at constant speed.\n\nLet a body of mass m be lifted vertically through a height h near the earth's surface, where g may be taken as constant. To move it without acceleration the applied force must just balance its weight, F = mg, upward. The displacement h is also upward, so θ = 0° and\nW = F h cos 0° = mgh.\nThis work is stored in the earth–body system as gravitational potential energy, so U = mgh, taking U = 0 at the reference level. For example, a 5 kg body raised to a shelf 4 m high has U = 5 × 9.8 × 4 = 196 J, and the same 196 J reappears as kinetic energy if the body falls back to the floor.\n\nThe result can also be obtained from the work done by gravity itself: when the body falls through h, gravity does +mgh of work, so ΔU = −W_gravity = −mgh, i.e. the potential energy falls by mgh.\n\nFor heights comparable with the earth's radius, g cannot be treated as constant. The work done in bringing the mass from infinity to a distance r from the earth's centre is W = −GMm/r, so U = −GMm/r; at a height h above the surface r = R + h and U = −GMm/(R + h). Between two heights, ΔU = GMm(1/r₁ − 1/r₂).",
+    "explanation": "U = mgh is the work done against gravity at constant speed; its negative gradient gives the gravitational force.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Describe that the gravitational PE is measured from a reference level and can be positive or negative, to denote the orientation from the reference level.",
+    "answer": "Potential energy is always measured relative to a chosen reference level (datum) at which U is taken as zero — the floor of a room, the ground, sea level, or the earth's centre. The height h in U = mgh is measured from this level, and the sign of U shows on which side of the reference the body lies: a body above the reference has positive potential energy, a body below it has negative potential energy.\n\nExample: take the ground as reference. A 2 kg ball on a table 1 m high has U = 2 × 9.8 × 1 = +19.6 J. The same ball 3 m down a well has h = −3 m, so U = 2 × 9.8 × (−3) = −58.8 J. If the table top is chosen as reference instead, the ball on the table has U = 0 and the ball on the floor has U = −19.6 J. The absolute values differ with the choice, but every change ΔU is the same, and only ΔU has physical meaning because it equals the work done.\n\nThe same convention is used for absolute potential energy, U = −GMm/r, measured from infinity where U = 0. Since r is finite, U is negative everywhere; as the body is raised, r increases and U becomes less negative, i.e. it increases towards zero. A negative value therefore does not mean 'negative energy'; it means the body is bound and lies below the zero-energy level at infinity, and the sign simply records its orientation with respect to the reference.",
+    "explanation": "Only differences of PE are physical; the sign records whether the body is above (+) or below (−) the chosen zero, or whether the bound system lies below U = 0 at infinity.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Show that the work done in gravitational field is independent of path",
+    "answer": "To show that the work done in a gravitational field is independent of path, compare two or more routes between the same two points A (height h₁) and B (height h₂).\n\nRoute 1, straight up: the applied force needed is mg upward and the displacement is (h₂ − h₁) upward, so W₁ = mg(h₂ − h₁).\n\nRoute 2, up a smooth incline of length L at angle θ to the horizontal: the force along the plane is mg sin θ and h₂ − h₁ = L sin θ, so W₂ = mg sin θ × L = mg(h₂ − h₁) = W₁.\n\nRoute 3, any curve: split it into elements ds making an angle α with the vertical. The work of the applied force on an element is mg ds cos α, and ds cos α = dy, its vertical rise. Summing, W₃ = ∫mg dy = mg(h₂ − h₁). Horizontal elements give zero work because the force is perpendicular to the displacement.\n\nSo every route gives the same W = mg(h₂ − h₁): the work depends only on the end heights. Equivalently, if the body goes A → B by one route and returns B → A by another, the total work in the closed loop is mg(h₂ − h₁) − mg(h₂ − h₁) = 0. This zero work around a closed path is the test of a conservative force, and it is what allows a potential energy function (mgh near the earth, −GMm/r in the exact field) to be defined. Friction, which gives different work for different paths and non-zero work in a closed loop, is non-conservative.",
+    "explanation": "Compare vertical, inclined and arbitrary paths; the closed-loop result W = 0 is the standard test of a conservative field.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Define work by variable force. Calculate the work done from the force-displacement graph. [Take a force-displacement graph in which the force increases uniformly from 0 to 20 N over the first 4.0 m of displacement and then remains constant at 20 N from 4.0 m to 6.0 m.]",
+    "answer": "Definition: when the force acting on a body does not remain constant during the displacement, the work cannot be found from a single product F d. The displacement is divided into very small intervals dx, so small that the force is practically constant over each. The work in one interval is dW = F(x) dx, and the total work is the limit of the sum:\nW = ∫F(x) dx, taken between the initial and final positions x₁ and x₂.\nGeometrically this integral is the area between the force–displacement curve and the displacement axis. Area above the axis is positive (force along the displacement), area below the axis is negative (force opposite to the displacement), and the net work is the algebraic sum.\n\nCalculation from the graph [F rises uniformly from 0 to 20 N over 0 to 4.0 m, then stays at 20 N from 4.0 m to 6.0 m]:\n(1) From x = 0 to 4.0 m the graph is a triangle: W₁ = ½ × base × height = ½ × 4.0 × 20 = 40 J.\n(2) From x = 4.0 m to 6.0 m the graph is a rectangle: W₂ = 20 × (6.0 − 4.0) = 40 J.\nTotal work W = W₁ + W₂ = 40 + 40 = 80 J.\n\nA simple physical example is a spring stretched by x, for which F = kx; the F–x graph is a straight line through the origin and the area is W = ½kx². For k = 200 N/m and x = 0.10 m, W = ½ × 200 × 0.01 = 1.0 J — not Fx = 2 J — which shows why the graphical (integral) method is essential for a variable force.",
+    "explanation": "Work is the area under the F–x graph; add the triangle and the rectangle, and note that area below the axis counts as negative work.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": "Force–displacement graph: F rises linearly from 0 to 20 N over 0–4.0 m, then stays constant at 20 N from 4.0 m to 6.0 m."
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A man pulls a trolley through a distance of 10 m by applying a force of 50 N which makes an angle of 60° with the horizontal. Calculate the work done by the man?",
+    "answer": "Given: F = 50 N; d = 10 m; θ = 60°.\nFormula: W = F d cos θ.\nSubstitution: W = 50 × 10 × cos 60° = 500 × 0.5.\nCalculation: W = 250 J.\nResult: W = 250 J, which agrees with the printed answer (250 J).",
+    "explanation": "Only the horizontal component F cos θ does work; cos 60° = 0.5 halves the product Fd.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A 100 kg man runs up a long flight of stairs in 9.8 second. The vertical height of the stair is 10 m. Calculate its power?",
+    "answer": "Given: m = 100 kg; h = 10 m; t = 9.8 s; g = 9.8 m/s².\nFormula: P = W/t = mgh/t.\nSubstitution: P = (100 × 9.8 × 10)/9.8.\nCalculation: P = 9800/9.8 = 1000 W.\nResult: P = 1000 W = 1 kW, which agrees with the printed answer (1000 Watts).",
+    "explanation": "The work done is only against gravity (mgh); the time happens to equal g numerically, so the power equals mh = 1000 W.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "When an object is thrown upwards. It rises to a height 'h'. How high is the object in terms of h, when it has lost one third of its original kinetic energy?",
+    "answer": "Given: the object rises to a maximum height h, so its original kinetic energy K is converted completely into potential energy at the top: K = mgh.\nCondition: at the required height y the object has lost one third of K, so its remaining KE is 2K/3 and the potential energy gained is K/3.\nFormula: mgy = K/3.\nSubstitution: mgy = (mgh)/3.\nCalculation: y = h/3.\nResult: y = h/3, which agrees with the printed answer (h/3).",
+    "explanation": "Use K = mgh at the top, so losing one third of the KE means rising one third of h; the remaining 2/3 of K is still kinetic.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "A 70 kg man runs up a hill through a height of 3 m in 2 seconds.\n(a) How much work does he do against gravitational field?\n(b) What is the average power output?",
+    "answer": "Given: m = 70 kg; h = 3 m; t = 2 s; g = 9.8 m/s².\n(a) Work against gravity:\nFormula: W = mgh.\nSubstitution: W = 70 × 9.8 × 3.\nCalculation: W = 2058 J.\nResult: W ≈ 2.06 × 10³ J, which agrees with the printed answer (2060 J) after rounding to three significant figures.\n(b) Average power output:\nFormula: P = W/t.\nSubstitution: P = 2058/2.\nCalculation: P = 1029 W.\nResult: P ≈ 1.03 × 10³ W ≈ 1030 W, which agrees with the printed answer (1030 Watt).",
+    "explanation": "Work is done only against the vertical height (mgh), not along the slope; average power is that work divided by 2 s.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A neutron travels a distance of 12 m in a time interval of 3.6 × 10⁻⁴ sec. Assuming its speed was constant, Find its kinetic energy? Take the mass of neutron 1.7 × 10⁻²⁷ kg.",
+    "answer": "Given: s = 12 m; t = 3.6 × 10⁻⁴ s; m = 1.7 × 10⁻²⁷ kg; 1 eV = 1.6 × 10⁻¹⁹ J.\nFormula: v = s/t and K = ½mv², then K(eV) = K(J)/(1.6 × 10⁻¹⁹).\nSubstitution: v = 12/(3.6 × 10⁻⁴) = 3.33 × 10⁴ m/s; K = ½ × 1.7 × 10⁻²⁷ × (3.33 × 10⁴)².\nCalculation: v² = 1.11 × 10⁹ m²/s²; K = 0.5 × 1.7 × 10⁻²⁷ × 1.11 × 10⁹ = 9.44 × 10⁻¹⁹ J = 9.44 × 10⁻¹⁹/1.6 × 10⁻¹⁹ eV = 5.90 eV.\nResult: K ≈ 5.9 eV. The printed answer is 5.78 eV; the 2% difference arises because the printed value uses the more exact neutron mass 1.67 × 10⁻²⁷ kg, which gives 5.79 eV. With the mass quoted in the question (1.7 × 10⁻²⁷ kg) the answer is 5.90 eV.",
+    "explanation": "Speed from uniform motion, then K = ½mv²; converting joules to eV means dividing by 1.6 × 10⁻¹⁹.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A stone is thrown vertically upwards and can reach to a height of 10m, find the speed of stone, when it is just 2m above the ground?",
+    "answer": "Given: maximum height h = 10 m; required height above ground y = 2 m; g = 9.8 m/s².\nFormula: by conservation of energy, ½mv² = mg(h − y), so v = √(2g(h − y)).\nSubstitution: v = √(2 × 9.8 × (10 − 2)) = √(2 × 9.8 × 8).\nCalculation: v = √156.8 = 12.52 m/s.\nResult: v ≈ 12.5 m/s. The printed answer is 12.9 m/s, which does not follow from the given data: it would require g ≈ 10.4 m/s² or a fall of about 8.5 m. With g = 9.8 m/s² the correct value is 12.5 m/s, and even with g = 10 m/s² it is 12.6 m/s, so the printed figure appears to be a rounding or printing slip.",
+    "explanation": "The stone loses potential energy mg(h − y) and gains the same kinetic energy; the relevant drop is 8 m, not 10 m.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "The potential energy of a body at the top of a building is 200 Joules when it is dropped its kinetic energy just before striking the ground is 160 Joules, find the work done against the air resistance?",
+    "answer": "Given: PE at the top = 200 J; KE just before striking the ground = 160 J.\nFormula: work done against air resistance = loss of mechanical energy = PE_top − KE_ground.\nSubstitution: W = 200 − 160.\nCalculation: W = 40 J.\nResult: W = 40 J, which agrees with the printed answer (40 J).",
+    "explanation": "With no air resistance the KE at the ground would equal 200 J; the 40 J missing has been used up in doing work against air resistance.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "Find the energy equivalent of 1 gram?",
+    "answer": "Given: m = 1 g = 1 × 10⁻³ kg; c = 3 × 10⁸ m/s.\nFormula: E = mc².\nSubstitution: E = 1 × 10⁻³ × (3 × 10⁸)².\nCalculation: E = 1 × 10⁻³ × 9 × 10¹⁶ = 9 × 10¹³ J.\nResult: E = 9 × 10¹³ J, which agrees with the printed answer (9 × 10¹³ J).",
+    "explanation": "Mass must be converted to kilograms before using E = mc²; the square of 3 × 10⁸ is 9 × 10¹⁶.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A 1Kilowatt motor pump, pumps the water from the ground to a height of 10 m. Find, how much litres of water it can pump in one hour?",
+    "answer": "Given: P = 1 kW = 1000 W; h = 10 m; t = 1 hour = 3600 s; g = 9.8 m/s²; density of water = 1000 kg/m³.\nFormula: useful work Pt = mgh, so m = Pt/(gh); the volume in litres equals the mass in kg because 1 litre of water has mass 1 kg.\nSubstitution: m = (1000 × 3600)/(9.8 × 10) = 3.6 × 10⁶/98.\nCalculation: m = 3.67 × 10⁴ kg, i.e. V = 3.67 × 10⁴ litres.\nResult: about 3.6 × 10⁴ litres in one hour, which agrees with the printed answer (3.6 × 10⁴ litre); with g = 10 m/s² the value is exactly 3.6 × 10⁴ litres.",
+    "explanation": "Convert 1 hour to 3600 s and 1 kW to 1000 W, then equate Pt to mgh; rounding g to 10 gives the printed value.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "A rocket of mass 2kg is launched in air, when it attains height of 15m the 400 Joules of its chemical fuel burns. Find the speed of rocket at maximum height?",
+    "answer": "Given: m = 2 kg; h = 15 m; energy released by the fuel E = 400 J; g = 9.8 m/s².\nFormula: ½mv² + mgh = E (conservation of energy from the ground), so v = √(2(E − mgh)/m).\nSubstitution: ½ × 2 × v² + 2 × 9.8 × 15 = 400, i.e. v² + 294 = 400.\nCalculation: v² = 106, so v = 10.3 m/s.\nResult: v ≈ 10.3 m/s ≈ 10 m/s, which agrees with the printed answer (10 m/s). Note that this is the speed of the rocket at the 15 m height where the fuel has burnt out; at the true maximum height of the flight (400/19.6 = 20.4 m) the speed is zero, so the printed answer refers to the burnout point.",
+    "explanation": "Equate the fuel energy to KE + PE at 15 m; at the actual top of the path the kinetic energy is zero, so the printed 10 m/s is the burnout speed.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 11,
+    "question": "A motor pumps the water at the rate 500 gram/minute to the height of 120 m. If the motor is 50% efficient then how much input electric power is needed?",
+    "answer": "Given: mass rate = 500 g/min = 0.5 kg/60 s = 8.33 × 10⁻³ kg/s; h = 120 m; η = 50% = 0.50; g = 9.8 m/s².\nFormula: output power P_out = (m/t)gh, and efficiency η = P_out/P_in, so P_in = P_out/η.\nSubstitution: P_out = 8.33 × 10⁻³ × 9.8 × 120; P_in = P_out/0.50.\nCalculation: P_out = 9.8 W; P_in = 19.6 W.\nResult: P_in ≈ 20 W, which agrees with the printed answer (20 watt).",
+    "explanation": "The 50% efficiency doubles the electrical input compared with the mechanical output; remember to convert 500 g/min into kg/s.",
+    "pdfPage": 125,
+    "bookPage": 121,
+    "figure": null
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "In the equilibrium system of PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), the correct relationship between Kc and Kp is:",
+    "options": [
+      "Kp > Kc",
+      "Kp < Kc",
+      "Kp = Kc",
+      "Kp/Kc = 1"
+    ],
+    "correct": "a",
+    "explanation": "Kp and Kc are related by Kp = Kc(RT)^Δn, where Δn = moles of gaseous products − moles of gaseous reactants. For PCl₅(g) ⇌ PCl₃(g) + Cl₂(g), Δn = (1 + 1) − 1 = +1, so Kp = Kc(RT)¹ = KcRT. Since RT is greater than 1 at ordinary temperatures (at 298 K, RT = 0.0821 × 298 = 24.5 dm³ atm mol⁻¹), Kp is greater than Kc, that is Kp > Kc. Option (b) would be true only if Δn were negative, option (c) only if Δn = 0, and option (d), Kp/Kc = 1, is simply another way of writing Kp = Kc, so (a) is correct.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The equilibrium of which of the following reaction would not be affected by an increase in pressure:",
+    "options": [
+      "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+      "2NO(g) + Cl₂(g) ⇌ 2NOCl(g)",
+      "N₂(g) + O₂(g) ⇌ 2NO(g)",
+      "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)"
+    ],
+    "correct": "c",
+    "explanation": "A change in pressure shifts an equilibrium only when the number of gaseous moles changes, because the system then responds by moving towards the side having fewer gas molecules. For N₂(g) + O₂(g) ⇌ 2NO(g), Δn = 2 − (1 + 1) = 0; the number of gaseous moles is the same on both sides, so compression raises all partial pressures in the same proportion and leaves the equilibrium position unchanged. In (a) Δn = +1, so an increase in pressure shifts the equilibrium to the left (towards PCl₅); in (b) Δn = 2 − 3 = −1 and in (d) Δn = 2 − 3 = −1, so an increase in pressure shifts both of them to the right. Hence only (c) is unaffected, and (c) is correct.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "What happens to the value of Kc when a catalyst is added to a chemical system at equilibrium?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It becomes zero",
+      "It remains unchanged"
+    ],
+    "correct": "d",
+    "explanation": "A catalyst provides an alternative reaction pathway of lower activation energy and lowers the activation energy of the forward and reverse reactions by exactly the same amount. Both rates are therefore increased by the same factor, so the ratio kf/kr, which is equal to Kc, does not change; the catalyst merely shortens the time required to reach equilibrium. The equilibrium position, the equilibrium concentrations and the value of Kc all remain unchanged, so (d) is correct. Kc changes only when the temperature is changed, so (a), (b) and (c) are wrong.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The correct Ksp expression of a sparingly soluble salt Li₂C₂O₄ among the following is:",
+    "options": [
+      "Ksp = [Li⁺][C₂O₄²⁻]",
+      "Ksp = [Li⁺]²[C₂O₄²⁻]",
+      "Ksp = [2Li⁺][C₂O₄²⁻]",
+      "Ksp = [2Li⁺]²[C₂O₄²⁻]²"
+    ],
+    "correct": "b",
+    "explanation": "Lithium oxalate dissolves as Li₂C₂O₄(s) ⇌ 2Li⁺(aq) + C₂O₄²⁻(aq). The solubility product is the product of the molar concentrations of the ions in the saturated solution, each raised to the power equal to its coefficient in the balanced equation, so Ksp = [Li⁺]²[C₂O₄²⁻]. Option (a) omits the square on [Li⁺]; options (c) and (d) wrongly place the stoichiometric coefficient 2 inside the concentration term, writing [2Li⁺], instead of using it as an exponent. Hence (b) is correct.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "If the equilibrium expression of a reversible reaction is Kc = [C]²/([A][B]), the balanced equilibrium equation should be:",
+    "options": [
+      "C ⇌ A + B",
+      "A + B ⇌ C",
+      "2C ⇌ A + B",
+      "A + B ⇌ 2C"
+    ],
+    "correct": "d",
+    "explanation": "In the expression Kc = [C]²/([A][B]), the product concentrations appear in the numerator and the reactant concentrations in the denominator, each raised to the power of its stoichiometric coefficient. The squared term [C]² means that two moles of C are formed, while [A] and [B] each appear to the first power, so one mole of A reacts with one mole of B. The balanced equation is therefore A + B ⇌ 2C. Option (a) would give Kc = [A][B]/[C], option (b) would give Kc = [C]/([A][B]) and option (c) would give Kc = [A][B]/[C]², so (d) is correct.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The equilibrium of N₂(g) + O₂(g) ⇌ 2NO(g) (ΔH = +ve) is affected by change in:",
+    "options": [
+      "Temperature only",
+      "Pressure only",
+      "Both temperature and pressure",
+      "Neither temperature nor pressure"
+    ],
+    "correct": "a",
+    "explanation": "For N₂(g) + O₂(g) ⇌ 2NO(g), Δn = 2 − (1 + 1) = 0, so a change in pressure does not shift this equilibrium and has no effect on it. The forward reaction is endothermic (ΔH = +ve), so raising the temperature shifts the equilibrium in the forward direction and increases the value of Kc, while lowering the temperature shifts it backwards. Temperature is therefore the only variable among the choices that affects this equilibrium, so (a) is correct and (b), (c), (d) are wrong.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "In the reaction A(g) + B(g) ⇌ 2C(g), the equilibrium constants Kp = Kc because:",
+    "options": [
+      "Δn > 1",
+      "Δn < 1",
+      "Δn = 1",
+      "Δn = 0"
+    ],
+    "correct": "d",
+    "explanation": "The two equilibrium constants are related by Kp = Kc(RT)^Δn, where Δn is the change in the number of moles of gas: Δn = moles of gaseous products − moles of gaseous reactants. For A(g) + B(g) ⇌ 2C(g), Δn = 2 − (1 + 1) = 0, so (RT)^Δn = (RT)⁰ = 1 and therefore Kp = Kc. The condition required is Δn = 0, not Δn = 1, so (d) is correct while (a), (b) and (c) are wrong.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "The term active mass use in law of mass action means:",
+    "options": [
+      "No. of mole",
+      "No. of molecules",
+      "mole per dm³",
+      "gram per dm³"
+    ],
+    "correct": "c",
+    "explanation": "Active mass means the molar concentration of a substance, that is the number of moles of the substance per cubic decimetre of the solution or of the gaseous mixture: active mass = n/V, expressed in mol dm⁻³. The law of mass action is stated in terms of these molar concentrations, so mole per dm³ is the correct meaning and (c) is correct. The number of moles alone does not define a concentration because it ignores the volume, the number of molecules is not a concentration, and gram per dm³ is a mass concentration rather than a molar concentration.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "NaCl when added to an aqueous silver chloride solution:",
+    "options": [
+      "Decreases the solubility of AgCl",
+      "Increases the solubility of AgCl",
+      "Forms a clear solution",
+      "Does not effect"
+    ],
+    "correct": "a",
+    "explanation": "Silver chloride is sparingly soluble and dissolves as AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq). Adding NaCl introduces the common ion Cl⁻, so the ionic product [Ag⁺][Cl⁻] immediately exceeds Ksp and, by Le Chatelier's principle, the equilibrium shifts to the left, precipitating more AgCl and lowering [Ag⁺]. The solubility of AgCl therefore decreases; this is the common ion effect. Hence (a) is correct. Option (d), printed as does not effect, is wrong because the added Cl⁻ does affect the solubility, and (b) and (c) are also wrong.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Some reactions are nearly to completion in the forward direction and identified by their:",
+    "options": [
+      "Very high value of Kc",
+      "Very low value of Kc",
+      "Very high value of ΔH",
+      "Very low value of ΔH"
+    ],
+    "correct": "a",
+    "explanation": "For a reaction that goes nearly to completion in the forward direction, the equilibrium mixture contains mainly products and very little reactant, so the ratio of the product of product concentrations to the product of reactant concentrations is very large and Kc is very large (Kc >> 1). The magnitude of Kc measures the extent of reaction: a very low Kc means the reaction hardly proceeds in the forward direction. The enthalpy change ΔH tells how much heat is evolved or absorbed but not how far the reaction goes, so (a) is correct.",
+    "pdfPage": 168,
+    "bookPage": 162
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following:\n(i) Reversible reaction\n(ii) Chemical equilibrium",
+    "answer": "(i) Reversible reaction: A reversible reaction is a chemical reaction in which the products formed can react together, under the same conditions, to give back the original reactants, so the change proceeds in both the forward and the reverse directions. It is written with a double arrow (⇌) and never goes to completion; it ends in a state of equilibrium in which both reactants and products are present. The reaction can be started from either the reactants or the products side, and at a given temperature the same equilibrium constant is established, although the final amounts depend on the initial amounts, temperature and pressure. Examples: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); PCl₅(g) ⇌ PCl₃(g) + Cl₂(g); H₂(g) + I₂(g) ⇌ 2HI(g); CH₃COOH(l) + C₂H₅OH(l) ⇌ CH₃COOC₂H₅(l) + H₂O(l). In an irreversible reaction, written with a single arrow (→), such as AgNO₃(aq) + NaCl(aq) → AgCl(s) + NaNO₃(aq), the reverse reaction is negligible and the reaction goes to completion.\n(ii) Chemical equilibrium: Chemical equilibrium is the state of a reversible reaction in which the rate of the forward reaction becomes equal to the rate of the reverse reaction, so that the concentrations of the reactants and products remain constant with time. It is dynamic in nature: both reactions continue at the molecular level, but they proceed at equal rates, so no net change is observed. At equilibrium the free energy of the system is minimum, and the ratio of the product of the concentrations of the products to the product of the concentrations of the reactants, each raised to its stoichiometric coefficient, is constant at a given temperature; this constant is the equilibrium constant Kc. Equilibrium can be attained from either the reactants or the products side, and a catalyst does not change the equilibrium position but only speeds up its attainment. The equilibrium position shifts when temperature, pressure or concentration is changed. Examples: the physical equilibrium H₂O(l) ⇌ H₂O(g) in a closed vessel, and the chemical equilibrium H₂(g) + I₂(g) ⇌ 2HI(g).",
+    "explanation": "Both definitions depend on the two opposing rates becoming equal. A reversible reaction is recognized by the double arrow and by the fact that it does not go to completion, whereas an irreversible reaction has a single arrow and goes to completion. Chemical equilibrium is a dynamic state, not a stopped reaction: the forward and reverse reactions continue at equal rates, which is why the concentrations stay constant while both reactants and products remain present. The equilibrium constant Kc expresses the fixed ratio of concentrations at a given temperature.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Write expression of Kc and Kp for the following reversible reactions.\n(i) 2NO₂(g) + 7H₂(g) ⇌ 2NH₃(g) + 4H₂O(g)\n(ii) 2H₂S(g) + 3O₂(g) ⇌ 2H₂O(g) + 2SO₂(g)",
+    "answer": "(i) 2NO₂(g) + 7H₂(g) ⇌ 2NH₃(g) + 4H₂O(g)\nKc = [NH₃]²[H₂O]⁴/([NO₂]²[H₂]⁷)\nKp = (pNH₃)²(pH₂O)⁴/[(pNO₂)²(pH₂)⁷]\nHere Δn = (2 + 4) − (2 + 7) = 6 − 9 = −3, so Kp = Kc(RT)⁻³. Because Δn is negative, Kc has the unit (mol dm⁻³)⁻³ = dm⁹ mol⁻³, and Kp has the unit atm⁻³ when the partial pressures are expressed in atmospheres.\n(ii) 2H₂S(g) + 3O₂(g) ⇌ 2H₂O(g) + 2SO₂(g)\nKc = [H₂O]²[SO₂]²/([H₂S]²[O₂]³)\nKp = (pH₂O)²(pSO₂)²/[(pH₂S)²(pO₂)³]\nHere Δn = (2 + 2) − (2 + 3) = 4 − 5 = −1, so Kp = Kc(RT)⁻¹. Because Δn is negative, Kc has the unit (mol dm⁻³)⁻¹ = dm³ mol⁻¹, and Kp has the unit atm⁻¹ when the partial pressures are expressed in atmospheres.",
+    "explanation": "In Kc the concentration of each gaseous product is placed in the numerator and that of each gaseous reactant in the denominator, each raised to the power of its coefficient in the balanced equation. Kp is written in the same way with partial pressures in place of molar concentrations, and the two are connected by Kp = Kc(RT)^Δn, where Δn = moles of gaseous products − moles of gaseous reactants. For (i) Δn = −3 and for (ii) Δn = −1; the units of Kc follow from (mol dm⁻³)^Δn, and those of Kp from (atm)^Δn. Pure solids and liquids are omitted from both expressions.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "(a) Define solubility product.\n(b) Write the solubility product expression of the following salts: BaF₂, Li₂C₂O₄, MgCO₃, Ag₃PO₄",
+    "answer": "(a) Solubility product: The solubility product of a sparingly soluble salt is the product of the molar concentrations of its constituent ions in a saturated solution at equilibrium with the undissolved solid, each concentration being raised to the power equal to the number of ions of that kind furnished by one formula unit of the salt. For a salt that gives x cations Mʸ⁺ and y anions Xˣ⁻ per formula unit, the solubility product is Ksp = [Mʸ⁺]ˣ[Xˣ⁻]ʸ. It is an equilibrium constant for the dissolution equilibrium, so it depends only on temperature and not on the amounts of solid or on the separate concentrations of the ions. Comparing the ionic product Q of a solution with Ksp predicts precipitation: if Q < Ksp the solution is unsaturated and no precipitate forms, if Q = Ksp it is just saturated, and if Q > Ksp it is supersaturated and the salt precipitates until Q falls to Ksp.\n(b) Solubility product expressions:\n- BaF₂: BaF₂(s) ⇌ Ba²⁺(aq) + 2F⁻(aq); Ksp = [Ba²⁺][F⁻]² (unit mol³ dm⁻⁹).\n- Li₂C₂O₄: Li₂C₂O₄(s) ⇌ 2Li⁺(aq) + C₂O₄²⁻(aq); Ksp = [Li⁺]²[C₂O₄²⁻] (unit mol³ dm⁻⁹).\n- MgCO₃: MgCO₃(s) ⇌ Mg²⁺(aq) + CO₃²⁻(aq); Ksp = [Mg²⁺][CO₃²⁻] (unit mol² dm⁻⁶).\n- Ag₃PO₄: Ag₃PO₄(s) ⇌ 3Ag⁺(aq) + PO₄³⁻(aq); Ksp = [Ag⁺]³[PO₄³⁻] (unit mol⁴ dm⁻¹²).",
+    "explanation": "The exponents in a Ksp expression are the numbers of ions produced by one formula unit, never the coefficients written inside the brackets. Thus BaF₂ gives one Ba²⁺ and two F⁻, so [F⁻] is squared; Li₂C₂O₄ gives two Li⁺ and one C₂O₄²⁻, so [Li⁺] is squared; MgCO₃ gives one ion of each kind, so both are to the first power; and Ag₃PO₄ gives three Ag⁺ and one PO₄³⁻, so [Ag⁺] is cubed. The pure solid does not appear in the expression because its concentration is constant. The units are (mol dm⁻³) raised to the total number of ions produced by one formula unit: 3 ions for BaF₂ and Li₂C₂O₄ (mol³ dm⁻⁹), 2 ions for MgCO₃ (mol² dm⁻⁶), and 4 ions for Ag₃PO₄ (mol⁴ dm⁻¹²).",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Using Le-Chatelier's principle, explain three ways in which yield of SO₃ can be increase in Contact process.\n2SO₂(g) + O₂(g) ⇌ 2SO₃(g)    (ΔH° = −ve)",
+    "answer": "Le Chatelier's principle states that if a system at equilibrium is disturbed by a change in temperature, pressure or concentration of one of its components, the system shifts its equilibrium position in the direction that tends to oppose the disturbance. For the Contact process, 2SO₂(g) + O₂(g) ⇌ 2SO₃(g), ΔH° = −ve (exothermic) and Δn = 2 − 3 = −1.\n(i) By lowering the temperature: the forward reaction is exothermic, so removing heat shifts the equilibrium to the right and increases the yield of SO₃. In practice the temperature is kept at about 400–450 °C rather than very low, because at low temperature the rate of reaction becomes too slow even in the presence of the catalyst.\n(ii) By increasing the pressure: the forward direction produces fewer moles of gas (3 moles of reactants give 2 moles of SO₃), so an increase in pressure shifts the equilibrium to the right and increases the yield of SO₃. A pressure of about 2 atm (in some plants up to 10 atm) is used, since very high pressure requires expensive equipment.\n(iii) By removing SO₃ as it is formed or by using an excess of a reactant: continuous removal of SO₃, for example by absorbing it in concentrated H₂SO₄, keeps its concentration low and the equilibrium shifts continuously to the right. Alternatively, passing an excess of air (oxygen) increases the concentration of O₂, which also shifts the equilibrium to the right and raises the yield of SO₃. The V₂O₅ catalyst is used to attain equilibrium rapidly, but being a catalyst it does not change the equilibrium yield.",
+    "explanation": "The direction of the shift is decided by two features of the balanced equation: ΔH° is negative, so the forward reaction is exothermic and low temperature favours the products; Δn is negative, so the forward reaction produces fewer gas molecules and high pressure favours the products. The third way changes the concentration term: removing SO₃ or adding excess O₂ makes the reaction quotient smaller than Kc, so the reaction must move forward to restore equilibrium. Temperature and pressure changes alter Kc or the partial pressures, while concentration changes leave Kc unchanged but shift the position of equilibrium. The industrial conditions of about 400–450 °C, 2 atm and a V₂O₅ catalyst are a compromise between maximum yield and an acceptable rate.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State Law of mass action and derive Kc expression of a general reversible reaction.",
+    "answer": "Law of mass action: The law of mass action, proposed by Guldberg and Waage in 1864, states that the rate of a chemical reaction is directly proportional to the product of the active masses (molar concentrations) of the reactants, each raised to the power equal to its stoichiometric coefficient in the balanced chemical equation. For a general reversible reaction aA + bB ⇌ cC + dD, the rate of the forward reaction is proportional to [A]ᵃ[B]ᵇ and the rate of the reverse reaction is proportional to [C]ᶜ[D]ᵈ.\nDerivation of Kc: Let kf and kr be the rate constants of the forward and reverse reactions.\nForward rate: Rf = kf[A]ᵃ[B]ᵇ\nReverse rate: Rr = kr[C]ᶜ[D]ᵈ\nAt equilibrium the two rates become equal, so Rf = Rr:\nkf[A]ᵃ[B]ᵇ = kr[C]ᶜ[D]ᵈ\nRearranging, [C]ᶜ[D]ᵈ/([A]ᵃ[B]ᵇ) = kf/kr\nSince kf and kr are constants at a given temperature, their ratio is also a constant. This constant is called the equilibrium constant Kc:\nKc = [C]ᶜ[D]ᵈ/([A]ᵃ[B]ᵇ)\nThus for H₂(g) + I₂(g) ⇌ 2HI(g), Kc = [HI]²/([H₂][I₂]); for N₂(g) + 3H₂(g) ⇌ 2NH₃(g), Kc = [NH₃]²/([N₂][H₂]³). The concentrations in the expression are the equilibrium molar concentrations in mol dm⁻³, and pure solids and pure liquids are omitted because their concentrations are constant. Kc depends only on temperature and is independent of the initial concentrations, the pressure and the presence of a catalyst. For gaseous reactions it is related to Kp by Kp = Kc(RT)^Δn.",
+    "explanation": "The derivation uses the fact that equilibrium is dynamic: the forward and reverse reactions continue but at equal rates. Setting the two rate laws equal and dividing both sides by the reverse rate constant and by [A]ᵃ[B]ᵇ isolates the ratio kf/kr, which is constant at constant temperature and is defined as Kc. The exponents come from the stoichiometric coefficients of the balanced equation, so the expression must be written only after the equation has been balanced. Because Kc is a ratio of rate constants, it is unchanged by catalysts (which change kf and kr equally) and by pressure or initial amounts, but it changes with temperature.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "State Le-Chatelier's principle. Explain the industrial application of Le-Chatelier's principle using Haber's process.",
+    "answer": "Le Chatelier's principle: If a system at equilibrium is subjected to a change in temperature, pressure or concentration of one of its components, the system shifts its equilibrium position in the direction that tends to oppose or minimize the effect of the change. In other words, the system adjusts itself so as to absorb the disturbance: adding a reactant shifts the equilibrium forward, increasing the pressure shifts it towards the side with fewer gas molecules, and raising the temperature shifts it in the endothermic direction.\nApplication to Haber's process: Ammonia is manufactured by the reversible reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH = −92.4 kJ mol⁻¹, Δn = 2 − 4 = −2. The forward reaction is exothermic and is accompanied by a decrease in the number of gas molecules, so Le Chatelier's principle predicts that low temperature and high pressure favour the formation of ammonia.\n(i) Effect of pressure: since four moles of gaseous reactants give two moles of ammonia, an increase in pressure shifts the equilibrium to the right and increases the yield. Industrially a pressure of about 200 atm (150–300 atm) is used.\n(ii) Effect of temperature: the forward reaction is exothermic, so a low temperature increases the equilibrium yield. However, at low temperature the rate of reaction is extremely slow, so a compromise temperature of about 450–500 °C is employed together with a catalyst.\n(iii) Effect of concentration: ammonia is removed continuously by liquefying it (cooling the gaseous mixture), which keeps the concentration of NH₃ low and drives the equilibrium forward; unreacted nitrogen and hydrogen are recycled, and an excess of the reactants is maintained.\n(iv) Effect of catalyst: finely divided iron with promoters such as K₂O and Al₂O₃ is used. The catalyst does not change the equilibrium position or the yield; it only enables equilibrium to be reached rapidly at the moderate temperature used. Under these conditions the yield is about 15–20% per pass, and recycling of the unreacted gases makes the overall conversion high.",
+    "explanation": "The Haber process is the standard industrial illustration of Le Chatelier's principle because thermodynamics and kinetics pull in different directions: the exothermic forward reaction gives a higher equilibrium yield at low temperature, but the rate then becomes impractically slow. High pressure is favourable both thermodynamically (fewer gas molecules) and kinetically, so about 200 atm is used. The compromise temperature of 450–500 °C with an iron catalyst balances yield against speed. Removing NH₃ as it is formed lowers the reaction quotient below Kc, so the reaction continues to move forward, and recycling the unreacted gases raises the overall efficiency.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Give brief account on Common ion effect.",
+    "answer": "Common ion effect: The common ion effect is the suppression of the ionization or of the solubility of a weak electrolyte or a sparingly soluble salt by the addition of a strong electrolyte that furnishes one of the same ions. The added ion is called the common ion, and its presence shifts the equilibrium of the weak electrolyte backwards, decreasing the degree of ionization or the solubility.\nExplanation by Le Chatelier's principle: Consider a weak acid such as acetic acid, CH₃COOH ⇌ CH₃COO⁻ + H⁺. If sodium acetate, CH₃COONa, is added, it dissociates completely to give CH₃COO⁻, so the concentration of the common ion CH₃COO⁻ increases. According to Le Chatelier's principle the equilibrium shifts to the left, more CH₃COOH is formed, the concentration of H⁺ falls and the degree of ionization of the acid decreases.\nExample with a sparingly soluble salt: Silver chloride dissolves as AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq). Adding NaCl increases [Cl⁻], so the ionic product [Ag⁺][Cl⁻] exceeds Ksp and the equilibrium shifts to the left, precipitating more AgCl; the solubility of AgCl is therefore lower in sodium chloride solution than in pure water. Similarly, the solubility of CaCO₃ decreases when Na₂CO₃ is added, and the solubility of BaSO₄ decreases in the presence of Na₂SO₄.\nApplications: The common ion effect is used in qualitative and quantitative analysis, for example to precipitate a cation completely as its sparingly soluble salt by adding an excess of the precipitating reagent; to separate ions of different groups; in gravimetric analysis, where it reduces the solubility loss of the precipitate; in the preparation of buffer solutions, where a mixture of a weak acid and its salt controls the pH; and in salting out, where adding a salt with a common ion decreases the solubility of a substance and helps it to separate.",
+    "explanation": "The effect is a direct consequence of the equilibrium law: adding an ion that already appears in the equilibrium expression increases the value of the reaction quotient, so the system shifts in the direction that consumes that ion. For a weak electrolyte this lowers the degree of ionization; for a sparingly soluble salt it lowers the solubility by making the ionic product exceed Ksp. The effect is strongest when the added common ion is in large excess, and it explains why precipitates are washed with a dilute solution of a salt containing the common ion rather than with pure water.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Define equilibrium constant (Kc). How it helps in predicting the\n(i) Direction of reaction\n(ii) Extent of reaction.",
+    "answer": "Equilibrium constant (Kc): For a reversible reaction aA + bB ⇌ cC + dD, the equilibrium constant Kc is the ratio of the product of the equilibrium molar concentrations of the products to the product of the equilibrium molar concentrations of the reactants, each concentration raised to the power equal to its stoichiometric coefficient:\nKc = [C]ᶜ[D]ᵈ/([A]ᵃ[B]ᵇ)\nIt is a constant at a given temperature, equals the ratio kf/kr, and does not depend on the initial concentrations, on pressure or on the presence of a catalyst. Pure solids and liquids are not included, and for gaseous reactions Kp = Kc(RT)^Δn.\n(i) Direction of reaction: The direction in which a reaction mixture will proceed is found by calculating the reaction quotient Qc from the concentrations at that instant, using the same expression as Kc but with the actual (not necessarily equilibrium) concentrations. Then:\n- If Qc < Kc, the ratio of products to reactants is too small, so the reaction proceeds in the forward direction until Qc becomes equal to Kc.\n- If Qc > Kc, the ratio is too large, so the reaction proceeds in the reverse direction.\n- If Qc = Kc, the system is already at equilibrium and no net change occurs.\nFor example, if for H₂ + I₂ ⇌ 2HI (Kc = 49) a mixture has Qc = [HI]²/([H₂][I₂]) = 4, then Qc < Kc and the reaction goes forward, producing more HI.\n(ii) Extent of reaction: The magnitude of Kc shows how far the reaction proceeds before reaching equilibrium. A very large Kc (Kc >> 1, for example of the order of 10³³ for the formation of HCl at 25 °C) means that the products strongly predominate and the reaction is nearly complete in the forward direction. A very small Kc (Kc << 1, for example about 10⁻³⁰ for N₂ + O₂ ⇌ 2NO at room temperature) means that very little product is formed and the reaction hardly proceeds forward. An intermediate value of Kc (of the order of 1 to 10²) means that appreciable amounts of both reactants and products are present at equilibrium. The extent is also related to the standard free energy change by ΔG° = −RT ln Kc: a negative ΔG° corresponds to Kc > 1 and a reaction that proceeds forward, while a positive ΔG° corresponds to Kc < 1.",
+    "explanation": "The reaction quotient Qc and the equilibrium constant Kc have identical mathematical forms; the only difference is that Qc uses the instantaneous concentrations while Kc uses the equilibrium concentrations. Comparing them tells the direction of the shift, and after the shift Qc becomes equal to Kc. The size of Kc, on the other hand, is fixed by temperature and tells the position of equilibrium, that is the extent of the reaction, not its speed; a large Kc does not mean a fast reaction, and a catalyst changes the rate but not Kc.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "At 444°C reaction of hydrogen and iodine is performed in a sealed 1 dm³ steel vessel.\nH₂(g) + I₂(g) ⇌ 2HI(g)\nIf equilibrium mixture contains 1 mole of H₂, 1 mole of I₂ and 7 moles of HI. Calculate\n(a) Equilibrium constant (Kc)\n(b) Initial concentration of H₂ and I₂",
+    "answer": "Given: volume of vessel V = 1 dm³; at equilibrium, n(H₂) = 1 mol, n(I₂) = 1 mol, n(HI) = 7 mol. Since V = 1 dm³, the equilibrium concentrations are [H₂] = 1 mol dm⁻³, [I₂] = 1 mol dm⁻³ and [HI] = 7 mol dm⁻³.\nICE table (amounts in mol; V = 1 dm³):\n                     H₂(g)  +  I₂(g)  ⇌  2HI(g)\nInitial:              a           a           0\nChange:              −x          −x         +2x\nEquilibrium:          1           1           7\nFrom the HI column, 2x = 7, so x = 3.5 mol. From the H₂ column, a − x = 1, so a = 1 + 3.5 = 4.5 mol; the same value is obtained for I₂.\n(a) Kc = [HI]²/([H₂][I₂]) = (7)²/(1 × 1) = 49/1 = 49. Since Δn = 2 − 2 = 0, Kc has no units (the concentration units cancel).\n(b) Initial concentrations: [H₂]₀ = 4.5 mol/1 dm³ = 4.5 mol dm⁻³ and [I₂]₀ = 4.5 mol/1 dm³ = 4.5 mol dm⁻³. That is 4.5 moles of each were originally taken in the vessel.\nPrinted answer: [Ans: Kc = 49, initial conc. of H₂ = I₂ = 4.5 moles].",
+    "explanation": "The ICE table links the equilibrium amounts to the initial amounts through the stoichiometry: 2 mol of HI are formed for every 1 mol of H₂ and 1 mol of I₂ consumed. The 7 mol of HI at equilibrium therefore required 3.5 mol of each reactant, so the initial amount of each reactant was 1 + 3.5 = 4.5 mol. Because the vessel volume is 1 dm³ the amounts in moles and the molar concentrations are numerically equal. Kc is the ratio [HI]²/([H₂][I₂]) with products in the numerator; Δn = 0, so Kc is dimensionless.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Lead fluoride (PbF₂) is a high melting white solid used in glass coating to reflect IR rays. Its solubility in water at 25°C is 0.58 g/dm³. Calculate its Ksp.\n(At. mass of Pb = 207 and F = 19)",
+    "answer": "Given: solubility of PbF₂ = 0.58 g dm⁻³; atomic masses Pb = 207, F = 19.\nMolar mass of PbF₂ = 207 + 2 × 19 = 207 + 38 = 245 g mol⁻¹.\nMolar solubility: s = (0.58 g dm⁻³)/(245 g mol⁻¹) = 2.367 × 10⁻³ mol dm⁻³.\nDissolution equilibrium: PbF₂(s) ⇌ Pb²⁺(aq) + 2F⁻(aq)\nIf s mol dm⁻³ of PbF₂ dissolves, then [Pb²⁺] = s = 2.367 × 10⁻³ mol dm⁻³ and [F⁻] = 2s = 4.734 × 10⁻³ mol dm⁻³.\nKsp = [Pb²⁺][F⁻]² = s(2s)² = 4s³\nKsp = 4 × (2.367 × 10⁻³)³ = 4 × 1.327 × 10⁻⁸ = 5.31 × 10⁻⁸\nThe unit is (mol dm⁻³)³ = mol³ dm⁻⁹, because three ions are produced per formula unit.\nPrinted answer: [Ans: 5.3 × 10⁻⁸ mol³/dm⁹].",
+    "explanation": "The solubility is given in g dm⁻³, so it must first be converted to molar solubility by dividing by the molar mass of PbF₂ (245 g mol⁻¹). Each formula unit that dissolves gives one Pb²⁺ ion and two F⁻ ions, so [F⁻] is twice the molar solubility and the Ksp expression contains [F⁻]². Substituting gives Ksp = 4s³ = 5.3 × 10⁻⁸. A common error is to use s² instead of 4s³, which forgets that two fluoride ions are produced; the cube also fixes the units as mol³ dm⁻⁹.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "A solution of CaCO₃ is prepared by mixing 200 cm³ of 2.4 × 10⁻⁴ M Ca(NO₃)₂ and 300 cm³ of 4.5 × 10⁻² M K₂CO₃. Will CaCO₃ precipitate upon cooling to 25°C if Ksp of CaCO₃ at 25°C is 3.8 × 10⁻⁹.",
+    "answer": "Given: V(Ca(NO₃)₂) = 200 cm³ = 0.200 dm³, M(Ca(NO₃)₂) = 2.4 × 10⁻⁴ mol dm⁻³; V(K₂CO₃) = 300 cm³ = 0.300 dm³, M(K₂CO₃) = 4.5 × 10⁻² mol dm⁻³; Ksp(CaCO₃) = 3.8 × 10⁻⁹ at 25 °C.\nTotal volume after mixing = 200 + 300 = 500 cm³ = 0.500 dm³.\nMoles of Ca²⁺ = 2.4 × 10⁻⁴ × 0.200 = 4.8 × 10⁻⁵ mol, so [Ca²⁺] = (4.8 × 10⁻⁵)/0.500 = 9.6 × 10⁻⁵ mol dm⁻³.\nMoles of CO₃²⁻ = 4.5 × 10⁻² × 0.300 = 1.35 × 10⁻² mol, so [CO₃²⁻] = (1.35 × 10⁻²)/0.500 = 2.7 × 10⁻² mol dm⁻³.\nIonic product Q = [Ca²⁺][CO₃²⁻] = (9.6 × 10⁻⁵)(2.7 × 10⁻²) = 2.59 × 10⁻⁶.\nComparison: Q = 2.59 × 10⁻⁶ and Ksp = 3.8 × 10⁻⁹, so Q > Ksp (about 680 times larger). The solution is supersaturated, therefore CaCO₃ will precipitate until the ionic product falls to Ksp.\nPrinted answer: [Ans: CaCO₃ precipitate].",
+    "explanation": "On mixing, both solutions are diluted by the total volume of 500 cm³, so each concentration must be multiplied by its own volume fraction (200/500 for Ca²⁺ and 300/500 for CO₃²⁻). The ionic product of the mixture is then compared with Ksp: Q < Ksp means no precipitate, Q = Ksp means a saturated solution, and Q > Ksp means precipitation. Here Q = 2.59 × 10⁻⁶ is far greater than 3.8 × 10⁻⁹, so calcium carbonate precipitates. The calculation also shows why the very dilute Ca(NO₃)₂ still gives a precipitate: the carbonate concentration is comparatively large.",
+    "pdfPage": 169,
+    "bookPage": 163
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Hydrogen iodide is a colourless gas prepared by reacting H₂ and I₂.\nH₂(g) + I₂(g) ⇌ 2HI(g)\nIn an equilibrium study of above reaction, 1.2 mole of H₂ and 1.2 moles of I₂ were injected in an evacuated 1000 cm³ sealed flask and start the reaction to occur at 440°C until the equilibrium is formed. If Kc for this reaction is 49, calculate the equilibrium concentration of H₂, I₂ and HI.",
+    "answer": "Given: V = 1000 cm³ = 1 dm³; initial n(H₂) = 1.2 mol, n(I₂) = 1.2 mol, n(HI) = 0; Kc = 49 at 440 °C. Therefore the initial concentrations are [H₂]₀ = [I₂]₀ = 1.2 mol dm⁻³ and [HI]₀ = 0.\nLet x mol dm⁻³ of H₂ react to reach equilibrium.\nICE table (concentrations in mol dm⁻³):\n                     H₂(g)  +  I₂(g)  ⇌  2HI(g)\nInitial:              1.2         1.2          0\nChange:               −x          −x         +2x\nEquilibrium:        1.2 − x     1.2 − x       2x\nKc = [HI]²/([H₂][I₂]) = (2x)²/(1.2 − x)² = 49\nTaking the positive square root of both sides: 2x/(1.2 − x) = √49 = 7\n2x = 7(1.2 − x) = 8.4 − 7x\n2x + 7x = 8.4, so 9x = 8.4 and x = 0.933 mol dm⁻³.\nTherefore [H₂] = 1.2 − 0.933 = 0.267 mol dm⁻³, [I₂] = 1.2 − 0.933 = 0.267 mol dm⁻³ and [HI] = 2 × 0.933 = 1.866 mol dm⁻³.\nCheck: (1.866)²/(0.267 × 0.267) = 3.48/0.0713 ≈ 48.9 ≈ 49, which agrees with the given Kc.\nPrinted answer: [Ans: [H₂] = 0.267 mol/dm³, [I₂] = 0.267 mol/dm³, [HI] = 1.866 mol/dm³].",
+    "explanation": "Because the flask volume is exactly 1 dm³, the initial amounts in moles are numerically equal to the initial molar concentrations. The ICE table uses the 1:1:2 stoichiometry: for every x mol dm⁻³ of H₂ consumed, x mol dm⁻³ of I₂ is also consumed and 2x mol dm⁻³ of HI is formed. The equilibrium expression then reduces to a perfect square, so taking the positive square root gives a simple linear equation; the negative root would give a physically meaningless negative concentration. The calculated values agree with the printed answer and satisfy Kc = 49.",
+    "pdfPage": 169,
+    "bookPage": 163
+  }
+]

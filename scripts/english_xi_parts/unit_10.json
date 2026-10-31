@@ -1,0 +1,592 @@
+[
+  {
+    "id": "u10_r_pre_q1",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What comes in your mind after reading following quotations given in the bubbles?\n(1) \"Patience accomplishes its object, while hurry speeds to its ruin.\" (Saadi)\n(2) \"Desires make slaves out of kings and patience makes kings out of slaves.\" (Al-Ghazali)\n(3) \"Yesterday, I was clever, so I wanted to change the world. Today, I am wise, so I am changing myself.\" (Rumi)\n(4) \"Independence is of more value than any gifts; and to receive gifts is to lose it.\" (Saadi)\n(5) \"Raise your words, not voice. It is rain that grows flowers, not thunder.\" (Rumi)",
+    "answer": "1. Saadi, \"Patience accomplishes its object, while hurry speeds to its ruin\": The quotation reminds me that worthwhile things take time. Patience is not idleness; it is steady, purposeful effort, while haste makes us take wrong decisions and spoil our own work.\n\n2. Al-Ghazali, \"Desires make slaves out of kings and patience makes kings out of slaves\": Real freedom lies in controlling our wants. A person ruled by his desires is a slave even if he is rich and powerful, while a patient person who masters himself rises above his circumstances.\n\n3. Rumi, \"Yesterday, I was clever, so I wanted to change the world. Today, I am wise, so I am changing myself\": Real change begins from within. Instead of blaming others and trying to reform the whole world, a wise person first corrects his own habits and thinking.\n\n4. Saadi, \"Independence is of more value than any gifts; and to receive gifts is to lose it\": Self-reliance and self-respect are worth more than any favour. One who lives on gifts and charity slowly loses his independence and, with it, his dignity.\n\n5. Rumi, \"Raise your words, not voice. It is rain that grows flowers, not thunder\": Gentle, well-chosen words persuade people and produce results, whereas shouting and anger achieve nothing. This is exactly the lesson of positive work ethics.",
+    "explanation": "Open-ended pre-reading task (the teacher's note asks each student to write his first impressions individually); the model answer gives a personal response to each bubble and also predicts the unit's themes: patience, self-control, self-reform, independence and gentle speech.",
+    "bookPage": 162
+  },
+  {
+    "id": "u10_r_ex1_q1",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Work in pairs and find out the words from the text and match with their corresponding descriptions. After you have completed, share your work with your partner.\nDescriptions: 1. extremely poor and lacking the means to provide for oneself; 2. shaking slightly in a way that once cannot control; 3. bringing or restoring to a state of peace or tranquillity; 4. happening especially as if by fate; 5. stimulating drug that can cause illusions; 6. decorated or beautified, as by ornaments; 7. the quality of having or showing good powers of judgement; 8. becoming involved with or take part in something; 9. skill or expertise in a particular activity or field; 10. repository for grain, especially after it has been threshed.",
+    "answer": "No. | Description | Word from the text (with the phrase where it occurs)\n1 | extremely poor and lacking the means to provide for oneself | destitute — \"The wealthy man once asked his destitute brother\" (Text-I)\n2 | shaking slightly in a way that once cannot control | tremble — \"He began to cry and to tremble\" (Text-II)\n3 | bringing or restoring to a state of peace or tranquillity | pacified — \"he could not be pacified by kindness\" (Text-II)\n4 | happening especially as if by fate | happened — \"there happened to be a wise man\" (Text-II), i.e. chanced to be there\n5 | stimulating drug that can cause illusions | ecstasy — \"the joy and ecstasy I felt\" (Text-III); the word also names a stimulant drug that distorts perception, though in the text it means overwhelming joy\n6 | decorated or beautified, as by ornaments | adorned — \"his girdle is adorned with pearls\" (Text-III)\n7 | the quality of having or showing good powers of judgement | shrewdness — \"deliberation, intelligence and shrewdness\" (Text-V)\n8 | becoming involved with or take part in something | partake — \"to partake of medicine by guess\" (Maxim-II)\n9 | skill or expertise in a particular activity or field | prowess — \"trying to show his prowess off\" (Maxim-III)\n10 | repository for grain, especially after it has been threshed | granary — \"The granary is but grain upon grain\" (Maxim-V)",
+    "explanation": "The words are taken from Texts I-V and the Maxims; each answer quotes the exact phrase so the matching can be checked. Descriptions 4 and 5 are loosely worded in the print: the only text words that fit are 'happened' (chance/fate) and 'ecstasy' (which also has the drug sense). Description 2 contains the printed typo 'once' for 'one'.",
+    "bookPage": 165
+  },
+  {
+    "id": "u10_r_ex2_q1",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Work individually. Read each text and suggest the appropriate title by writing before each text number. After you have completed, share your work with your class fellows. (Text-I, Text-II, Text-III, Text-IV, Text-V)",
+    "answer": "NO. | Text No. | Suggested title\n1 | Text-I | The Dignity of Labour (Better to Eat Barley Bread than to Serve)\n2 | Text-II | Blessings Are Valued Only After They Are Lost (The Slave, the Boat and the Wise Man)\n3 | Text-III | Pearls in the Desert (Wealth Is Worthless in the Wilderness)\n4 | Text-IV | A Skill Is Permanent Wealth\n5 | Text-V | Think Before You Speak (The Art of Listening and Silence)",
+    "explanation": "Each title is drawn from the central idea of the text: Text-I contrasts free labour with luxurious service, Text-II shows the slave learning the value of the boat by tasting drowning, Text-III shows an Arab dying of thirst beside pearls, Text-IV is the sage's advice on learning a skill, and Text-V is about not speaking until others have finished. Open-ended: other apt titles are acceptable.",
+    "bookPage": 165
+  },
+  {
+    "id": "u10_r_ex3_q1",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "The second brother was living by________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "serving sultan"
+      },
+      {
+        "key": "b",
+        "text": "doing Govt. service"
+      },
+      {
+        "key": "c",
+        "text": "doing labour"
+      },
+      {
+        "key": "d",
+        "text": "selling belts"
+      }
+    ],
+    "optionsRaw": "(a) serving sultan   (b) doing Govt. service   (c) doing labour   (d) selling belts",
+    "correctAnswer": "(c) doing labour",
+    "answer": "The second (poor) brother gained his livelihood \"by the effort of his arm\", that is, by doing labour.",
+    "explanation": "Text-I says: \"one of them in the service of the sultan and the other gaining his livelihood by the effort of his arm.\" The second brother therefore lived by manual labour, not by service.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q2",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "________ said that it is better to eat barley than to gird with golden belts.",
+    "options": [
+      {
+        "key": "a",
+        "text": "elder brother"
+      },
+      {
+        "key": "b",
+        "text": "sultan"
+      },
+      {
+        "key": "c",
+        "text": "wealthy man"
+      },
+      {
+        "key": "d",
+        "text": "servant"
+      }
+    ],
+    "optionsRaw": "(a) elder brother   (b) sultan   (c) wealthy man   (d) servant",
+    "correctAnswer": "(a) elder brother",
+    "answer": "(a) elder brother. In Text-I the wealthy brother, who is in the service of the sultan, asks his destitute brother why he does not serve the sultan; the destitute brother replies that \"it is better to eat barley bread and to sit than to gird oneself with a golden belt and to stand in service.\"",
+    "explanation": "The printed options do not name the speaker precisely: the text calls him the \"destitute brother\", the younger of the two, while the wealthy brother is the one already serving the sultan. Among the four printed choices, (a) elder brother is the only one that refers to a brother and to the family in the anecdote; the key is therefore (a), with the looseness of the printed option noted. (d) servant is wrong because the whole sentence is a refusal to become a servant.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q3",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "\"To gird with golden belts\", this phrase indicates to live ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "hard life"
+      },
+      {
+        "key": "b",
+        "text": "healthy life"
+      },
+      {
+        "key": "c",
+        "text": "wealthy life"
+      },
+      {
+        "key": "d",
+        "text": "slavery life"
+      }
+    ],
+    "optionsRaw": "(a) hard life   (b) healthy life   (c) wealthy life   (d) slavery life",
+    "correctAnswer": "(c) wealthy life",
+    "answer": "A golden belt is an ornament of the rich, so the phrase indicates a wealthy, luxurious life — although, as the speaker adds, that luxury is bought with service.",
+    "explanation": "The phrase itself pictures a rich, ornamented life; the irony of the passage is that this wealthy life is really 'service'. Option (c) describes what the phrase literally indicates.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q4",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "The________ was fearful during travel in the vessel.",
+    "options": [
+      {
+        "key": "a",
+        "text": "king"
+      },
+      {
+        "key": "b",
+        "text": "sultan"
+      },
+      {
+        "key": "c",
+        "text": "slave"
+      },
+      {
+        "key": "d",
+        "text": "Wiseman"
+      }
+    ],
+    "optionsRaw": "(a) king   (b) sultan   (c) slave   (d) Wiseman",
+    "correctAnswer": "(c) slave",
+    "answer": "The slave who had never been at sea before was the fearful one; he cried and trembled with fright.",
+    "explanation": "Text-II opens: \"A king was in the same boat with a slave who had never before been at sea... He began to cry and to tremble.\"",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q5",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "The slave was thrown in the sea to ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "catch fish"
+      },
+      {
+        "key": "b",
+        "text": "gain experience"
+      },
+      {
+        "key": "c",
+        "text": "go drowning"
+      },
+      {
+        "key": "d",
+        "text": "save boat"
+      }
+    ],
+    "optionsRaw": "(a) catch fish   (b) gain experience   (c) go drowning   (d) save boat",
+    "correctAnswer": "(b) gain experience",
+    "answer": "He was thrown into the water so that he might taste the calamity of drowning and thereby learn, from experience, the safety of the boat.",
+    "explanation": "The wise man explains afterwards that \"before he had tasted the calamity of being drowned, he knew not the safety of the boat\"; the purpose was a lesson through experience, not to drown or harm him.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q6",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "The Arab became happy after ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "finding bag"
+      },
+      {
+        "key": "b",
+        "text": "gaining grain"
+      },
+      {
+        "key": "c",
+        "text": "finding water"
+      },
+      {
+        "key": "d",
+        "text": "seeing pearls"
+      }
+    ],
+    "optionsRaw": "(a) finding bag   (b) gaining grain   (c) finding water   (d) seeing pearls",
+    "correctAnswer": "(a) finding bag",
+    "answer": "He was filled with joy when he suddenly caught sight of a bag and hoped it held parched grain; his joy turned to bitterness when the bag proved to contain pearls.",
+    "explanation": "Text-III: \"I suddenly caught sight of a bag. I shall never forget the joy and ecstasy I felt on thinking they might be parched grain... when I discovered them to be pearls.\" The happiness came at finding the bag, not at the pearls.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q7",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "The sage gave advice to his student that________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "property can be made"
+      },
+      {
+        "key": "b",
+        "text": "silver and gold are necessary"
+      },
+      {
+        "key": "c",
+        "text": "riches can be relied"
+      },
+      {
+        "key": "d",
+        "text": "profession is wealth"
+      }
+    ],
+    "optionsRaw": "(a) property can be made   (b) silver and gold are necessary   (c) riches can be relied   (d) profession is wealth",
+    "correctAnswer": "(d) profession is wealth",
+    "answer": "The sage advised his students to learn a skill, saying \"a profession is itself wealth\" and a living fountain, while property and gold can be stolen or spent.",
+    "explanation": "Text-IV: \"Learn a skill because property and riches of the world are not to be relied upon... but a profession is a living fountain and permanent wealth... a profession is itself wealth.\"",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q8",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "\"Little drops make an ocean.\" This proverb is appropriately depicted in________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Text-I"
+      },
+      {
+        "key": "b",
+        "text": "Text-III"
+      },
+      {
+        "key": "c",
+        "text": "Maxim-V"
+      },
+      {
+        "key": "d",
+        "text": "Maxim-III"
+      }
+    ],
+    "optionsRaw": "(a) Text-I   (b) Text-III   (c) Maxim-V   (d) Maxim-III",
+    "correctAnswer": "(c) Maxim-V",
+    "answer": "Maxim-V: \"Drop upon drop collected will make a river. Rivers upon rivers collected will make a sea. Little and little together will become much. The granary is but grain upon grain.\"",
+    "explanation": "Counting the maxims in their printed order, the 'drop upon drop' maxim is the fifth. It is the only passage that teaches how small amounts gathered together become great.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q9",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "A group of people travelling together is called as________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "sages"
+      },
+      {
+        "key": "b",
+        "text": "caravan"
+      },
+      {
+        "key": "c",
+        "text": "crew"
+      },
+      {
+        "key": "d",
+        "text": "shrewd men"
+      }
+    ],
+    "optionsRaw": "(a) sages   (b) caravan   (c) crew   (d) shrewd men",
+    "correctAnswer": "(b) caravan",
+    "answer": "A group of travellers journeying together is a caravan, as in Maxim-II: \"to go after a caravan without seeing the road\".",
+    "explanation": "The word is used in the text for a body of travellers on a road; 'crew' is the team working a ship and 'sages' are wise men, not travellers.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex3_q10",
+    "sectionCode": "U10S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "________may be the suitable message of text-II.",
+    "options": [
+      {
+        "key": "a",
+        "text": "'Self-done is well done,'"
+      },
+      {
+        "key": "b",
+        "text": "'Brave deeds need no show,'"
+      },
+      {
+        "key": "c",
+        "text": "'Small wit great boast,'"
+      },
+      {
+        "key": "d",
+        "text": "'Silent water run deep,'"
+      }
+    ],
+    "optionsRaw": "(a) 'Self-done is well done,'   (b) 'Brave deeds need no show,'   (c) 'Small wit great boast,'   (d) 'Silent water run deep,'",
+    "correctAnswer": "(d) 'Silent water run deep,'",
+    "answer": "The message of Text-II is that we do not value our safety and blessings until we have tasted the calamity they save us from; the noisy, panicking slave becomes quiet and deep once he understands, and the wise man achieves his purpose by calm action rather than loud words.",
+    "explanation": "The text states its moral explicitly: \"before he had tasted the calamity of being drowned, he knew not the safety of the boat; thus also a man does not appreciate the value of immunity from a misfortune, until it has befallen him.\" None of the four proverbs expresses this exactly, so the item is ambiguous; (d) has been chosen as the closest, because the slave's loud fear turns into quiet, deep understanding and the wise man wins by silence and action. A key naming a different option should be treated with caution.",
+    "bookPage": 166
+  },
+  {
+    "id": "u10_r_ex4_q1",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 4: Read the texts and answers the following questions. 1. What did the wealthy man ask the poor brother and what was his reply?",
+    "answer": "The wealthy brother, who was in the service of the sultan, asked his destitute brother why he did not serve the sultan in order to be delivered from the hardship of labouring. The poor brother replied that he did not wish to be delivered from the baseness of service, because wise men have said that it is better to eat barley bread and sit free than to gird oneself with a golden belt and stand in service. He added that it is better to leaven mortar of quicklime with one's own hand than to hold it on the breast before the Amir; that his precious life was spent in considering what he would eat in summer and wear in winter; and he asked his 'ignoble belly' to be satisfied with one bread rather than bend his back in service.",
+    "explanation": "The answer is taken directly from Text-I, including the quoted maxim and the four lines of verse that follow it.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q2",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Why could the slave not be pacified even though he was in the same boat with the king?",
+    "answer": "Because the slave had never been at sea before and was feeling the discomfort of a vessel for the first time. He was so terrified of drowning that he cried and trembled to such a degree that no kindness could calm him; the king himself became displeased because the matter could not be remedied.",
+    "explanation": "Text-II says the slave 'had never before been at sea' and 'could not be pacified by kindness', so his fear, not the king's presence, controlled him.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q3",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "3",
+    "question": "What did the wise man do to make the slave realize about the security of boat?",
+    "answer": "With the king's permission, the wise man ordered the slave to be thrown into the water. The slave swallowed some water, was caught and pulled by the hair to the boat, and clung to the stern with both his hands; then he sat down quietly in a corner. Having tasted the calamity of drowning, he realised the safety of the boat — as the wise man explained, a man does not appreciate immunity from a misfortune until it has befallen him.",
+    "explanation": "The wise man used a short, controlled experience instead of advice; the change in the slave's behaviour ('became quiet') proves that he had understood the value of the boat.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q4",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "4",
+    "question": "What kind of virtue the sage wanted to teach to his students?",
+    "answer": "The sage wanted to teach the virtue of learning a skill or profession. He told his students to learn a skill because property and the riches of the world cannot be relied upon — silver and gold may be stolen by a thief or gradually spent by the owner — whereas a profession is 'a living fountain and permanent wealth' that keeps a man honoured wherever he goes.",
+    "explanation": "Text-IV is a single piece of advice from a sage to his students, and its subject is the worth of a skill rather than of inherited wealth.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q5",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "5",
+    "question": "How does the professional man earn respect according to the sage?",
+    "answer": "According to the sage, a professional man earns respect because his profession is itself wealth. Even if he loses his riches it does not matter, since his skill remains with him; wherever he goes he enjoys respect and sits in high places, while a man with no skill must glean crumbs and see hardships.",
+    "explanation": "The sage contrasts the skilled man, whose profession is 'permanent wealth' and a source of honour, with the unskilled man who is reduced to begging crumbs.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q6",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Who is lucky and unlucky according to the maxim?",
+    "answer": "According to the maxim, he is lucky 'who has eaten and sowed' — one who has enjoyed the fruit of his earnings and also planted for the future — and he is unlucky 'who has died and not enjoyed', that is, one who piled up wealth but never used or enjoyed it.",
+    "explanation": "The sage's reply in Maxim-I links luck with using one's wealth and providing for the future, and bad luck with hoarding it until death.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q7",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Confide not to a friend every secret thou possess. How know you that he will not some time become thy foe? How far do you agree and why?",
+    "answer": "I agree with the maxim to a large extent. Human relations change with time and circumstances, and a friend of today may become a rival or foe tomorrow; a secret once told cannot be taken back and can be used against us, so complete self-disclosure to anyone is unwise. Prudence therefore suggests confiding only in a few tested and trustworthy people, and even then only what is necessary. However, I would add that suspicion must not become a habit: friendship grows on trust, and a person who never confides in anybody lives isolated and fearful. The maxim teaches balance — be careful in choosing whom to trust, not that friendship is worthless.",
+    "explanation": "This is an open-ended opinion question; the answer takes a clear stand ('to a large extent'), gives reasons from the maxim and adds a balanced qualification, as the unit's learning outcome requires.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q8",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Identify the maxim which reflects the value of real thing never fades or shatters.",
+    "answer": "The maxim is: \"Even after falling into mud, a jewel retains its costliness, and dust, although it may rise into the sky, is as contemptible as before. Capacity without education is deplorable and education without capacity is thrown away.\" It teaches that a real thing (the jewel, i.e. genuine ability or worth) never loses its value however low it falls, while something worthless (dust) gains nothing even if it rises high.",
+    "explanation": "The jewel-and-dust image is the maxim's statement that true worth is permanent; the second sentence applies it to capacity and education.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q9",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "9",
+    "question": "What kind of suggestion did Imam Ghazali give to the people?",
+    "answer": "Imam Ghazali advised people never to feel ashamed of asking about things they did not know. Asked how he had attained such a high degree of knowledge, he replied, \"by not being ashamed to ask about things I did not know.\" His suggestion, therefore, is to ask questions frankly and keep learning, because false shame is the enemy of knowledge.",
+    "explanation": "The advice is quoted in Maxim-II, where Ghazali's answer explains the method by which he gained his learning.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex4_q10",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Which tale from the above texts do you like the most? And why?",
+    "answer": "I like Text-II, the tale of the king, the frightened slave and the wise man, the most. It teaches a truth we all forget — that we do not value our safety and blessings until we have tasted the hardship from which they protect us. The way the wise man cures the slave not with long advice but with one brief, controlled experience is also a memorable lesson in practical wisdom and in handling people intelligently.",
+    "explanation": "Open-ended personal-response question; the answer names one text and justifies the choice with reference to its theme and method.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_r_ex5_q1",
+    "sectionCode": "U10S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 5: Work in pairs and write the concise central theme against each text. After you have completed, share your work with your partner. (Text-I, Text-II, Text-III, Text-IV, Text-V)",
+    "answer": "No. | Text | Central Theme\n1 | Text-I | Honest labour and independence are better than luxurious servitude; a free man's dry bread is worth more than a golden belt worn in service.\n2 | Text-II | We do not value our safety and blessings until we have tasted the calamity from which they save us; experience, not instruction, teaches appreciation.\n3 | Text-III | In the wilderness of real need, pearls are worthless; it is necessities, not riches, that decide a man's happiness.\n4 | Text-IV | A skill or profession is permanent wealth and honour, whereas property, silver and gold can be stolen or spent.\n5 | Text-V | A wise man lets others finish and waits for silence before he speaks; words inserted into the words of others only expose one's folly.",
+    "explanation": "Each theme is a one-sentence condensation of the text it belongs to, as the exercise asks; the teacher's note requires students to reread the texts before writing these.",
+    "bookPage": 167
+  },
+  {
+    "id": "u10_w_ex1_q1",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Write at least two sentences about each of the following topics in your notebook. Then, exchange your notebooks with your classmates to proofread. After you have completed, exchange your notebook with any of your class mates. Read each other's work and give feedback. Make changes in your work if needed. (Write what you say about……) 1. Getting education is ________",
+    "answer": "Getting education is the most valuable investment a person can make in himself. It is not only about memorising facts for examinations; it trains the mind to think clearly, to question what is wrong and to choose wisely. An educated person can earn an honourable living, support his family and serve society, and he can stand on his own feet with dignity. In short, education gives us both knowledge and the character needed to use it well.",
+    "explanation": "Open-ended writing task; the model gives more than the required two sentences on the given opening, then the notebook is to be exchanged for peer proofreading.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_w_ex1_q2",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 1: Write at least two sentences about each of the following topics in your notebook. Then, exchange your notebooks with your classmates to proofread. After you have completed, exchange your notebook with any of your class mates. Read each other's work and give feedback. Make changes in your work if needed. (Write what you say about……) 2. Your reaction to the food in college canteen ________",
+    "answer": "The food in our college canteen is cheap and quickly served, which suits students who have short breaks between classes. However, I feel the menu is monotonous and too oily — samosas, pakoras and biryani are repeated almost every day, and fresh fruit or salad is hardly available. I would like the canteen to add fruit, boiled eggs and clean drinking water, and to keep its prices within a student's pocket. On the whole the service is friendly, but the food needs to be healthier.",
+    "explanation": "Open-ended personal-response topic; the answer states a reaction, gives reasons and ends with a suggestion, which also gives material for the peer-feedback stage.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_w_ex1_q3",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 1: Write at least two sentences about each of the following topics in your notebook. Then, exchange your notebooks with your classmates to proofread. After you have completed, exchange your notebook with any of your class mates. Read each other's work and give feedback. Make changes in your work if needed. (Write what you say about……) 3. Elders must be respected because________",
+    "answer": "Elders must be respected because they have already walked the road on which we are only starting. Their experience warns us against mistakes, and their advice usually comes from love rather than self-interest. Respecting them keeps families united and passes our values and culture on to the next generation. Moreover, a society that honours its elders teaches its young people to be patient, humble and grateful.",
+    "explanation": "Open-ended writing task requiring at least two sentences; the answer completes the given opening with several reasons.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_w_ex1_q4",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 1: Write at least two sentences about each of the following topics in your notebook. Then, exchange your notebooks with your classmates to proofread. After you have completed, exchange your notebook with any of your class mates. Read each other's work and give feedback. Make changes in your work if needed. (Write what you say about……) 4. Early to bed, early to rise, makes man healthy, wealthy and wise________",
+    "answer": "A person who sleeps early gets complete rest, so he wakes up fresh, with a clear mind and a strong body. Rising early gives him quiet hours for study, prayer or exercise before the noise of the day begins, and this habit makes him punctual and hard-working. Punctuality and steady effort bring success in studies and later in earning a living. Thus the proverb rightly connects good health, prosperity and wisdom with a simple, disciplined daily routine.",
+    "explanation": "Open-ended writing task; the model explains each of the three claims of the proverb (health, wealth, wisdom) and links them to a routine.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_w_ex1_q5",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 1: Write at least two sentences about each of the following topics in your notebook. Then, exchange your notebooks with your classmates to proofread. After you have completed, exchange your notebook with any of your class mates. Read each other's work and give feedback. Make changes in your work if needed. (Write what you say about……) 5. Never, never, never give up________",
+    "answer": "Failure is not the end of a journey; it is only a lesson that tells us what to change. A student who gives up after one bad result loses every chance to improve, whereas one who tries again with a better method usually succeeds. Persistence, patience and a little self-correction can turn defeat into achievement. So we should keep trying until the goal is reached, remembering that most victories come to those who refuse to quit.",
+    "explanation": "Open-ended writing task requiring at least two sentences; the answer interprets the maxim and supports it with a student's example.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_w_ex2_q1",
+    "sectionCode": "U10S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Work individually and proofread the following letter by following the key tips provided above. After you have completed, compare your proofreading work with your partner.\n\"with the invention of the personal computer and the Internet, a new age in communications begins. now people could communicate fastest and more easily than ever before. Writing, editing, and storing information became quick and easy. It was no longest necessary to write draft after draft when changes could be made so easily using a word Processor program. Messages, could now be sended in no time to anywhere in the world, without addressing envelopes or licking stamps. Century most early, around the year 1450 a similar revolution in communications had occurred in the Germany. This happened when johannes gutenberg invented the printing press. he was not the first person to use printing to copy a peace of writing. printing was already being invented in the China, where they used clay to print oriental characters. Small items, such as posters and flyers, were already being printed in Europe too, using the woodblock method of printing. Books and other largest works were still being copied by hand. At this time, books were usually produced only in latin, and only the most educated people read them. Gutenbergs printing press was about to change all of this.\"",
+    "answer": "Corrected passage:\nWith the invention of the personal computer and the Internet, a new age in communications began. Now people could communicate faster and more easily than ever before. Writing, editing, and storing information became quick and easy. It was no longer necessary to write draft after draft when changes could be made so easily using a word processor program. Messages could now be sent in no time to anywhere in the world, without addressing envelopes or licking stamps. Centuries earlier, around the year 1450, a similar revolution in communications had occurred in Germany. This happened when Johannes Gutenberg invented the printing press. He was not the first person to use printing to copy a piece of writing. Printing had already been invented in China, where they used clay to print oriental characters. Small items, such as posters and flyers, were already being printed in Europe too, using the woodblock method of printing. Books and other large works were still being copied by hand. At this time, books were usually produced only in Latin, and only the most educated people read them. Gutenberg's printing press was about to change all of this.\n\nCorrections made:\n1. \"with\" → \"With\" — the first word of a passage must begin with a capital letter.\n2. \"begins\" → \"began\" — the narrative is in the past tense, so the verb must agree.\n3. \"now\" → \"Now\" — a new sentence begins after a full stop.\n4. \"fastest\" → \"faster\" — the comparative is needed with \"more easily than ever before\".\n5. \"no longest\" → \"no longer\" — the correct adverbial phrase is \"no longer\".\n6. \"word Processor\" → \"word processor\" — a common noun is not capitalised.\n7. \"Messages, could\" → \"Messages could\" — the comma wrongly separates the subject from its verb.\n8. \"sended\" → \"sent\" — \"send\" has the irregular past participle \"sent\".\n9. \"Century most early\" → \"Centuries earlier\" — faulty word order; 1450 is centuries before the computer age.\n10. \"in the Germany\" → \"in Germany\" — no article is used before the name of a country.\n11. \"johannes gutenberg\" → \"Johannes Gutenberg\" — proper nouns take capital letters.\n12. \"he\" → \"He\" — capital letter at the beginning of a sentence.\n13. \"peace of writing\" → \"piece of writing\" — \"piece\" means a portion; \"peace\" means calm.\n14. \"printing was already being invented\" → \"printing had already been invented\" — the past perfect is needed for the earlier event, and \"invent\" is not used in the progressive.\n15. \"in the China\" → \"in China\" — no article before a country name.\n16. \"other largest works\" → \"other large works\" — no comparison is being made, so the positive degree is required.\n17. \"latin\" → \"Latin\" — names of languages are capitalised.\n18. \"Gutenbergs\" → \"Gutenberg's\" — the possessive needs an apostrophe.",
+    "explanation": "The printed task calls the passage a letter, although it has neither salutation nor closing; it has therefore been proofread as a paragraph. The errors are the ones a Class XI student is expected to catch: capitalisation, tense, spelling, articles, word forms and punctuation.",
+    "bookPage": 169
+  },
+  {
+    "id": "u10_o_ex1_q1",
+    "sectionCode": "U10S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Look at the following sets of conversations and identify active listener and the one who responds properly.\nSet A — Ahmed: \"I'm just really stressed about work at the moment.\" Kinza: \"Me too, you wouldn't believe what one of my co-workers did yesterday.\" Ahmed: \"And it's hard for me to pay enough attention to the kids when I have this much on my plate and just want to relax when I get home.\" Kinza: \"Seriously, what she did was ridiculous.\" Ahmed: \"What did she do?\"\nSet B — Ahmed: \"I'm just really stressed about work at the moment.\" Kinza: \"Why is it more stressful than usual right now?\" Ahmed: \"Well, one of the people in my team is on holiday for a couple of weeks and I keep getting landed with their usual responsibilities.\" Kinza: \"Have you spoken to your boss about that? You shouldn't be doing someone else's job as well as your own.\"",
+    "answer": "Set B shows the active listener and the person who responds properly, and that person is Kinza.\nIn Set B Kinza pays attention to Ahmed's words, asks a clarifying question (\"Why is it more stressful than usual right now?\"), lets him finish his explanation, gives feedback that shows she has understood (\"you shouldn't be doing someone else's job as well as your own\") and offers a practical, respectful suggestion about speaking to his boss.\nIn Set A Kinza is not an active listener: she turns the talk to her own co-worker (\"Me too, you wouldn't believe...\"), ignores Ahmed's remark about his children, gives no feedback on his feelings, and finally Ahmed has to ask \"What did she do?\" — so he ends up listening to her instead. Set A therefore illustrates a failure of attentive listening, while Set B shows the tips in action: pay attention, show that you are listening, provide feedback, defer judgement and respond appropriately.",
+    "explanation": "The judgement follows the tips table on the same page: Set B uses questioning, feedback and respectful response; Set A hijacks the conversation and gives no feedback to the speaker.",
+    "bookPage": 170
+  },
+  {
+    "id": "u10_o_ex2_q1",
+    "sectionCode": "U10S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 2: Now, work in groups of two and discuss the following topics keeping above tips in the mind. Turn by turn, each student should make a simple statement about the following. One of the others should respond accurately to each other. 1. Two students discussing each other on pros and cons of the social media.",
+    "answer": "Model dialogue (Student A and Student B):\nA: I think social media has made our generation the most connected one in history — I can ask a class fellow a question at midnight and get an answer in a minute. But I also lose two hours a day just scrolling, and I often compare my life with other people's edited pictures.\nB: I agree with both points. For me the biggest advantage is learning: I follow two teachers who explain physics better than any book, and I found my scholarship announcement on a Facebook group. What worries me is fake news; last month a wrong health tip was forwarded to my family and my grandmother believed it.\nA: That is a serious disadvantage — misinformation spreads faster than corrections. And then there is the effect on our privacy: we share our location and photographs without thinking who may see them.\nB: So would you say the pros are bigger than the cons?\nA: I would say the tool is neutral and the user decides — if we limit our screen time, check facts before forwarding and keep our accounts private, social media is more useful than harmful.\nB: That sounds fair, and it matches my own experience.",
+    "explanation": "Open-ended speaking task. The model shows the required turn-taking, simple statements, accurate responses, a clarifying question and respectful disagreement, following the listening/responding tips of section 10.3.",
+    "bookPage": 171
+  },
+  {
+    "id": "u10_o_ex2_q2",
+    "sectionCode": "U10S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Now, work in groups of two and discuss the following topics keeping above tips in the mind. Turn by turn, each student should make a simple statement about the following. One of the others should respond accurately to each other. 2. Two friends asking each other's opinion about equality of all before law.",
+    "answer": "Model dialogue (Friend A and Friend B):\nA: I believe equality before law is the first condition of justice — a minister and a labourer should be judged by the same rule, or else the law loses the respect of ordinary people.\nB: I agree in principle, but in practice money and influence change the result. A poor man waits years for a hearing while a rich man's lawyer delays the case until the poor man gives up.\nA: That is why I think free legal aid and speedy trials matter as much as the principle itself. Equality on paper means nothing if a poor man cannot afford a lawyer.\nB: True. Do you think the law should treat a child and an adult equally?\nA: No — equality before law means equal protection, not identical treatment. A child, a sick person or a first offender may need different handling, but that difference must be written in the law and applied to everyone alike.\nB: Then we agree: equal protection, no privilege, and special rules only when the law openly provides them.",
+    "explanation": "Open-ended speaking task; the model dialogue keeps turn-taking, offers opinions with reasons, asks and answers a follow-up question and closes with agreement, as required by the tips in the section.",
+    "bookPage": 171
+  },
+  {
+    "id": "u10_g_ex1_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Given below is a sample of brief synopsis of a research report. It is written in active voice. Work in pairs and change the following from active voice into passive voice. After you have completed, share your work with your partner.\n\"In this research, I administered a research survey. I created a compelling sample of 100 scientists. I invited them to participate in the survey by sending them an invite through emails. I received e-mail addresses from different research centres of the country.\"",
+    "answer": "Passive version:\n\"In this research, a research survey was administered by me. A compelling sample of 100 scientists was created by me. They were invited by me to participate in the survey by being sent an invitation through emails. E-mail addresses were received by me from different research centres of the country.\"\n\nNotes: (i) the object of each active sentence becomes the subject; (ii) the subject 'I' becomes 'me' after 'by'; (iii) simple past 'administered/created/invited/received' becomes 'was/were + past participle'; (iv) in the third sentence the gerund phrase 'by sending them an invite' is also made passive ('by being sent an invitation'), because the researchers, not the scientists, were doing the sending.",
+    "explanation": "The conversion applies the rules in the printed table: past simple → was/were + past participle, and the pronoun I → me after 'by'.",
+    "bookPage": 173
+  },
+  {
+    "id": "u10_g_ex2_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Given below is a sample of newspaper report. It is written in passive voice. Work individually and change the following from passive voice into active voice. Then, write the same in your notebook.\n\"A bus has been stolen from outside the school. The thief was seen by some children. The bus is being searched by the police now. Children's descriptions will be used by them to catch the thief.\"",
+    "answer": "Active version:\n\"Someone has stolen a bus from outside the school. Some children saw the thief. The police are searching the bus now. They will use the children's descriptions to catch the thief.\"\n\nNotes: (i) 'has been stolen' → present perfect active 'has stolen', with the unknown doer supplied as 'someone'; (ii) 'was seen by some children' → past simple active 'saw', with 'some children' as subject; (iii) 'is being searched by the police' → present continuous active 'are searching' (police takes a plural verb); (iv) 'will be used by them' → future active 'will use', the pronoun 'them' becoming 'they'.",
+    "explanation": "Each passive verb is converted to the matching active tense and the agent in the 'by'-phrase is made the subject; where no agent is given, an indefinite subject such as 'someone' is supplied.",
+    "bookPage": 173
+  },
+  {
+    "id": "u10_g_ex3_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 3: Work in pairs and change the voice of the following sentences. Rewrite the sentences in your notebook and share your work with your partner.\n1. Don't touch the naked wire. 2. There is nothing to say. 3. He has to purchase a car. 4. One should listen to one's conscience. 5. I like the people to respect me. 6. Turn him out. 7. Someone killed the criminal. 8. It is time to switch off T.V. 9. I am to take tea. 10. Please bring me a glass of water. 11. Let her write a poem. 12. Did you tell a lie? 13. Why did you help her? 14. The judge enquired in to the case. 15. She made me sing.",
+    "answer": "1. Don't touch the naked wire. → Let the naked wire not be touched. (negative imperative: Let + object + not be + V3)\n2. There is nothing to say. → There is nothing to be said. (infinitive after 'nothing' becomes passive)\n3. He has to purchase a car. → A car has to be purchased by him. ('has to' + passive infinitive)\n4. One should listen to one's conscience. → One's conscience should be listened to. (the object becomes subject; the preposition 'to' is retained)\n5. I like the people to respect me. → I like to be respected by the people. ('to respect me' → 'to be respected by the people')\n6. Turn him out. → Let him be turned out. (imperative → 'Let ... be + V3')\n7. Someone killed the criminal. → The criminal was killed. (the indefinite agent 'someone' is dropped)\n8. It is time to switch off T.V. → It is time for the T.V. to be switched off. (passive infinitive with 'for + object')\n9. I am to take tea. → Tea is to be taken by me. ('am to' + passive infinitive; I → me)\n10. Please bring me a glass of water. → You are requested to bring me a glass of water. (polite request in passive; also acceptable: Let a glass of water be brought to me.)\n11. Let her write a poem. → Let a poem be written by her. ('Let' is kept; the infinitive becomes passive)\n12. Did you tell a lie? → Was a lie told by you? (past interrogative passive)\n13. Why did you help her? → Why was she helped by you? (the question word stays first; 'did + V1' → 'was/were + V3')\n14. The judge enquired in to the case. → The case was enquired into by the judge. (prepositional verb keeps its preposition)\n15. She made me sing. → I was made to sing by her. (after 'make' in the passive, 'to' is restored before the infinitive)",
+    "explanation": "Each sentence is converted according to its structure (imperative, interrogative, infinitive, prepositional verb or causative); the reason is given in brackets so the rule applied is visible.",
+    "bookPage": 174
+  },
+  {
+    "id": "u10_g_ex4_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 4: Work in pairs and use words given below to complete the following text. After you have completed, share your work with your partner. Words: resembles, wilderness, purpose, findings, valley, strangest, construction, political, pending, inhabitants, mystery, unclear, archaeologists, believed, vastness, located.\n\"The historic Rani Kot Fort is a______. It was built on mountains of the Khirthar Ranges of Sindh. It is ______about 28 kilometres from the Sann Gate from Jamshed. It is ______to be the largest fort in the world having walls nearly 35 kilometres long. The age of the fort is______, however, ______predict that the magnificent structure was built sometime in the 9th-century. Visually, its walls are truly a roller coaster ride, sometimes going as high as three thousand feet above sea level while other times instantly sliding down towards the ground. Archaeologists want to ensure Rani Kot Fort gets the recognition it deserves. Its ______resembles the Great Wall of China which is why it is often referred to as 'The Great Wall of Sindh.' Since 1993, it is has been on the tentative list to be designated a UNESCO World Heritage Site. Its status is still______. Many agree that it is the most fascinating place in Sindh. The surrounding walls of Rani Kot Fort are made from gypsum and lime cut sandstone. To give you an idea of the ______of Rani Kot Fort, it is so large that there is enough space in it for building hundreds of other forts. It has been determined that Rani Kot Fort was built for the ______of defence and to house many______. The rulers of different times lived here and it was the center of ______activities where many ancient leaders of Sindh gathered. Artefacts uncovered at Rani Kot tell a fascinating story of its inhabitants and a rich history that spans thousands of years. Some of the ______include archaic coins, terracotta of the Indus Civilization, an engraved sign of a swastika, a leaf of the papal tree (sacred fig); evidence of a peacock, sunflower, and lotus flower; remains of Zoroastrians and Buddhists, and arrows of different kinds. The entire fort is surrounded by hills that form a small ______through which a stream passes. Its name is taken from this stream; 'Rani' meaning Stream. The Rani Kot Fort ______no other fort in the world. Its unusual size, lost history, strategically useless position, uninhabited area, and unexplored features make the fort one of the ______places in the world. One would require a time machine to solve its mystery. Its unusual size and location in the absolute ______doesn't make sense, at least in the present times.\"",
+    "answer": "Completed text:\n\"The historic Rani Kot Fort is a mystery. It was built on mountains of the Khirthar Ranges of Sindh. It is located about 28 kilometres from the Sann Gate from Jamshed. It is believed to be the largest fort in the world having walls nearly 35 kilometres long. The age of the fort is unclear, however, archaeologists predict that the magnificent structure was built sometime in the 9th-century. Visually, its walls are truly a roller coaster ride, sometimes going as high as three thousand feet above sea level while other times instantly sliding down towards the ground. Archaeologists want to ensure Rani Kot Fort gets the recognition it deserves. Its construction resembles the Great Wall of China which is why it is often referred to as 'The Great Wall of Sindh.' Since 1993, it is has been on the tentative list to be designated a UNESCO World Heritage Site. Its status is still pending. Many agree that it is the most fascinating place in Sindh. The surrounding walls of Rani Kot Fort are made from gypsum and lime cut sandstone. To give you an idea of the vastness of Rani Kot Fort, it is so large that there is enough space in it for building hundreds of other forts. It has been determined that Rani Kot Fort was built for the purpose of defence and to house many inhabitants. The rulers of different times lived here and it was the center of political activities where many ancient leaders of Sindh gathered. Artefacts uncovered at Rani Kot tell a fascinating story of its inhabitants and a rich history that spans thousands of years. Some of the findings include archaic coins, terracotta of the Indus Civilization, an engraved sign of a swastika, a leaf of the papal tree (sacred fig); evidence of a peacock, sunflower, and lotus flower; remains of Zoroastrians and Buddhists, and arrows of different kinds. The entire fort is surrounded by hills that form a small valley through which a stream passes. Its name is taken from this stream; 'Rani' meaning Stream. The Rani Kot Fort resembles no other fort in the world. Its unusual size, lost history, strategically useless position, uninhabited area, and unexplored features make the fort one of the strangest places in the world. One would require a time machine to solve its mystery. Its unusual size and location in the absolute wilderness doesn't make sense, at least in the present times.\"\n\nBlank-by-blank key:\nNo. | Blank context | Word\n1 | is a ______ | mystery\n2 | It is ______ about 28 kilometres | located\n3 | It is ______ to be the largest | believed\n4 | The age of the fort is ______ | unclear\n5 | however, ______ predict | archaeologists\n6 | Its ______ resembles the Great Wall | construction\n7 | Its status is still ______ | pending\n8 | an idea of the ______ of Rani Kot Fort | vastness\n9 | built for the ______ of defence | purpose\n10 | to house many ______ | inhabitants\n11 | the center of ______ activities | political\n12 | Some of the ______ include | findings\n13 | a small ______ through which a stream passes | valley\n14 | The Rani Kot Fort ______ no other fort | resembles\n15 | one of the ______ places in the world | strangest\n16 | location in the absolute ______ | wilderness",
+    "explanation": "All sixteen words from the word bank are used exactly once; each choice is fixed by grammar and collocation (e.g. 'is believed to be', 'status is still pending', 'absolute wilderness').",
+    "bookPage": 174
+  },
+  {
+    "id": "u10_g_ex5_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 5: Work in pairs and correct the spelling mistakes in the paragraph below. After you have completed, share your work with your partner.\n\"Food directly affects your phyzical and emotional health. If you eat none-nutricious gunk food and do note pay attention to your diete, than you pay the prise of poor healthd or became severly overwieght. If you eat good food and contlrol wat you eat, your chancses of bieng healdhy are much bettre. The palace to bigin a healdhy lifestyle is in your choisec of food, dat is in your deit. I beleive, a deit is a plain for eating. A well-ballenced deit perovides all of the anergy you ned to keep active throuhguot the day. It also gives you the nutreints you ned for growth and repare, helping you to saty strrong and healdhy and help to perevent deit-relatad illnes, such as some cansers.\"",
+    "answer": "Corrected paragraph:\n\"Food directly affects your physical and emotional health. If you eat non-nutritious junk food and do not pay attention to your diet, then you pay the price of poor health or become severely overweight. If you eat good food and control what you eat, your chances of being healthy are much better. The place to begin a healthy lifestyle is in your choice of food, that is in your diet. I believe a diet is a plan for eating. A well-balanced diet provides all of the energy you need to keep active throughout the day. It also gives you the nutrients you need for growth and repair, helping you to stay strong and healthy and help to prevent diet-related illness, such as some cancers.\"\n\nCorrections:\n1. phyzical → physical\n2. none-nutricious → non-nutritious\n3. gunk food → junk food\n4. note → not\n5. diete → diet\n6. than → then\n7. prise → price\n8. healthd → health\n9. became → become\n10. severly → severely\n11. overwieght → overweight\n12. contlrol → control\n13. wat → what\n14. chancses → chances\n15. bieng → being\n16. healdhy → healthy\n17. bettre → better\n18. palace → place\n19. bigin → begin\n20. healdhy → healthy\n21. choisec → choice\n22. dat → that\n23. deit → diet\n24. beleive → believe\n25. deit → diet\n26. plain → plan\n27. well-ballenced → well-balanced\n28. deit → diet\n29. perovides → provides\n30. anergy → energy\n31. ned → need\n32. throuhguot → throughout\n33. nutreints → nutrients\n34. ned → need\n35. repare → repair\n36. saty → stay\n37. strrong → strong\n38. healdhy → healthy\n39. perevent → prevent\n40. deit-relatad → diet-related\n41. illnes → illness\n42. cansers → cancers",
+    "explanation": "The repeated misspelling 'deit' has been corrected at every occurrence (diet); the comma after 'I believe' is dropped because the clause continues. The corrected paragraph is given in full so every correction can be checked in context.",
+    "bookPage": 175
+  },
+  {
+    "id": "u10_g_ex6_q1",
+    "sectionCode": "U10S4",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 6: Work individually. In each of the groups of words below, one word may be misspelt or no words may be misspelled. If a word is misspelt, write it correctly to the right of each group. If none of the words in the group is misspelled, write \"none.\"\n1. fuzzes, laundrys, sufficient 2. turkeys, trophies, arrival, armies 3. acrage, analysis, dosage 4. acompaniment,played, interviewed 5. privilege, excelling, eighth 6. adolesence, contemporary, ninty 7. athletic, conscious, mathematics 8. performance, fiery, recede 9. leisure, familiar, professor 10. undoubtly, experience, succeed 11. seize, acceptance, grammer 12. pleasant, slyly, watches 13. accidentally,embarass, intelligence 14. prejudice, preferred, lieutenant 15. payed, characteristic, intelligence, attendant 16. sergeant, noticable, deceit 17. particuler, arbitrarily, attorneys 18. neither, acknowledge, goverment 19. permit, referring, foreign 20. halves, across, 21. subtle, judgement, ancient 22. said, enviroment, interest 23. realize, alleys, acheive 24. preference, convenient, releif 25. awkward,considerably, necessasry",
+    "answer": "No. | Words given | Correction (write \"none\" if all are correct)\n1 | fuzzes, laundrys, sufficient | laundries ('laundrys' is wrong: consonant + y takes -ies)\n2 | turkeys, trophies, arrival, armies | none\n3 | acrage, analysis, dosage | acreage\n4 | acompaniment, played, interviewed | accompaniment\n5 | privilege, excelling, eighth | none\n6 | adolesence, contemporary, ninty | adolescence; ninety (this group contains two errors)\n7 | athletic, conscious, mathematics | none\n8 | performance, fiery, recede | none\n9 | leisure, familiar, professor | none\n10 | undoubtly, experience, succeed | undoubtedly\n11 | seize, acceptance, grammer | grammar\n12 | pleasant, slyly, watches | none\n13 | accidentally, embarass, intelligence | embarrass\n14 | prejudice, preferred, lieutenant | none\n15 | payed, characteristic, intelligence, attendant | paid\n16 | sergeant, noticable, deceit | noticeable\n17 | particuler, arbitrarily, attorneys | particular\n18 | neither, acknowledge, goverment | government\n19 | permit, referring, foreign | none\n20 | halves, across | none\n21 | subtle, judgement, ancient | none ('judgement' is the accepted British spelling; 'judgment' is the American form)\n22 | said, enviroment, interest | environment\n23 | realize, alleys, acheive | achieve\n24 | preference, convenient, releif | relief\n25 | awkward, considerably, necessasry | necessary",
+    "explanation": "Each group was checked word by word; the rule or the correct form is noted in brackets. Group 6 breaks the exercise's 'one word' assumption, and group 4 is printed without a space after the comma ('acompaniment,played').",
+    "bookPage": 176
+  }
+]

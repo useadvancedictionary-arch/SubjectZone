@@ -1,0 +1,278 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "If the volume occupied by oxygen gas (O₂) at STP is 44.8 dm³, the number of molecules of O₂ in the vessels are:",
+    "options": [
+      "3.01 × 10²³",
+      "6.02 × 10²³",
+      "12.04 × 10²³",
+      "24.08 × 10²³"
+    ],
+    "correct": "c",
+    "explanation": "At STP one mole of any gas occupies 22.4 dm³, so n(O₂) = 44.8/22.4 = 2 mol. Number of molecules = n × N_A = 2 × 6.02 × 10²³ = 12.04 × 10²³. Option (a) corresponds to 0.5 mol, (b) to 1 mol and (d) to 4 mol, so none of them matches 2 mol.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The number of carbon atoms in 1 mole of sugar (C₁₂H₂₂O₁₁) are approximately:",
+    "options": [
+      "6 × 10²³",
+      "24 × 10²³",
+      "60 × 10²³",
+      "72 × 10²³"
+    ],
+    "correct": "d",
+    "explanation": "One mole of C₁₂H₂₂O₁₁ contains 12 moles of carbon atoms. Number of C atoms = 12 × 6.02 × 10²³ = 72.24 × 10²³ ≈ 72 × 10²³. Option (a) is only 1 mol of C atoms, (b) is 4 mol and (c) is 10 mol, so (d) is correct.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "In the reaction 2Na + 2H₂O → 2NaOH + H₂, if 23g of Na reacts with excess of water, the volume of hydrogen gas (H₂) liberated at STP should be:",
+    "options": [
+      "11.2 dm³",
+      "22.4 dm³",
+      "33.6 dm³",
+      "44.8 dm³"
+    ],
+    "correct": "a",
+    "explanation": "23 g of Na = 23/23 = 1 mol. The equation 2Na + 2H₂O → 2NaOH + H₂ shows that 2 mol Na produce 1 mol H₂, so 1 mol Na produces 0.5 mol H₂. Volume at STP = 0.5 × 22.4 = 11.2 dm³. Options (b), (c) and (d) correspond to 1, 1.5 and 2 mol H₂ and would require 2, 3 and 4 mol Na respectively.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Which of the following sample of substances contains the same number of atoms as that of 20g calcium:",
+    "options": [
+      "16 g S",
+      "20 g C",
+      "19 g K",
+      "24 g Mg"
+    ],
+    "correct": "a",
+    "explanation": "20 g Ca = 20/40 = 0.5 mol of Ca atoms. 16 g S = 16/32 = 0.5 mol of S atoms, so it contains the same number of atoms (0.5 × 6.02 × 10²³ = 3.01 × 10²³). 20 g C = 1.67 mol, 19 g K = 19/39 = 0.49 mol and 24 g Mg = 1 mol, so (b), (c) and (d) do not match.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "The mass of 1 mole Cl₂ gas is 35.5g",
+      "One mole of H₂ gas contains 6.02 × 10²³ molecules of H₂",
+      "Number of atoms in 23g Na and 24g Mg are equal",
+      "One moles of O₂ at S.T.P occupy 22.4 dm³ volume"
+    ],
+    "correct": "a",
+    "explanation": "Molar mass of Cl₂ = 2 × 35.5 = 71 g mol⁻¹, so one mole of Cl₂ has a mass of 71 g, not 35.5 g; (a) is therefore the incorrect statement. (b) is correct because one mole of any substance contains 6.02 × 10²³ molecules. (c) is correct: 23 g Na = 1 mol Na atoms and 24 g Mg = 1 mol Mg atoms. (d) is correct: one mole of O₂ occupies 22.4 dm³ at STP.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "For Avogadro's number, this statement is incorrect:",
+    "options": [
+      "It is the no. of particles in one moles of any substances",
+      "Its numerical value is 6.02 × 10²³",
+      "Its value change if temperature increases",
+      "Its value change if number of moles increases"
+    ],
+    "correct": "c",
+    "explanation": "Avogadro's number is a universal constant, N_A = 6.02 × 10²³ particles per mole. It is defined per mole and does not change with temperature, so (c) is the incorrect statement and is the key. (a) is its definition and (b) is its numerical value. (d) is imprecisely worded; it can only be true if 'its value' is read as the total number of particles N, which does increase with the number of moles (N = nN_A), not as the constant N_A itself.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The minimum number of moles are present in:",
+    "options": [
+      "1 dm³ of methane gas at STP",
+      "5 dm³ of helium gas at STP",
+      "10 dm³ of hydrogen gas at STP",
+      "22.4 dm³ of chlorine gas at STP"
+    ],
+    "correct": "a",
+    "explanation": "At STP, n = V/22.4. (a) 1/22.4 = 0.045 mol; (b) 5/22.4 = 0.223 mol; (c) 10/22.4 = 0.446 mol; (d) 22.4/22.4 = 1 mol. The smallest number of moles is in 1 dm³ of methane, so (a) is correct.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Number of atoms in 60g carbon are:",
+    "options": [
+      "3.01 × 10²³",
+      "3.01 × 10²⁴",
+      "6.02 × 10²³",
+      "6.02 × 10²⁴"
+    ],
+    "correct": "b",
+    "explanation": "n(C) = 60/12 = 5 mol. Number of atoms = 5 × 6.02 × 10²³ = 30.1 × 10²³ = 3.01 × 10²⁴. Option (a) is 10 times smaller, (c) is 5 times smaller, and (d) is twice the correct value.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Maximum number of molecules present in the following sample of gas:",
+    "options": [
+      "100g O₂",
+      "100g CH₄",
+      "100g CO₂",
+      "100g Cl₂"
+    ],
+    "correct": "b",
+    "explanation": "Number of moles in 100 g: O₂ = 100/32 = 3.13; CH₄ = 100/16 = 6.25; CO₂ = 100/44 = 2.27; Cl₂ = 100/71 = 1.41. For equal masses the substance with the smallest molar mass gives the most molecules, so CH₄ gives the maximum: 6.25 × 6.02 × 10²³ = 3.76 × 10²⁴ molecules.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Generally actual yield is:",
+    "options": [
+      "Greater than theoretical yield",
+      "Less than theoretical yield",
+      "Equal to the theoretical yield",
+      "Some times greater and some times less than theoretical yield"
+    ],
+    "correct": "b",
+    "explanation": "Actual yield is the amount of product really obtained, while theoretical yield is the maximum calculated from the balanced equation. In practice some reactant remains unreacted, side reactions occur, the reaction may be reversible and product is lost during handling, so the actual yield is generally less than the theoretical yield. It is not generally greater than or equal to it, so (b) is correct.",
+    "pdfPage": 25,
+    "bookPage": 19
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following:\n(i) Stoichiometry\n(ii) Exponential Notation\n(iii) Molar Volume",
+    "answer": "(i) Stoichiometry: The branch of chemistry that deals with the quantitative relationships between the amounts (masses, moles or volumes) of reactants and products in a balanced chemical equation. For example, 2H₂ + O₂ → 2H₂O shows that 2 mol H₂ react with 1 mol O₂ to give 2 mol H₂O.\n(ii) Exponential Notation: A method of writing very large or very small numbers in the form a × 10ⁿ, where a is a number between 1 and 10 (1 ≤ a < 10) and n is an integer. For example, 602,000,000,000,000,000,000,000 = 6.02 × 10²³ and 0.00025 = 2.5 × 10⁻⁴.\n(iii) Molar Volume: The volume occupied by one mole of any gas at standard temperature and pressure (STP, 273 K and 1 atm). It is 22.4 dm³ mol⁻¹ (22.4 L mol⁻¹ or 22 400 cm³ mol⁻¹) for an ideal gas.",
+    "explanation": "Definitions should state what each quantity means and its standard value/unit; molar volume is 22.4 dm³ mol⁻¹ at STP.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Express the following numbers in exponential notation:\n(i) 3652\n(ii) 0.0231\n(iii) 0.000072",
+    "answer": "(i) 3652 = 3.652 × 10³ (the decimal point is moved 3 places to the left, so the exponent is +3).\n(ii) 0.0231 = 2.31 × 10⁻² (the decimal point is moved 2 places to the right, so the exponent is −2).\n(iii) 0.000072 = 7.2 × 10⁻⁵ (the decimal point is moved 5 places to the right, so the exponent is −5).",
+    "explanation": "The coefficient must lie between 1 and 10; the exponent counts the number of places the decimal point is moved, being positive when it is moved left and negative when it is moved right.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Express the following in simple numbers.\n(i) 3.26 × 10⁻³\n(ii) 1.921 × 10²\n(iii) 1.02 × 10⁵",
+    "answer": "(i) 3.26 × 10⁻³ = 0.00326 (move the decimal point 3 places to the left).\n(ii) 1.921 × 10² = 192.1 (move the decimal point 2 places to the right).\n(iii) 1.02 × 10⁵ = 102 000 (move the decimal point 5 places to the right).",
+    "explanation": "A positive power of ten moves the decimal point to the right; a negative power moves it to the left.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Define rounding of data. Give various rules of rounding of data.",
+    "answer": "Rounding of data: Rounding (or rounding off) is the process of reducing the number of digits in a measured or calculated value to the required number of significant figures, choosing the nearest value so that the result remains as close as possible to the original value.\nRules for rounding data:\n1. If the digit to be dropped is less than 5, the last retained digit is left unchanged: 4.6248 → 4.62 (to 3 significant figures).\n2. If the digit to be dropped is greater than 5, the last retained digit is increased by 1: 4.628 → 4.63.\n3. If the digit to be dropped is exactly 5 and is followed only by zeros (or by nothing), the last retained digit is rounded to the nearest even digit: 4.625 → 4.62, but 4.635 → 4.64.\n4. If the digit to be dropped is 5 followed by a non-zero digit, the last retained digit is increased by 1: 4.6253 → 4.63.\n5. Rounding should be done only once, at the end of the calculation; intermediate results should be carried with extra digits.\n6. In addition and subtraction, the answer should have the same number of decimal places as the measurement with the fewest decimal places; in multiplication and division, the answer should have the same number of significant figures as the measurement with the fewest significant figures.\n7. When a whole number is rounded, the dropped digits are replaced by zeros so that the magnitude (place value) is preserved: 4567 rounded to 3 significant figures is 4570.",
+    "explanation": "State the definition first, then list the digit-based rules and the rules for significant figures in combined calculations.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Define theoretical yield, actual yield and percent yield. Why the practical yield is often less than theoretical yield?",
+    "answer": "Theoretical yield: The maximum amount of product that can be obtained from a given amount of limiting reactant, calculated from the stoichiometry of the balanced chemical equation, assuming that the reaction goes to completion and no product is lost.\nActual yield: The amount of product actually obtained when the reaction is carried out experimentally.\nPercent yield: The ratio of the actual yield to the theoretical yield, expressed as a percentage:\nPercent yield = (actual yield / theoretical yield) × 100\nThe practical (actual) yield is often less than the theoretical yield because:\n- the reaction may be reversible and does not go to completion;\n- side reactions may convert some reactant into unwanted products;\n- some reactant may remain unreacted or the reactants may not mix completely;\n- product is lost during filtration, transfer, evaporation, washing or drying;\n- the product may be impure or some of it may decompose;\n- errors in weighing and measurement also lower the apparent yield.\nFor example, if the theoretical yield is 10.0 g and only 8.2 g of product is obtained, the percent yield is (8.2/10.0) × 100 = 82%.",
+    "explanation": "Distinguish the three yields and give the percent-yield formula; the reasons for loss are both chemical (incomplete or side reactions) and practical (handling losses).",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What is meant by mole and Avogadro's number? How are they inter related to each other?",
+    "answer": "Mole: One mole is the amount of substance that contains as many elementary particles (atoms, molecules, ions, electrons, etc.) as there are atoms in exactly 12 g of carbon-12. This number is 6.02 × 10²³ particles, so 1 mol = 6.02 × 10²³ particles. The mole is the SI unit for amount of substance (symbol mol).\nAvogadro's number: Avogadro's number (N_A) is the number of particles present in one mole of any substance. Its value is 6.02 × 10²³ mol⁻¹ (more precisely 6.022 × 10²³ mol⁻¹).\nInterrelation: The mole is defined in terms of Avogadro's number. One mole of any substance always contains N_A particles:\nN = n × N_A    and    n = N / N_A\nwhere N is the number of particles and n is the number of moles. The mass of one mole of a substance is its molar mass in grams, and one mole of any gas occupies 22.4 dm³ at STP. Thus 1 mol of H₂O contains 6.02 × 10²³ H₂O molecules and has a mass of 18 g; 1 mol of Na contains 6.02 × 10²³ Na atoms and has a mass of 23 g.",
+    "explanation": "Define the mole via carbon-12 and define N_A as the number of particles per mole, then show N = nN_A as the quantitative link between them.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is meant by Avogadro's number? Explain concept of mole with the help of Avogadro's number.",
+    "answer": "Avogadro's number: The number of particles (atoms, molecules, ions or formula units) present in one mole of any substance is called Avogadro's number. It is denoted by N_A and has the value 6.02 × 10²³ particles per mole (6.02 × 10²³ mol⁻¹).\nConcept of the mole with the help of Avogadro's number: The mole is defined as the amount of substance that contains Avogadro's number (6.02 × 10²³) of particles. Avogadro's number therefore provides the numerical link between a macroscopic amount (one mole) and the number of microscopic particles:\n- 1 mol of hydrogen atoms = 6.02 × 10²³ H atoms = 1 g of H;\n- 1 mol of water molecules = 6.02 × 10²³ H₂O molecules = 18 g of H₂O;\n- 1 mol of sodium chloride = 6.02 × 10²³ formula units of NaCl = 58.5 g of NaCl;\n- 1 mol of any gas at STP = 6.02 × 10²³ molecules = 22.4 dm³.\nThe number of moles in a sample is obtained by dividing the number of particles by Avogadro's number, n = N/N_A. For example, 1.204 × 10²⁴ molecules of CO₂ contain 1.204 × 10²⁴ / 6.02 × 10²³ = 2 mol of CO₂.",
+    "explanation": "Use examples showing that one mole of different substances always contains the same number of particles but has a different mass.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "What is a Limiting reactant? How does it control the amount of product formed in a chemical reaction.",
+    "answer": "Limiting reactant: The reactant that is completely consumed first in a chemical reaction is called the limiting reactant (limiting reagent). When it is used up, the reaction stops, even though the other reactant(s) may still be present. The reactant left over is called the excess reactant.\nHow it controls the amount of product: The amount of product formed is determined only by the amount of the limiting reactant, because no more product can be formed once the limiting reactant is consumed. The calculation uses the mole ratio from the balanced equation:\nmoles of product = moles of limiting reactant × (coefficient of product / coefficient of limiting reactant)\nExample: 2H₂ + O₂ → 2H₂O. If 2 mol H₂ is mixed with 2 mol O₂, the 2 mol H₂ needs only 1 mol O₂, so H₂ is the limiting reactant and O₂ is in excess. The reaction produces 2 mol H₂O (36 g), and 1 mol O₂ remains unreacted. The product amount cannot be based on the 2 mol O₂ because H₂ runs out first.\nA second example is Numerical Question 2 of this chapter: 100 g NH₄Cl (1.87 mol) and 100 g Ca(OH)₂ (1.35 mol) are mixed. The equation 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O requires 2 mol NH₄Cl for every 1 mol Ca(OH)₂; 1.35 mol Ca(OH)₂ would need 2.70 mol NH₄Cl, but only 1.87 mol is available. NH₄Cl is therefore limiting and controls the yield: 1.87 mol NH₃, i.e. 31.7 g.",
+    "explanation": "The limiting reactant is used up first; product moles are calculated from it, not from the excess reactant, using the balanced-equation mole ratio.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Calculate the number of moles and molecules in:\n(i) 38g of carbon disulphide (CS₂)\n(ii) 68.4g of sucrose (C₁₂H₂₂O₁₁)",
+    "answer": "(i) Molar mass of CS₂ = 12.01 + 2(32.06) = 76.13 g mol⁻¹.\nNumber of moles = mass/molar mass = 38/76.13 = 0.499 mol.\nNumber of molecules = n × N_A = 0.499 × 6.02 × 10²³ = 3.00 × 10²³ molecules.\n(ii) Molar mass of C₁₂H₂₂O₁₁ = 12(12.01) + 22(1.008) + 11(16.00) = 342.3 g mol⁻¹.\nNumber of moles = 68.4/342.3 = 0.1998 ≈ 0.199 mol.\nNumber of molecules = 0.199 × 6.02 × 10²³ = 1.20 × 10²³ molecules (the book rounds this to 1.19 × 10²³).\nPrinted answers: (i) 0.499 moles and 3.0 × 10²³ molecules; (ii) 0.199 moles and 1.19 × 10²³ molecules.",
+    "explanation": "Use n = mass/molar mass and then N = nN_A. The printed values are reproduced; the second molecule count differs slightly because the molar mass and mole value are rounded.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Ammonia gas can be produced by heating together the solid NH₄Cl and Ca(OH)₂.\n2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O\nIf a mixture containing 100g of each of these solids is heated, determine the limiting reactant and the mass of NH₃ gas produced.",
+    "answer": "M(NH₄Cl) = 14 + 4(1) + 35.5 = 53.5 g mol⁻¹; n(NH₄Cl) = 100/53.5 = 1.869 mol.\nM(Ca(OH)₂) = 40 + 2(16 + 1) = 74 g mol⁻¹; n(Ca(OH)₂) = 100/74 = 1.351 mol.\nThe balanced equation 2NH₄Cl + Ca(OH)₂ → 2NH₃ + CaCl₂ + 2H₂O shows that 2 mol NH₄Cl react with 1 mol Ca(OH)₂.\nCa(OH)₂ required for all the NH₄Cl = 1.869/2 = 0.935 mol. Only 0.935 mol is required while 1.351 mol is present, so Ca(OH)₂ is in excess and NH₄Cl is the limiting reactant.\nAlternatively, NH₄Cl required for all the Ca(OH)₂ = 2 × 1.351 = 2.702 mol, which is more than the 1.869 mol available, again showing that NH₄Cl is limiting.\nNH₃ formed: 2 mol NH₄Cl give 2 mol NH₃, so n(NH₃) = n(NH₄Cl) = 1.869 mol.\nMass of NH₃ = 1.869 × 17 = 31.77 g ≈ 31.7 g.\nPrinted answer: mass of NH₃ = 31.7 g; limiting reactant = NH₄Cl.",
+    "explanation": "Convert both masses to moles, compare them with the 2:1 stoichiometric ratio, identify the reactant that runs out first, then use that reactant to calculate the product mass.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "Aluminum chloride is used in the manufacturing of rubber. It is produced by allowing Aluminum to react with Cl₂ gas at 650°C.\n2Al(s) + 3Cl₂(g) → 2AlCl₃(s)\nWhen 160g Aluminum reacts with excess of chlorine, 650g of AlCl₃ is produced. What is the percentage yield of AlCl₃?",
+    "answer": "n(Al) = 160/27 = 5.926 mol.\nFrom 2Al + 3Cl₂ → 2AlCl₃, 2 mol Al give 2 mol AlCl₃, so the theoretical amount of AlCl₃ = 5.926 mol.\nM(AlCl₃) = 27 + 3(35.5) = 133.5 g mol⁻¹.\nTheoretical mass of AlCl₃ = 5.926 × 133.5 = 791.1 g.\nActual mass of AlCl₃ = 650 g.\nPercentage yield = (actual yield/theoretical yield) × 100 = (650/791.1) × 100 = 82.16% ≈ 82.17%.\nPrinted answer: 82.17%.",
+    "explanation": "Find the theoretical mass of AlCl₃ from the moles of Al and the 1:1 mole ratio, then express the actual mass as a percentage of that theoretical mass.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "1.6g of a sample of gas occupies a volume of 1.12 dm³ at STP. Determine the molar mass of the substance.",
+    "answer": "At STP, 1 mol of a gas occupies 22.4 dm³.\nn = V/22.4 = 1.12/22.4 = 0.05 mol.\nMolar mass = mass/moles = 1.6/0.05 = 32 g mol⁻¹.\nPrinted answer: 32 g/mol (the gas is O₂).",
+    "explanation": "Use the molar volume at STP to find the number of moles, then divide the mass by the number of moles.",
+    "pdfPage": 26,
+    "bookPage": 20
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "Silver sulphide (Ag₂S) is an anti microbial agent. In an experiment 24.8g Ag₂S is reacted with the excess of hydrochloric acid as given in the following reaction.\nAg₂S(s) + 2HCl(aq) → 2AgCl(s) + H₂S(g)\nCalculate the\n(i) Mass of AgCl formed\n(ii) Volume of H₂S produced at STP\n(At. Mass of Ag is 108 g/mol and S is 32 g/mol)",
+    "answer": "M(Ag₂S) = 2(108) + 32 = 248 g mol⁻¹.\nn(Ag₂S) = 24.8/248 = 0.1 mol.\n(i) From the equation, 1 mol Ag₂S gives 2 mol AgCl, so n(AgCl) = 2 × 0.1 = 0.2 mol.\nM(AgCl) = 108 + 35.5 = 143.5 g mol⁻¹.\nMass of AgCl = 0.2 × 143.5 = 28.7 g.\n(ii) 1 mol Ag₂S gives 1 mol H₂S, so n(H₂S) = 0.1 mol.\nVolume of H₂S at STP = 0.1 × 22.4 = 2.24 dm³.\nPrinted answer: 28.7 g and 2.24 dm³.",
+    "explanation": "Use the 1:2:1 mole ratios in the balanced equation together with the given atomic masses, and apply the molar volume at STP for H₂S.",
+    "pdfPage": 27,
+    "bookPage": 21
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "Calculate each of the following quantities.\n(i) Number of moles in 6.4g of SO₂.\n(ii) Mass in gram of 4.5 moles of ethyne (C₂H₂)\n(iv) Volume in cm³ of 38.4g O₂ gas at STP\n(v) Number of molecules of 126g water\n(vi) Mass in gram of 4.8 × 10²⁴ atoms of sodium\n(vi) Number of formula units in 333g of CaCl₂",
+    "answer": "(i) M(SO₂) = 32 + 2(16) = 64 g mol⁻¹. n = 6.4/64 = 0.1 mol.\n(ii) M(C₂H₂) = 2(12) + 2(1) = 26 g mol⁻¹. Mass = n × M = 4.5 × 26 = 117 g.\n(iv) M(O₂) = 32 g mol⁻¹. n = 38.4/32 = 1.2 mol. Volume at STP = 1.2 × 22 400 cm³ = 26 880 cm³.\n(v) M(H₂O) = 18 g mol⁻¹. n = 126/18 = 7 mol. Number of molecules = 7 × 6.02 × 10²³ = 42.14 × 10²³ (i.e. 4.214 × 10²⁴) molecules.\n(vi) Mass of sodium: number of moles = 4.8 × 10²⁴ / 6.02 × 10²³ = 7.973 mol. Mass = 7.973 × 23 = 183.4 g ≈ 183.39 g.\n(vi) Formula units of CaCl₂: M(CaCl₂) = 40 + 2(35.5) = 111 g mol⁻¹. n = 333/111 = 3 mol. Number of formula units = 3 × 6.02 × 10²³ = 18.06 × 10²³.\nPrinted answers: (i) 0.1 mol; (ii) 117 g; (iv) 26 880 cm³; (v) 42.14 × 10²³; (vi) 183.39 g; (vi) 18.06 × 10²³.",
+    "explanation": "Apply n = m/M, m = nM, V = n × 22.4 dm³ (22 400 cm³) and N = nN_A. The sub-part labels are reproduced as printed: the book skips (iii) and prints (vi) twice, and the answers are given in printed order.",
+    "pdfPage": 27,
+    "bookPage": 21
+  }
+]

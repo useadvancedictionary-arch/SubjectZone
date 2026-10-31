@@ -1,0 +1,382 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Two simple pendulums A and B with same lengths, and equal amplitude of vibrations, but the mass of A is twice the mass of B, their period are T_A and T_B and energies are E_A and E_B respectively. Choose the correct statement.",
+    "options": [
+      "T_A = T_B and E_A > E_B",
+      "T_A < T_B and E_A > E_B",
+      "T_A > T_B and E_A < E_B",
+      "T_A = T_B and E_A < E_B"
+    ],
+    "correct": "a",
+    "answer": "(a) T_A = T_B and E_A > E_B",
+    "explanation": "The period of a simple pendulum is T = 2π√(L/g), which contains no mass, so equal lengths give equal periods, T_A = T_B. This eliminates (b) and (c). The energy of an oscillator is E = ½mω²A², so at the same length (same ω) and the same amplitude the energy is proportional to mass; A is twice as heavy, hence E_A > E_B, which eliminates (d).",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "In order to double the period of a simple pendulum:",
+    "options": [
+      "Its length should be doubled",
+      "Its length should be quadrupled",
+      "The mass should be doubled",
+      "The mass should be quadrupled"
+    ],
+    "correct": "b",
+    "answer": "(b) Its length should be quadrupled",
+    "explanation": "T = 2π√(L/g) shows that T ∝ √L, so doubling T requires L to become four times larger. Doubling the length only multiplies the period by √2, and the mass does not appear in the formula at all, so (a), (c) and (d) are wrong.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "A simple harmonic oscillator has amplitude A and time period t. Its maximum speed is:",
+    "options": [
+      "4A/t",
+      "2A/t",
+      "4πA/t",
+      "2πA/t"
+    ],
+    "correct": "d",
+    "answer": "(d) 2πA/t",
+    "explanation": "The maximum speed of an oscillator is v_max = ωA, and ω = 2π/T = 2π/t, so v_max = 2πA/t. Options (a) and (b) omit the factor π, and (c) uses 4π, which would correspond to a wrong angular frequency; 4A/t is the average speed over one quarter cycle, not the maximum speed.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "A spring attached by a load of weight W is vibrating with a period T. If the spring is divided in four equal parts and the same load is suspended from one of these parts, the new time period is:",
+    "options": [
+      "T/4",
+      "2T",
+      "T/2",
+      "4T"
+    ],
+    "correct": "c",
+    "answer": "(c) T/2",
+    "explanation": "The spring constant is inversely proportional to the length, so cutting the spring into four equal parts makes each part four times stiffer: k′ = 4k. Since T = 2π√(m/k), the new period is T′ = T/√4 = T/2. Getting T/4 would require a 16-fold increase in stiffness, while 2T and 4T wrongly assume the spring becomes softer.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The total energy of a particle executing simple harmonic motion is proportional to:",
+    "options": [
+      "frequency of oscillation",
+      "maximum velocity of motion",
+      "amplitude of motion",
+      "square of amplitude of motion"
+    ],
+    "correct": "d",
+    "answer": "(d) square of amplitude of motion",
+    "explanation": "The total energy of a harmonic oscillator is E = ½mω²A² = ½kA², so it is directly proportional to the square of the amplitude, not to the amplitude itself. Since v_max = ωA, E = ½mv_max² is proportional to the square of the maximum velocity, not to the maximum velocity, so (b) is also wrong. The energy varies as the square of the frequency for a fixed amplitude, so (a) is wrong too.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "A child swinging on a swing in sitting position, stands up, then the time period of the swing will:",
+    "options": [
+      "Increase",
+      "decrease",
+      "remains the same",
+      "increases if the child is long and decreases if the child is short"
+    ],
+    "correct": "b",
+    "answer": "(b) decrease",
+    "explanation": "A swing behaves as a pendulum whose period is T = 2π√(L/g), where L is the distance from the pivot to the centre of mass. Standing up raises the child's centre of mass, so the effective length L decreases and the period decreases. The mass of the child does not change the period, so (d) is incorrect, and the period certainly does not stay the same.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "If a body oscillates at the angular frequency ω_d of the driving force, then the oscillations are called:",
+    "options": [
+      "Forced oscillations",
+      "Coupled oscillations",
+      "Free oscillations",
+      "Maintained oscillations"
+    ],
+    "correct": "a",
+    "answer": "(a) Forced oscillations",
+    "explanation": "When a body is made to oscillate by a periodic external force and settles into motion at the frequency of that force, the motion is forced oscillation. Free oscillations occur at the natural frequency of the body, not at ω_d. Maintained oscillations are kept going by a small periodic supply of energy but still occur at the natural frequency, and coupled oscillations involve energy exchange between two connected oscillators.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "A simple harmonic oscillator with a natural frequency ω_N is force to oscillate with a driving frequency ω_d. The Resonance occurred when:",
+    "options": [
+      "ω_N < ω_d",
+      "ω_N > ω_d",
+      "ω_N = ω_d",
+      "ω_N ≈ ω_d"
+    ],
+    "correct": "c",
+    "answer": "(c) ω_N = ω_d",
+    "explanation": "Resonance is defined as the condition in which the driving frequency equals the natural frequency of the oscillator, ω_d = ω_N; the amplitude then reaches its maximum. Option (d) describes a near-resonance condition in which the amplitude is large but not maximum, so it is only an approximation. The inequalities in (a) and (b) give small amplitudes on either side of the peak.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "In vehicles, shock absorber reduced the jerks:",
+    "options": [
+      "The shock absorber is the application of damped oscillations.",
+      "Damping effect is due to the fractional loss of energy",
+      "Shock absorbers in vehicles reduced jerk",
+      "All of these"
+    ],
+    "correct": "d",
+    "answer": "(d) All of these",
+    "explanation": "A shock absorber is a damped oscillator: its piston forces oil through small holes, so the damping force opposes the motion and removes energy from each bounce. The damping effect arises precisely because a fraction of the mechanical energy is lost as heat in every cycle, and the practical result is that the jerks and continued bouncing of the vehicle are reduced. All three statements are therefore correct.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "A heavily damped system has a fairly flat resonance curve in:",
+    "options": [
+      "An acceleration time graph",
+      "An amplitude frequency graph",
+      "Velocity time graph",
+      "Distance-time graph"
+    ],
+    "correct": "b",
+    "answer": "(b) An amplitude frequency graph",
+    "explanation": "Resonance is shown by plotting the steady-state amplitude against the driving frequency. Heavy damping lowers the peak and broadens it, so the amplitude-frequency curve becomes fairly flat over a wide range of frequencies. Acceleration-time, velocity-time and distance-time graphs describe the motion at a single frequency and do not display a resonance peak at all.",
+    "pdfPage": 249,
+    "bookPage": 245
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Explain the concept of periodic motion to oscillatory motion. Discuss the terms period, frequency, and amplitude.",
+    "answer": "Periodic motion repeats itself exactly in equal intervals of time, such as the motion of a clock hand or a swinging pendulum. Oscillatory (vibratory) motion is a special periodic motion in which the body moves to and fro about a fixed mean (equilibrium) position, so its displacement alternately increases and decreases, as for a mass on a spring or a plucked guitar string. Every oscillatory motion is periodic, but not every periodic motion is oscillatory: uniform circular motion is periodic but not oscillatory. Period T is the time for one complete oscillation, measured in seconds. Frequency f is the number of oscillations per second, f = 1/T, measured in hertz (Hz). Amplitude A is the maximum displacement from the mean position, measured in metres; it is not the total distance 4A travelled in one cycle.",
+    "explanation": "Keep the hierarchy clear: oscillatory motion is a subset of periodic motion. Amplitude is a maximum displacement from equilibrium, not the peak-to-peak distance or the path length per cycle.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Explain the concept of phase and phase difference in oscillatory motion. Discuss how phase is related to the position and time in an oscillating system.",
+    "answer": "The phase of an oscillating body describes the state of its motion (position and direction) at any instant. It is the argument of the sine function, θ = ωt + φ, where ω = 2π/T is the angular frequency and φ the initial phase (epoch), fixed by the initial conditions; phase is measured in radians. Two oscillators of the same frequency have a phase difference Δφ = φ₂ − φ₁, which stays constant with time. Phase is related to position by x = A sin(ωt + φ) = A sin θ, so equal phases mean equal displacements and velocities, while a phase difference of π means opposite displacements. Phase is related to time because one cycle corresponds to a phase change of 2π, so Δφ = (2π/T)Δt = ωΔt. A time lag of T/4 therefore gives Δφ = π/2, and a lag of T/2 gives Δφ = π.",
+    "explanation": "Phase is an angle-like quantity measured in radians, and a phase difference of 2π corresponds to one full period. A common mistake is to treat phase as a time or as a displacement.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Explain the concept of damping and its effects on oscillatory motion. Discuss the types of damping, such as over-damping, under-damping, and critical-damping",
+    "answer": "Damping is the gradual decrease in the amplitude and energy of an oscillatory motion caused by resistive forces such as friction, air resistance or viscous drag. For slow motion the damping force is proportional to velocity, F_d = −bv, so mechanical energy is continuously converted into heat and the amplitude decays exponentially, A = A₀ exp(−bt/2m), while the period changes little for light damping. There are three cases. Under-damping: the body oscillates with steadily decreasing amplitude. Over-damping: the damping force is so large that the body returns to equilibrium without oscillating, and very slowly. Critical damping: the smallest damping for which no oscillation occurs; the body returns to equilibrium in the shortest possible time without overshooting. Critical damping is used in galvanometers, door closers and shock absorbers, whereas over-damping makes a system sluggish.",
+    "explanation": "The key distinction is whether the system oscillates while returning: under-damped oscillates, critically damped returns fastest without oscillating, over-damped returns slowly without oscillating.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Discuss the concept of resonance frequency and its relationship to the natural frequency of an oscillating system.",
+    "answer": "Every oscillating system has a natural frequency f₀ at which it oscillates freely once displaced, fixed by its inertia and restoring force; for a mass-spring system f₀ = (1/2π)√(k/m). When a periodic driving force of frequency f_d acts, the system ultimately oscillates at f_d, and the steady-state amplitude is A = (F₀/m)/√((ω₀² − ω_d²)² + (bω_d/m)²). Resonance frequency is the driving frequency at which this amplitude is maximum. For light damping it is practically the natural frequency, f_res ≈ f₀ (more exactly f_res = √(ω₀² − b²/2m²)/2π, slightly below f₀), and heavier damping lowers the peak a little further. At resonance the driving force is in step with the velocity, so it does positive work every cycle and the energy transfer is greatest. That is why a swing pushed at its natural rate rises to a large amplitude, and why a bridge can be destroyed by wind or marching soldiers.",
+    "explanation": "Resonance is about the driving frequency matching the natural frequency, not about the largest driving force. Light damping puts the resonance peak almost exactly at f₀; heavy damping lowers and shifts it slightly.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Discuss the factors that affect the period of a simple pendulum. Explain how the length of the pendulum, the acceleration due to gravity, mass and the amplitude of oscillation influence the period.",
+    "answer": "The period of a simple pendulum is T = 2π√(L/g). Length: T ∝ √L, so the period increases with length; four times the length doubles the period. Acceleration due to gravity: T ∝ 1/√g, so a stronger g gives a shorter period, which is why a pendulum clock runs slow on a mountain or on the Moon. Mass: the period is independent of the mass of the bob, because the restoring force (mg sin θ) and the inertia both contain m and cancel, leaving a = −(g/L)x. Amplitude: for small oscillations (θ below about 10°) the period is practically independent of amplitude (isochronism), but for large swings it increases slightly as T ≈ 2π√(L/g)(1 + θ₀²/16 + …), because the restoring force is then no longer proportional to the displacement. Temperature and air resistance also produce small corrections.",
+    "explanation": "Mass cancels because it appears in both the restoring force and the inertia; the simple formula is exact only in the small-angle limit, where sin θ ≈ θ.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Define simple harmonic motion (SHM). Discuss the key characteristics of a system undergoing SHM.",
+    "answer": "Simple harmonic motion (SHM) is the to-and-fro motion of a body about a fixed mean position in which its acceleration is directly proportional to its displacement from that position and is always directed towards it: a = −ω²x, or equivalently F = −kx. The minus sign expresses the restoring nature of the force. For motion starting at the mean position, the displacement is x = A sin(ωt + φ), where A is the amplitude, ω = 2π/T the angular frequency and (ωt + φ) the phase. Key characteristics: (i) the motion is periodic and is executed about a stable equilibrium position; (ii) the restoring force and acceleration are maximum at the extreme positions and zero at the mean position, while the speed is maximum at the mean position (v_max = ωA) and zero at the extremes; (iii) the velocity leads the displacement by π/2 and the acceleration leads the velocity by π/2, so the acceleration is π out of phase with the displacement; (iv) the period T = 2π/ω is independent of the amplitude and is fixed for a given system; (v) the total mechanical energy E = ½kA² = ½mω²A² is conserved, being exchanged between kinetic and potential forms twice per cycle. Examples are a mass on an ideal spring, with ω = √(k/m), and a simple pendulum for small angles, with ω = √(g/L).",
+    "explanation": "The defining test is a = −ω²x, not merely to-and-fro motion; the minus sign and the proportionality to displacement are both essential.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Derive the equation of motion for a mass-spring system in SHM, illustrating each step of the derivation.",
+    "answer": "Consider a block of mass m on a frictionless horizontal surface, attached to a spring of spring constant k. Let x be the displacement of the block from its equilibrium position (x = 0).\nStep 1 — restoring force: within the elastic limit, Hooke's law gives F = −kx; the force is proportional to the displacement and opposite to it.\nStep 2 — Newton's second law: F = ma = m(d²x/dt²).\nStep 3 — combine the two equations: m(d²x/dt²) = −kx, so d²x/dt² = −(k/m)x.\nStep 4 — define ω² = k/m. Then d²x/dt² = −ω²x, which is the defining equation of SHM: the acceleration is proportional to the displacement and oppositely directed.\nStep 5 — solution: try x = A sin(ωt + φ). Then dx/dt = Aω cos(ωt + φ) and d²x/dt² = −Aω² sin(ωt + φ) = −ω²x, so the trial solution satisfies the equation for any A and φ.\nStep 6 — constants: A and φ are fixed by the initial conditions. If at t = 0 the block is at x = 0 moving with speed v₀, then φ = 0 and A = v₀/ω; if it is released from rest at x = x₀, then φ = π/2 and A = x₀.\nStep 7 — period: from ω = 2π/T, T = 2π/ω = 2π√(m/k). A stiffer spring shortens the period and a larger mass lengthens it.\nThe same equation describes a vertical spring: gravity only shifts the equilibrium position down by x₀ = mg/k, without changing ω or T. Example: m = 0.60 kg and k = 15 N/m give ω = 5.0 rad/s and T = 1.26 s.",
+    "explanation": "The derivation rests on Hooke's law plus Newton's second law, and the solution must be checked by differentiating twice. Initial conditions fix A and φ; they do not affect ω.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Discuss the concept of energy in SHM. Explain how kinetic energy and potential energy vary throughout the motion of a particle in SHM and how the total mechanical energy is conserved.",
+    "answer": "In SHM the restoring force is conservative, so the total mechanical energy remains constant while kinetic and potential energy are continually interchanged. Taking the potential energy as zero at the mean position, PE = ½kx² = ½mω²x² and KE = ½mv². Since v = ω√(A² − x²), KE = ½mω²(A² − x²). Adding them gives E = KE + PE = ½mω²A² = ½kA², which contains neither x nor t; the total energy is therefore conserved and depends only on the amplitude and the stiffness.\nAt the mean position x = 0, PE = 0, the speed is maximum (v_max = ωA) and KE = ½mv_max² = E. At the extreme positions x = ±A, v = 0 so KE = 0, and all the energy is potential: PE = ½kA² = E. In between, the energy is partly kinetic and partly potential. As the particle travels from the mean position to an extreme, KE is gradually converted into PE, and on the return journey PE is converted back into KE, so each form passes through a maximum twice per oscillation — the energy interchange has period T/2, that is frequency 2f.\nThe average values over a complete cycle are each ¼kA², so the average KE equals the average PE and each is half the total energy. Plotted against displacement, PE is an upward parabola and KE a downward parabola; plotted against time both are sine-squared curves. Example: for k = 2.5 N/m and A = 4.0 cm, E = ½ × 2.5 × (0.040)² = 2.0 × 10⁻³ J at every instant of the motion.",
+    "explanation": "Use KE = ½mω²(A² − x²) and PE = ½mω²x² so that the sum is obviously constant. Energy oscillates at twice the frequency of the displacement.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Discuss the concept of resonance in simple harmonic motion. Explain how resonance occurs and its effects on the amplitude and energy transfer in a driven oscillating system.",
+    "answer": "Resonance is the phenomenon in which a driven oscillator responds with maximum amplitude when the frequency of the periodic driving force equals, or is very close to, its natural frequency. A system such as a mass on a spring has a natural angular frequency ω₀ = √(k/m). When a driving force F = F₀ cos(ω_d t) acts on it, the steady-state amplitude is A = (F₀/m)/√((ω₀² − ω_d²)² + (bω_d/m)²). Far from resonance the denominator is large and the amplitude is small; as ω_d approaches ω₀ the first term in the denominator tends to zero, the denominator becomes very small and A rises to a sharp maximum A_max ≈ F₀/(bω₀), reached exactly at ω_d = √(ω₀² − b²/2m²).\nAt resonance the displacement lags the driving force by π/2, so the force is always in the direction of motion and does positive work throughout the cycle; the energy supplied per cycle is then a maximum and the amplitude can grow far beyond the static value F₀/k. With light damping the peak is very high and narrow, so the system selects a single frequency; with heavy damping the peak is low and broad and the resonance frequency is slightly below ω₀. Resonance is useful in tuning radio circuits, in microwave cooking and in musical instruments, but it can be destructive: marching soldiers are ordered to break step on a bridge, and the Tacoma Narrows bridge collapsed when wind-driven oscillations matched its natural frequency.",
+    "explanation": "At resonance the driving force is in phase with the velocity, so maximum energy is transferred each cycle; damping, not the driving force, sets the height of the peak.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Discuss the factors that affect the sharpness of resonance in an oscillatory system. Explain how damping and quality factor influence the width and peak of the resonance curve.",
+    "answer": "The sharpness of a resonance curve is measured by the quality factor Q. For a driven damped oscillator, Q = ω₀/Δω, where Δω = ω₂ − ω₁ is the full width of the amplitude-frequency curve at the half-power points, where the amplitude has fallen to A_max/√2. Q is also defined as Q = 2π × (energy stored)/(energy lost per cycle), which for small damping becomes Q = mω₀/b = ω₀/(2γ).\nA large Q means light damping and a tall, narrow peak: the amplitude is large only for driving frequencies very close to ω₀ and falls rapidly on either side, so the system is sharply tuned and continues to ring for a long time after the drive is removed. This is desirable in a tuning fork, a quartz crystal, a laser cavity or a radio receiver. A small Q means heavy damping and a low, broad, almost flat peak: the oscillator responds appreciably over a wide band of frequencies and settles quickly, which is required in a car shock absorber or a galvanometer that must not oscillate.\nQuantitatively, A_max ≈ F₀/(bω₀) ∝ Q, while the width Δω = ω₀/Q, so increasing the damping lowers the peak and broadens it in the same proportion, keeping the area under the curve roughly constant. The natural frequency fixes the position of the peak, but damping slightly reduces the resonance frequency and makes the curve asymmetric. Example: a bell with Q of order 1000 rings for many seconds, whereas a critically damped door closer has Q of order 0.5 and does not ring at all.",
+    "explanation": "Q links sharpness to damping: A_max ∝ Q and bandwidth Δω = ω₀/Q. Heavy damping gives a flat curve, not a taller one.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 6,
+    "question": "Explain how the period of a mass-spring system can be independent of amplitude, even though the distance travelled during each cycle is proportional to amplitude.",
+    "answer": "For a mass-spring oscillator the period is T = 2π√(m/k), which contains no amplitude. The physical reason is that the restoring force is proportional to the displacement, F = −kx, so if the amplitude is doubled the force, and therefore the acceleration at every displacement, is also doubled. The distance to be covered in a cycle is also doubled, and the larger acceleration exactly compensates for the longer path, so the time taken is unchanged. Equivalently, the body crosses the mean position faster (v_max = ωA ∝ A), so the distance per cycle 4A and the average speed increase in the same proportion, leaving 4A/v_avg constant.\nMathematically, x = A sin(ωt + φ) satisfies the equation of motion for every value of A with the same ω = √(k/m); the amplitude only scales the motion and does not affect its timing. This amplitude independence, called isochronism, holds for any ideal spring obeying Hooke's law; a real spring deviates when it is overstretched and k is no longer constant. A simple pendulum behaves in the same way only for small amplitudes, because its restoring force mg sin θ is proportional to θ only when θ is small; for large swings the period increases with amplitude.",
+    "explanation": "The amplitude cancels because force and acceleration both scale with displacement. This is exact for a Hooke's-law spring but only approximate for a pendulum at large angles.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 7,
+    "question": "A mass hanging vertically from a spring and a simple pendulum both have a period of oscillation of 1s on Earth. The two devices are sent to another planet, where gravitational field is stronger than that of Earth. For each of the two systems, state whether the period is now longer than 1s, shorter than 1s, or equal to 1s. Explain your reasoning.",
+    "answer": "Mass on a vertical spring: the period is still equal to 1 s. For a spring-mass system T = 2π√(m/k); neither m nor k changes on the other planet, and g does not appear in the formula at all. The stronger gravity only increases the equilibrium extension, x₀ = mg/k, so the oscillations take place about a new, lower equilibrium position with exactly the same stiffness and inertia. Hence the period is unchanged, equal to 1 s.\nSimple pendulum: the period becomes shorter than 1 s. For a pendulum T = 2π√(L/g); its restoring force is the component of weight, so a stronger gravitational field produces a larger restoring force for the same displacement while the inertia of the bob is unchanged. The bob therefore swings faster, and since T ∝ 1/√g, a larger g gives a smaller T. Numerically T = 1 s × √(g_Earth/g_planet), which is less than 1 s. To restore a period of 1 s on the new planet the pendulum would have to be lengthened in proportion to the increase in g.\nThus the spring device keeps its 1 s period, while the pendulum's period becomes shorter than 1 s. The change is easily measurable if the planet's g differs appreciably from 9.8 m/s²: if g is 16 m/s², the pendulum period falls to 1 × √(9.8/16) = 0.78 s, while the spring clock still keeps exactly 1 s and merely hangs a little lower.",
+    "explanation": "The spring period is independent of g, while the pendulum period depends on g under a square root; a stronger g speeds the pendulum up but only changes the spring's equilibrium extension.",
+    "pdfPage": 250,
+    "bookPage": 246,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "The period of oscillation of an object in an ideal spring and mass system is 0.50 s and the amplitude is 5.0 cm. what is the speed at the equilibrium point? and the acceleration at the point of maximum extension of the spring.",
+    "answer": "Given: T = 0.50 s, A = 5.0 cm = 0.050 m.\nFormula: ω = 2π/T; at the equilibrium point the speed is maximum, v_max = ωA; at the point of maximum extension the acceleration is maximum, a_max = ω²A.\nSubstitution: ω = 2π/0.50 = 12.57 rad s⁻¹.\nSpeed at equilibrium: v_max = 12.57 × 0.050 = 0.628 m s⁻¹ = 62.8 cm s⁻¹.\nAcceleration at maximum extension: a_max = (12.57)² × 0.050 = 157.9 × 0.050 = 7.90 m s⁻².\nResult: v = 62.8 cm s⁻¹ (0.628 m s⁻¹) and a = 7.9 m s⁻², agreeing with the printed answers (62.8 cm/s, 7.9 m/s²).",
+    "explanation": "Speed is maximum at the mean position (v_max = ωA) and zero at the extremes, while acceleration is maximum at the extremes (a_max = ω²A) and zero at the mean position.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A sewing machine needle moves with a rapid vibratory motion, like SHM, as it sews a seam. Suppose the needle moves 8.4 mm from its highest to its lowest position and it makes 24 stitches in 9.0s. What is the maximum needle speed?",
+    "answer": "Given: distance from the highest to the lowest position = 8.4 mm, so the amplitude is A = 8.4/2 = 4.2 mm = 0.42 cm; 24 stitches are made in 9.0 s, i.e. 24 complete oscillations, so T = 9.0/24 = 0.375 s.\nFormula: ω = 2π/T and v_max = ωA.\nSubstitution: ω = 2π/0.375 = 16.76 rad s⁻¹; v_max = 16.76 × 0.42 = 7.04 cm s⁻¹.\nResult: v_max ≈ 7.0 cm s⁻¹, agreeing with the printed answer (7.0 cm/s). The unrounded value is 7.04 cm/s, which rounds to 7.0 cm/s to two significant figures.",
+    "explanation": "The amplitude is half the peak-to-peak travel, and one stitch corresponds to one complete oscillation. Maximum speed occurs as the needle passes the midpoint of its stroke.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "An ideal spring with a spring constant of 15 N/m is suspended vertically. A body of mass 0.60 kg is attached to the upstretched spring and released.\n(a) What is the extension of the spring when the speed is a maximum?\n(b) What is the maximum speed?",
+    "answer": "(a) The speed is maximum at the equilibrium position, where the spring force balances the weight: kx = mg, so x = mg/k = (0.60 × 9.8)/15 = 5.88/15 = 0.392 m ≈ 0.39 m.\n(b) The body is released from rest at the unstretched position, so the amplitude is A = 0.392 m. The angular frequency is ω = √(k/m) = √(15/0.60) = √25 = 5.0 rad s⁻¹. Maximum speed v_max = ωA = 5.0 × 0.392 = 1.96 m s⁻¹ ≈ 2.0 m s⁻¹.\nCheck by energy: ½kA² = ½ × 15 × (0.392)² = 1.15 J = ½mv² = ½ × 0.60 × (1.96)² = 1.15 J.\nResult: (a) 0.39 m, (b) 2.0 m s⁻¹, agreeing with the printed answers [(a) 0.39 m (b) 2.0 m/s].",
+    "explanation": "The release point is the upper extreme and the equilibrium point lies mg/k below it, so A = 0.39 m; energy conservation gives the same maximum speed.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "A body is suspended vertically from an ideal spring of spring constant 2.5 N/m. the spring is initially in its relaxed position. The body is then released and oscillates about its equilibrium position. The motion is described by y = (4.0cm) sin[(0.70rad/s) t]. What is the maximum kinetic energy of the body?",
+    "answer": "Given: y = (4.0 cm) sin[(0.70 rad/s) t], so A = 4.0 cm = 0.040 m and ω = 0.70 rad s⁻¹; k = 2.5 N m⁻¹.\nFormula: v_max = ωA and KE_max = ½mv_max² = ½kA², with m = k/ω².\nSubstitution: m = 2.5/(0.70)² = 2.5/0.49 = 5.10 kg; v_max = 0.70 × 0.040 = 0.028 m s⁻¹.\nCalculation: KE_max = ½ × 5.10 × (0.028)² = ½ × 5.10 × 7.84 × 10⁻⁴ = 2.0 × 10⁻³ J. Check: ½kA² = ½ × 2.5 × (0.040)² = 2.0 × 10⁻³ J.\nResult: KE_max = 2.0 × 10⁻³ J = 2.0 mJ, agreeing with the printed answer (2.0 mJ).",
+    "explanation": "Maximum kinetic energy equals the total energy ½kA² = ½mω²A²; use the angular frequency 0.70 rad/s given in the equation, not a frequency in hertz.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "The period of oscillation of a simple pendulum does not depend on the mass of the bob. By contrast the period of a mass-spring system does depend on mass. Explain the apparent condition.",
+    "answer": "For a simple pendulum the restoring force is the component of the bob's weight along the path: F = −mg sin θ ≈ −(mg/L)x for small angles. Newton's second law then gives ma = −(mg/L)x, so a = −(g/L)x. The mass appears on both sides and cancels, leaving ω = √(g/L) and T = 2π√(L/g), independent of m. The apparent paradox is resolved by noting that gravity supplies the restoring force and that this force is itself proportional to the mass; a heavier bob has a proportionally larger restoring force, which exactly compensates for its larger inertia.\nFor a mass-spring system the restoring force is supplied by the spring, F = −kx, and does not depend on the mass at all. The acceleration is a = −(k/m)x, so a heavier mass has the same restoring force but more inertia, accelerates less, and oscillates more slowly, with T = 2π√(m/k).\nIn short, the ratio (restoring force)/(inertia) is independent of mass for the pendulum because both quantities are proportional to m, but it is inversely proportional to mass for the spring because only the inertia depends on m.",
+    "explanation": "Look at where the mass cancels: in the pendulum it cancels between weight and inertia; in the spring the restoring force is mass-independent, so m survives in T = 2π√(m/k).",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "What is the period of a simple pendulum of a 6.0 kg mass oscillating on a 4.0 m long string?",
+    "answer": "Given: L = 4.0 m, m = 6.0 kg, g = 9.8 m s⁻².\nFormula: T = 2π√(L/g); the mass does not enter the formula.\nSubstitution: T = 2π√(4.0/9.8) = 2π√0.4082 = 2π × 0.6389.\nCalculation: T = 6.2832 × 0.6389 = 4.014 s.\nResult: T ≈ 4.01 s, agreeing with the printed answer (4.01 s).",
+    "explanation": "Only the length and g matter, so the 6.0 kg bob is irrelevant; √(4.0/9.8) = 0.639 s and 2π × 0.639 s = 4.01 s.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "A pendulum of length 75 cm and mass 2.5 kg swings with a mechanical energy of 0.015 J. what is its amplitude?",
+    "answer": "Given: L = 75 cm = 0.75 m, m = 2.5 kg, total mechanical energy E = 0.015 J.\nFormula: for a pendulum ω² = g/L and E = ½mω²A² = ½m(g/L)A², so A = √(2EL/(mg)).\nSubstitution: ω² = 9.8/0.75 = 13.07 s⁻²; A² = 2 × 0.015/(2.5 × 13.07) = 0.030/32.67 = 9.18 × 10⁻⁴ m².\nCalculation: A = √(9.18 × 10⁻⁴) = 0.0303 m = 3.03 cm.\nResult: A ≈ 3.0 cm, agreeing with the printed answer (3.0 cm); the unrounded value is 3.03 cm.",
+    "explanation": "The energy of a pendulum is E = ½mω²A² with ω² = g/L; substitute and take the square root, using g = 9.8 m/s².",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "A pendulum of length L₁ has a period of T₁ = 0.950 s. the length of the pendulum is adjusted to a new value L₂ such that T₂ = 1.00 s what is the ratio L₂/L₁",
+    "answer": "Given: T₁ = 0.950 s with length L₁; T₂ = 1.00 s with length L₂.\nFormula: T = 2π√(L/g), so T² ∝ L and L₂/L₁ = (T₂/T₁)².\nSubstitution: L₂/L₁ = (1.00/0.950)² = (1.0526)².\nCalculation: L₂/L₁ = 1.108.\nResult: L₂/L₁ ≈ 1.11, agreeing with the printed answer (1.11); L₂ is about 11% longer than L₁.",
+    "explanation": "The ratio of lengths equals the square of the ratio of periods; using the period ratio 1.05 directly is a common error.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A wire is hanging from the top of a tower such that the top is not visible due to darkness. How do you calculate the height of tower?",
+    "answer": "Hang the wire freely from the top of the tower so that it acts as a simple pendulum whose length equals the height h of the tower; attach a small heavy bob to its lower end so that the mass of the wire can be neglected. Give the bob a small horizontal displacement (a few degrees) and measure the time t for N complete oscillations with a stopwatch; the period is T = t/N. Then use T = 2π√(h/g), which gives h = gT²/(4π²).\nExample: if the measured period is 20 s, then h = 9.8 × (20)²/(4π²) = 9.8 × 400/39.48 = 99.3 m. Repeat for several values of N and for small amplitudes, and apply the small correction T ≈ 2π√(h/g)(1 + θ₀²/16) if the swing is not very small.\nAlternative method: send a sharp transverse pulse along the wire and time its echo from the top, using h = vt/2 with v = √(Tension/mass per unit length). In both methods the height is obtained from a timing measurement, so the invisible top is not needed.",
+    "explanation": "A hanging wire is a simple pendulum whose length is the tower height; measure its period and use h = gT²/(4π²).",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "The amplitude of oscillation of a pendulum decays by a factor of 20.0 in 120 s. By what factor has its energy decayed in that time",
+    "answer": "Given: the amplitude falls by a factor of 20.0 in 120 s, so A₂/A₁ = 1/20.0.\nFormula: the energy of an oscillator is E ∝ A², so E₂/E₁ = (A₂/A₁)².\nSubstitution: E₂/E₁ = (1/20.0)².\nCalculation: E₂/E₁ = 1/400.\nResult: the energy has decreased by a factor of 400, agreeing with the printed answer. Equivalently, 99.75% of the energy has been lost to damping in 120 s.",
+    "explanation": "Energy is proportional to the square of the amplitude, so a factor-20 drop in amplitude means a factor-400 drop in energy.",
+    "pdfPage": 251,
+    "bookPage": 247,
+    "figure": null
+  }
+]

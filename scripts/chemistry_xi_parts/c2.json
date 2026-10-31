@@ -1,0 +1,278 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Bohr's theory is not applicable to which of the following species.",
+    "options": [
+      "H",
+      "H⁺",
+      "He⁺¹",
+      "Li⁺²"
+    ],
+    "correct": "b",
+    "explanation": "Bohr's model is valid only for hydrogen-like (one-electron) species. H (1 electron), He⁺ (1 electron) and Li²⁺ (1 electron) are one-electron systems, so the model applies to them. H⁺ is a bare proton with no electron at all, so it has no orbits, no energy levels and no spectral transitions, and Bohr's theory cannot be applied to it. Hence (b).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Nitrogen has the electronic configuration 1s² 2s² 2pₓ¹ 2p_y¹ 2p_z¹ and not 1s² 2s² 2pₓ² 2p_y¹. This is determined by.",
+    "options": [
+      "Aufbau principle",
+      "Pauli's rule",
+      "Hund's rule",
+      "n + ℓ rule"
+    ],
+    "correct": "c",
+    "explanation": "The three 2p orbitals (2pₓ, 2p_y, 2p_z) are degenerate, i.e. they have the same energy. Hund's rule states that electrons occupy degenerate orbitals singly with parallel spins before any orbital is doubly occupied. Therefore the three 2p electrons give 2pₓ¹2p_y¹2p_z¹ rather than 2pₓ²2p_y¹. The Aufbau principle only gives the order of filling of subshells, Pauli's rule limits an orbital to two electrons of opposite spin, and the n + ℓ rule decides the energy order of subshells; none of these requires the unpaired arrangement. Hence (c).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Quantum number values for 3s orbital are",
+    "options": [
+      "n = 0, ℓ = 1",
+      "n = 1, ℓ = 0",
+      "n = 3, ℓ = 1",
+      "n = 3, ℓ = 0"
+    ],
+    "correct": "d",
+    "explanation": "For a 3s orbital the principal quantum number is n = 3 and, because s corresponds to ℓ = 0, the azimuthal quantum number is ℓ = 0. Option (a) is impossible because n starts from 1; (b) n = 1, ℓ = 0 describes a 1s orbital; (c) n = 3, ℓ = 1 describes a 3p orbital. Hence (d).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The radius of first orbit of hydrogen atom is .....",
+    "options": [
+      "529 Å",
+      "52.9 Å",
+      "5.29 Å",
+      "0.529 Å"
+    ],
+    "correct": "d",
+    "explanation": "For hydrogen rₙ = 0.529 n² Å, so the first orbit (n = 1) has r₁ = 0.529 Å, which is called the Bohr radius. 529 Å is 1000 times too large, 52.9 Å is 100 times too large and 5.29 Å is 10 times too large. Hence (d).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Line spectrum is used as a tool for the identification of ....",
+    "options": [
+      "Colors",
+      "Electrons",
+      "Elements",
+      "Molecules"
+    ],
+    "correct": "c",
+    "explanation": "Every element has its own characteristic set of spectral lines, so a line spectrum acts as a fingerprint and is used to identify elements. Colours are only the visible part of the spectrum, electrons are the particles whose transitions produce the lines (not the species being identified), and molecules give band spectra rather than the sharp line spectra used for elemental identification. Hence (c).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "In 1935 A.D. James Chadwick was awarded Nobel Prize because ...",
+    "options": [
+      "He discovered proton",
+      "He discovered neutron",
+      "He determined the radius of hydrogen atom",
+      "He gave the rules for electronic configuration"
+    ],
+    "correct": "b",
+    "explanation": "James Chadwick discovered the neutron in 1932 and received the Nobel Prize in Physics in 1935 for this discovery. The proton was discovered by Rutherford, the radius of the hydrogen atom was calculated by Bohr, and the rules of electronic configuration are associated with the Aufbau principle, Pauli and Hund. Hence (b).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "When 4d orbital is filled, the next electron enter into",
+    "options": [
+      "5s",
+      "5p",
+      "5d",
+      "6s"
+    ],
+    "correct": "b",
+    "explanation": "The Aufbau filling order in this region is ... 5s < 4d < 5p. The 5s orbital is filled before 4d, and after all five 4d orbitals are completely filled the next electron enters the 5p subshell. The 5d subshell comes after 6s in the filling order, and 6s is filled before 4d. Hence (b) 5p.",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which of the following is not an iso electronic pair",
+    "options": [
+      "Na⁺ and Ne",
+      "Na⁺ and F⁻",
+      "Na and Ca",
+      "Na⁺ and Mg⁺²"
+    ],
+    "correct": "c",
+    "explanation": "Isoelectronic species have the same number of electrons. Na⁺ (10 e), Ne (10 e), F⁻ (10 e) and Mg²⁺ (10 e) all contain 10 electrons, so (a), (b) and (d) are isoelectronic pairs. Na has 11 electrons and Ca has 20 electrons, so Na and Ca do not have the same number of electrons and are not isoelectronic. Hence (c).",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Balmer series appears in the hydrogen spectrum if electron jump from any appropriate higher energy orbit to",
+    "options": [
+      "Second orbit",
+      "Third orbit",
+      "Fourth orbit",
+      "Fifth orbit"
+    ],
+    "correct": "a",
+    "explanation": "The Balmer series consists of transitions that end on the second orbit (n₁ = 2), the electron falling from n₂ = 3, 4, 5, ...; these lines lie in the visible region. Transitions ending on the third, fourth and fifth orbits give the Paschen, Brackett and Pfund series respectively, all of which lie in the infrared. Hence (a) Second orbit.",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The shape of orbital for which ℓ = 0 is",
+    "options": [
+      "Spherical",
+      "Dumbbell",
+      "Double dumbbell",
+      "Complicated"
+    ],
+    "correct": "a",
+    "explanation": "The azimuthal quantum number ℓ = 0 corresponds to an s orbital, which is spherically symmetrical about the nucleus. ℓ = 1 gives p orbitals, which are dumbbell shaped, and ℓ = 2 gives d orbitals, commonly described as double dumbbell. 'Complicated' is not a shape associated with ℓ = 0. Hence (a) Spherical.",
+    "pdfPage": 54,
+    "bookPage": 48
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Differentiate between Continuous and Line spectrum.",
+    "answer": "Continuous spectrum:\n• It is produced by incandescent solids or liquids (black-body radiation), e.g. white light from the Sun.\n• It contains radiations of all wavelengths over a wide range; the colours merge continuously into one another with no dark gaps.\n• It appears as an unbroken coloured band when the light is dispersed by a prism or grating.\nLine spectrum:\n• It is produced when atoms of a gas or vapour are excited, e.g. by heating or by an electric discharge.\n• It consists of a limited number of sharp, bright lines of definite wavelengths, separated by dark spaces.\n• It is characteristic of the emitting element (e.g. the hydrogen spectrum), so it is used to identify elements.",
+    "explanation": "The essential difference is that a continuous spectrum contains every wavelength (no gaps) and comes from condensed phases or black bodies, whereas a line spectrum contains only certain discrete wavelengths and comes from isolated, excited atoms. The pattern of lines is unique to each element, which makes line spectra useful for identification.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Give three properties of each α, β and γ rays.",
+    "answer": "α-rays (alpha particles, ⁴₂He²⁺):\n(i) They consist of helium nuclei; each carries a charge of +2 and has a mass of 4 u.\n(ii) They have very high ionizing power but very low penetrating power; they are stopped by a sheet of paper or a few centimetres of air.\n(iii) They are deflected slightly towards the negative plate in an electric field and travel at about one-tenth of the speed of light.\nβ-rays (beta particles, ⁰₋₁e):\n(i) They consist of fast-moving electrons; each carries a charge of −1 and has a mass of about 1/1836 u.\n(ii) They have moderate ionizing power and moderate penetrating power; they are stopped by a few millimetres of aluminium.\n(iii) They are deflected strongly towards the positive plate in an electric field and travel at speeds up to about 0.99c.\nγ-rays (gamma radiation):\n(i) They are electromagnetic radiations (high-energy photons) with no charge and no rest mass.\n(ii) They have very low ionizing power but extremely high penetrating power; they are reduced only by thick sheets of lead or concrete.\n(iii) They are not deflected by electric or magnetic fields, travel at the speed of light and have very short wavelength.",
+    "explanation": "The three radiations differ in nature (helium nuclei, electrons and photons respectively), in charge and mass, and therefore in their ionizing power, penetrating power and behaviour in electric and magnetic fields. Alpha is the heaviest and most ionizing but least penetrating; gamma has no charge or mass, is the least ionizing and the most penetrating.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What is the shape of orbitals for which ℓ = 0 and ℓ = 1.",
+    "answer": "For ℓ = 0 the orbital is an s orbital. It is spherically symmetrical about the nucleus, i.e. the probability of finding the electron at a given distance is the same in all directions. The 1s, 2s, 3s ... orbitals all have this shape; the sphere becomes larger as n increases.\nFor ℓ = 1 the orbital is a p orbital. It has a dumbbell (two-lobed) shape with a nodal plane passing through the nucleus where the electron density is zero. There are three p orbitals of equal energy, pₓ, p_y and p_z, which are oriented at right angles to one another along the x, y and z axes.",
+    "explanation": "The azimuthal quantum number fixes the orbital shape: ℓ = 0 gives the spherical s orbital, while ℓ = 1 gives the dumbbell-shaped p orbitals, which are triply degenerate (pₓ, p_y, p_z).",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "How does an orbital different from orbit?",
+    "answer": "Orbit:\n• It is a definite, well-defined circular path of fixed radius around the nucleus, as assumed in Bohr's model.\n• It is a two-dimensional concept in which the electron is treated as moving along a definite trajectory.\n• Orbits are designated by the principal quantum number n (K, L, M, ... shells) and a shell can hold up to 2n² electrons.\nOrbital:\n• It is a three-dimensional region of space around the nucleus in which the probability of finding the electron is maximum (about 90–95%).\n• It does not describe a definite path; it is a probability distribution (electron cloud) obtained from the wave function.\n• An orbital is specified by n, ℓ and m, has a characteristic shape (s, p, d, f), and can hold a maximum of two electrons of opposite spin.",
+    "explanation": "An orbit is a Bohr-model path with a definite trajectory, whereas an orbital is a quantum-mechanical region of electron probability and has no definite path. This distinction is required because the uncertainty principle forbids a well-defined simultaneous position and momentum for an electron.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Explain why the filling of electron in 4s orbital takes place prior to 3d?",
+    "answer": "According to the (n + ℓ) rule, the subshell with the lower value of (n + ℓ) has the lower energy and is filled first. For 4s, n + ℓ = 4 + 0 = 4; for 3d, n + ℓ = 3 + 2 = 5. Since 4 < 5, the 4s orbital lies lower in energy and receives electrons before the 3d orbitals.\nThe same conclusion follows from penetration and shielding. A 4s electron penetrates closer to the nucleus and is less shielded by the inner electrons than a 3d electron, so it experiences a greater effective nuclear charge and is more strongly bound (lower in energy). That is why the filling sequence is ... 4s² 3d ..., e.g. K is [Ar]4s¹, Ca is [Ar]4s² and Sc is [Ar]3d¹4s².",
+    "explanation": "The (n + ℓ) rule correctly predicts that 4s is filled before 3d. After the 3d subshell is occupied, the 3d orbitals become lower in energy than 4s, which is why transition metals lose their 4s electrons first when they form ions.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Mention the defects of Bohr's atomic model.",
+    "answer": "1. It applies only to one-electron (hydrogen-like) species such as H, He⁺ and Li²⁺; it cannot explain the spectra of multi-electron atoms.\n2. It cannot explain the splitting of spectral lines in a magnetic field (Zeeman effect) or in an electric field (Stark effect).\n3. It cannot account for the fine structure of the hydrogen spectrum, in which each line actually consists of closely spaced components.\n4. It assumes that the electron moves in a definite circular orbit with a known position and momentum, which contradicts Heisenberg's uncertainty principle.\n5. It ignores the wave nature of the electron and cannot explain the relative intensities of spectral lines.\n6. It considers only circular orbits; even after Sommerfeld introduced elliptical orbits, the model could not fully explain multi-electron atoms.\n7. It cannot explain chemical bonding or periodic properties such as the arrangement of the periodic table.",
+    "explanation": "Bohr's model was a major advance because it introduced quantized energy levels and explained the hydrogen spectrum, but its one-electron limitation, its neglect of wave behaviour and its inability to account for fine structure and field effects are its main defects.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Write down the electronic configuration of the following.\n(i) Fe (Z = 26)\n(ii) Br⁻ (Z = 35)\n(iii) Ca⁺² (Z = 20)",
+    "answer": "(i) Fe (Z = 26): the neutral iron atom has 26 electrons. Filling in Aufbau order gives 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d⁶, or in shorthand [Ar] 3d⁶ 4s². In the 3d⁶ arrangement one 3d orbital is doubly occupied and the other four are singly occupied; the four unpaired electrons are consistent with Hund's rule.\n(ii) Br⁻ (Z = 35): the bromine atom (Z = 35) has 35 electrons; the bromide ion has one extra electron, so it has 36 electrons. Its configuration is 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶, or [Ar] 3d¹⁰ 4s² 4p⁶, which is the same as [Kr].\n(iii) Ca⁺² (Z = 20): the calcium atom has 20 electrons; the Ca²⁺ ion has lost two electrons, so it has 18 electrons. Its configuration is 1s² 2s² 2p⁶ 3s² 3p⁶, i.e. [Ar]. The two electrons lost come from the 4s orbital.",
+    "explanation": "Electron configurations are obtained by filling orbitals in Aufbau order (1s 2s 2p 3s 3p 4s 3d 4p ...) and applying the Pauli and Hund rules. For ions, electrons are added or removed according to the charge: Br⁻ gains one electron (36 electrons) and Ca²⁺ loses two electrons (18 electrons).",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "(a) State the postulates of Bohr atomic theory.\n(b) Drive an expression for the frequency of radiation emitted from an electron. Given that E = −me⁴/(8ε₀²h²n²).",
+    "answer": "(a) Postulates of Bohr's atomic theory:\n(i) The electron in a hydrogen atom revolves around the nucleus in certain fixed circular orbits called stationary states, and it does not radiate energy while moving in such an orbit.\n(ii) Each stationary orbit has a definite energy, so the orbits are also called energy levels or shells. The orbit nearest the nucleus (n = 1) has the lowest energy.\n(iii) The angular momentum of the electron is quantized: mvr = nh/2π, where n = 1, 2, 3, ... and h is Planck's constant.\n(iv) Energy is emitted or absorbed only when the electron jumps from one stationary orbit to another. The photon energy is hν = E₂ − E₁, where E₂ and E₁ are the energies of the two orbits.\n(v) The electrostatic attraction between the nucleus and the electron provides the centripetal force required for circular motion. From this, r = n²h²ε₀/(πme²) and E = −me⁴/(8ε₀²h²n²).\n(vi) Only those orbits are allowed for which the angular momentum is an integral multiple of h/2π, so only certain discrete energies are permitted.\n(b) Derivation of the frequency of the emitted radiation:\nThe energy of the electron in the nth orbit is Eₙ = −me⁴/(8ε₀²h²n²).\nFor the higher orbit n₂ and the lower orbit n₁ (n₂ > n₁):\nE₂ = −me⁴/(8ε₀²h²n₂²) and E₁ = −me⁴/(8ε₀²h²n₁²).\nWhen the electron falls from n₂ to n₁, the energy emitted is\nΔE = E₂ − E₁ = [−me⁴/(8ε₀²h²n₂²)] − [−me⁴/(8ε₀²h²n₁²)]\nΔE = me⁴/(8ε₀²h²) (1/n₁² − 1/n₂²).\nThis energy is carried by a photon of frequency ν, so ΔE = hν. Therefore:\nhν = me⁴/(8ε₀²h²) (1/n₁² − 1/n₂²)\nν = me⁴/(8ε₀²h³) (1/n₁² − 1/n₂²).\nThis is the required expression for the frequency of the radiation emitted by the electron.\nDividing by c gives the wave number: ν̄ = 1/λ = me⁴/(8ε₀²h³c) (1/n₁² − 1/n₂²) = R_H(1/n₁² − 1/n₂²), where R_H = me⁴/(8ε₀²h³c).",
+    "explanation": "The printed instruction reads 'Drive an expression', which is a typographical error for 'Derive an expression'. The derivation uses the given energy expression: the energy difference between two stationary states appears as a photon of energy hν, giving ν = (me⁴/8ε₀²h³)(1/n₁² − 1/n₂²).",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What are X-rays? How are they produced? Give their properties and uses.",
+    "answer": "X-rays are high-frequency electromagnetic radiations of very short wavelength (about 0.01–10 nm, i.e. 0.1–100 Å). They are produced when fast-moving electrons are suddenly stopped by a heavy metal target.\nProduction: In a Coolidge tube, a tungsten filament is heated by a low-voltage supply and emits electrons by thermionic emission. A high voltage (typically tens of kilovolts) between the cathode and the heavy metal anode (e.g. tungsten or molybdenum) accelerates these electrons in a vacuum. When the electrons strike the target, two kinds of X-rays are produced:\n(i) Continuous X-rays (bremsstrahlung): produced by the deceleration of the electrons in the electric field of the target nuclei. The energy lost appears as X-ray photons and gives a continuous spectrum.\n(ii) Characteristic X-rays: produced when an incident electron knocks an inner-shell electron out of a target atom; an electron from a higher shell falls into the vacancy and emits a photon whose energy equals the difference between the two levels. These give sharp lines characteristic of the target element.\nProperties:\n• They are electromagnetic waves with no charge and no mass and travel at the speed of light in vacuum.\n• They have very short wavelength, high frequency and high energy, and are more penetrating than visible light.\n• They are not deflected by electric or magnetic fields.\n• They penetrate matter and are absorbed more strongly by dense materials such as bone and lead.\n• They ionize gases, affect a photographic plate, cause fluorescence and can eject electrons from metals (photoelectric effect).\n• They can damage living cells and tissues.\nUses:\n• Medical diagnosis, e.g. radiographs of bones, teeth and chest and CT scans.\n• Radiotherapy for the treatment of cancer.\n• Industrial radiography to detect cracks, flaws and defective welds in metal structures.\n• Security screening of luggage and packages.\n• X-ray diffraction (crystallography) to determine crystal structures, including the structure of DNA.\n• Sterilisation of medical equipment and some food products.",
+    "explanation": "X-rays are produced by the conversion of the kinetic energy of fast electrons into electromagnetic radiation when they strike a heavy target. The continuous part arises from deceleration (bremsstrahlung) and the characteristic lines arise from inner-shell electron transitions; their short wavelength gives them high penetrating power and many medical and industrial uses.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "State and illustrate the following rules of electronic configuration.\n(a) Pauli's exclusion rule\n(b) Hund's rule of maximum multiplicity",
+    "answer": "(a) Pauli's exclusion rule: No two electrons in the same atom can have the same set of all four quantum numbers (n, ℓ, m and s). Two electrons may occupy the same orbital only if they have opposite spins, s = +½ and s = −½. Consequently an orbital can hold a maximum of two electrons, and a shell with principal quantum number n can hold a maximum of 2n² electrons.\nIllustration: For neon (10 electrons), 1s² 2s² 2p⁶. The two electrons in the 1s orbital have the same n, ℓ and m but opposite spins: 1s ↑↓. Similarly each 2p orbital contains a pair of electrons with opposite spins: 2pₓ ↑↓, 2p_y ↑↓, 2p_z ↑↓. No two electrons in the atom have all four quantum numbers identical.\n(b) Hund's rule of maximum multiplicity: Pairing of electrons in degenerate orbitals (orbitals of the same energy, i.e. the same n and ℓ) does not take place until each degenerate orbital contains one electron. The singly occupied orbitals must have electrons with parallel spins, because this arrangement minimizes electron–electron repulsion and gives the maximum total spin (maximum multiplicity).\nIllustration: For carbon (2p²), the two 2p electrons occupy two different p orbitals with parallel spins: 2pₓ ↑, 2p_y ↑, 2p_z _ (not 2pₓ ↑↓, 2p_y _, 2p_z _). For nitrogen (2p³), all three p orbitals are singly occupied: 2pₓ ↑, 2p_y ↑, 2p_z ↑. Pairing begins only with the fourth p electron, as in oxygen (2p⁴): 2pₓ ↑↓, 2p_y ↑, 2p_z ↑.",
+    "explanation": "Pauli's rule limits the capacity of an orbital to two electrons of opposite spin, while Hund's rule determines how electrons distribute themselves among degenerate orbitals: single occupancy with parallel spins first, pairing afterwards. Both rules, together with the Aufbau principle, are needed to write correct electronic configurations.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Explain hydrogen spectrum in term of Bohr's theory.",
+    "answer": "According to Bohr's theory, the electron in a hydrogen atom can occupy only certain stationary orbits of definite energy. The energy of the electron in the nth orbit is Eₙ = −13.6/n² eV (or Eₙ = −me⁴/(8ε₀²h²n²)). The lowest energy state is the ground state (n = 1), and the higher states (n = 2, 3, ...) are excited states.\nWhen an electron falls from a higher orbit n₂ to a lower orbit n₁, the excess energy is emitted as a single photon of frequency ν, where hν = E₂ − E₁. Using the energy expression:\nhν = me⁴/(8ε₀²h²) (1/n₁² − 1/n₂²), so ν̄ = 1/λ = R_H(1/n₁² − 1/n₂²), with R_H = me⁴/(8ε₀²h³c) = 1.09678 × 10⁷ m⁻¹.\nBecause n₁ and n₂ can have only integral values, only certain definite frequencies (and wavelengths) can be emitted. Therefore the hydrogen spectrum is a line spectrum, not a continuous spectrum. Conversely, absorption occurs when an electron is excited from a lower to a higher orbit, producing dark lines at the same wavelengths.\nThe spectral lines are grouped into series according to the lower energy level n₁:\n• Lyman series (n₁ = 1; n₂ = 2, 3, 4, ...): lies in the ultraviolet region.\n• Balmer series (n₁ = 2; n₂ = 3, 4, 5, ...): lies in the visible region. Its lines are Hα at 656 nm (3 → 2), Hβ at 486 nm (4 → 2), Hγ at 434 nm (5 → 2) and Hδ at 410 nm (6 → 2); the series limit is 364.6 nm.\n• Paschen series (n₁ = 3; n₂ = 4, 5, ...): lies in the infrared region.\n• Brackett series (n₁ = 4; n₂ = 5, 6, ...): lies in the infrared region.\n• Pfund series (n₁ = 5; n₂ = 6, 7, ...): lies in the infrared region.\nBohr's equation reproduces the observed wavelengths of these lines and the value of the Rydberg constant, so it successfully explains the hydrogen spectrum.",
+    "explanation": "The key point is that the discrete energy levels of Bohr's model allow only fixed energy differences, so each transition produces a photon of a definite frequency. The series limits occur when n₂ approaches infinity, and each series corresponds to transitions ending at a particular lower level.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Describe four quantum numbers needed to specify an electron in an atom. Write all possible values of ℓ, m and s for n = 2.",
+    "answer": "Four quantum numbers specify an electron completely:\n(i) Principal quantum number (n): It determines the main energy level (shell) and the average size of the orbital. Its allowed values are n = 1, 2, 3, ...; a larger n means a larger orbit and higher energy.\n(ii) Azimuthal (angular momentum) quantum number (ℓ): It determines the subshell and the shape of the orbital. For a given n, ℓ = 0, 1, 2, ..., n − 1, corresponding to s, p, d, f ... subshells.\n(iii) Magnetic quantum number (m or m_ℓ): It determines the orientation of the orbital in space. For a given ℓ, m = −ℓ, ..., 0, ..., +ℓ, giving (2ℓ + 1) orbitals.\n(iv) Spin quantum number (s or m_s): It determines the direction of the electron's spin. Its values are s = +½ (clockwise) and s = −½ (anticlockwise); two electrons in the same orbital must have opposite spins.\nFor n = 2, the possible values are:\nℓ = 0 and ℓ = 1.\nFor ℓ = 0 (2s): m = 0 only; s = +½ and −½, giving 2 electrons.\nFor ℓ = 1 (2p): m = −1, 0, +1; for each value of m, s = +½ and −½, giving 3 × 2 = 6 electrons.\nTotal number of electrons in the n = 2 shell = 2 + 6 = 8 = 2n².\nThe eight possible sets of (n, ℓ, m, s) are: (2, 0, 0, +½), (2, 0, 0, −½), (2, 1, −1, +½), (2, 1, −1, −½), (2, 1, 0, +½), (2, 1, 0, −½), (2, 1, +1, +½), (2, 1, +1, −½).",
+    "explanation": "The principal quantum number fixes the shell, ℓ fixes the subshell and shape, m fixes the orbital orientation and s fixes the spin direction. For n = 2 there are two subshells (2s and 2p), four orbitals in total and eight possible electron states, in agreement with the 2n² rule.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Calculate the radius of hydrogen in 3rd orbit (Bohr constant for hydrogen is 0.529 Å).",
+    "answer": "Given: n = 3; Bohr radius (radius of the first orbit) r₁ = 0.529 Å = 0.529 × 10⁻¹⁰ m.\nFormula: rₙ = r₁n² = 0.529n² Å, since rₙ = n²h²ε₀/(πme²).\nCalculation: r₃ = 0.529 × (3)² = 0.529 × 9 = 4.761 Å.\nAnswer: the radius of the third orbit of hydrogen is 4.761 Å (4.761 × 10⁻¹⁰ m, about 4.76 Å).",
+    "explanation": "The radius increases as n², so the third orbit is nine times the first Bohr radius. Substituting n = 3 into rₙ = 0.529n² Å gives 4.761 Å; 0.529 Å itself is the radius of the first orbit, not the third.",
+    "pdfPage": 55,
+    "bookPage": 49
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A photon of wave number 23 × 10⁵ m⁻¹ is emitted when electron undergoes a transition from a higher energy orbit to n = 2. Determine the orbit from which electron fall and also the spectral line appears in this transition of electron.\n(The value of Rydberg constant is 1.09678 × 10⁷ m⁻¹).",
+    "answer": "Given: ν̄ = 23 × 10⁵ m⁻¹ = 2.3 × 10⁶ m⁻¹; lower orbit n₁ = 2; R_H = 1.09678 × 10⁷ m⁻¹.\nUsing the Rydberg equation: ν̄ = R_H(1/n₁² − 1/n₂²)\n2.3 × 10⁶ m⁻¹ = 1.09678 × 10⁷ m⁻¹ (1/2² − 1/n₂²)\n2.3 × 10⁶ / 1.09678 × 10⁷ = 0.25 − 1/n₂²\n0.2097 = 0.25 − 1/n₂²\n1/n₂² = 0.25 − 0.2097 = 0.0403\nn₂² = 1/0.0403 = 24.8\nn₂ ≈ 4.98 ≈ 5.\nTherefore the electron falls from the 5th orbit to the 2nd orbit (n₂ = 5 → n₁ = 2).\nBecause the transition ends at n = 2, the spectral line belongs to the Balmer series, which lies in the visible region.\nWavelength: λ = 1/ν̄ = 1/(2.3 × 10⁶ m⁻¹) = 4.35 × 10⁻⁷ m = 435 nm. This is the blue-violet Hγ line of the Balmer series.\nAnswers: the electron falls from the 5th orbit (n = 5); the line appears in the Balmer series (visible region), at about 435 nm (Hγ).",
+    "explanation": "The value n₂ ≈ 4.98 is rounded to 5 because the wave number is quoted to two significant figures. Checking with n₂ = 5 gives ν̄ = 1.09678 × 10⁷ × (1/4 − 1/25) = 2.303 × 10⁶ m⁻¹ = 23.03 × 10⁵ m⁻¹, which agrees with the given 23 × 10⁵ m⁻¹. A transition to n = 2 is Balmer; n = 4 would have given 20.6 × 10⁵ m⁻¹.",
+    "pdfPage": 55,
+    "bookPage": 49
+  }
+]

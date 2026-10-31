@@ -1,0 +1,862 @@
+[
+  {
+    "id": "u3_r_pre_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What makes you a happy person?",
+    "answer": "For me happiness does not come from one big event; it grows out of small, repeatable things. I am happiest when I have finished a piece of work I had been putting off, because the relief and self-respect that follow are worth more than the task itself. I am also happy at the dinner table when my mother tells us something funny about her day and my younger brother laughs with his mouth full. A walk in the evening, a message from an old friend, a book that keeps me awake, and the feeling that I have been useful to somebody - these are the things that make me a happy person. Above all, I am happy when I am healthy and when the people I love are safe. I have learnt that happiness is less about getting what I want and more about noticing what I already have.",
+    "explanation": "Open-ended personal-response question; the answer is a model first-person reply of the kind expected in the pre-reading round.",
+    "bookPage": 36
+  },
+  {
+    "id": "u3_r_pre_q2",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Do you think money can make a person happy?",
+    "answer": "Money can remove a great deal of unhappiness, but it cannot by itself make a person happy. A family that cannot pay the rent, buy medicine or send its children to school lives in constant worry, and a rise in income genuinely improves such a life. Beyond that point, however, extra money buys comfort rather than contentment. The story of Mathilde Loisel shows this clearly: she had a home, a maid, a loving husband and enough to live on, yet she was miserable because she wanted silk dresses and diamonds. When the necklace was lost, all the money the couple could borrow bought them ten years of drudgery, not happiness. What money buys is security; happiness comes from relationships, health, purpose and the feeling that one's life matters. A person who has enough and is grateful is happier than a rich person who is always comparing himself with others.",
+    "explanation": "Open-ended opinion question; the answer takes a balanced position and links it to the unit text.",
+    "bookPage": 36
+  },
+  {
+    "id": "u3_r_pre_q3",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Have you ever borrowed anything precious and lost it?",
+    "answer": "Yes. For our school trip to Mohenjo-daro I borrowed my uncle's camera, which he had bought abroad and which he valued more than anything else he owned. On the second day, while I was climbing down from the stupa with the camera bag open, the camera slipped out and the lens smashed on the bricks. My first thought was to say nothing and hope he would not notice, but I could not sleep that night. I told him the truth the moment we returned, offered to pay for the repair out of my savings, and worked for two months at my cousin's shop to earn part of the money. He was angry for a week, then he was kind. The lesson I learnt is exactly the one Mathilde learns: it is not the loss that ruins us but the fear of admitting it, and honesty, though expensive, is always cheaper than a lie.",
+    "explanation": "Open-ended personal-experience question; model first-person answer with a concrete incident and reflection.",
+    "bookPage": 36
+  },
+  {
+    "id": "u3_r_ex1_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and deduce the meaning of words given in column A and write their contextual meaning in column B. Share with your partner after you have completed.",
+    "answer": "No. | Column A | Column B (contextual meaning)\n1 | elite | the wealthiest and most fashionable group of the city - the rich people who gave and attended the grand parties Mathilde longed to join.\n2 | fancy | decorative, showy and expensive-looking; not plain or practical (fancy clothes, fancy dress).\n3 | thrilled | extremely excited and pleased, as Loisel expected his wife to be about the invitation.\n4 | embarrassed | ashamed and awkward in front of others; Mathilde felt this because she had no jewellery to wear at the party.\n5 | retrace | to go back over the same route or steps one has already taken, as Loisel did while searching for the necklace.\n6 | horrified | filled with horror; deeply shocked and frightened, as Loisel was when he realised the necklace was lost.\n7 | scrub | to rub something hard with soap and water in order to clean it (Mathilde scrubbed the laundry).\n8 | shabby | worn out, faded and dirty-looking through long use (the shabby cab she took home at four o'clock).\n9 | strolling | walking slowly and in a relaxed, leisurely way (Mme Forestier strolling with a child).\n10 | clasp | to hold someone tightly with the hands, as Mme Forestier clasped Mathilde's hands at the end.",
+    "explanation": "Each meaning is deduced from the sentence in which the word occurs in the text, not from a dictionary list.",
+    "bookPage": 40
+  },
+  {
+    "id": "u3_r_ex2_q1",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "_______ was working in education.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Mathilde"
+      },
+      {
+        "key": "b",
+        "text": "Loisel"
+      },
+      {
+        "key": "c",
+        "text": "Mansion"
+      },
+      {
+        "key": "d",
+        "text": "Forestier"
+      }
+    ],
+    "optionsRaw": "(a) Mathilde   (b) Loisel   (c) Mansion   (d) Forestier",
+    "answer": "(b) Loisel - he was 'a clerk, who worked in the Ministry of Education'.",
+    "correctAnswer": "(b) Loisel",
+    "explanation": "The opening paragraph states that Mathilde 'was married to Loisel, a clerk, who worked in the Ministry of Education'; Mathilde did not work, and Mansion is the Ministerial Mansion, not a person.",
+    "bookPage": 40
+  },
+  {
+    "id": "u3_r_ex2_q2",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "Mathilde belonged to a/an ________ family.",
+    "options": [
+      {
+        "key": "a",
+        "text": "rich"
+      },
+      {
+        "key": "b",
+        "text": "poor"
+      },
+      {
+        "key": "c",
+        "text": "middle class"
+      },
+      {
+        "key": "d",
+        "text": "elite"
+      }
+    ],
+    "optionsRaw": "(a) rich   (b) poor   (c) middle class   (d) elite",
+    "answer": "(c) middle class - 'Mathilde was a pretty, charming, middle-class girl', born and married in a modest family.",
+    "correctAnswer": "(c) middle class",
+    "explanation": "The text calls her 'middle-class' and 'modest'; she was neither rich nor among the elite, and not poor in the sense of being destitute before the debt.",
+    "bookPage": 40
+  },
+  {
+    "id": "u3_r_ex2_q3",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "Loisel give Mathilde four hundred francs to ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "buy outfits"
+      },
+      {
+        "key": "b",
+        "text": "go to theatre"
+      },
+      {
+        "key": "c",
+        "text": "buy jewellery"
+      },
+      {
+        "key": "d",
+        "text": "help her friend"
+      }
+    ],
+    "optionsRaw": "(a) buy outfits   (b) go to theatre   (c) buy jewellery   (d) help her friend",
+    "answer": "(a) buy outfits - the money was for 'the right outfit' to wear to the party; he had saved it for a rifle.",
+    "correctAnswer": "(a) buy outfits",
+    "explanation": "Mathilde asks 'How much would the right outfit cost?' and answers 'four hundred francs'; Loisel gives it although he had saved the sum for a hunting rifle. Jewellery was borrowed, not bought.",
+    "bookPage": 40
+  },
+  {
+    "id": "u3_r_ex2_q4",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "Mathilde seemed happiest when she ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "received the invitation"
+      },
+      {
+        "key": "b",
+        "text": "danced in the party"
+      },
+      {
+        "key": "c",
+        "text": "bought a new dress"
+      },
+      {
+        "key": "d",
+        "text": "borrowed the necklace"
+      }
+    ],
+    "optionsRaw": "(a) received the invitation   (b) danced in the party   (c) bought a new dress   (d) borrowed the necklace",
+    "answer": "(b) danced in the party - 'She danced joyfully and had a wonderful time there' and was 'the centre of attention', 'very happy'.",
+    "correctAnswer": "(b) danced in the party",
+    "explanation": "She tossed the invitation aside, wept over the dress and was nervous about jewellery; only at the party is she described as happy.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q5",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "The main theme of 'The Necklace' is: ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "We suffer for our vanities"
+      },
+      {
+        "key": "b",
+        "text": "It is unwise to borrow things"
+      },
+      {
+        "key": "c",
+        "text": "Parties can lead to trouble"
+      },
+      {
+        "key": "d",
+        "text": "Friends should be honest with each other"
+      }
+    ],
+    "optionsRaw": "(a) We suffer for our vanities   (b) It is unwise to borrow things   (c) Parties can lead to trouble   (d) Friends should be honest with each other",
+    "answer": "(a) We suffer for our vanities - Mathilde's longing for luxury and admiration leads to ten years of hardship, and the necklace turns out to be false.",
+    "correctAnswer": "(a) We suffer for our vanities",
+    "explanation": "The whole plot turns on Mathilde's vanity (dress, jewels, admiration) and the irony that everything was sacrificed for a fake; borrowing and parties are only the occasion, not the theme.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q6",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "When she borrowed necklace, Mme. Loisel spent whole evening in ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "talking with her husband"
+      },
+      {
+        "key": "b",
+        "text": "watching rich people"
+      },
+      {
+        "key": "c",
+        "text": "wishing she had not come"
+      },
+      {
+        "key": "d",
+        "text": "dancing with many men"
+      }
+    ],
+    "optionsRaw": "(a) talking with her husband   (b) watching rich people   (c) wishing she had not come   (d) dancing with many men",
+    "answer": "(d) dancing with many men - she was 'the centre of attention', 'danced joyfully' and 'everybody, including the minister, noticed her'.",
+    "correctAnswer": "(d) dancing with many men",
+    "explanation": "The text describes her dancing all evening and being admired; she did not regret coming, and her husband was not the centre of her attention at the party.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q7",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "In order to pay the necklace, M. Loisel does all of the following except ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "contribute his entire inheritance"
+      },
+      {
+        "key": "b",
+        "text": "make deals with loan swindlers"
+      },
+      {
+        "key": "c",
+        "text": "borrowing money from the bank"
+      },
+      {
+        "key": "d",
+        "text": "paying his house loan"
+      }
+    ],
+    "optionsRaw": "(a) contribute his entire inheritance   (b) make deals with loan swindlers   (c) borrowing money from the bank   (d) paying his house loan",
+    "answer": "(c) borrowing money from the bank - the text says he borrowed 'from moneylenders on very high interest', not from a bank.",
+    "correctAnswer": "(c) borrowing money from the bank",
+    "explanation": "The text says Loisel used his 18,000-franc inheritance (a) and borrowed from moneylenders at very high interest (b); he then worked for years to repay the debt. No bank loan is mentioned, so (c) is the intended exception. The printed option (d) 'paying his house loan' is also not supported: the debt he repaid was the replacement necklace, not a house loan. Only (c) and (d) are both absent from the text, so the question is defective; (c) is keyed because the passage explicitly names moneylenders, not a bank.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q8",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "Throughout the story, Mme. Loisel values ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "love"
+      },
+      {
+        "key": "b",
+        "text": "appearances"
+      },
+      {
+        "key": "c",
+        "text": "knowledge"
+      },
+      {
+        "key": "d",
+        "text": "wisdom"
+      }
+    ],
+    "optionsRaw": "(a) love   (b) appearances   (c) knowledge   (d) wisdom",
+    "answer": "(b) appearances - she cares about fine clothes, jewellery and being admired, and is 'embarrassed' at the party without jewels.",
+    "correctAnswer": "(b) appearances",
+    "explanation": "Her daydreams are about clothes, jewellery and grand parties, and she is ashamed of looking ordinary; love, knowledge and wisdom are never her priorities.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q9",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "When Mathilde had to return the Necklace, she was looking as ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "rich"
+      },
+      {
+        "key": "b",
+        "text": "proud"
+      },
+      {
+        "key": "c",
+        "text": "peasant"
+      },
+      {
+        "key": "d",
+        "text": "miser"
+      }
+    ],
+    "optionsRaw": "(a) rich   (b) proud   (c) peasant   (d) miser",
+    "answer": "(c) peasant - during the years of repayment 'she dressed like a peasant' and looked like an old woman.",
+    "correctAnswer": "(c) peasant",
+    "explanation": "The text describes her in the period of the debt: she 'dressed like a peasant' and had become coarse, red-handed and aged. The stem is loosely worded (at the actual return of the necklace the text gives no description of her dress); 'peasant' is the only option supported by the story.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex2_q10",
+    "sectionCode": "U3S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "Mathilde bought another Necklace for ________ francs.",
+    "options": [
+      {
+        "key": "a",
+        "text": "sixty"
+      },
+      {
+        "key": "b",
+        "text": "fifty"
+      },
+      {
+        "key": "c",
+        "text": "thirty six"
+      },
+      {
+        "key": "d",
+        "text": "fifty six"
+      }
+    ],
+    "optionsRaw": "(a) sixty   (b) fifty   (c) thirty six   (d) fifty six",
+    "answer": "(c) thirty six - thirty-six thousand francs ('It cost forty thousand francs, but they could get it for thirty-six').",
+    "correctAnswer": "(c) thirty six",
+    "explanation": "The printed options drop 'thousand'; the text means 36,000 francs, bargained down from 40,000.",
+    "bookPage": 41
+  },
+  {
+    "id": "u3_r_ex3_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Work individually. Read the text again and mark (√) for true, and (X) for false against each statement given below.",
+    "answer": "No. | Statement | Answer\n1 | At first, Mathilde demanded a diamond necklace from her husband. | X (False) - she first demanded a suitable outfit (400 francs); the diamond necklace was borrowed from Mme Forestier.\n2 | Mathilde wept after returning from her friend's home. | X (False) - she came home happily hugging the necklace; she had wept earlier, at home, over having no dress.\n3 | Poverty ruined Mathilde's life and looks. | √ (True) - ten years of scrubbing, hauling water and bargaining left her looking like an old woman, coarse and red-handed.\n4 | The story of 'The Necklace' tells about greed and hope. | X (False) - it is about vanity and pride, and the irony of fate: a fake necklace costs the Loisels ten years.\n5 | The idiom 'burst into tears' means weep intensely. | √ (True) - it means to begin crying suddenly and violently; the text uses it for Mathilde sobbing over the dress.\n6 | Sous and francs are the words that indicate currency. | √ (True) - both are French units of money; Loisel is paid five sous a page.\n7 | After seven days, they decided to replace the diamond necklace. | √ (True) - 'By the end of the week ... We must replace the necklace.'\n8 | In the end of story, the same diamond necklace was returned. | X (False) - the borrowed necklace was lost; an identical one bought for 36,000 francs was returned, and the friend never opened the case.",
+    "explanation": "Each judgement is checked against the text. Statement 4 is arguable (some readers see 'greed' in Mathilde's longing), but 'hope' is not a theme of the story, so it is marked false; statement 5 is accepted in its ordinary sense of suddenly crying hard.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Why did M. Loisel expect his wife to be pleased to receive the invitation?",
+    "answer": "Because he knew how much she disliked her ordinary life. The narrator tells us that Mathilde 'always daydreamed about being rich' and was unhappy because she could not afford fine clothes or attend the grand parties given by the elite. When the invitation to the party at the Ministerial Mansion arrived, Loisel explained his reasoning himself: 'I thought you'd be thrilled since you never had a chance to go out. Everybody wants to go, but few clerks can. The most important people will be there.' He believed the party would give her exactly the glittering evening she had been dreaming of, so he expected delight rather than tears.",
+    "explanation": "The answer combines the narrator's description of Mathilde's dreams with Loisel's own words on page 36.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q2",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "2",
+    "question": "What was Mme. Loisel's reaction on reading the invitation?",
+    "answer": "Far from being pleased, she was irritated and disappointed. She 'tossed it aside' and said, 'What good is that to me?' When her husband explained that important people would be there, 'she gave him a sour look and cried, What do you think I would wear?' She then burst into tears and told him she had no party dress and therefore could not go. Her reaction shows that the invitation only reminded her of everything she lacked; she could think of nothing but her appearance.",
+    "explanation": "Directly paraphrased from the scene in which Loisel hands her the invitation.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q3",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "3",
+    "question": "How was the life of Mme. Loisel before the loss of the necklace?",
+    "answer": "Before the loss her life was comfortable but modest. She was a pretty, charming, middle-class girl married to a clerk in the Ministry of Education. They had their own flat and a maid, and she did not have to do heavy housework. Yet she was not content. She was unhappy because she could not afford fine clothes and could not attend the grand parties of the elite; she dreamed of 'a large collection of fancy clothes and expensive jewellery' which she could never buy. Her life, in short, was outwardly secure but inwardly full of envy and dissatisfaction - the very mood that makes her weep over a dress and borrow a diamond necklace.",
+    "explanation": "Based on the opening description of Mathilde's home, marriage and daydreams, and on details such as the maid she later dismisses.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q4",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "4",
+    "question": "What efforts were made to find Mme. Forestier's necklace?",
+    "answer": "The search was frantic and thorough. As soon as Mathilde discovered the necklace was missing, her husband shouted 'That's impossible!' and 'they searched everywhere in the apartment but found nothing'. He then 'retraced their steps, searching for hours', going back over the route they had taken home from the party, and came in at about seven o'clock the next morning having had 'no luck'. They also contacted the police and the cab companies and advertised in the newspapers, offering a reward, but by the end of the week 'they had given up all hope'.",
+    "explanation": "The apartment search, the retracing of their steps and the week of vain hope are all in the text; the police/cab/newspaper steps are the standard details of Maupassant's story and are implied by 'they had given up all hope'.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q5",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Describe in your own words how the Loisel's life changed after they had paid for the new necklace.",
+    "answer": "The moment they decided to replace the necklace, the Loisels' life changed completely. They gave up their flat and moved into 'a small and cheap apartment'; Mathilde dismissed the maid and did all the housework herself. She scrubbed the laundry, carried up water, took out the garbage and 'dressed like a peasant'. She haggled with the fruit dealer, the grocer and the butcher, who insulted her, and she watched every coin. Loisel, besides his office job, worked in the evenings as a bookkeeper and at night copied documents at five sous a page. This life lasted ten years. When at last 'all the debts and interest were paid', Mathilde had become an old-looking, coarse, hard-working woman, but she had also become honest, patient and strong - the change cost her her beauty but gave her a kind of dignity she never had as a dreamer.",
+    "explanation": "The question's 'after they had paid for' is read as 'after they had taken on the payment of'; the answer follows the paragraph describing the ten years of poverty and the closing description of Mathilde.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q6",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "6",
+    "question": "What was Mme. Forestier reaction when seeing Mme. Loisel before she figured out who she was?",
+    "answer": "Mme. Forestier did not recognise her at all. When Mathilde greeted her cheerfully as 'Jeanne', the other woman was 'surprised to be spoken to so familiarly' and said, 'But ... madam ... I don't recognize ... You must be mistaken.' Only when Mathilde identified herself - 'No, I'm Mathilde Loisel' - did her friend cry out, 'Oh, my dear Mathilde! How you've changed!' The reaction shows how completely ten years of hard poverty had aged and altered Mathilde's face and figure.",
+    "explanation": "Taken from the Sunday walk scene, where the two women meet after ten years.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q7",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "7",
+    "question": "How did Mr. and Mme. Loisel replace the necklace?",
+    "answer": "They found a necklace 'exactly like the first' in a shop. It was priced at forty thousand francs, but they were able to get it for thirty-six thousand. Loisel had eighteen thousand francs inherited from his father; for the rest he borrowed small sums from one person and another - a thousand francs from one, four hundred from another, a hundred here, sixty there - and the remainder 'from moneylenders on very high interest'. Mathilde then returned the necklace to Mme. Forestier in its case. Because the friend did not open the case, the substitution went unnoticed, and the couple spent the next ten years paying off the debt.",
+    "explanation": "A point-by-point account of the replacement passage on book page 38.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q8",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "8",
+    "question": "What was Mme. Forestier's reaction when the necklace was returned?",
+    "answer": "She was cold and slightly annoyed. She said, 'You should have returned it sooner. I might have needed it,' and she 'didn't open the case'. She did not thank Mathilde, did not examine the necklace and did not notice that it was a different one. Her casual, almost indifferent manner is important: it shows that the necklace meant little to her, and it prepares the reader for the final revelation that the original was a cheap imitation.",
+    "explanation": "Taken from the return scene; the coldness also explains why the Loisels' sacrifice went unnoticed.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q9",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "9",
+    "question": "How did Mr. Loisel contribute to the cost of the new necklace?",
+    "answer": "He contributed in three ways. First, he gave the whole of his inheritance - eighteen thousand francs left to him by his father. Second, he borrowed the remaining eighteen thousand francs in small amounts from acquaintances and the rest from moneylenders at very high interest, so that the debt carried heavy interest as well. Third, he took on extra work: he worked in the evenings as a bookkeeper and at night copied documents at five sous a page, and he kept this up for ten years until 'all the debts and interest were paid'. His contribution was therefore not only money but a decade of exhausting labour.",
+    "explanation": "Combines the inheritance and borrowing details with the account of his evening and night work.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex4_q10",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "10",
+    "question": "How had Mme. Loisel's sacrifices been in vain?",
+    "answer": "Her sacrifices were in vain because the necklace she lost was false. At the end Mme. Forestier, 'quite overcome', clasps her hands and says, 'Oh, my poor Mathilde. Mine was fake. At most, it was worth only five hundred francs!' Mathilde had replaced a five-hundred-franc imitation with a genuine diamond necklace costing thirty-six thousand francs, and for that she had given ten years of her youth, her beauty, her home and her comfort. Had she simply told her friend the truth at the time, the whole debt would never have existed. This is the bitter irony of the story: the suffering was real, but the cause was worthless.",
+    "explanation": "The final revelation on book page 39 supplies the answer; the irony is the point of the story.",
+    "bookPage": 42
+  },
+  {
+    "id": "u3_r_ex5_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually and describe the following characters in your own words in your notebook: Mathilde",
+    "answer": "Mathilde Loisel is a pretty, charming, middle-class woman who is never satisfied with what she has. She dreams all day of wealth, silk dresses, jewellery and the admiration of the elite, and this longing makes her unhappy in a home that is actually comfortable. She is vain and a little manipulative: she weeps until her husband gives up his savings for a dress. Yet she is not wicked. She is proud and honest enough to accept the full cost of her mistake: she dismisses the maid, scrubs floors, carries water, bargains in the market and grows coarse and old rather than confess or cheat. At the end, when she tells Mme. Forestier the truth, she smiles 'with pride and simple joy'. The story therefore shows both her vanity and her unexpected strength of character.",
+    "explanation": "Character sketch built from her daydreams, her behaviour over the dress and jewels, and her conduct during the ten years of debt.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_r_ex5_q2",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Work individually and describe the following characters in your own words in your notebook: Loisel",
+    "answer": "Loisel is a clerk in the Ministry of Education - a modest, practical and generous man. He is not rich, but he is content with what he has and wants his wife to be happy. When she weeps over a dress, he gives her the four hundred francs he had saved for a hunting rifle, and he suggests borrowing jewellery from her rich friend. He is patient and forgiving: he searches all night for the lost necklace and does not blame her. Above all he is responsible. He uses his entire inheritance, borrows at high interest from moneylenders, works as a bookkeeper in the evenings and copies documents at night for five sous a page for ten years until the debt is paid. He is the quiet, unglamorous hero of the story.",
+    "explanation": "Drawn from his work, his sacrifice of the rifle money, the night search and the decade of extra work.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_r_ex5_q3",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Work individually and describe the following characters in your own words in your notebook: Mme. Forestier",
+    "answer": "Mme. Forestier is Mathilde's rich friend, the woman whose jewellery box Mathilde envies. She is generous in a casual way: she welcomes Mathilde, offers her the whole box and says, 'Pick out something, my dear.' She is also careless and a little vain herself, for she lends a diamond necklace that is in fact a fake worth at most five hundred francs and never mentions it. When the necklace is returned late she is cold - 'You should have returned it sooner. I might have needed it' - and does not even open the case. Ten years later she is still 'young and beautiful'. At the end, however, she is genuinely shocked and moved: 'Oh, my poor Mathilde. Mine was fake.' She represents the glittering world Mathilde worshipped, where appearances cannot be trusted.",
+    "explanation": "Based on the borrowing scene, the return scene, the meeting after ten years and the final confession.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_r_ex6_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Work in groups and read the story, 'The Necklace'. Underline the key points and summarize it in your own words. After you have completed, share your work with other groups.",
+    "answer": "Mathilde Loisel, a pretty middle-class dreamer married to a clerk in the Ministry of Education, is never satisfied with her modest life. When her husband brings an invitation to a grand party at the Ministerial Mansion, she weeps because she has no dress; he gives her the four hundred francs he had saved for a rifle. Still ashamed of having no jewels, she borrows a diamond necklace from her rich friend Mme. Forestier. At the party she is the centre of attention and dances joyfully, but on reaching home she finds the necklace gone. The couple search everywhere and Loisel retraces their steps all night without success. They buy an identical necklace for thirty-six thousand francs, using Loisel's inheritance of eighteen thousand and borrowing the rest at high interest, and Mathilde returns it without her friend noticing. To pay the debt they dismiss their maid, move to a cheap flat, and for ten years Mathilde does heavy housework while Loisel works nights. Coarsened and aged, Mathilde one day meets Mme. Forestier, who does not recognise her, and proudly explains what the necklace cost. Her friend, overcome, replies that the original was fake and worth at most five hundred francs - so ten years of hardship were spent to replace a worthless imitation.",
+    "explanation": "Summary of about 200 words covering the key plot points in order; students should write it in their own words rather than copy.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_r_ex7_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Work individually and imagine yourself in the same situation like that of the story. What strategies would you adopt to get out of it. Mention only two strategies. After completing, share your work with the class.",
+    "answer": "Strategy 1: Tell the truth at once. If I lost a borrowed necklace, I would go straight to the owner and confess, instead of replacing it secretly. In the story this single act would have ended the trouble: Mme. Forestier would have said that the necklace was a fake worth five hundred francs, and there would have been no thirty-six-thousand-franc debt. Honesty is cheaper than pride.\n\nStrategy 2: Establish the facts and the value before borrowing money. I would ask the owner for the receipt or have the piece valued by a jeweller, report the loss to the police and check whether the item was insured, and only then decide how to compensate her - preferably by a written agreement about instalments rather than a loan from moneylenders at ruinous interest. In short, I would face the problem with facts and a plan instead of hiding it and borrowing blindly.",
+    "explanation": "Open-ended application task; two concrete strategies are given, each linked to the mistake the Loisels actually made.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_r_ex8_q1",
+    "sectionCode": "U3S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Work in pairs and analyse the story of 'The Necklace' according to the elements of story mentioned in the below diagram (Exposition, Rising Action, Climax, Falling Action, Resolution).",
+    "answer": "Exposition (beginning, where characters and setting are introduced): Paris, the modest home of the Loisels. Mathilde, a pretty middle-class girl who longs for wealth, is married to Loisel, a clerk in the Ministry of Education. Her husband brings home an invitation to a grand party at the Ministerial Mansion; she weeps because she has no dress, and he gives her four hundred francs saved for a rifle. She then borrows a diamond necklace from her rich friend Mme. Forestier.\n\nRising Action (where the main character faces a series of conflicts): Mathilde shines at the party, is admired by everyone including the minister and dances until four in the morning. At home she notices that the borrowed necklace is gone. The couple search the flat, Loisel retraces their steps for hours, and by the end of the week all hope is lost. They find a similar necklace for thirty-six thousand francs, use Loisel's inheritance and borrow the rest at high interest; Mathilde returns it and the friend does not open the case. The couple sink into poverty: the maid is dismissed, they move to a cheap flat, and Mathilde does all the housework while Loisel works nights. This hardship lasts ten years.\n\nClimax (the most exciting part, when we learn the outcome): on a Sunday walk Mathilde meets Mme. Forestier, who does not recognise her. Mathilde, proud of having paid the debt, tells her the whole story of the replacement necklace.\n\nFalling Action (events leading to the end): Mme. Forestier, 'quite overcome', takes her hands and reveals the truth - 'Mine was fake. At most, it was worth only five hundred francs!' The revelation overturns the meaning of the last ten years.\n\nResolution (end of the story): Mathilde is left with the knowledge that her sacrifice was wasted; the story closes on this irony, leaving the reader to reflect on vanity, pride and the cost of appearances.",
+    "explanation": "The diagram's five elements are each filled with specific events from the text; the climax is the moment of revelation, which is where the outcome of the story is truly learnt.",
+    "bookPage": 43
+  },
+  {
+    "id": "u3_w_ex1_q1",
+    "sectionCode": "U3S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Look at the following sample of a narrative writing which contains many elements. Some of them are illustrated in sample below.",
+    "answer": "The sample 'Older Sister' illustrates every element of the narrative structure given on page 44:\n\n1. The 'Hook': the story opens with the mother's shouted line, 'Hurry up you guys, you'll be late for school!' - a dramatic, everyday sound that pulls the reader straight into the scene.\n2. Set the Scene: we learn the characters (Mom, Hina the narrator, Sara the little sister), the time (morning, Sara's first day of Kindergarten) and the place (home, the front walkway, the street to school).\n3. Thesis Statement: the narrator's complaint, 'I wish Mom wouldn't treat me like such a baby', sets up the events - she wants to prove she is grown-up and responsible.\n4. 'Show, Don't Tell': instead of saying 'I was frightened', the writer gives a sweaty hand, a growl - 'GRRRR!!!' - and a dog 'the size of a small horse-with red eyes and sharp teeth'.\n5. Supporting Evidence: the experience itself - being trusted to walk Sara - is the evidence that proves the narrator is responsible.\n6. Passage of Time and Transitions: 'When I got up...', 'Meanwhile...', 'Suddenly...', 'Then we saw...' guide the reader clearly from breakfast to the school door.\n7. Dialogue: Mom's warnings, Sara's 'I'm scared, Hina', and the narrator's 'Everything will be okay' reveal character without explanation.\n8. Conclusion / Moral: the high-five at the bright red door and the secret 'let's not tell mom' show that the narrator has grown: being an adult means protecting someone else, not being treated like one. The reflection is implied through the closing action.",
+    "explanation": "This page prints the sample without an exercise number (the next exercise is numbered 2); the task is to identify how the narrative elements are illustrated, which is answered element by element with quotations from the sample.",
+    "bookPage": 45
+  },
+  {
+    "id": "u3_w_ex2_q1",
+    "sectionCode": "U3S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Work individually and narrate a happy/ sad or surprising incident of your life in the light of elements given in the sample. After you have written, share your work with your class fellows.",
+    "answer": "The Night the Lights Went Out\n\nI have never been so grateful for a power cut.\n\nIt was a hot evening in June, three weeks before my scholarship test. The test was online, and our area had already lost electricity twice that day. At six o'clock I sat at the dining table with my laptop at ninety per cent, my notes spread around me like a fan, and my mother frying pakoras in the kitchen because, she said, 'A hungry boy cannot think.' My father had gone to the market to buy candles. My younger brother, Bilal, was drawing racing cars on the back of my revision sheet.\n\nAt ten minutes to seven the ceiling fan slowed, clicked, and stopped. The tube-light died with a small tick. For a second nobody spoke. Then Bilal said, 'Load-shedding,' in the calm voice of a child who has grown up with it, and I felt my throat close. Of all the evenings, I thought. Of all the evenings.\n\nI ran to the window. The whole lane was dark. My laptop showed sixty per cent and the clock showed 6:52. I could hear my mother's slippers hurry behind me and my own heart in my ears.\n\nThen a voice came from the gate. 'Areeba! Beta!' It was Uncle Rashid from the house opposite, standing in his doorway with a torch. 'Bring your laptop here. My UPS is charged.' I did not even put on my shoes. I crossed the lane holding the laptop against my chest like a baby, and my mother followed with my rough notebook and a stool.\n\nFor the next hour and a half I wrote my test on Uncle Rashid's dining table while his generator hummed in the courtyard. My mother held a torch over my shoulder until her arm ached and then Uncle Rashid's daughter held it. At 8:32 I pressed submit and sat back, and only then did I notice that the whole family had been sitting silently around me, afraid to make a sound. My mother's eyes were wet.\n\nI passed that test. But what I remember is not the result; it is a lane full of dark houses and one lit doorway. I had always believed that success was something a person achieves alone, with hard work and discipline. That evening taught me otherwise. A power cut that I had cursed all my life turned out to be the kindest thing that happened to me that year, because it showed me how many people were quietly holding a torch for me.",
+    "explanation": "Model narrative of a surprising/happy incident, written to the sample's structure: hook, scene, thesis, show-don't-tell detail, chronological transitions, dialogue, climax and a reflective conclusion.",
+    "bookPage": 46
+  },
+  {
+    "id": "u3_w_ex3_q1",
+    "sectionCode": "U3S2",
+    "type": "sq",
+    "number": "3",
+    "question": "You have already read the story diagram in post-reading of the Unit 3.1. Now, work in pairs and analyse the sample story according to that diagram and write down its elements. After you have completed, share your work with your partner.",
+    "answer": "Exposition: Morning at Hina's home. Mom wakes Hina and Sara, tells Hina to walk Sara to school on her first day of Kindergarten and to 'make sure she gets there O.K.' Hina feels her mother is treating her 'like such a baby' and wants to prove she can be responsible.\n\nRising Action: Hina takes Sara's hand, asks if she is excited, and feels 'proud to be the older sister' as they pass gardens and leafy trees. Then she hears a growl: a big, fierce-looking dog with long sharp teeth is walking towards them, and no owner is in sight. Hina's hand becomes sweaty and Sara stops, saying, 'I'm scared, Hina.' The dog steps closer, 'the size of small horse-with red eyes and sharp teeth', and Hina tells herself, 'Be brave, be brave.'\n\nClimax: Hina grabs Sara's hand and shouts 'RUN!' - the moment of decision when the outcome is decided.\n\nFalling Action: They sprint down the sidewalk, Sara breathing hard, the dog coming behind them. Hina glances back, urges 'Come on', and silently prays 'Please let us make it.' Then they see the bright red door of the school.\n\nResolution: 'We made it!' Hina gives Sara a high-five and says, 'Let's not tell mom about this, okay? I think we'll go to school a different way tomorrow.' The narrator has proved she is grown-up by protecting her sister, and the joke about the different route closes the story on a warm, relieved note.",
+    "explanation": "The sample on page 45 is mapped onto the five-part story diagram from page 43, with quotations for each stage.",
+    "bookPage": 46
+  },
+  {
+    "id": "u3_w_ex4_q1",
+    "sectionCode": "U3S2",
+    "type": "sq",
+    "number": "4",
+    "question": "Work individually and use pre-writing strategies to write an incident that changed you in a significant way. List the incidents and indicate how each changed you. After writing it, exchange it with your partner.",
+    "answer": "Step 1 - List of incidents and how each changed me:\nNo. | Incident | How it changed me\n1 | Failed the class VII scholarship test by two marks | Stopped believing that talent alone is enough; began making a weekly study timetable that I still follow.\n2 | My grandmother's illness and her three months in hospital | Decided to become a doctor; learnt to stay calm in a crisis and to help with practical things (forms, medicines, shifting beds) instead of only feeling sorry.\n3 | Losing my father's camera on a school trip | Learnt to confess immediately; became careful with borrowed things and honest even when honesty is expensive.\n4 | Being made captain of the school cricket team in class IX | Learnt that leadership is mostly listening and giving others credit; my temper improved.\n5 | The flood of 2022, when our street was under water for four days | Understood how quickly comfort can disappear; began volunteering with a relief group every winter.\n\nStep 2 - Choosing and narrowing: I chose incident 3 because it has a clear single scene, a strong conflict (truth versus hiding), and a visible change in me.\n\nStep 3 - Outline (beginning, middle, end): borrowing the camera; the trip and the fall at the stupa; the silent bus journey home; confessing at the gate; paying for the repair from my savings and working at my cousin's shop.\n\nStep 4 - Draft (short version): 'The Lens' - I borrowed my uncle's camera for the Mohenjo-daro trip and smashed its lens climbing down from the stupa. I hid it in my bag all the way home and rehearsed a lie about a thief. At our gate my uncle was waiting with tea, and the lie died in my mouth. I told him everything. He was silent for a long minute, then said, 'The camera can be repaired. You, I was worried about.' I paid for the repair over two months. I have never since been able to enjoy anything I obtained by hiding the truth.",
+    "explanation": "Open-ended task: the pre-writing list, the choice of one incident, the outline and a short draft are all shown, as the exercise demands.",
+    "bookPage": 46
+  },
+  {
+    "id": "u3_w_ex5_q1",
+    "sectionCode": "U3S2",
+    "type": "sq",
+    "number": "5",
+    "question": "Now, work in pairs and check the story of your partner written while doing Exercise 4. Make sure the story has all the elements and has followed the sample given on previous page.",
+    "answer": "Peer-check checklist (to be applied to the partner's story, with the result of each check):\n\nNo. | Element to check | What to look for | Comment on the draft\n1 | Hook | Does the first sentence catch attention (a line of dialogue, a sound, a surprising statement)? | Yes - 'The camera can be repaired' idea works, but the opening should be sharper; suggest beginning with the sound of the lens cracking.\n2 | Scene | Are the characters, place, time and situation clear in the first paragraph? | Yes - Mohenjo-daro, the school trip, the uncle, the narrator.\n3 | Thesis / purpose | Is it clear what the incident meant to the writer? | Yes - honesty is cheaper than a lie; state it more directly near the start.\n4 | Show, don't tell | Are there concrete details (sounds, objects, physical reactions) instead of labels like 'I was scared'? | Mostly - add one detail of the bus ride home (the bag on the knees, the noise) to build tension.\n5 | Supporting evidence | Do the events actually prove the lesson learnt? | Yes - the confession, the uncle's reply, the two months of work.\n6 | Passage of time and transitions | Are 'at first', 'then', 'by the time', 'after that' used to guide the reader? | Needs work - the middle jumps from the stupa to the gate; add a transition sentence.\n7 | Dialogue | Is there some direct speech that reveals character? | Yes - the uncle's line is the best sentence in the piece; add one line of the narrator's own words at the confession.\n8 | Paragraphing | Does each new paragraph mark a change of action or of reflection? | Yes, but paragraph 2 is too long; split it at the fall.\n9 | Conclusion / moral | Does the ending reflect on the significance of the event, not just report it? | Yes - the last sentence does this well.\n10 | Language and mechanics | Spelling, tense consistency, punctuation, commas around non-restrictive clauses? | A few past-tense slips ('I hide' for 'I hid') and one missing comma before 'which'; correct them before the final copy.",
+    "explanation": "Pair-work evaluation task; the answer is a completed checklist that shows what to look for and gives sample comments on a partner's draft.",
+    "bookPage": 46
+  },
+  {
+    "id": "u3_o_ex1_q1",
+    "sectionCode": "U3S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in group of three. Take turns and acknowledge orally the contribution of the following people for the community. Remember to use the phrases given in the table above. Scenario 1: The forest officer of the area visits your college for further plantation drive.",
+    "answer": "Student A (host): Assalam-o-Alaikum, sir. Thank you for sparing time from your busy schedule to visit our college today.\n\nStudent B: Sir, our college has planted two hundred saplings this year, and the whole drive began because of the guidance your office gave us last spring. On behalf of the students, I would like to express my deepest appreciation to you for the saplings, the fencing wire and, above all, the training your staff gave our volunteers.\n\nStudent C: I agree with my friend. This would not have been possible without your support and nurturing, so I would like to extend my deepest appreciation and thanks to you and your team. I am also thankful to you for visiting us personally today, when a single phone call would have been enough. Your presence here tells every student that the work we are doing matters.\n\nStudent B: Sir, your department's contribution has been instrumental in making our college one of the greenest campuses in the district. Special thanks to you for arranging the drip irrigation that kept the plants alive through the summer.\n\nForest Officer: Thank you, students. A forest officer plants trees; you keep them alive. That is the harder work.\n\nStudent A: Sir, we are deeply indebted to you for that encouragement. We look forward to working with your office in the next drive as well.",
+    "explanation": "Role-play task; the dialogue uses the strong ('I would like to express my deepest appreciation', 'This would not have been possible without', 'deeply indebted', 'instrumental in'), the milder ('I am also thankful', 'Special thanks') and the reason-giving phrases from the table on page 47.",
+    "bookPage": 48
+  },
+  {
+    "id": "u3_o_ex1_q2",
+    "sectionCode": "U3S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Work in group of three. Take turns and acknowledge orally the contribution of the following people for the community. Remember to use the phrases given in the table above. Scenario 2: An event organized and managed by your college principal to develop awareness about the environmental cleanliness.",
+    "answer": "Student A: Respected Principal, teachers and friends, before we begin today's programme I would like to say a few words about the person because of whom this event is possible.\n\nStudent B: Ma'am, when the idea of a cleanliness awareness week was first discussed, many of us thought it was too ambitious for a college with no extra funds. You arranged the whole event yourself - the guest speakers, the banners, the street-cleaning teams and even the gloves and bags. On behalf of the students' council, I would like to express my deepest appreciation to you.\n\nStudent C: I also wish to thank you, ma'am, for trusting us with real responsibility instead of simply lecturing us about cleanliness. Your encouragement and patience throughout the planning of this event taught us more than any speech could. You were instrumental in turning an idea into a campaign that has reached four neighbouring streets.\n\nStudent B: Special thanks are also due to you for persuading the shopkeepers' association to join us; without their support the campaign would have remained inside our college gate.\n\nPrincipal: Thank you. But the credit belongs to you - I only signed the letters. What you have done this week has made our neighbourhood cleaner and, I hope, our habits better.\n\nStudent A: Ma'am, we are deeply indebted to you for your leadership, and we promise that this will not be a one-week event.",
+    "explanation": "Second role-play scenario; the acknowledgement follows the three-level pattern of the table (very strong appreciation, less strong but appreciative, reason for the acknowledgement) and is specific to the event described.",
+    "bookPage": 48
+  },
+  {
+    "id": "u3_o_ex2_q1",
+    "sectionCode": "U3S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Acknowledge and appreciate the contribution of any one of the following philanthropists: (a) Dr. Adeeb Rizvi",
+    "answer": "Dr. Adeeb Rizvi is a kidney and transplant surgeon who, with his team at the Sindh Institute of Urology and Transplantation (SIUT) in Karachi, has built one of the largest free kidney-care centres in the world. Patients who cannot pay are treated free of charge - dialysis, surgery, medicines and follow-up - and no one is turned away for lack of money. He has also trained hundreds of doctors and nurses and has spoken out for the dignity of the poor patient, insisting that treatment should be a right and not a charity.\n\nA spoken acknowledgement: 'Sir, I would like to express my deepest appreciation to you and your team. In a country where illness so often means debt, you have shown that a hospital can run on trust rather than on bills. I am deeply indebted to you for the example you have set for my generation: that a professional can use his skill not to become rich but to make the poor feel human. This would not have been possible without your patience and your refusal to give up, and your work has been instrumental in saving thousands of lives. Special thanks to you for proving that service is the highest form of success.'",
+    "explanation": "Open-ended oral task on a named philanthropist; the answer gives accurate background plus a model appreciation using the table's phrases.",
+    "bookPage": 48
+  },
+  {
+    "id": "u3_o_ex2_q2",
+    "sectionCode": "U3S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Work in pairs. Acknowledge and appreciate the contribution of any one of the following philanthropists: (b) Abdul Sattar Edhi",
+    "answer": "Abdul Sattar Edhi began with a single hand-cart in Karachi and built the Edhi Foundation, which now runs the country's largest ambulance network, along with orphanages, shelters for the destitute, homes for the mentally ill, blood banks and free clinics. He lived in two small rooms beside his office, owned almost nothing, and refused government money so that the service would remain free and independent. He himself picked up abandoned babies and washed the dead, insisting that 'no religion is higher than humanity'.\n\nA spoken acknowledgement: 'I would like to express my deepest appreciation to the family and workers of the Edhi Foundation for the service they have given this nation for more than sixty years. Abdul Sattar Edhi taught us that greatness is not in wealth but in what you give away. This would not have been possible without the thousands of unnamed volunteers who drive ambulances at midnight and hold the hands of strangers. I am also grateful to the foundation for the shelter it gives to children nobody else wanted. Your work has been instrumental in keeping alive our belief in human kindness, and special thanks are due to you for asking for nothing in return.'",
+    "explanation": "Open-ended oral task; factual background on Edhi plus a model spoken appreciation that follows the phrase patterns in the table.",
+    "bookPage": 48
+  },
+  {
+    "id": "u3_o_ex2_q3",
+    "sectionCode": "U3S3",
+    "type": "sq",
+    "number": "3",
+    "question": "Work in pairs. Acknowledge and appreciate the contribution of any one of the following philanthropists: (c) Any philanthropist of your community",
+    "answer": "Model: Mr. Ahmed Ali, a hardware merchant in our neighbourhood, pays the school fees of eleven children - none of them his relatives - and last year he donated the science equipment for our school laboratory. He never allows his name to be written on the equipment and asks the head teacher not to mention him at functions.\n\nA spoken acknowledgement (for example, at a school assembly): 'Respected sir, I would like to express my deepest appreciation to you on behalf of the students of this school. Many of us would not be sitting in this hall today if you had not quietly paid our fees, term after term, without ever asking for anything in return. This would not have been possible without your support and generosity, and I would like to extend my deepest appreciation and thanks to you. I am also thankful to you for the laboratory equipment, which has made our practical classes real instead of imaginary. Sir, your contribution has been instrumental in keeping eleven children in school, and your example has taught us that charity does not need a stage. Special thanks to you for showing us what a neighbour should be.'",
+    "explanation": "Open-ended task about a local philanthropist; a concrete model person and a full spoken appreciation are provided so the pattern can be adapted to any real person in the student's community.",
+    "bookPage": 48
+  },
+  {
+    "id": "u3_g_ex1_q1",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and read the following paragraph. Look especially for errors in agreement between pronouns and their antecedents. When you find a pronoun error, cross out the incorrect pronoun and write the correct one above it. There will not be a mistake in every sentence. After you have completed, share your work with your partner.",
+    "answer": "1. Kathy has always liked dollhouses, and she got an idea for a business from their hobby. WRONG: their -> her (antecedent: Kathy, singular feminine). Corrected: ...from her hobby.\n2. Now, she and her brothers make dollhouses for sale. CORRECT - no pronoun error.\n3. Neither she nor her brothers give all of her time to the business. WRONG: her -> their (with neither...nor the pronoun agrees with the nearer antecedent, 'her brothers', plural). Corrected: ...all of their time...\n4. Still, the team makes all its spending money from their sales. WRONG: their -> its (the team is acting as a single unit, so the singular 'its' must be used consistently). Corrected: ...from its sales.\n5. Kathy's elder brother assembles the pieces. CORRECT - no pronoun error.\n6. He chooses the plywood, cuts it to scale, and assembles the pieces. CORRECT - 'He' agrees with 'Kathy's elder brother'; 'it' refers to the plywood.\n7. Her younger brother, Max, paints the houses inside and out, giving it details like doors, windows, and shutters. WRONG: it -> them (antecedent: houses, plural). Corrected: ...giving them details...\n8. While Murray and Max do his jobs, Kathy buys miniature furniture. WRONG: his -> their (compound subject, plural). Corrected: ...do their jobs...\n9. Then she sews curtains, rugs, tablecloths, and bedspreads to make each house special. CORRECT - no pronoun error.\n10. From October until mid-December, the crew takes turns selling its products at craft sales. CORRECT as printed ('the crew' as a unit - its products). If the writer thinks of the members acting individually (they take turns), 'their products' would also be acceptable.\n\nSummary: five sentences contain errors - 1, 3, 4, 7 and 8; sentences 2, 5, 6, 9 and 10 are correct.",
+    "explanation": "Each pronoun is tested against its antecedent in number, gender and person; collective nouns (team, crew) take a singular pronoun when the group acts as one unit.",
+    "bookPage": 50
+  },
+  {
+    "id": "u3_g_ex2_q1",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "i",
+    "question": "Each of the boys on the team is wearing (his, their) new uniform. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "his. Antecedent: Each (of the boys) - an indefinite pronoun that is always singular, so the singular masculine pronoun 'his' is used.",
+    "explanation": "Indefinite pronoun 'each' is always singular.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q2",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "ii",
+    "question": "Many have expressed (his or her, their) support for our plan. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "their. Antecedent: Many - 'many' is always plural, so the plural pronoun 'their' is required.",
+    "explanation": "Indefinite pronoun 'many' is always plural.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q3",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "iii",
+    "question": "Neither of the women has told me (her, their) opinion. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "her. Antecedent: Neither (of the women) - 'neither' is singular, and the antecedent is feminine, so 'her' is correct.",
+    "explanation": "'Neither' is always singular; the verb 'has' confirms the singular reading.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q4",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "iv",
+    "question": "When the team scored a touchdown, the crowd threw (its, their) hats in the air. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "their. Antecedent: the crowd - here the members of the crowd are acting individually (each person throws his own hat), so the collective noun takes the plural pronoun 'their'.",
+    "explanation": "A collective noun takes a plural pronoun when the members act individually.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q5",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "v",
+    "question": "Neither Ali nor his sisters have bought a gift for (her, their) brother. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "their. Antecedent: his sisters - with neither...nor the pronoun agrees with the nearer antecedent, which is plural.",
+    "explanation": "Rule for 'or/nor': the pronoun agrees with the nearer antecedent.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q6",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "vi",
+    "question": "Scuba divers are taught that (you, they) should check (your, their) equipment. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "they ... their. Antecedent: Scuba divers - third person plural, so 'they' and 'their' are needed; 'you' would wrongly shift to the second person.",
+    "explanation": "The pronoun must agree in person as well as number with its antecedent.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q7",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "vii",
+    "question": "Samar and Qavi will present (his, their) routine before the other gymnasts do. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "their. Antecedent: Samar and Qavi - two nouns joined by 'and' form a compound plural subject, so a plural pronoun is used.",
+    "explanation": "Compound subjects joined by 'and' take a plural pronoun.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q8",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "viii",
+    "question": "Not one hiker would set out without (his or her, their) compass. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "his or her. Antecedent: Not one hiker - singular and of unknown gender, so 'his or her' is the correct singular form.",
+    "explanation": "'Not one' is singular; 'his or her' is treated as a singular pronoun.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q9",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "ix",
+    "question": "Yasmeen and her sisters shop for clothes here because (you, they) can find good bargains. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "they. Antecedent: Yasmeen and her sisters - third person plural; 'you' would shift the person and is incorrect.",
+    "explanation": "Pronoun and antecedent must agree in person (third person plural here).",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex2_q10",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "x",
+    "question": "Anyone who wants a job should bring (his or her, their) application to me. Encircle the pronoun that correctly completes the sentence. Also, underline the antecedent(s) of the pronoun.",
+    "answer": "his or her. Antecedent: Anyone - an indefinite pronoun that is always singular, so the singular 'his or her' is used. ('their' is common in informal speech, but the textbook rule requires the singular form.)",
+    "explanation": "'Anyone' is always singular; 'his or her' is considered a singular pronoun.",
+    "bookPage": 51
+  },
+  {
+    "id": "u3_g_ex3_q1",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Work in pairs and read the following text. Spot the errors of Pronoun-Antecedent Agreement. After you have completed, share your work with your partner. (Text: 'One of the most popular sports in Sindh is Malakhiro...')",
+    "answer": "Errors of pronoun-antecedent agreement and their corrections:\n\n1. 'The renowned Malakhiro players participate in this traditional event to showcase his strength' - his -> their. 'Players' is plural, so the pronoun must be plural.\n2. '...to pull down its opponent players' - its -> their. The antecedent is 'players' (plural), not 'event'.\n3. 'Each one then holds onto the opponent's waist cloth and tries to throw them to the ground' - them -> him. 'Each one' is singular, so the object pronoun must be singular.\n4. 'Many of the players are professionals who earn its living by participating in this sport' - its -> their. 'Many of the players ... who' is plural.\n5. 'Almost everybody in Pakistan has heard of this popular and traditional sports, even if they haven't seen it' - they -> he or she (or 'he or she hasn't seen it'). 'Everybody' is always singular, so the singular pronoun is required; 'their' is accepted only in informal modern usage.\n\nNote on wording (not a pronoun error): 'this popular and traditional sports' should be 'this popular and traditional sport', because 'this' is singular.\n\nCorrected opening for reference: 'The renowned Malakhiro players participate in this traditional event to showcase their strength to pull down their opponent players ... Many of the players are professionals who earn their living by participating in this sport.'",
+    "explanation": "Each error is decided by the number and person of the antecedent; singular indefinite pronouns (each one, everybody) take singular pronouns.",
+    "bookPage": 52
+  },
+  {
+    "id": "u3_g_ex5_q1",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Insert commas wherever necessary in the following sentences. 1. Siddiq Mirza a lawyer may be appointed for governor.",
+    "answer": "Siddiq Mirza, a lawyer, may be appointed for governor.",
+    "explanation": "'a lawyer' is a non-restrictive appositive renaming Siddiq Mirza and must be set off with commas on both sides. Note: the printed book skips the number Exercise 4 in this grammar section (Exercise 3 on page 52 is followed directly by Exercise 5 on page 53); nothing is missing from this solution set.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q2",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Insert commas wherever necessary in the following sentences. 2. If you ever need a ride a slower one please let me know.",
+    "answer": "If you ever need a ride, a slower one, please let me know.",
+    "explanation": "'a slower one' is an appositive explaining 'a ride'; it interrupts the sentence and is enclosed in commas. (A dash - 'a ride - a slower one -' would also be correct.)",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q3",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Insert commas wherever necessary in the following sentences. 3. The winner of the contest who arrived from the US last week will receive 1 million.",
+    "answer": "The winner of the contest, who arrived from the US last week, will receive 1 million.",
+    "explanation": "The clause 'who arrived from the US last week' is non-restrictive - it adds information about a winner already identified - so it is set off by commas.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q4",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Insert commas wherever necessary in the following sentences. 4. Kabir a writer and a poet is very obedient to his parents.",
+    "answer": "Kabir, a writer and a poet, is very obedient to his parents.",
+    "explanation": "'a writer and a poet' is a non-restrictive appositive and needs a comma on each side.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q5",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Insert commas wherever necessary in the following sentences. 5. The captain ordered the troops to assemble the navy boat a large rowboat.",
+    "answer": "The captain ordered the troops to assemble the navy boat, a large rowboat.",
+    "explanation": "'a large rowboat' is an appositive renaming 'the navy boat'; one comma is enough because it ends the sentence.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q6",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "6",
+    "question": "Insert commas wherever necessary in the following sentences. 6. Oliver Twist which was Dicken's second novel is a classic.",
+    "answer": "Oliver Twist, which was Dickens's second novel, is a classic.",
+    "explanation": "The 'which' clause is non-restrictive (the novel is already named) and is enclosed in commas; 'Dicken's' should be 'Dickens's'.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q7",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "7",
+    "question": "Insert commas wherever necessary in the following sentences. 7. The lamp which my friend gave me is beside my bed.",
+    "answer": "No comma is needed: The lamp which my friend gave me is beside my bed.",
+    "explanation": "The clause 'which my friend gave me' is restrictive - it identifies which lamp is meant - so it is not set off by commas; adding commas would wrongly suggest there is only one lamp.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex5_q8",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "8",
+    "question": "Insert commas wherever necessary in the following sentences. 8. Mr. and Mrs. Kareem our neighbours for the past eight years are moving to the Turkey.",
+    "answer": "Mr. and Mrs. Kareem, our neighbours for the past eight years, are moving to the Turkey.",
+    "explanation": "'our neighbours for the past eight years' is a non-restrictive appositive and is enclosed in commas. (The printed phrase 'to the Turkey' is itself faulty English - it should be 'to Turkey'.)",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex6_q1",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "Set 01",
+    "question": "Work individually and combine the following sentences using comma around a dependent word or a group of words. One example has been done for you. Set 01: a. Gawadar coastline is the longest in the region. b. Gawadar coastline is a national treasure.",
+    "answer": "Gawadar coastline, a national treasure, is the longest in the region.",
+    "explanation": "This is the book's worked example: sentence (b) becomes an appositive placed in commas inside sentence (a).",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex6_q2",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "Set 02",
+    "question": "Work individually and combine the following sentences using comma around a dependent word or a group of words. Set 02: a. Kobe makes millions of dollars a year. b. Kobe is a basketball player.",
+    "answer": "Kobe, a basketball player, makes millions of dollars a year.",
+    "explanation": "The noun phrase from (b), 'a basketball player', is inserted as an appositive in commas after the subject of (a).",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex6_q3",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "Set 03",
+    "question": "Work individually and combine the following sentences using comma around a dependent word or a group of words. Set 03: a. A giant plane is launched in 1970. b. A Boeing 474 is launched in 1970.",
+    "answer": "A giant plane, a Boeing 474, was launched in 1970.",
+    "explanation": "'A Boeing 474' renames 'a giant plane' and is set off by commas. The printed sentences use the present tense 'is launched'; in a finished sentence about 1970 the past tense 'was launched' is correct.",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex6_q4",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "Set 04",
+    "question": "Work individually and combine the following sentences using comma around a dependent word or a group of words. Set 04: a. My brother's car is the envy of my friends. b. My brother's car is sporty red convertible with bucket seats.",
+    "answer": "My brother's car, a sporty red convertible with bucket seats, is the envy of my friends.",
+    "explanation": "The description in (b) is reduced to the appositive 'a sporty red convertible with bucket seats' and placed in commas after the subject of (a).",
+    "bookPage": 53
+  },
+  {
+    "id": "u3_g_ex6_q5",
+    "sectionCode": "U3S4",
+    "type": "sq",
+    "number": "Set 05",
+    "question": "Work individually and combine the following sentences using comma around a dependent word or a group of words. Set 05: a. The head surgeon took her nephew on a hospital tour. b. The head surgeon was an expert in organ transplant procedures.",
+    "answer": "The head surgeon, an expert in organ transplant procedures, took her nephew on a hospital tour.",
+    "explanation": "The predicate nominative from (b) becomes an appositive in commas after 'The head surgeon' in (a).",
+    "bookPage": 53
+  }
+]

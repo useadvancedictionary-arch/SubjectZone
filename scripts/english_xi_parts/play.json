@@ -1,0 +1,982 @@
+[
+  {
+    "id": "play_ex1_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and scan the text to write the synonym of the following words contextually. Use them in sentences. After completing, share your work with your partner. (Table columns: No, Word, Contextual meaning, Sentence. Words: 1. impromptu, 2. lunatic, 3. blazing, 4. giddy, 5. reconnoitring, 6. disposition, 7. primitive, 8. seethe, 9. unctuous, 10. fidgets, 11. sordid, 12. resonant)",
+    "answer": "No. 1 | impromptu | unplanned, done on the spur of the moment | Kreton admits that 'this visit was all rather impromptu' - he had made no plan to land in the Speldings' garden.\nNo. 2 | lunatic | mad, insane, wildly foolish (person) | Spelding tells the nation that the 'spaceship' is only the fancy of 'certain lunatic elements'.\nNo. 3 | blazing | burning fiercely, extremely hot | Ellen argues that the object cannot be a meteor, because 'meteors are blazing hot', while this one is cold.\nNo. 4 | giddy | dizzy, light-headed | Kreton says the rush of human thoughts makes him 'a bit giddy' and that his head is 'vibrating like a drum'.\nNo. 5 | reconnoitring | making a preliminary survey of the ground, spying out an area before an attack | General Powers suspects that Kreton has been sent 'for the express purpose of reconnoitring prior to invasion'.\nNo. 6 | disposition | final settlement or handling of a matter | Powers waits for word from Washington about 'the final disposition of this problem'.\nNo. 7 | primitive | belonging to an early, simple stage of development; uncivilised | Kreton calls Earth a 'primitive society' and speaks of the 'wonderful rawness' of primitive minds.\nNo. 8 | seethe | to boil; to be full of turbulent, suppressed emotion | Kreton says that human beings 'simply seethe with unlikely emotions'.\nNo. 9 | unctuous | oily, smooth, insincerely earnest or flattering | The stage direction describes Spelding as 'middle-aged, unctuous, and resonant' - the very voice of a false television manner.\nNo. 10 | fidgets | moves restlessly with small nervous movements | The stage direction says that Ellen 'fidgets as she listens' to her father's broadcast.\nNo. 11 | sordid | dirty, base, ignoble | Ellen says 'I've never felt so sordid' after Kreton reveals that he can hear every thought of theirs.\nNo. 12 | resonant | deep, full and echoing; sonorous | Spelding's 'resonant' broadcast voice is part of his professional mask, which drops the moment the microphone is switched off.",
+    "explanation": "Contextual meanings are taken from the exact uses in the play (book pages 226-242): the stage directions supply unctuous, fidgets and resonant; the dialogue supplies the rest.",
+    "bookPage": 243
+  },
+  {
+    "id": "play_ex2_q1",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "The play takes place in a small suburb in__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Maryland"
+      },
+      {
+        "key": "b",
+        "text": "Washington"
+      },
+      {
+        "key": "c",
+        "text": "Virginia"
+      },
+      {
+        "key": "d",
+        "text": "Indiana"
+      }
+    ],
+    "optionsRaw": "(a) Maryland   (b) Washington   (c) Virginia   (d) Indiana",
+    "correctAnswer": "(a) Maryland",
+    "answer": "(a) Maryland. The action takes place in the Speldings' house in Silver Glen, Maryland: Spelding ends his broadcast 'from my old homestead in Silver Glen, Maryland', and later tells Kreton, 'This is a house in the State of Maryland, U.S.A.'",
+    "explanation": "The play text names Maryland twice. Note the inconsistency: the Introduction (book page 226) says Kreton lands 'nearly a century later in Manassas, Virginia', so option (c) can be defended from the Introduction even though the dialogue says Maryland.",
+    "bookPage": 243
+  },
+  {
+    "id": "play_ex2_q2",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "Spelding________ flying object in space.",
+    "options": [
+      {
+        "key": "a",
+        "text": "accepts"
+      },
+      {
+        "key": "b",
+        "text": "denies"
+      },
+      {
+        "key": "c",
+        "text": "doubts"
+      },
+      {
+        "key": "d",
+        "text": "confirms"
+      }
+    ],
+    "optionsRaw": "(a) accepts   (b) denies   (c) doubts   (d) confirms",
+    "correctAnswer": "(b) denies",
+    "answer": "(b) denies. In his broadcast Spelding says the flying object is 'not, as many believe, a secret weapon of this country. Nor is it a spaceship as certain lunatic elements have suggested', and he later calls it a mere meteor or weather balloon.",
+    "explanation": "Textual support: Spelding's opening broadcast, book page 227, and his repeated 'I'm sure it's a meteor' on page 229.",
+    "bookPage": 243
+  },
+  {
+    "id": "play_ex2_q3",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "Spelding criticizes John for growing________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "cabbage"
+      },
+      {
+        "key": "b",
+        "text": "walnuts"
+      },
+      {
+        "key": "c",
+        "text": "corn"
+      },
+      {
+        "key": "d",
+        "text": "peanuts"
+      }
+    ],
+    "optionsRaw": "(a) cabbage   (b) walnuts   (c) corn   (d) peanuts",
+    "correctAnswer": "(d) peanuts",
+    "answer": "(d) peanuts. Spelding sneers that Ellen should not marry 'a boy who plans to sit on a farm all his life, growing peanuts'. Ellen immediately corrects him: 'But, Daddy, John grows walnuts...'",
+    "explanation": "Book page 228. The joke is that Spelding is too contemptuous to remember what John actually grows; the printed key is peanuts, i.e. what Spelding says, not what John grows.",
+    "bookPage": 243
+  },
+  {
+    "id": "play_ex2_q4",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "Kreton appears to be in his ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "twenties"
+      },
+      {
+        "key": "b",
+        "text": "thirties"
+      },
+      {
+        "key": "c",
+        "text": "forties"
+      },
+      {
+        "key": "d",
+        "text": "fifties"
+      }
+    ],
+    "optionsRaw": "(a) twenties   (b) thirties   (c) forties   (d) fifties",
+    "correctAnswer": "(c) forties",
+    "answer": "(c) forties. The stage direction reads: 'The visitor is in his forties, a mild, pleasant-looking man with side-whiskers and dressed in the fashion of 1860.'",
+    "explanation": "Direct textual evidence in the stage direction at the end of Scene I, book page 230.",
+    "bookPage": 243
+  },
+  {
+    "id": "play_ex2_q5",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "The impression of Kreton on seeing the inside of the house was__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "disgusted"
+      },
+      {
+        "key": "b",
+        "text": "delighted"
+      },
+      {
+        "key": "c",
+        "text": "callous"
+      },
+      {
+        "key": "d",
+        "text": "sorrowful"
+      }
+    ],
+    "optionsRaw": "(a) disgusted   (b) delighted   (c) callous   (d) sorrowful",
+    "correctAnswer": "(b) delighted",
+    "answer": "(b) delighted. Kreton looks around 'delightedly' and says, 'Oh, it's better than I'd hoped!' and 'To think this is really the 20th Century. I must sit down a moment and collect myself. The real thing!'",
+    "explanation": "Book page 231, Scene I. The stage direction '(Looks around delightedly)' gives the answer directly.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q6",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "The spaceship landed in Mrs. Spelding's__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "rose garden"
+      },
+      {
+        "key": "b",
+        "text": "petunia bed"
+      },
+      {
+        "key": "c",
+        "text": "greenhouse"
+      },
+      {
+        "key": "d",
+        "text": "vegetable garden"
+      }
+    ],
+    "optionsRaw": "(a) rose garden   (b) petunia bed   (c) greenhouse   (d) vegetable garden",
+    "correctAnswer": "(a) rose garden",
+    "answer": "(a) rose garden. Mrs. Spelding cries, 'Right in my rose garden!' and repeats, 'Roger, it's landed right in my rose garden.' Kreton later asks Spelding to move 'that thing off my rose bed'.",
+    "explanation": "Book page 229. Mrs. Spelding's repeated worry about the roses becomes a running joke about suburban priorities.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q7",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "Kreton said that the earthmen were his__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "hobby"
+      },
+      {
+        "key": "b",
+        "text": "ruination"
+      },
+      {
+        "key": "c",
+        "text": "hope"
+      },
+      {
+        "key": "d",
+        "text": "models"
+      }
+    ],
+    "optionsRaw": "(a) hobby   (b) ruination   (c) hope   (d) models",
+    "correctAnswer": "(a) hobby",
+    "answer": "(a) hobby. Kreton tells Ellen and John, 'I've been studying it for years. In fact, one might say, you people are my hobby', and later tells Spelding, 'You are my hobby. I love you. And that's all there is to it.'",
+    "explanation": "Book pages 232 and 241. The word recurs, so it is clearly the intended answer.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q8",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "Kreton mistakenly thought that he had come to earth in the__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "18th century"
+      },
+      {
+        "key": "b",
+        "text": "19th century"
+      },
+      {
+        "key": "c",
+        "text": "20th century"
+      },
+      {
+        "key": "d",
+        "text": "21st century"
+      }
+    ],
+    "optionsRaw": "(a) 18th century   (b) 19th century   (c) 20th century   (d) 21st century",
+    "correctAnswer": "(b) 19th century",
+    "answer": "(b) 19th century. Kreton wanted to see the Civil War of 1861 and arrives dressed 'in the fashion of 1860'; he says, 'I'd hoped to be in the costume of the period. As you see I am about a hundred years too late.'",
+    "explanation": "Book page 230-232. 1860 falls in the nineteenth century, and 'a hundred years too late' points to the same answer.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q9",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "The first person who arrived to investigate the spaceship was",
+    "options": [
+      {
+        "key": "a",
+        "text": "Powers"
+      },
+      {
+        "key": "b",
+        "text": "Laurent"
+      },
+      {
+        "key": "c",
+        "text": "President of the United States"
+      },
+      {
+        "key": "d",
+        "text": "neighbour"
+      }
+    ],
+    "optionsRaw": "(a) Powers   (b) Laurent   (c) President of the United States   (d) neighbour",
+    "correctAnswer": "(a) Powers",
+    "answer": "(a) Powers. General Powers arrives with troops and his Aide, surrounds the house and sends the Aide down to inspect the ship: 'The place is surrounded by troops. Where is the monster?' John reaches the ship first but he is a member of the household, not an investigator.",
+    "explanation": "Book page 232. 'Laurent' is not a character in this abridged text (the character list on page 226 names only Kreton, Roger Spelding, Ellen, Mrs. Spelding, John Randolph, General Powers and Aide), so option (b) cannot be supported from the printed play.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q10",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "Kreton said people on his planet did not________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "did not fight"
+      },
+      {
+        "key": "b",
+        "text": "did not speak"
+      },
+      {
+        "key": "c",
+        "text": "did not die"
+      },
+      {
+        "key": "d",
+        "text": "did not love"
+      }
+    ],
+    "optionsRaw": "(a) did not fight   (b) did not speak   (c) did not die   (d) did not love",
+    "correctAnswer": "(c) did not die",
+    "answer": "(c) did not die. When Powers threatens that he will die if he proves hostile, Kreton answers, 'Poor fragile butterflies, such brief little moments in the sun ... You see we don't die.'",
+    "explanation": "Book page 233. The printed options repeat 'did not', which is a printing slip in the stem; the intended meaning is 'people on his planet did not ...'.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q11",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "11",
+    "question": "Kreton's space ship was of__________ shape.",
+    "options": [
+      {
+        "key": "a",
+        "text": "elliptical"
+      },
+      {
+        "key": "b",
+        "text": "oval"
+      },
+      {
+        "key": "c",
+        "text": "circular"
+      },
+      {
+        "key": "d",
+        "text": "triangular"
+      }
+    ],
+    "optionsRaw": "(a) elliptical   (b) oval   (c) circular   (d) triangular",
+    "correctAnswer": "(a) elliptical",
+    "answer": "(a) elliptical. The Aide reports: 'Well, it's elliptical, with a fourteen foot diameter. And it's made of an unknown metal which shines and inside there isn't anything.'",
+    "explanation": "Book page 234. The word is used by the Aide in his report to General Powers.",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q12",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "12",
+    "question": "John could not use the telephone because ________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Kreton had cut communication"
+      },
+      {
+        "key": "b",
+        "text": "Speldings did not have any"
+      },
+      {
+        "key": "c",
+        "text": "Powers declared martial law"
+      },
+      {
+        "key": "d",
+        "text": "Spelding wouldn't give him permission"
+      }
+    ],
+    "optionsRaw": "(a) Kreton had cut communication   (b) Speldings did not have any   (c) Powers declared martial law   (d) Spelding wouldn't give him permission",
+    "correctAnswer": "(c) Powers declared martial law",
+    "answer": "(c) Powers declared martial law. The Aide blocks John: 'I'm sorry, sir, but you can't use the phone... This house is a military reservation until the crisis is over: Order General Powers.'",
+    "explanation": "Book page 235. The house is under martial law, with 'no telephone calls, no communication with the outside' (page 240).",
+    "bookPage": 244
+  },
+  {
+    "id": "play_ex2_q13",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "13",
+    "question": "General Powers was thinking about__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "his promotion"
+      },
+      {
+        "key": "b",
+        "text": "security of the country"
+      },
+      {
+        "key": "c",
+        "text": "arrest of Kreton"
+      },
+      {
+        "key": "d",
+        "text": "murder of the visitor"
+      }
+    ],
+    "optionsRaw": "(a) his promotion   (b) security of the country   (c) arrest of Kreton   (d) murder of the visitor",
+    "correctAnswer": "(a) his promotion",
+    "answer": "(a) his promotion. Kreton sees the General's sketch of 'Three silver stars' on a shoulder and says, 'You're making a picture. Three silver stars. You're pinning them on your shoulder, instead of the two stars you now wear', and Powers admits, 'I was thinking of my promotion.'",
+    "explanation": "Book page 237. The joke is that the man who talks only of national security is privately dreaming of rank.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q14",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "14",
+    "question": "According to Kareton, civilization is just__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "at the ending"
+      },
+      {
+        "key": "b",
+        "text": "at the beginning"
+      },
+      {
+        "key": "c",
+        "text": "full bloom"
+      },
+      {
+        "key": "d",
+        "text": "creeping"
+      }
+    ],
+    "optionsRaw": "(a) at the ending   (b) at the beginning   (c) full bloom   (d) creeping",
+    "correctAnswer": "(b) at the beginning",
+    "answer": "(b) at the beginning. Reciting Earth's geography like a school lesson, Kreton concludes, 'Civilization is only just beginning', and when Spelding protests he adds, 'You are only in the initial stages, the most fascinating stages as far as I'm concerned.'",
+    "explanation": "Book page 232. The stem misprints the name as 'Kareton' for Kreton; it is kept verbatim.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q15",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "15",
+    "question": "The elements of science fiction in this passage are most pronounced in__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Kreton's supernatural abilities"
+      },
+      {
+        "key": "b",
+        "text": "reactions to Kreton"
+      },
+      {
+        "key": "c",
+        "text": "Kreton belongs to another breed of human"
+      },
+      {
+        "key": "d",
+        "text": "hobbies of Kreton"
+      }
+    ],
+    "optionsRaw": "(a) Kreton's supernatural abilities   (b) reactions to Kreton   (c) Kreton belongs to another breed of human   (d) hobbies of Kreton",
+    "correctAnswer": "(a) Kreton's supernatural abilities",
+    "answer": "(a) Kreton's supernatural abilities. The science-fiction core of the play is Kreton himself: he reads minds ('I don't really read it. I hear it'), raises an invisible wall and a force field round his ship, cannot be touched, does not die, and travels in a ship with no instruments.",
+    "explanation": "Book pages 233-241. Options (b) and (d) are comedy and character, not science fiction; (c) is never claimed in the text.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q16",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "16",
+    "question": "Kreton placed an invisible wall around his spaceship because__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "the army told him to."
+      },
+      {
+        "key": "b",
+        "text": "the army was going to take it apart."
+      },
+      {
+        "key": "c",
+        "text": "the earth's atmosphere was damaging it."
+      },
+      {
+        "key": "d",
+        "text": "his own people had suggested it."
+      }
+    ],
+    "optionsRaw": "(a) the army told him to.   (b) the army was going to take it apart.   (c) the earth's atmosphere was damaging it.   (d) his own people had suggested it.",
+    "correctAnswer": "(b) the army was going to take it apart.",
+    "answer": "(b) the army was going to take it apart. Powers says, 'we're going to take your ship apart'; Kreton pleads, 'Oh, I wish you wouldn't', and when Powers insists that 'Security demands it', he replies, 'In that case my security demands you leave it alone', and the Aide then reports the invisible wall.",
+    "explanation": "Book pages 238 and 242. The ship is his only way home, so he protects it.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q17",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "17",
+    "question": "Powers accused Kreton of coming to earth__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "100 years too soon"
+      },
+      {
+        "key": "b",
+        "text": "to spread a mysterious disease"
+      },
+      {
+        "key": "c",
+        "text": "to discover some natural resources"
+      },
+      {
+        "key": "d",
+        "text": "to reconnoitre before an invasion"
+      }
+    ],
+    "optionsRaw": "(a) 100 years too soon   (b) to spread a mysterious disease   (c) to discover some natural resources   (d) to reconnoitre before an invasion",
+    "correctAnswer": "(d) to reconnoitre before an invasion",
+    "answer": "(d) to reconnoitre before an invasion. Powers says, 'it is my view that you have been sent here by another civilization for the express purpose of reconnoitring prior to invasion', and earlier calls him 'a spy, sent here by an alien race to study us, preparatory to invasion'.",
+    "explanation": "Book pages 236 and 241. This is the central Cold War joke of the play.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q18",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "18",
+    "question": "Kreton said John's thoughts about Ellen were__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "black"
+      },
+      {
+        "key": "b",
+        "text": "red"
+      },
+      {
+        "key": "c",
+        "text": "purple"
+      },
+      {
+        "key": "d",
+        "text": "yellow"
+      }
+    ],
+    "optionsRaw": "(a) black   (b) red   (c) purple   (d) yellow",
+    "correctAnswer": "(c) purple",
+    "answer": "(c) purple. Kreton tells Spelding, 'No, no. You must go right on thinking about Ellen. Such wonderfully purple thoughts!'",
+    "explanation": "Book page 240. John's embarrassed response - 'From now on I'm going to think about agriculture' - completes the joke.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q19",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "19",
+    "question": "Kreton considers human civilization__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "modern"
+      },
+      {
+        "key": "b",
+        "text": "primitive"
+      },
+      {
+        "key": "c",
+        "text": "conservative"
+      },
+      {
+        "key": "d",
+        "text": "rational"
+      }
+    ],
+    "optionsRaw": "(a) modern   (b) primitive   (c) conservative   (d) rational",
+    "correctAnswer": "(b) primitive",
+    "answer": "(b) primitive. Kreton speaks of 'a primitive society', of 'primitive minds' and of 'your exciting primitive lives', and he calls human pride 'one of your most endearing primitive traits'.",
+    "explanation": "Book pages 232, 240 and 241, where 'primitive' is used of human society, minds and lives.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex2_q20",
+    "sectionCode": "C1S1",
+    "type": "mcq",
+    "number": "20",
+    "question": "Kreton intends to take charge of__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "rose garden"
+      },
+      {
+        "key": "b",
+        "text": "Spelding's house"
+      },
+      {
+        "key": "c",
+        "text": "USA"
+      },
+      {
+        "key": "d",
+        "text": "world"
+      }
+    ],
+    "optionsRaw": "(a) rose garden   (b) Spelding's house   (c) USA   (d) world",
+    "correctAnswer": "(d) world",
+    "answer": "(d) world. When Powers asks 'Of the United States?', Kreton answers, 'No, of the whole world. I'm sure you'll be much happier and it will be great fun for me.'",
+    "explanation": "Book page 242, the climax of Scene III.",
+    "bookPage": 245
+  },
+  {
+    "id": "play_ex3_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Skim through the text. First, write the name of respective character who said the following dialogues in Column B, and write the context of the dialogues in which character had said that particular dialogue in Column C. First one has been done as an example. After completing, share your work with your partner. (Table: Column A Dialogue; Column B Character; Column C In the Context of)",
+    "answer": "No. 1 | 'Fair enough. All right, I'll stay on for a while.' | Kreton | This statement is said to Spelding when Spelding instructed him to stay because of General Powers' interview. (Example given in the book.)\nNo. 2 | 'He has no get-up-and-go.' | Spelding | Said to Ellen in the living room while the family discusses John. Ellen has just defended John as a hard worker, and her father answers that John has 'every virtue except the most important one'.\nNo. 3 | 'I am a hobbyist. I love to gad about.' | Kreton | Said to General Powers in the study when Powers asks why he is here. Kreton explains that his people no longer travel because they see everything through monitors and re-creators, but that he himself loves to roam about out of curiosity.\nNo. 4 | 'But I prefer the ones made of metal, the ones you used to wear, you know: with the feathers on top.' | Kreton | Said to General Powers in the living room after Powers asks, 'What are you dressed up for, a fancy-dress party?' Kreton is admiring the General's uniform and comparing it with the plumed armour of five hundred years earlier.\nNo. 5 | 'Poor fragile butterflies, such brief little moments in the sun ...' | Kreton | Said to General Powers during the first interrogation, just after telling him 'You see we don't die'. Kreton is pitying human mortality and the shortness of human life.\nNo. 6 | 'I like his whiskers. They're so very ... comforting.' | Mrs. Spelding | Said to her husband and family in the living room after asking whether Kreton is spending the night. She compares his whiskers to Grandfather Spelding's, showing that she has accepted the visitor without a trace of fear.",
+    "explanation": "Contexts are drawn from Scene I (book pages 228-235) and Scene II (pages 236-238). Rows 2-6 are the five blank rows; row 1 is the book's worked example.",
+    "bookPage": 246
+  },
+  {
+    "id": "play_ex4_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually and make a list of the elements of science fiction you find in the play. After you have done, compare your list with your class fellows.",
+    "answer": "1. An alien visitor from another planet in another solar system, who arrives in a flying saucer: 'Not on this planet... In another dimension.'\n2. A spacecraft of unknown metal, elliptical, fourteen feet in diameter, with no instruments, no fuel and no food inside: 'there isn't anything.'\n3. Interstellar travel that needs no machinery: Kreton does not know how his own ship works - 'these cars are rather common in my world'.\n4. Telepathy: Kreton hears thoughts - 'What's inside your mind? ... I don't really read it. I hear it.'\n5. Superhuman physical powers: an invisible wall and a force field around the ship, and a body that cannot be touched - 'You can't touch me. That's part of the game.'\n6. A race that has conquered death: 'You see we don't die.'\n7. A civilisation about two thousand years ahead of Earth, which watches other worlds through 'special monitors and re-creators' and has no need to travel, trade or fight.\n8. Time travel in effect: Kreton aims at the Civil War of 1861 and lands in the late twentieth century, 'about a hundred years too late'.\n9. The 'first contact' situation, with soldiers, martial law, censorship and a security alert around the landing site.\n10. The alien's gentle takeover threat - 'I've come here to take charge... of the whole world' - a standard science-fiction invasion motif turned into comedy.",
+    "explanation": "Open-ended listing task; every item above is supported by a line or stage direction in the printed text (book pages 230-242).",
+    "bookPage": 246
+  },
+  {
+    "id": "play_ex5_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and arrange the scrambled events in the order of their occurrence in the play by giving the number. After you have completed, share your work with your partner. (Table columns: No, Events, Order)",
+    "answer": "No. | Event | Order\n1 | Kreton arrives on the earth. | 3\n2 | General Powers comes with his Aide. | 4\n3 | Kreton reads the mind of General Powers. | 7\n4 | General Powers orders to grab Kreton. | 10\n5 | John spots a spaceship. | 2\n6 | Kreton announces to take over the world. | 9\n7 | Spelding makes a broadcast and denies any spaceship landing on earth. | 1\n8 | Aide stops Spelding from making a call. | 5\n9 | Kreton reads the minds of John and Ellen. | 8\n10 | General Powers and Kreton have a conversation in the study. | 6",
+    "explanation": "Sequence: broadcast (Scene I opening) - John sees the saucer - Kreton emerges - Powers and Aide arrive - Aide blocks the telephone while the men move into the study - the study interrogation, in which Kreton reads Powers' mind - Scene III, where he reads John's and Ellen's minds - his takeover speech - the order to grab him - curtains. Events 8 and 10 overlap slightly, since the study conversation begins as the Aide stops the call; the order given follows the printed staging.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What is ironic about Spelding's broadcast at the beginning of the play?",
+    "answer": "Spelding tells the whole nation, on General Powers' authority, that the flying object is 'not... a spaceship as certain lunatic elements have suggested', that it is 'highly doubtful there is any form of life on other planets capable of building a spaceship', and that 'If any travelling is to be done in space, we will do it first.' A few minutes later the 'meteor' lands in his own rose garden, and a visitor from another planet walks out of it and shakes hands with his future son-in-law. The irony is double: the man who denied the spaceship on television is the first householder to receive its passenger, and the boast about American space travel is made in the very house where an alien has just parked his ship. The audience sees the contradiction at once, which is dramatic irony as well as verbal irony.",
+    "explanation": "Textual support: the broadcast on page 227 and the landing on pages 228-230.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q2",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Why is Spelding unhappy about the relationship between Ellen and John?",
+    "answer": "Spelding is a social climber and a snob. He admits that John has 'every virtue except the most important one: he has no get-up-and-go', meaning that John is content to stay on his own farm instead of striving for wealth and position. He wants Ellen to marry 'someone hard-working ambitious, a man who'll make his mark in the world', not 'a boy who plans to sit on a farm all his life, growing peanuts'. He also dislikes Ellen's independence: he calls her 'Miss Know-it-all' when she corrects his quotation from Shakespeare, and he sneers that 'there is nothing wrong with marrying a wealthy man'. His objection is therefore less about John's character than about John's lack of money and ambition, which would not reflect credit on Roger Spelding.",
+    "explanation": "Textual support: the family quarrel on pages 227-228, including 'He has every virtue except the most important one' and the peanuts/walnuts exchange.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q3",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Why did Kreton want to visit earth?",
+    "answer": "Kreton comes as a tourist, not an invader. He is 'a hobbyist' who loves to 'gad about', and Earth is his hobby: 'I've been studying it for years. In fact, one might say, you people are my hobby.' He is especially interested in 'this period of your development', and he had hoped to watch the Civil War of 1861 in period costume, only to arrive 'about a hundred years too late'. What draws him most is the emotional life of human beings, which his own controlled race has lost: he wants 'to intoxicate myself with your primitive minds... with the wonderful rawness of your emotions!' In the end he says simply, 'You are my hobby. I love you.'",
+    "explanation": "Textual support: pages 231-232, 240-241. His motive is curiosity and affection, which makes the invasion panic comic.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q4",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "4",
+    "question": "How is Kreton able to communicate with the people on earth?",
+    "answer": "Kreton speaks English perfectly, and when Powers asks 'You speak all our languages?' he answers, 'Yes, all of them. But then it's easier than you might think since I can see what's inside.' His real means of communication is telepathy: he hears thoughts rather than reading them - 'I don't really read it. I hear it.' That is why he can answer Powers before the question is finished and why he knows that the General is thinking about his promotion and about blowing up the force field. It also explains his exhaustion: 'Your language is still not familiar to me. I had to learn them all, quite exhausting.' The gift is not merely linguistic but mental, and it is the source of much of the play's comedy and menace.",
+    "explanation": "Textual support: page 238 ('You speak all our languages?') and page 236 ('I don't really read it. I hear it').",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q5",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Describe the reaction of different characters to Kreton's visit?",
+    "answer": "Mr. Spelding is at first frightened and then greedy for a scoop: he denies the spaceship on air, panics when it lands, and once Kreton is in the house cares only that 'this story will leak out before I can interview him'. Mrs. Spelding is placid and domestic; she worries about her rose garden and about making up a bed, and decides that 'He looks perfectly nice to me... I like his whiskers.' Ellen is thrilled and romantic: 'I think he's wonderful whoever he is', 'Isn't it exciting!' John is practical and scientific, wishing he had examined the ship and concluding that 'they must be advanced scientifically'. General Powers is suspicious and authoritarian, treating Kreton as a spy and putting the house under martial law, while the Aide simply obeys orders and is visibly disturbed by what he sees. Kreton himself is amused and detached throughout.",
+    "explanation": "Textual support: pages 228-235 (Speldings, John), 232-234 (Powers and Aide), 240 (Ellen).",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q6",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Why is General Powers paranoid about Kreton's visit?",
+    "answer": "Powers is a security official in the middle of the Cold War, and his whole training tells him that a stranger is a spy. He says, 'It is my job to guard the security of this country', and 'For all I know, you are a spy, sent here by an alien race to study us, preparatory to invasion.' The evidence feeds his fear: the ship is made of an unknown metal, has no instruments and nothing inside, and Kreton cannot explain how it travels. Kreton's mind-reading and his invisible wall make him seem even more dangerous. Powers therefore surrounds the house with troops, declares martial law, imposes censorship and treats a polite tourist as an enemy agent - the play's satire on American paranoia of the 1950s.",
+    "explanation": "Textual support: pages 233-236, 241; the phrase 'reconnoitring prior to invasion' sums up his fixed idea.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q7",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "7",
+    "question": "What restrictions are imposed on Seldling's family?",
+    "answer": "The house is declared 'a military reservation until the crisis is over' and placed under martial law. Troops surround the place, and the Aide stands guard at the door. There are 'no telephone calls, no communication with the outside', so John cannot even ring his family to say where he is, and nobody may leave the house without General Powers' permission. Spelding is warned to keep the visitor in sight - 'Don't let him out of your sight' - and his own interview is taken over by the General. Censorship is complete: 'There isn't any story. Complete censorship.' In short, an ordinary family is put under house arrest in its own home for the duration of the 'crisis'.",
+    "explanation": "Textual support: pages 234-235 and 240. The stem misprints the name as 'Seldling' for Spelding; it is kept verbatim.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q8",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "8",
+    "question": "What extraordinary powers does Kreton possess, and how does he exhibit these powers?",
+    "answer": "First, telepathy: he hears thoughts, telling Powers exactly what he is thinking - 'That I am either a lunatic from the earth or a spy from another world' - and then, when Powers tests him, describing his plan 'to blow up my little force field'. Second, a force field and an invisible wall: when the army tries to dismantle his ship, the Aide finds 'some kind of wall all around it, an invisible wall', and the ship cannot be touched. Third, invulnerability: when Powers and the Aide rush at him, they stop 'within a foot of him, stunned', and he says calmly, 'You can't touch me. That's part of the game.' Fourth, he does not die. Fifth, he speaks every human language and can travel between dimensions in a ship with no instruments. Sixth, other people's thoughts make him physically giddy, which shows how sensitive his mind is.",
+    "explanation": "Textual support: pages 233, 238-239, 241-242; the force field and the untouchable body are shown on stage, not merely reported.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q9",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "9",
+    "question": "Why does Spelding want Kreton to stay?",
+    "answer": "Spelding wants the story. As soon as he sees the chance of an exclusive, he whispers to Powers, 'I hope I'll be the one to get the story first, Tom', and later, when Kreton offers to leave, Spelding forgets his fear and begs him to stay: 'Do stay, I mean, we want you to get a good impression of us ...' Kreton sees the real reason at once - 'And of course you still want to be the first journalist to interview me. Fair enough. All right, I'll stay on for a while.' A world exclusive with a visitor from space would make Spelding's career and satisfy his vanity, which matters to him more than the danger to his family or his country.",
+    "explanation": "Textual support: pages 234 and 240. His professional greed is part of the play's satire on television journalism.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q10",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Why did Kreton's friends consider him pervasive?",
+    "answer": "Kreton's friends think him perverse (the play says 'perverse'; the question's 'pervasive' is evidently a misprint) because he is passionately interested in a 'primitive society' that his own advanced civilisation regards as beneath notice. He admits, 'Of course my friends think me perverse to be interested in a primitive society but there's no accounting for tastes, is there?' His people have no wish to visit Earth at all - 'no one wants to visit you. I can't think, why' - and they see everything through monitors instead of travelling. Kreton, by contrast, wants to 'go native', to soak himself in raw human emotion, and even to take charge of the world 'for fun'. To a race that has outgrown war, death, trade and strong feeling, such enthusiasm looks like a strange and slightly indecent eccentricity.",
+    "explanation": "Textual support: pages 240-241. The stem's 'pervasive' is a misprint for 'perverse'; the printed stem is kept unchanged.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q11",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "11",
+    "question": "How does Kreton reveal that he does not have any favourable view of earthlings?",
+    "answer": "Kreton is polite, but almost every comment is condescending. He recites Earth's geography like a schoolroom lesson and concludes, 'Civilization is only just beginning'; he tells the Speldings that they are 'only in the initial stages' and that their pride is 'one of your most endearing primitive traits'. He calls their minds 'primitive', their thoughts 'savage' - 'Such savage thoughts! My head is vibrating like a drum' - and their lives 'exciting primitive lives'. He pities them as 'poor fragile butterflies, such brief little moments in the sun', addresses them as 'dear, wicked children', and describes Powers' suspicion as 'the wonderfully primitive assumption that all strangers are hostile'. Even his compliments - 'You're almost too good to be true, General' - are ironic. Only their emotions, which his own race has lost, win his genuine admiration.",
+    "explanation": "Textual support: pages 232, 233, 240-242. His view is affectionate contempt, not hostility.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q12",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "12",
+    "question": "How does Kreton foil General Power's attempts to confine him?",
+    "answer": "Kreton never struggles; he simply demonstrates that force is useless against him. When the army is about to take his ship apart, he seals it behind an invisible wall and a force field, so that the Aide can only report that 'we can't get near it'. When Powers draws a weapon and thinks of blowing up the force field, Kreton reads the thought and warns him that he will only 'plough up Mrs. Spelding's garden'. When Powers and the Aide finally rush him, they stop 'within a foot of him, stunned', and he remarks, 'You can't touch me.' He then refuses the General's authority outright - 'I sincerely doubt if you could stop me' - and walks off to bed, promising to be there in the morning. The 'prisoner' is free to leave whenever he chooses, which is the final joke at the General's expense.",
+    "explanation": "Textual support: pages 238, 240-242. The stem's 'Power's' is kept verbatim.",
+    "bookPage": 247
+  },
+  {
+    "id": "play_ex6_q13",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "13",
+    "question": "Who is Aide? What is his role in the play?",
+    "answer": "The Aide is a young army officer, addressed as 'Captain', who serves as General Powers' assistant. He is a minor character, but he performs several useful functions. He moves the plot by inspecting the saucer and reporting what he finds - an elliptical ship of unknown metal with nothing inside - which convinces the audience of Kreton's otherworldly origin. He enforces the martial law that traps the family, blocking John's telephone call and refusing permission to leave. He supplies comic relief through his bewilderment ('I'm not sure, General') and his mechanical obedience ('Yes, General'). And he sets off Powers' bluster, since the General's authority looks emptier each time the Aide reports another failure. In the final scene he joins Powers in the rush at Kreton and is stopped short like his chief.",
+    "explanation": "Textual support: pages 232-235, 238, 242. His name is simply his rank-title; he is listed as 'Aide' among the characters.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q14",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "14",
+    "question": "How did Aide describe Kreton's spaceship?",
+    "answer": "The Aide describes it reluctantly and precisely: 'Well, it's elliptical, with a fourteen foot diameter. And it's made of an unknown metal which shines and inside there isn't anything.' Pressed by Powers, he adds that there are 'No instruments, no food, nothing' inside, and that he is 'not sure' what the object is. Later he reports the invisible wall around it: 'The door's shut and there's some kind of wall all around it, an invisible wall. We can't get near it.' His flat, factual report is more disturbing than any wild description, because it leaves the military with nothing to analyse: a shining machine of a metal nobody knows, with no engine and no contents.",
+    "explanation": "Textual support: page 234 for the description and page 238 for the invisible wall.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q15",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "15",
+    "question": "Describe the main comic incidents of the play?",
+    "answer": "The comedy works through contrast and repetition. Spelding's pompous broadcast denying the spaceship is followed at once by the ship landing in his rose garden, and he keeps offering explanations - meteor, optical illusion, weather balloon - while his family watches the truth. He misquotes Shakespeare ('More thankless than a serpent's tooth') and is corrected by Ellen, then sneers at John for growing 'peanuts' when John grows walnuts. Mrs. Spelding knits through the crisis, worries about her roses and offers the alien a bed because she likes his whiskers. Kreton arrives in 1860 dress, a century late, admires the house, asks whether it is an apartment, and says 'How nice of him!' about the President of the United States. He reads Powers' mind and exposes his dream of a third star, then remarks on John's 'wonderfully purple thoughts' while John resolves to 'think about agriculture'. The climax is pure farce: two armed men rush the visitor and freeze a foot away, and he politely goes to bed.",
+    "explanation": "Textual support: pages 227-242. The comedy is verbal (misquotation, irony) and visual (costume, the frozen rush, the knitting).",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q16",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "16",
+    "question": "How is media depicted in the play?",
+    "answer": "The media is depicted as vain, managed and more interested in appearance than truth. Spelding is a television commentator whose broadcast is a performance: he reads General Powers' denial as if it were fact, crosses 'to pose with wife and daughter', signs off as 'Roger Spelding, saying good night to Mother and Father America', and the moment the microphone is off 'his mechanical smile and heartiness' vanish. He cares about being first with the story, not about verifying it, and he is furious at the thought that it may 'leak out' before his own interview. The state, in turn, manages the press: Powers imposes 'complete censorship' and announces that 'there isn't any story'. The play thus shows a closed loop in which television repeats official versions and official versions are shaped for television.",
+    "explanation": "Textual support: pages 227 (broadcast and pose), 234 ('Complete censorship'), 240 (the scoop).",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q17",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "17",
+    "question": "The play is a satire on American society. Discuss.",
+    "answer": "The play is a satire because it uses an innocent outsider to expose the follies of 1950s America, and it laughs at them rather than condemning them. Through Spelding it mocks television journalism - the resonant voice, the posed family, the readiness to broadcast a official denial as truth and then chase the exclusive. Through General Powers and his Aide it mocks Cold War paranoia: troops, martial law, censorship and the instant assumption that a visitor must be a spy 'reconnoitring prior to invasion'. Through the Spelding household it mocks suburban materialism and snobbery: the rose garden valued above a visitor from space, the knitting wife who notices only whiskers, the father who wants his daughter to marry money and 'make his mark'. Even the national boast that 'If any travelling is to be done in space, we will do it first' is deflated by a saucer already parked in the garden. Kreton's mild astonishment at human greed, fear and self-importance is the satirist's voice.",
+    "explanation": "Open-ended discussion task; the answer is built from the play's targets - media, militarism, materialism, national vanity - each supported by a quoted line.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q18",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "18",
+    "question": "How does the playwright expose the inferiority of the present race to that of the future?",
+    "answer": "Vidal does it by making the future race present in the room and letting it be unimpressed. Kreton comes from a civilisation about two thousand years ahead, where people do not die, do not fight, do not trade, control their thoughts and travel between dimensions in ships with no instruments. Against this, the twentieth century looks childish: its army cannot dent an invisible wall, its general cannot touch the visitor, its guns cannot frighten him, and its newspapers can think only of a scoop. Kreton's verdict is delivered as a compliment - humans are 'primitive', 'only in the initial stages', 'poor fragile butterflies' who 'seethe with unlikely emotions' - and that politeness makes the judgement harder to answer. The play also shows the moral inferiority: the future race is calm and curious, while the present race is fearful, aggressive, status-hungry and ready to imprison a guest on suspicion.",
+    "explanation": "Textual support: pages 232-233 (civilisation 'only just beginning', 'we don't die'), 240-242 (the failed arrest, the takeover speech).",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q19",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "19",
+    "question": "Describe the arrival of the flying saucer in your own words.",
+    "answer": "The evening begins quietly. Spelding has just finished his weekly broadcast, denying that the strange object in the sky is a spaceship, when John bursts in breathless: 'Come out! Quick! It's coming this way. It's going to land right here!' The family hurries outside. Something bright is coming down, and Mrs. Spelding is certain it will hit the house; Spelding takes comfort in explanations - a meteor, an optical illusion, mass hysteria, a weather balloon - and then bolts indoors to telephone the police and the Army. Ellen thinks it may be a balloon; John insists it is a spaceship 'and right in your own backyard', and runs towards the light while Ellen calls him back. The object settles 'right in my rose garden'. Its side opens, a man in the dress of 1860 steps out, and John shakes hands with him and brings him up to the house, where the family stares at him 'equally interested'.",
+    "explanation": "Open-ended retelling task; the sequence follows pages 228-230 exactly, in the student's own words.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q20",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "20",
+    "question": "How much advanced is the civilization of Kreton than of the Earth?",
+    "answer": "Kreton's civilisation is roughly two thousand years ahead of Earth's. When John mentions relativity, Kreton replies that the truth is 'much more involved than that' and that humans 'won't know about time until... about two thousand years'. The gap shows in every field. Technologically, his people cross dimensions in elliptical ships of unknown metal that need no instruments or fuel, and they watch other worlds through 'special monitors and re-creators' instead of travelling. Biologically, they have conquered death. Socially, they have outgrown war, invasion and even trade, which Kreton calls 'something peculiar only to your social level'. Mentally, they control their thoughts and can hear those of others. Kreton also says he could not explain the ship's drive to Powers 'for another five hundred years', which measures the distance in understanding as well as in years.",
+    "explanation": "Textual support: pages 233 ('not for another five hundred years'), 238 ('You won't know about time... about two thousand years'), 241 (no trade, no hostility).",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q21",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "21",
+    "question": "Why can the people of earth not compete with people of Kreton?",
+    "answer": "Because the contest is not between armies but between levels of development. Kreton's race is about two thousand years ahead: it understands time, matter and mind in ways that human science has not reached, and its technology needs no weapons at all. An invisible wall keeps the army away from the ship; a force field absorbs whatever Powers plans; and Kreton's body cannot be touched, so 'You can't touch me' ends the arrest before it begins. Human beings are also divided among themselves - a general guarding his career, a broadcaster guarding his scoop, a family arguing about walnuts - while Kreton acts with complete calm because he has nothing to fear. In Kreton's words, Earth is 'only in the initial stages', and a primitive society cannot compete with a civilisation that has already passed through the stages it is still entering.",
+    "explanation": "Textual support: pages 238-242. The play makes the point comically rather than tragically: the soldiers are stopped, not killed.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q22",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "22",
+    "question": "What type of life do you foresee in the year 5000?",
+    "answer": "If the play's logic holds, life in the year 5000 will be much less anxious and much more mental. Technology will be almost invisible: machines will be sealed, silent and self-running, the way Kreton's saucer has no instruments and nothing inside, and travel will be a matter of entering a small craft and naming a destination. Medicine will have advanced far beyond cure into repair, so that the human lifespan will be far longer and disease may be a historical subject. Work will be done by machines, leaving people free for study, art and exploration, and communication may be partly direct, mind to mind, which would make lying and hiding much harder and might make society gentler - or more controlled. I hope that the year 5000 will also have abolished war, poverty and the suspicion of strangers, because those are the things the play shows as primitive. The real risk is that comfort without curiosity would make life dull, which is exactly what Kreton says about outer space.",
+    "explanation": "Open-ended prediction task; the model answer stays anchored to the play's own future civilisation while adding a personal, reasoned view.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q23",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "23",
+    "question": "What are the literary elements used in 'Visit to a Small Planet,' and how they enhance the story?",
+    "answer": "Plot: a comic science-fiction plot with a clear arc - a broadcast denial, a landing, an interrogation, a takeover threat and an escape - which keeps the single evening moving and lets each scene raise the stakes.\nCharacter: types sharply contrasted for satire - the pompous broadcaster, the paranoid general, the dreamy daughter, the practical farmer, the vague housewife and the unflappable alien. Kreton acts as a foil to Powers, and the contrast exposes both.\nDialogue: fast, idiomatic and ironic. Spelding's misquotation and Ellen's correction, Kreton's polite understatements ('Poor fragile butterflies') and Powers' bluster do the work that a narrator would do in fiction.\nSetting: one living room and one study, on a single evening, which gives the play the unity of classical drama and makes the ordinary suburban house the stage for a world crisis.\nConflict: human against alien, and individual against the security state; the two run together when Powers tries to arrest Kreton.\nDramatic irony: the audience knows the ship is real while Spelding denies it, and knows that Kreton can hear every thought while Powers boasts of his plans.\nSatire and comedy of manners: American television, militarism and suburbia are ridiculed through exaggeration.\nSymbolism: the rose garden stands for comfortable, self-absorbed suburban life, which the saucer crushes.\nStage directions: they supply tone and character - Spelding 'unctuous, and resonant', Ellen who 'fidgets', Kreton who 'looks around delightedly' - and they control the comedy of the frozen rush at the end.",
+    "explanation": "This is a synthesis question; every element listed is illustrated from the printed text, and the notes explain the effect of each rather than merely naming it.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex6_q24",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "24",
+    "question": "Who is your favourite character in this play and why?",
+    "answer": "My favourite character is Kreton, because he is the only person in the play who is completely honest and completely free. Everyone else is playing a role: Spelding performs for the camera, Powers performs for Washington, Mrs. Spelding hides in her knitting, and even Ellen is half in love with the idea of a visitor from space. Kreton has nothing to gain, so he says exactly what he thinks - that the house is 'better than I'd hoped', that civilization here is 'only just beginning', that the General is 'almost too good to be true'. His manners are perfect and his judgement is devastating, which is the best kind of comic hero. He is also generous: he could take the world by force and instead offers to leave when he sees that his visit is causing trouble. I like him because he shows that curiosity and good humour can be stronger than an army, and because he makes the people around him reveal what they really are.",
+    "explanation": "Open-ended personal-response task; the answer chooses one character and justifies the choice with events and lines from the play.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex7_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Suppose an alien visits the Earth from another planet. Work in pairs and prepare a list of your questions that you would ask the alien. Next, prepare the alien's answers. After you have completed, share your work with your class fellows.",
+    "answer": "1. Q: Where do you come from, and how long did the journey take? A: From a small planet of a star you cannot see without instruments. The journey took no time at all, because we do not travel through space; we step from one dimension into another.\n2. Q: Why did you choose our planet? A: Because you are interesting. My people have stopped being curious, and I have not. You are at the stage we left behind two thousand years ago, and that stage is the most fascinating one.\n3. Q: Do your people die? A: No. We stopped dying a long time ago. That is why your griefs seem so urgent to us, and so beautiful.\n4. Q: How do you govern yourselves? A: Nobody governs. There is nothing to fight over, so there is nothing to rule. We have no armies and no parties.\n5. Q: What do you eat, and what do you do for work? A: We eat very little and work very little, because machines do what needs doing. Most of us spend our time on art, on study and on travel of the kind I am doing now.\n6. Q: What do you think of the way we live? A: I think you are brave, noisy and wasteful. You have wonderful emotions and terrible weapons, and you use the weapons more often than the emotions.\n7. Q: Will you take me with you? A: Not yet. Your body is not ready for the journey, and your mind would find my world very quiet. Study first; then perhaps we shall meet again.\n8. Q: What is the one thing you would change about Earth? A: Your habit of assuming that every stranger is an enemy. It costs you more than any disease.",
+    "explanation": "Open-ended speaking/writing task. The answers are modelled on Kreton's own attitudes in the play (pages 231-241), so the pair work stays within the text's world.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "a",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (a) Mr. Spelding",
+    "answer": "Personality Traits: Vain, pompous, smooth-tongued and status-hungry; professionally 'unctuous, and resonant'; a snob about money and ambition; cowardly when frightened and ruthless when a story is at stake.\nRole: Television commentator and head of the household; Ellen's father; the play's chief satirical portrait of the media.\nActions: Broadcasts a confident denial of the spaceship; poses with his wife and daughter for the cameras; misquotes Shakespeare and is corrected; sneers at John for growing 'peanuts'; telephones the police and the Army; whispers to Powers that he wants the story first; begs Kreton to stay so that he can interview him.\nOthers' Opinion: Ellen finds him unfair and unkind ('Oh, Daddy, stop it!'); Mrs. Spelding soothes him ('We love your broadcasts, dear'); Kreton calls him 'Poor Mr. Spelding' and sees through his motives at once; Powers treats him as a nuisance to be censored.",
+    "explanation": "Character sketch task from the mind map (Personality Traits, Role, Actions, Others' Opinion); all details are drawn from pages 227-241.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q2",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "b",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (b) Mrs. Spelding",
+    "answer": "Personality Traits: Bored, vague, placid and domestic; absorbed in small comforts; fearless where others panic, because she does not really take in what is happening.\nRole: Spelding's wife and Ellen's mother; the comic housewife who represents suburban absorption in trivial things.\nActions: Knits 'passively' through her husband's broadcast; worries that the saucer will hit the house and then that it has landed in her rose garden; asks whether Kreton is spending the night and goes to make up a bedroom; says she likes his whiskers because they remind her of Grandfather Spelding's; soothes her husband's temper with bland compliments.\nOthers' Opinion: Spelding treats her with careless affection ('Very nice, dear'); Ellen is fond of her but impatient with her vagueness; Kreton calls her 'dear lady' and is amused by her; the family relies on her to keep the peace.",
+    "explanation": "Character sketch task from the mind map; details from pages 227-235 (the knitting, the rose garden, the bedroom, the whiskers).",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q3",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "c",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (c) Ellen",
+    "answer": "Personality Traits: Lively, warm, romantic and quick-witted; honest enough to answer her father back; curious and fearless, with a streak of recklessness.\nRole: The Speldings' twenty-year-old daughter, John's fiancée, and the play's voice of wonder and common sense.\nActions: Defends John's hard work; corrects her father's misquotation and his 'peanuts' with 'walnuts'; rushes out to watch the saucer and begs John to come back; welcomes Kreton warmly ('I hope you'll stay with us while you're here'); asks him what outer space is like; cries 'Isn't it exciting!' when the house is put under martial law.\nOthers' Opinion: Spelding calls her 'Miss Know-it-all' and accuses her of not listening to his broadcasts; John calls her 'Darling' and relies on her; Kreton reads her thoughts and finds them innocent and vivid, teasing John about his 'wonderfully purple thoughts' concerning her; her mother treats her as a sensible child.",
+    "explanation": "Character sketch task from the mind map; details from pages 227-240 and the stage direction that calls her 'a lively girl of twenty'.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q4",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "d",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (d) John",
+    "answer": "Personality Traits: Practical, hard-working, plain-spoken and physically brave; curious about how things work; modest and a little slow to take a hint.\nRole: Ellen's suitor, a farmer, and the representative of ordinary decent America against both the snob and the security state.\nActions: Bursts in to announce the landing; runs alone towards the shining object while the others hang back; shakes hands with Kreton and brings him to the house; wishes he had examined the ship more closely; tries to telephone his family and is stopped by the Aide; jokes that from now on he will 'think about agriculture'.\nOthers' Opinion: Spelding dismisses him as a boy with 'no get-up-and-go' who grows peanuts; Ellen defends him as a hard worker and calls him 'Darling'; Kreton is amused by him and tells him to go on having 'purple thoughts' about Ellen; Mrs. Spelding calls him 'a perfectly nice boy'.",
+    "explanation": "Character sketch task from the mind map; details from pages 228-240.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q5",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "e",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (e) General Powers",
+    "answer": "Personality Traits: Blunt, humourless, authoritarian and suspicious; brave in manner but helpless in fact; ambitious in secret and bureaucratic in method.\nRole: The military antagonist; head of the security operation and the play's portrait of Cold War paranoia.\nActions: Surrounds the house with troops and declares martial law; orders the Aide to inspect the ship; interrogates Kreton for two hours; accuses him of being a spy 'reconnoitring prior to invasion'; imposes complete censorship and bans telephone calls; plans to blow up the force field; orders 'Grab him!' and is stopped a foot from his guest.\nOthers' Opinion: Spelding flatters and fears him ('Not at all, General'); the Aide obeys him mechanically; Kreton calls him 'my dear General' and 'almost too good to be true', and reads his secret wish for a third star; the family sees him as a bully who has taken over their home.",
+    "explanation": "Character sketch task from the mind map; details from pages 232-242, including the promotion sketch that betrays his vanity.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex8_q6",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "f",
+    "question": "Work individually and sketch the following characters with the help of below given mind map. Once you have completed, share your work with your class fellows. (f) Kreton",
+    "answer": "Personality Traits: Courteous, amused, curious and completely self-possessed; gently condescending; mischievous without malice; incapable of fear.\nRole: The alien visitor and protagonist; the outsider whose comments measure human folly, and the agent of the play's science-fiction plot.\nActions: Lands in the rose garden in 1860 dress; admires the house; reads minds; seals his ship behind an invisible wall; answers Powers' threats with politeness; announces that he has come 'to take charge... of the whole world'; cannot be touched; declines to leave when asked and goes calmly to bed.\nOthers' Opinion: Ellen thinks he is 'wonderful whoever he is'; Mrs. Spelding likes his whiskers and offers him a bed; Spelding wants him for an exclusive interview; Powers believes he is a spy and a monster; John thinks his people 'must be advanced scientifically'; the Aide is openly disturbed by him.",
+    "explanation": "Character sketch task from the mind map; details from pages 230-242.",
+    "bookPage": 248
+  },
+  {
+    "id": "play_ex9_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and compare and contrast between 'life on earth and on Kreton's planet'. After you have done, share your work with your partner.",
+    "answer": "Aspect | Life on Earth | Life on Kreton's planet\nTechnology and travel | Ships and rockets built by engineers, with instruments, fuel and mechanics; space travel is a national achievement still being attempted. | Elliptical craft of unknown metal with no instruments and nothing inside; travel between dimensions is ordinary, and Kreton cannot even explain how it works.\nDeath | 'You people do die'; human life is a 'brief little moment in the sun'. | 'You see we don't die'; death has been conquered.\nWar and security | Armies, martial law, spies, invasion fears, weapons and censorship. | No armies and no invasion; 'none of my people would dream of invading you'.\nTrade and work | Trade is universal; people are ambitious, competitive and busy making a living. | No trade at all - it is 'something peculiar only to your social level'; machines do the work and people pursue hobbies.\nThought and feeling | Thoughts are private, uncontrolled and passionate; people 'seethe with unlikely emotions'. | Thoughts are controlled and can be heard; emotions are calm, which is why human feeling fascinates Kreton.\nCuriosity | Humans are suspicious of the unknown and afraid of strangers. | Kreton's people are incurious - they watch other worlds through monitors - while Kreton himself is the exception, a 'hobbyist' who gads about.\nTime | Humans do not yet understand time; they live in a single century and are 'about a hundred years' out in Kreton's case. | Time is understood and travelled; Kreton arrives a century late without any sense of loss.\nStatus and possessions | Rank, money and possessions matter: Spelding wants a rich son-in-law, Powers wants a third star, Mrs. Spelding wants her roses. | Status and possessions have no meaning; Kreton owns nothing and wants only to observe.\nSimilarity | Both worlds contain individuals who are curious, affectionate and capable of welcoming a stranger - Ellen and John on Earth, Kreton on his planet. | Both worlds, too, have their own complacencies: Earth's suburbia and Kreton's boredom with a perfected society.",
+    "explanation": "Open-ended comparison task; the table uses the play's own evidence (pages 231-241) and ends with a genuine point of similarity, as 'compare and contrast' requires.",
+    "bookPage": 249
+  },
+  {
+    "id": "play_ex10_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and summarise the play in your words. After you have summarised, exchange the work with each other.",
+    "answer": "On a winter evening in Silver Glen, Maryland, the television commentator Roger Spelding ends his weekly broadcast by denying, on General Powers' authority, that the strange object in the sky is a spaceship. Minutes later his future son-in-law John rushes in: the object is landing in the rose garden. The family watches a shining saucer settle among Mrs. Spelding's roses, and a polite man in the dress of 1860 steps out and introduces himself as Kreton, a visitor from another planet in another dimension. He has come to observe the Civil War but is a hundred years late, and he is delighted by what he finds.\nGeneral Powers arrives with troops, declares martial law and interrogates Kreton in the study, convinced that he is a spy reconnoitring before an invasion. Kreton answers by reading his mind, revealing the General's secret hope of promotion, and by sealing his ship behind an invisible wall so that it cannot be dismantled. In the living room he reads the thoughts of John and Ellen, announces that he has come to take charge of the whole world 'for fun', and, when Powers and the Aide try to seize him, proves that he cannot be touched. He goes calmly to bed, promising to be there in the morning, and the curtain falls on a household that has been visited, investigated and utterly outclassed in a single evening.",
+    "explanation": "Open-ended summary task; the model covers all three scenes in the student's own words, in the order of the play (pages 227-242).",
+    "bookPage": 249
+  },
+  {
+    "id": "play_ex11_q1",
+    "sectionCode": "C1S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Read the play again and identify the elements (i.e. plot, character, dialogue, and setting). After you have identified, write their examples from the text in the table given below. (Table rows: Plot, Character, Dialogue, Setting)",
+    "answer": "Element | Example from the text\nPlot | A television commentator denies that a flying saucer is real; the saucer lands in his garden; an alien named Kreton is questioned by the military; he reads minds, refuses to be arrested and announces that he will take charge of the world; the curtain falls as he goes to bed. The action rises from the landing to the interrogation, reaches its climax in 'I've come here to take charge... of the whole world' and the failed arrest, and closes with his quiet exit.\nCharacter | Kreton, the courteous, amused alien who cannot be touched; General Powers, the paranoid security chief who dreams of a third star; Roger Spelding, the vain broadcaster who wants the scoop; Ellen, the lively daughter who finds the visit 'exciting'; John, the practical farmer; Mrs. Spelding, who knits and worries about her roses; and the Aide, who obeys and reports.\nDialogue | Kreton: 'You see we don't die.' Powers: 'Look, Buster, I don't want to play games.' Kreton: 'Such wonderfully purple thoughts!' Spelding: 'He has no get-up-and-go.' Ellen: 'But, Daddy, John grows walnuts...' Kreton: 'You can't touch me. That's part of the game.' The dialogue carries the satire, the comedy and the science-fiction exposition at once.\nSetting | The living room of the Speldings' house in Silver Glen, Maryland, 'comfortably balanced between the expensively decorated and homely', with a television microphone and technicians in Scene I; the study with 'many books and a globe of the world' in Scene II, where Kreton twirls the globe; and the same living room again in Scene III. The whole action takes place on one evening, and the rose garden outside is the landing site.",
+    "explanation": "Table task: each of the four rows is filled with a definition-by-example from the printed text, including the stage directions on pages 226, 236 and 239.",
+    "bookPage": 249
+  }
+]

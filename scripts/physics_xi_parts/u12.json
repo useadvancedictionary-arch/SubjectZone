@@ -1,0 +1,372 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The speed v of a wave represented by y = A sin(ωt − kx) is:",
+    "options": [
+      "k/ω",
+      "ω/k",
+      "ωk",
+      "1/ωk"
+    ],
+    "correct": "b",
+    "answer": "(b) ω/k",
+    "explanation": "For a travelling wave the phase (ωt − kx) is constant for a point moving with the wave, so differentiating gives ω − k(dx/dt) = 0, hence v = dx/dt = ω/k. Option (a) is the reciprocal k/ω, (c) is the product and has the wrong dimensions, and (d) is also dimensionally wrong.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Two sound waves are y = A sin(ωt − kx) and y = A cos(ωt − kx). The phase difference between the two waves is:",
+    "options": [
+      "π/2",
+      "π/4",
+      "π",
+      "0"
+    ],
+    "correct": "a",
+    "answer": "(a) π/2",
+    "explanation": "A cosine wave is a sine wave advanced by a quarter of a cycle, because cos θ = sin(θ + π/2). The same phase (ωt − kx) therefore appears inside a cosine in one wave and a sine in the other, so the cosine wave leads by π/2 rad (90°). A phase difference of π would mean opposite displacements, and 0 would mean the waves are identical.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "If v_a, v_h andv_m are the speeds of sound in air, hydrogen gas, and a metal at the same temperature, then:",
+    "options": [
+      "v_a > v_h > v_m",
+      "v_m > v_h > v_a",
+      "v_h > v_m > v_a",
+      "v_h > v_a > v_m"
+    ],
+    "correct": "b",
+    "answer": "(b) v_m > v_h > v_a",
+    "explanation": "Sound travels fastest in solids because of their very large elastic modulus, so the metal has the greatest speed (thousands of m/s). Among gases at the same temperature v = √(γRT/M), so the lighter gas is faster; hydrogen (M = 2 g/mol) is much faster than air (M ≈ 29 g/mol), about 1280 m/s against 332 m/s. Hence v_m > v_h > v_a, which rules out (a), (c) and (d), all of which place the metal below hydrogen or air.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The speed of sound in air at STP is 332 m/s. If the air pressure becomes double at the same temperature, the speed of sound become:",
+    "options": [
+      "1382 m/s",
+      "664m/s",
+      "332 m/s",
+      "166 m/s"
+    ],
+    "correct": "c",
+    "answer": "(c) 332 m/s",
+    "explanation": "The speed of sound in a gas is v = √(γP/ρ). At constant temperature, doubling the pressure also doubles the density (Boyle's law), so the ratio P/ρ is unchanged and the speed remains 332 m/s. Options (b) and (d) wrongly assume v ∝ P or v ∝ 1/P, and (a) is far too large for any pressure change at constant temperature.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "How does the speed of sound v in air depend on the atmospheric pressure P:",
+    "options": [
+      "v ∝ P⁰",
+      "v ∝ P⁻¹",
+      "v ∝ P²",
+      "v ∝ P¹"
+    ],
+    "correct": "a",
+    "answer": "(a) v ∝ P⁰",
+    "explanation": "For a gas v = √(γP/ρ), and at constant temperature density is proportional to pressure, so P/ρ stays constant and v is independent of pressure; that is, v ∝ P⁰. The speed depends on temperature through v ∝ √T, not on pressure. Options (b), (c) and (d) describe a false dependence and would make the speed of sound change with the weather.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The speed of sound in a gas is proportional to:",
+    "options": [
+      "square root of isothermal elasticity",
+      "square root of adiabatic elasticity",
+      "isothermal elasticity",
+      "adiabatic elasticity"
+    ],
+    "correct": "b",
+    "answer": "(b) square root of adiabatic elasticity",
+    "explanation": "Newton's original formula used the isothermal bulk modulus and predicted 280 m/s for air, which is too low. Laplace pointed out that the compressions and rarefactions occur so quickly that no heat is exchanged, so the process is adiabatic and the correct elasticity is the adiabatic bulk modulus γP. Hence v = √(γP/ρ) = √(adiabatic elasticity/density), which gives about 332 m/s at STP. The speed is proportional to the square root of the elasticity, not to the elasticity itself.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The length of a pipe closed at one end is L. In the standing wave whose frequency is 7 times the fundamental frequency, what is the closest distance between nodes?",
+    "options": [
+      "(1/14)L",
+      "(1/7)L",
+      "(2/7)L",
+      "(4/7)L"
+    ],
+    "correct": "c",
+    "answer": "(c) (2/7)L",
+    "explanation": "A pipe closed at one end supports only odd harmonics, f_n = (2n − 1)v/(4L). The frequency 7f₁ corresponds to 2n − 1 = 7, i.e. n = 4, so the wavelength is λ = v/f = 4L/7. Nodes are separated by half a wavelength, λ/2 = 2L/7. Option (d) is the wavelength itself, and (a) and (b) are incorrect fractions that do not follow from λ/2.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "A 620 Hz frequency song of an ice cream trolley approaches with speed v to a boy standing at the door of his house is heard with frequency f₁. If the trolley is stopped and the boy approaches to the ice cream trolley with same speed v; the boy now hears the sound with frequency f₂. choose the correct statement:",
+    "options": [
+      "f₁ = f₂; both are greater than 620Hz",
+      "f₂ > f₁ > 620 Hz",
+      "f₁ = f₂; both are less than 620Hz",
+      "f₁ > f₂ > 620Hz"
+    ],
+    "correct": "d",
+    "answer": "(d) f₁ > f₂ > 620Hz",
+    "explanation": "When the source approaches, the wavelength is compressed: f₁ = 620 v/(v − v_s). When the observer approaches a stationary source, the wavelength in air is unchanged and the observer simply meets the waves more often: f₂ = 620(v + v_o)/v. For the same speed, 1/(1 − β) is greater than (1 + β) for any β between 0 and 1, so f₁ > f₂; for example with v = 34 m/s, f₁ = 689 Hz while f₂ = 682 Hz. Both are greater than 620 Hz because in each case the separation is decreasing, so (a) and (c) fail, and (b) reverses the correct order.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The speed of sound in a gas in which two waves of wavelength 50 cm and 50.4 cm produce 6 beats per second is:",
+    "options": [
+      "338 m/s",
+      "350 m/s",
+      "378 m/s",
+      "400 m/s"
+    ],
+    "correct": "c",
+    "answer": "(c) 378 m/s",
+    "explanation": "The beat frequency is the difference of the two frequencies: f₁ − f₂ = v(1/λ₁ − 1/λ₂) = 6 Hz. With λ₁ = 0.500 m and λ₂ = 0.504 m, 1/0.500 − 1/0.504 = 0.01587 m⁻¹, so v = 6/0.01587 = 378 m/s. Options 338 and 350 m/s would give fewer than 6 beats per second, and 400 m/s would give more.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The speed of a wave in a medium is 760 m/s. If 3600 waves are passing through a point in the medium in 2 minutes, then its wave length is:",
+    "options": [
+      "13.85 m",
+      "25.3 m",
+      "41.5 m",
+      "57.2 m"
+    ],
+    "correct": "b",
+    "answer": "(b) 25.3 m",
+    "explanation": "3600 waves pass in 2 minutes = 120 s, so the frequency is f = 3600/120 = 30 Hz. The wavelength follows from v = fλ, giving λ = 760/30 = 25.33 m. Option (a) 13.85 m corresponds to about 55 Hz, (c) to about 18 Hz and (d) to about 13 Hz, so none of them fits the given rate.",
+    "pdfPage": 276,
+    "bookPage": 272
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Why sound can not travel through vacuum.",
+    "answer": "Sound is a mechanical, longitudinal wave, so it must have a material medium through which to travel. A sound wave propagates by the to-and-fro vibration of molecules, which push against their neighbours and pass the disturbance on as a series of compressions and rarefactions. In a vacuum there are practically no molecules, so there is nothing to compress or rarefy and no way for the vibrational energy to be handed on. Hence no sound can travel through a vacuum. In the bell-jar experiment a ringing electric bell becomes fainter as the air is pumped out and finally inaudible, although the hammer is still seen striking, and the sound returns when air is admitted. Light, being an electromagnetic wave, needs no medium, which is why we can see through space but cannot hear through it.",
+    "explanation": "Sound is a mechanical wave, so it needs particles to carry the disturbance; a vacuum has none. Do not confuse this with light, which is electromagnetic and can cross a vacuum.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "On what factors speed of sound depends on",
+    "answer": "The speed of sound is v = √(elasticity/density), so it depends on: (i) the nature of the medium — fastest in solids (about 5000 m/s in steel), intermediate in liquids (1500 m/s in water) and slowest in gases (332 m/s in air at STP), because solids are the most elastic; (ii) elasticity — a stiffer medium transmits the disturbance faster; (iii) density — for the same elasticity v ∝ 1/√ρ, so sound is faster in light hydrogen than in air; (iv) temperature — v = √(γRT/M), so the speed rises with temperature, by about 0.61 m/s per °C; (v) humidity — moist air is less dense, so sound travels slightly faster; (vi) pressure — at constant temperature pressure and density change in the same ratio, so the speed is unaffected; (vii) wind — a following wind increases and a head wind decreases the speed relative to the ground.",
+    "explanation": "The master formula is v = √(elasticity/density); temperature enters through the density and molecular speed. Pressure alone does not change the speed at constant temperature.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What are the conditions for the interference of waves",
+    "answer": "Two or more waves produce a steady interference pattern only if: (i) the sources are coherent, maintaining a constant phase difference with time, as when two loudspeakers are driven by one oscillator; (ii) the waves have the same frequency and wavelength, otherwise the phase difference at a point changes continuously and the pattern moves too rapidly to observe; (iii) their amplitudes are equal or comparable, so the maxima and minima are well marked; (iv) the waves overlap in the same region, travelling in the same or nearly the same direction, with displacements along the same line (same polarization for transverse waves); (v) the sources are narrow and close together compared with the distance to the observation point, so the path difference varies smoothly and the fringes are well spaced. The phase difference must come from the path difference alone, Δφ = (2π/λ)Δx; incoherent sources give only a uniform average intensity.",
+    "explanation": "Coherence (constant phase difference) and equal frequency are the essential conditions; equal amplitudes make the pattern sharp but are not strictly necessary.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Is the energy of a wave maximum or minimum at nodes?",
+    "answer": "The energy is minimum, in fact zero, at a node, and maximum at an antinode. A node is a point of permanently zero displacement where the two travelling waves always interfere destructively, so the particles there never move and have neither kinetic nor elastic potential energy. An antinode is a point of maximum displacement where the waves reinforce each other, so the particles vibrate with the largest amplitude and both kinetic and elastic potential energy are greatest. Since a standing wave is the superposition of two equal waves travelling in opposite directions, no net energy is transported along the string or air column; the energy is trapped and passes back and forth between kinetic form (all particles moving fastest as they cross the mean position) and elastic potential form (maximum displacement). Nodes are therefore positions of zero energy density and antinodes positions of maximum energy density.",
+    "explanation": "Nodes are points of zero displacement, so they can store no energy; the energy of a standing wave is concentrated near the antinodes and is not transported along the medium.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Why is it possible to understand the words spoken by two people at the same time?",
+    "answer": "The ear and brain analyse a complex sound into its component frequencies. Sound waves obey superposition, so the pressure variations from two speakers add algebraically and each voice still carries its own frequencies and timbre; one wave does not erase the information in the other. The cochlea acts as a frequency analyser: different positions along the basilar membrane respond to different frequencies, so the components of both voices are separated spatially and sent to the brain along different auditory nerve fibres. The brain can also attend selectively to one voice (the cocktail-party effect), using differences in pitch, loudness, direction and arrival time at the two ears. Difficulty arises only when the voices have similar pitch and loudness, or when one is much louder and masks the other. Interference does not destroy the words because two independent voices are incoherent: their phase relation changes randomly, so no permanent cancellation occurs.",
+    "explanation": "Superposition means the waves add without destroying each other, and the cochlea plus the brain separate the mixture by frequency and direction.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Define a sound wave and explain its nature as a longitudinal wave. Discuss the key properties of sound waves, such as frequency, wavelength, amplitude, and speed of propagation",
+    "answer": "A sound wave is a mechanical, longitudinal wave that travels through a material medium as a series of alternate compressions (regions of high pressure and density) and rarefactions (regions of low pressure and density), produced by a vibrating source. As the source vibrates it pushes and pulls the adjacent layer of the medium; each layer passes the disturbance to the next, so the particles oscillate to and fro about their mean positions along the direction of propagation while the wave and its energy travel forward. Because the particle displacement is parallel to the direction of travel, sound is longitudinal; it can travel through solids, liquids and gases, but not through a vacuum.\nKey properties: (i) Frequency f is the number of compressions passing a point per second, measured in hertz; a healthy human ear hears roughly 20 Hz to 20 kHz, below which sound is infrasonic and above which it is ultrasonic. (ii) Wavelength λ is the distance between two successive compressions or rarefactions, related to the other quantities by λ = v/f. (iii) Amplitude is the maximum displacement of the particles from their mean positions, or the maximum pressure excess; it determines the loudness, since the intensity is proportional to the square of the amplitude, I ∝ A². (iv) Speed v is the distance the wave travels per second, v = fλ; it depends on the medium and its temperature (about 332 m/s in air at STP, 1500 m/s in water and 5000 m/s in steel), but not on the frequency or, at constant temperature, on the pressure. A sound wave can also be described by a pressure equation p = p₀ sin(ωt − kx), where p₀ is the pressure amplitude.",
+    "explanation": "The longitudinal nature follows from the displacement being parallel to the direction of travel. Frequency is fixed by the source, speed by the medium, and the wavelength adjusts so that v = fλ.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Discuss the concept of the Doppler Effect in sound waves. Explain how the motion of a source or observer affects the perceived frequency and pitch of a sound wave. Provide examples to illustrate the Doppler Effect in daily life.",
+    "answer": "The Doppler effect is the apparent change in the frequency, and hence the pitch, of a sound heard by an observer when there is relative motion between the source, the observer and the medium. The observed frequency is f′ = f(v ± v_o)/(v ∓ v_s), with the upper signs for approach and the lower signs for recession, where v is the speed of sound, v_o the observer's speed and v_s the source's speed; only the components along the line joining them matter.\nPhysical reason: if the source moves towards the observer, each successive compression is emitted from a point closer to the observer, so the wavelength is shortened to λ′ = (v − v_s)/f and more compressions arrive per second, raising the pitch. If the observer moves towards the source, the wavelength in the air is unchanged but the observer meets the compressions more often, so again the pitch rises. The two cases are not symmetrical, because the medium fixes the wavelength when only the observer moves. Motion away from the other party stretches the wavelength and lowers the pitch.\nExamples: the pitch of an ambulance or train whistle drops abruptly as it passes a stationary listener; a driver hears the horn of an oncoming car at a higher pitch; the frequency of radar and ultrasound echoes from moving vehicles or blood is shifted, which is used in speed guns and Doppler echocardiography; distant galaxies show a red shift because they are receding; the wobble of a star detected through its Doppler-shifted light reveals an orbiting planet.",
+    "explanation": "Only the component of motion along the line joining source and observer changes the pitch, and approach always raises the frequency while recession lowers it.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is standing wave? How they are produced? Also elaborate the concept of nodes and antinodes in standing waves. Explain their locations and the relationship between node spacing and wavelength.",
+    "answer": "A standing (stationary) wave is a wave pattern in which the crests and troughs do not travel through space; it is formed when two waves of the same frequency, amplitude and speed travel in opposite directions through the same medium and superpose. In practice one wave is reflected at a boundary and meets the incident wave, for example on a string fixed at both ends, or in air inside a pipe that is closed or open at the ends. The resultant displacement is y = 2A cos(kx) sin(ωt): the sin(ωt) factor shows that every particle vibrates with the same frequency, while the amplitude 2A cos(kx) depends only on position.\nNodes are points where the amplitude is zero and the particles remain permanently at rest; they occur where cos(kx) = 0, that is at x = (2n + 1)λ/4 measured from a node, and always at a fixed end of a string or a closed end of a pipe. Antinodes are points of maximum amplitude 2A, where cos(kx) = ±1, that is at x = nλ/2; they occur halfway between nodes and at an open end of a pipe. Adjacent nodes are separated by λ/2, adjacent antinodes by λ/2, and a node and the nearest antinode by λ/4. Measuring the distance between two successive nodes therefore gives the wavelength directly, λ = 2 × node spacing, which is how the wavelength of a vibrating string or air column is determined experimentally. A standing wave stores energy rather than transporting it along the medium.",
+    "explanation": "Node spacing λ/2 and node-to-antinode spacing λ/4 are the working rules; the boundary conditions fix which points must be nodes or antinodes.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Define the Doppler Effect and Derive the Doppler Effect equation for sound waves in terms of the relative velocity between the source, observer, and the speed of sound.",
+    "answer": "Definition: the Doppler effect is the change in the frequency of a sound observed when the source, the observer or the medium moves, so that the number of waves reaching the observer per second differs from the number emitted per second.\nCase 1 — source moving, observer at rest. Let the source emit f waves per second and move with speed v_s towards the observer. In one second the source advances a distance v_s, so the f waves it emits are compressed into the distance v − v_s. The new wavelength is λ′ = (v − v_s)/f. These waves travel at the unchanged speed v, so the frequency heard is f′ = v/λ′ = fv/(v − v_s), which is greater than f. If the source recedes, λ′ = (v + v_s)/f and f′ = fv/(v + v_s), which is less than f.\nCase 2 — observer moving, source at rest. The wavelength in the medium stays λ = v/f, but the observer meets the waves at the relative speed v + v_o when moving towards the source, so f′ = (v + v_o)/λ = f(v + v_o)/v, which is greater than f. If the observer recedes, f′ = f(v − v_o)/v, which is less than f.\nCombining both motions: f′ = f(v ± v_o)/(v ∓ v_s), where the upper sign in the numerator and the lower sign in the denominator correspond to approach, and the lower and upper signs to recession. Only velocities along the line joining source and observer are used. Example: a train sounding a 200 Hz whistle and moving at 29.5 m/s is heard at 219 Hz as it approaches and 184 Hz as it recedes, with v = 340 m/s.",
+    "explanation": "The source motion alters the wavelength while the observer motion alters the rate of interception; this is why the two cases have different denominators and numerators.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Define standing waves and explain how they are formed.",
+    "answer": "A standing (stationary) wave is a wave in which the crests and troughs remain at fixed positions and do not travel through the medium; it results from the superposition of two identical progressive waves travelling in opposite directions. The pattern has permanent nodes, where the displacement is always zero, and permanent antinodes, where the displacement is always maximum.\nFormation: a progressive wave travelling along a string or through the air in a pipe is reflected at the boundary and travels back through the incident wave. Where the two waves are in phase their displacements add to give an antinode, and where they are exactly out of phase, having a path difference of λ/2, they cancel to give a node, so a fixed pattern of loops is set up. Formation also requires that the boundary conditions be satisfied: a fixed end of a string, or a closed end of a pipe, must be a node because the particles cannot move there, while a free end, or the open end of a pipe, is an antinode. These conditions allow only certain wavelengths, for which a whole number of half-wavelengths or quarter-wavelengths fits into the length: L = nλ/2 for a string fixed at both ends and L = (2n − 1)λ/4 for a pipe closed at one end. The corresponding frequencies f = v/λ form the harmonic series of the system. A standing wave therefore traps energy instead of transporting it, and the positions of its nodes allow the wavelength to be measured.",
+    "explanation": "Reflection plus superposition of two opposite waves creates the pattern; the fixed and free boundary conditions decide which wavelengths are permitted.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 6,
+    "question": "Discuss the concept of harmonics in standing waves. Explain how harmonics are formed and their relationship with the fundamental frequency.",
+    "answer": "Harmonics are the discrete frequencies, forming a series in which each is a whole-number multiple of the lowest, at which a bounded system such as a string, an air column or a membrane can sustain a standing wave. They are formed because the boundaries impose fixed nodes or antinodes, so only standing waves containing a definite number of loops fit into the fixed length. All other wavelengths interfere destructively with their own reflections and die away.\nFor a string of length L fixed at both ends, the ends must be nodes, so L = nλ_n/2, giving λ_n = 2L/n and f_n = v/λ_n = nv/(2L) = nf₁. Here f₁ = v/(2L) is the fundamental or first harmonic, n = 2 gives the second harmonic (first overtone), n = 3 the third harmonic, and so on. Thus all integer harmonics are present; the nth harmonic has n loops, n antinodes and n + 1 nodes, while the fundamental has a single loop with a node at each end and an antinode in the middle.\nFor a pipe closed at one end, the closed end is a node and the open end an antinode, so L = (2n − 1)λ/4 and only odd harmonics exist: f_n = (2n − 1)v/(4L), that is f₁, 3f₁, 5f₁ … For a pipe open at both ends, L = nλ/2 and all harmonics are present, as in a flute.\nThe relationship is therefore f_n = nf₁ for strings and open pipes and f_n = (2n − 1)f₁ for a closed pipe. The waveform of a musical note is a superposition of these harmonics; their relative amplitudes determine the quality or timbre of the sound, while the fundamental fixes the pitch. This is why the same note sounds different on a violin and on a flute.",
+    "explanation": "Boundary conditions quantise the wavelength, and the harmonic number counts the number of half-wavelength loops; a closed pipe contains only odd harmonics.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "The equation of a wave is y(x, t) = 3.5 sin {(π/3.0)x − 66t} cm where t is in seconds and x and y both are in cm. Find (a) the amplitude and (b) the wavelength of this wave.",
+    "answer": "Given: y(x, t) = 3.5 sin{(π/3.0)x − 66t}, with x and y in cm and t in s. Comparing with the standard form y = A sin(kx − ωt): A = 3.5 cm, k = π/3.0 cm⁻¹ and ω = 66 rad s⁻¹.\n(a) Amplitude: A = 3.5 cm.\n(b) Wavelength: k = 2π/λ, so λ = 2π/k = 2π/(π/3.0) = 6.0 cm.\nCheck: f = ω/2π = 66/6.283 = 10.5 Hz and v = fλ = 10.5 × 6.0 = 63 cm s⁻¹, consistent with v = ω/k = 66/(π/3.0) = 63 cm s⁻¹.\nResult: (a) 3.5 cm and (b) 6.0 cm, agreeing with the printed answers [(a) 3.5 cm (b) 6.0 cm].",
+    "explanation": "Read A and k directly from the equation; the wavelength comes from k = 2π/λ, so λ = 2π/(π/3.0) = 6.0 cm.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Why is it that your own voice sounds strange to you when you hear it played back on a tape recorder, but your friends all agree that it is just what you r voice sounds like?",
+    "answer": "When you speak you hear your own voice by two routes: (i) sound carried through the air to your ears, and (ii) sound carried through the bones and soft tissues of your head directly to the cochlea, called bone conduction. Bone conduction is comparatively efficient at low frequencies and adds strong low-frequency vibrations together with resonances of the skull, sinuses and nasal cavities, so the voice you hear while speaking is fuller and deeper than the sound that actually leaves your mouth.\nA recorder captures only the air-conducted sound, which is exactly what other people hear. When it is played back you hear your voice without the extra bone-conducted bass and internal resonances, so it sounds thinner, higher and unfamiliar to you. Your friends, who have always heard only the air-conducted version, recognise it at once as your normal voice and cannot understand why you object.\nThe effect is not a fault of the recorder; it simply reflects the difference between the two transmission paths. The same phenomenon explains why people are often surprised by recordings of themselves, and it is used deliberately in hearing tests, where a tuning fork held on the skull tests bone conduction against air conduction.",
+    "explanation": "Your own voice is heard by air plus bone conduction, but a recording contains only the air-conducted part that everyone else hears.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "Why the speed of sound in solids is much faster than the speed of sound in air?",
+    "answer": "The speed of a mechanical wave is v = √(elastic modulus/density): v = √(Y/ρ) for a solid rod and v = √(B/ρ), with B = γP, for a gas. The elastic moduli of solids are of the order of 10¹⁰ to 10¹¹ Pa, enormously larger than the bulk modulus of air, about 1.4 × 10⁵ Pa, while the densities of solids are only about 10³ to 10⁴ times that of air. The ratio modulus/density is therefore thousands of times larger for a solid, so the speed is tens of times larger: about 5000 m/s in steel against 332 m/s in air.\nPhysically, the atoms of a solid are held by strong interatomic forces at lattice sites only about 10⁻¹⁰ m apart, so a disturbance is passed from atom to atom almost instantaneously. In a gas the molecules are about 10⁻⁹ m apart, move randomly and interact only weakly during collisions, so the disturbance is handed on much more slowly. Since v depends on the square root of the modulus-to-density ratio, the very large elasticity of solids dominates their greater density. This is also why a dense but soft material such as lead transmits sound more slowly than steel.",
+    "explanation": "Elasticity, not density alone, controls the speed: solids have enormously larger elastic moduli, so v = √(elasticity/density) is much greater than in air.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "An increase in pressure of 100 k Pa causes a certain volume of water to decrease by 5x10⁻³ percent of its original volume. Find (a) Bulk modulus of water. (b) What is the speed of sound in water?",
+    "answer": "Given: ΔP = 100 kPa = 1.0 × 10⁵ Pa; fractional decrease in volume ΔV/V = 5 × 10⁻³ % = 5 × 10⁻⁵; density of water ρ = 1000 kg m⁻³.\nFormula: B = ΔP/(ΔV/V) and v = √(B/ρ).\n(a) B = 1.0 × 10⁵/5 × 10⁻⁵ = 2.0 × 10⁹ Pa = 2000 MPa.\n(b) v = √(2.0 × 10⁹/1000) = √(2.0 × 10⁶) = 1.41 × 10³ m s⁻¹.\nResult: (a) B = 2.0 × 10⁹ Pa = 2000 MPa, (b) v ≈ 1.4 × 10³ m s⁻¹, agreeing with the printed answers [(a) 2000 MPa (b) 1400 ms⁻¹]. The unrounded speed is 1414 m/s, quoted as 1400 m/s to two significant figures.",
+    "explanation": "Convert the percentage carefully: 5 × 10⁻³ % = 5 × 10⁻⁵ as a fraction. The bulk modulus is the pressure change divided by the fractional volume change.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A uniform string of length 10.0 m and weight 0.25 N is attached to the ceiling. A weight of 1.00 kN hangs from its lower end. The lower end of the string is suddenly displaced horizontally. How long does it take the resulting wave pulse to travel to upper end? Neglect the weight of string in comparison to hanging mass.",
+    "answer": "Given: L = 10.0 m; weight of the string = 0.25 N; hanging load = 1.00 kN = 1000 N; g = 9.8 m s⁻².\nFormula: mass per unit length μ = W/(Lg); the tension is T ≈ 1000 N because the weight of the string (0.25 N) is negligible; the pulse speed is v = √(T/μ); the time is t = L/v.\nSubstitution: μ = 0.25/(10.0 × 9.8) = 0.25/98 = 2.55 × 10⁻³ kg m⁻¹; v = √(1000/2.55 × 10⁻³) = √(3.92 × 10⁵).\nCalculation: v = 626 m s⁻¹; t = 10.0/626 = 1.60 × 10⁻² s = 16 ms.\nResult: t ≈ 16 ms, agreeing with the printed answer (16 ms approx). The tension actually increases from 1000 N at the bottom to 1000.25 N at the top, a change of only 0.025%, which justifies neglecting the weight of the string.",
+    "explanation": "A pulse travels at v = √(T/μ); the string's own weight is negligible beside the 1 kN load, so the tension is taken as constant.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A travelling sine wave is the result of the superposition of two other sine waves with equal amplitudes, wavelengths, and frequencies. The two component waves each have amplitude 5.00 cm. if the resultant wave has amplitude 6.69, what is the phase difference φ between the component waves?",
+    "answer": "Given: A₁ = A₂ = A = 5.00 cm; resultant amplitude R = 6.69 cm.\nFormula: for two waves of equal amplitude with phase difference φ, R² = A² + A² + 2A² cos φ = 2A²(1 + cos φ) = 4A² cos²(φ/2), so R = 2A cos(φ/2).\nSubstitution: cos(φ/2) = R/(2A) = 6.69/(2 × 5.00) = 0.669.\nCalculation: φ/2 = cos⁻¹(0.669) = 48.0°, so φ = 96.0°.\nResult: φ ≈ 96°, agreeing with the printed answer (96°). In radians φ = 1.68 rad.",
+    "explanation": "Use R = 2A cos(φ/2); R lies between 0 and 10 cm, so the phase difference lies between 180° and 0° and comes out as 96°.",
+    "pdfPage": 277,
+    "bookPage": 273,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "In order to decrease the fundamental frequency of a guitar string by 4.0%, by what percentage should you reduce the tension?",
+    "answer": "Given: the fundamental frequency is to fall by 4.0%, so f₂/f₁ = 1 − 0.040 = 0.960. For a stretched string f = (1/2L)√(T/μ), so f ∝ √T.\nFormula: T₂/T₁ = (f₂/f₁)², and the percentage reduction of tension = (1 − T₂/T₁) × 100%.\nSubstitution: T₂/T₁ = (0.960)² = 0.9216.\nCalculation: percentage reduction = (1 − 0.9216) × 100% = 7.84%.\nResult: the tension should be reduced by about 7.8% (7.84%). Discrepancy: the printed answer is 76.96%, which is inconsistent with the data. A 76.96% reduction would leave T₂/T₁ = 0.2304, giving f₂/f₁ = √0.2304 = 0.48, that is a 52% fall in frequency, not 4%. The printed value appears to be a misprint; the correct reduction is 7.84%, which rounds to 7.8% (about 8%).",
+    "explanation": "Frequency varies as the square root of tension, so the tension ratio is the square of the frequency ratio. Back-substitution shows 7.84%, not 76.96%.",
+    "pdfPage": 278,
+    "bookPage": 274,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "A string 2.0 m long is held fixed at both ends. If a sharp blow is applied to the string at its centre, it takes 0.050 s for the pulse to travel to both ends of the string and return to the middle. What is the fundamental frequency of oscillation for this string?",
+    "answer": "Given: L = 2.0 m, fixed at both ends; the blow is applied at the centre and the pulse takes t = 0.050 s to travel to both ends and return to the middle.\nFormula: the pulse starts at the centre and splits into two; each part travels 1.0 m to an end and 1.0 m back to the centre, a distance of 2.0 m, so its speed is v = 2.0/0.050. For a string fixed at both ends the fundamental wavelength is λ = 2L, and f = v/λ.\nSubstitution: v = 2.0/0.050 = 40 m s⁻¹; λ = 2 × 2.0 = 4.0 m.\nCalculation: f = 40/4.0 = 10 Hz.\nResult: f = 10 Hz, agreeing with the printed answer (10 Hz).",
+    "explanation": "Each pulse travels only from the centre to an end and back, 2.0 m in 0.050 s. Counting 4.0 m (a round trip across both halves) would wrongly give 20 Hz.",
+    "pdfPage": 278,
+    "bookPage": 274,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A sound source of frequency f₀ and an observer are located at a fixed distance apart. Both the source and observer are at rest. However, the propagation medium (through which the sound waves travel at speed v) is moving at a uniform velocity v_m in an arbitrary direction. Find the frequency detected by the observer giving physical explanation.",
+    "answer": "Answer: the frequency detected by the observer is f′ = f₀, unchanged, whatever the direction of the motion of the medium.\nReason: the source and the observer are at rest relative to each other, so the number of wavefronts emitted per second by the source must equal the number arriving at the observer per second; the medium merely carries the wavefronts along and can neither create nor destroy them. Suppose the medium moves with a component v_m cos θ along the line from source to observer. Then the speed of sound relative to the ground becomes v + v_m cos θ, but the wavefronts are also stretched: successive crests are emitted 1/f₀ apart in time while the medium carries them forward, so the wavelength becomes λ′ = (v + v_m cos θ)/f₀. The two changes cancel in f′ = (v + v_m cos θ)/λ′ = f₀. If the medium moves the other way, both the speed and the wavelength decrease in the same proportion and again f′ = f₀. In particular, a medium moving perpendicular to the line (θ = 90°) changes neither speed nor wavelength along that line.\nWhat does change is the apparent direction from which the sound arrives (aberration of sound) and the time of flight between source and observer, not the pitch. A Doppler shift arises only when the source or the observer moves relative to the medium; hence a steady wind does not alter the pitch of a bell for a listener who is also at rest.",
+    "explanation": "With source and observer both at rest, motion of the medium changes the speed and the wavelength in the same ratio, so the received frequency stays f₀. Only relative motion with respect to the medium causes a Doppler shift.",
+    "pdfPage": 278,
+    "bookPage": 274,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "A train sounds its whistle while passing by a railroad crossing. An observer at the crossing measures a frequency of 219 Hz as the train approaches the crossing and a frequency of 184 Hz as the train leaves. The speed of the sound is 340ms⁻¹. Find the speed of the train and frequency of its whistle.",
+    "answer": "Given: f_approach = 219 Hz, f_recede = 184 Hz, v = 340 m s⁻¹.\nFormula: f₁ = f₀v/(v − v_t) and f₂ = f₀v/(v + v_t); dividing, f₁/f₂ = (v + v_t)/(v − v_t), which gives v_t = v(f₁ − f₂)/(f₁ + f₂); then f₀ = f₁(v − v_t)/v.\nSubstitution: v_t = 340 × (219 − 184)/(219 + 184) = 340 × 35/403.\nCalculation: v_t = 340 × 0.08685 = 29.53 m s⁻¹; f₀ = 219 × (340 − 29.53)/340 = 219 × 310.47/340 = 219 × 0.91315 = 199.98 Hz.\nResult: v_t ≈ 29.5 m s⁻¹ and f₀ ≈ 200 Hz, agreeing with the printed answers (v_t = 29.5 m s⁻¹, f₀ = 200 Hz).",
+    "explanation": "Divide the two Doppler equations to eliminate the unknown whistle frequency; the ratio gives the train speed, and substitution then returns f₀.",
+    "pdfPage": 278,
+    "bookPage": 274,
+    "figure": null
+  }
+]

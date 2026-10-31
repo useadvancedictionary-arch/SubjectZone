@@ -1,0 +1,260 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Quantity of energy released when 1 mole of the ionic crystal is formed from the gaseous ions is called:",
+    "options": [
+      "Bond energy",
+      "Potential energy",
+      "Ionization energy",
+      "Lattice energy"
+    ],
+    "correct": "d",
+    "explanation": "Lattice energy is the energy released when one mole of an ionic crystal is formed from its constituent gaseous ions, for example Na⁺(g) + Cl⁻(g) → NaCl(s) + 787 kJ mol⁻¹. The oppositely charged ions attract one another strongly, so the process is exothermic and the same quantity of energy is needed to break the lattice apart, which is why lattice energy measures the strength of the ionic bond. Bond energy is the energy required to break a covalent bond, potential energy is energy due to position, and ionization energy is the energy needed to remove an electron from a gaseous atom, so (d) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Graphite can conduct electricity in one direction only. With this behavior, it is said to be:",
+    "options": [
+      "Amorphous",
+      "Symmetrical",
+      "Anisotropic",
+      "Polymorphous"
+    ],
+    "correct": "c",
+    "explanation": "A crystal whose physical properties differ when measured along different directions is called anisotropic, and the property itself is anisotropy. In graphite the carbon atoms are joined by strong covalent bonds within each hexagonal layer but the layers are held by weak van der Waals forces; the delocalized electrons move freely only along a layer, so graphite conducts electricity along the layers but hardly at all perpendicular to them. Amorphous solids are isotropic (the same properties in every direction), symmetrical is a geometrical description and not a conductivity property, and polymorphous means that a substance can exist in more than one crystal form, so (c) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "NaCl and MgO are isomorphous solids because these have same:",
+    "options": [
+      "Melting point",
+      "Boiling point",
+      "Geometrical shapes",
+      "Chemical Properties"
+    ],
+    "correct": "c",
+    "explanation": "Isomorphism is the existence of two or more different substances in the same crystalline form: such substances have the same crystal structure, the same geometrical shape of crystal, the same axial ratios and the same coordination of ions. NaCl and MgO both crystallize in the face-centred cubic (rock-salt) structure with 6:6 octahedral coordination, so they are isomorphous because their crystals have the same geometrical shape. Their melting points, boiling points and chemical properties are quite different (MgO is far more refractory and far less soluble), so (a), (b) and (d) cannot be the reason for isomorphism.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The temperature at which two allotropic forms co-exist in equilibrium is called as:",
+    "options": [
+      "Melting temperature",
+      "Fusion temperature",
+      "Transition temperature",
+      "Critical temperature"
+    ],
+    "correct": "c",
+    "explanation": "The transition temperature is the temperature at which two allotropic (or two crystalline) forms of a substance can exist side by side in equilibrium; at this temperature the two forms have the same free energy, so neither changes into the other. A familiar example is rhombic sulfur ⇌ monoclinic sulfur at 95.6 °C, and another is grey tin ⇌ white tin at 13.2 °C. Melting temperature and fusion temperature are the same thing, namely the temperature at which a solid changes into a liquid, and critical temperature is the temperature above which a gas cannot be liquefied by pressure alone, so (c) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Diamond is the example of:",
+    "options": [
+      "Ionic solid",
+      "Covalent solid",
+      "Metallic solid",
+      "Molecular solid"
+    ],
+    "correct": "b",
+    "explanation": "In diamond every carbon atom is sp³ hybridized and is joined by four strong covalent bonds to four other carbon atoms, so the whole crystal is one continuous three-dimensional covalent network; diamond is therefore a covalent (network) solid. This giant covalent structure makes diamond the hardest natural substance, gives it a very high melting point (about 3550 °C) and makes it a non-conductor because all four valence electrons are used in bonding. Ionic solids are held by electrostatic attraction between ions, metallic solids by a sea of delocalized electrons and molecular solids by weak intermolecular forces, so (b) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Ice is a molecular solid, the intermolecular force of attraction among its molecules are:",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "correct": "d",
+    "explanation": "Ice is a molecular solid built of discrete H₂O molecules. Inside each molecule the O–H bonds are covalent, but the molecules are held together in the crystal by hydrogen bonds, that is the attraction between the partially positive hydrogen atom of one water molecule and the lone pair of the oxygen atom of a neighbouring molecule. Each water molecule can form up to four hydrogen bonds, which gives ice its open, low-density structure, so ice is less dense than liquid water. Ionic, covalent and metallic bonds are strong bonds found inside ionic, covalent network and metallic solids respectively, not between the molecules of a molecular solid, so (d) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "If all three axes in unit cell are of different length but all angles are of 90° then it is identified as:",
+    "options": [
+      "Orthorhombic system",
+      "Cubic system",
+      "Tetragonal system",
+      "Hexagonal system"
+    ],
+    "correct": "a",
+    "explanation": "The orthorhombic system is defined by three crystallographic axes of unequal length (a ≠ b ≠ c) with all three axial angles equal to 90° (α = β = γ = 90°). In the cubic system a = b = c and α = β = γ = 90°; in the tetragonal system a = b ≠ c with all angles 90°; in the hexagonal system a = b ≠ c with α = β = 90° and γ = 120°. Only the orthorhombic system combines unequal axes with right angles, so (a) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "In NaCl, each Na⁺ ion is surrounded by Cl⁻ ions in the numbers:",
+    "options": [
+      "Four",
+      "Three",
+      "Six",
+      "Seven"
+    ],
+    "correct": "c",
+    "explanation": "Sodium chloride has the face-centred cubic rock-salt structure in which each Na⁺ ion is surrounded octahedrally by six Cl⁻ ions (two along each of the three axes) and each Cl⁻ ion is similarly surrounded by six Na⁺ ions, so the coordination number is 6:6. Three or four would correspond to other structures with lower coordination, and seven is geometrically impossible for this arrangement, so the correct number is six, option (c).",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "It is an example of crystalline solid:",
+    "options": [
+      "Alum",
+      "Glass",
+      "Plastic",
+      "Rubber"
+    ],
+    "correct": "a",
+    "explanation": "Alum, KAl(SO₄)₂·12H₂O, forms well-defined crystals with flat faces, sharp edges, a definite geometrical shape, a sharp melting point and a regular internal arrangement of ions, so it is a crystalline solid. Glass, plastic and rubber are amorphous: their particles are arranged randomly, they have no long-range order, no sharp melting point and they break with irregular surfaces. Hence alum is the only crystalline solid among the choices, option (a).",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Each unit cell of sodium chloride consists of:",
+    "options": [
+      "Eight Na⁺ and Eight Cl⁻ ions",
+      "Two Na⁺ and Two Cl⁻ ions",
+      "Four Na⁺ and Four Cl⁻ ions",
+      "Four Na⁺ and Six Cl⁻ ions"
+    ],
+    "correct": "c",
+    "explanation": "In the face-centred cubic unit cell of NaCl the Cl⁻ ions occupy the 8 corners and the 6 face centres, while the Na⁺ ions occupy the 12 edge centres and the 1 body centre. Counting with the share of each position: Cl⁻ = 8 × 1/8 + 6 × 1/2 = 1 + 3 = 4, and Na⁺ = 12 × 1/4 + 1 × 1 = 3 + 1 = 4. The cell therefore contains four Na⁺ and four Cl⁻ ions, that is four formula units of NaCl, which keeps the crystal electrically neutral in the 1:1 ratio. Eight of each ignores the sharing of corner, edge and face ions with neighbouring cells, two of each undercounts the shared positions, and four Na⁺ with six Cl⁻ would not be electrically neutral, so (c) is correct.",
+    "pdfPage": 144,
+    "bookPage": 138
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following terms:\n(i) Allotropy\n(ii) Sublimation\n(iii) Melting point\n(iv) Unit cell",
+    "answer": "(i) Allotropy: Allotropy is the existence of an element in two or more different forms, called allotropes, in the same physical state, the forms differing in the arrangement of the atoms in their crystal lattices and hence in their physical properties. The allotropes contain the same kind of atoms but have different structures, for example carbon exists as diamond, graphite and fullerene, sulfur as rhombic and monoclinic sulfur, and phosphorus as white, red and black phosphorus. The temperature at which two allotropes can co-exist in equilibrium is called the transition temperature.\n(ii) Sublimation: Sublimation is the process in which a solid changes directly into its vapour without passing through the liquid state; the reverse process, in which a vapour changes directly into a solid, is called deposition. It takes place when the vapour pressure of the solid becomes equal to the external (atmospheric) pressure at a temperature below its melting point, so the solid passes into vapour from its surface without melting. Iodine, camphor, naphthalene, anthracene and solid carbon dioxide (dry ice) sublime, and the process is used to purify such solids and in freeze drying.\n(iii) Melting point: The melting point of a solid is the temperature at which the solid and liquid phases are in equilibrium at one atmosphere pressure, that is the temperature at which the solid changes into a liquid. At this temperature the solid and the liquid co-exist and the heat supplied (the latent heat of fusion) is used to overcome the forces holding the particles in the lattice, so the temperature remains constant until the solid has melted. The melting point is a characteristic property of a pure crystalline solid: ionic and covalent network solids melt at high temperatures, molecular solids at low temperatures, and an impurity lowers and broadens the melting point.\n(iv) Unit cell: A unit cell is the smallest repeating portion (the building block) of a crystal lattice which, when translated repeatedly in three dimensions, generates the whole crystal. It is a parallelepiped whose corners are lattice points and which contains the complete structural pattern of the crystal; it is completely described by the lengths of its three edges a, b, c and the three angles α, β, γ between them. A unit cell may be primitive (lattice points only at the corners) or centred (lattice points also at face or body centres).",
+    "explanation": "These four definitions are the basic vocabulary of the chapter. Allotropy is a structural phenomenon of elements, and the forms are interconvertible at a transition temperature; sublimation is a phase change that bypasses the liquid state and depends on the vapour pressure of the solid reaching atmospheric pressure below the melting point; the melting point is the temperature of solid–liquid equilibrium and is sharp only for pure crystalline solids; and the unit cell is the repeating three-dimensional unit defined by three axial lengths and three axial angles.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Define anisotropy. Which type of solids have this property?",
+    "answer": "Anisotropy: Anisotropy is the property of a crystal because of which its physical properties, such as refractive index, electrical and thermal conductivity, mechanical strength, cleavage and coefficient of thermal expansion, have different values when measured along different directions in the crystal. It arises because the arrangement of the particles and the distances between them are not the same along different directions in the lattice, so the force holding the particles differs from direction to direction.\nWhich solids have it: Only crystalline solids show anisotropy. Amorphous solids, in which the particles are arranged randomly, are isotropic, that is they have the same properties in all directions. Examples of anisotropy: graphite conducts electricity along its layers but hardly at all perpendicular to them; mica splits easily along one plane only (perfect cleavage in one direction); the refractive index of quartz is different along and perpendicular to its principal axis; and the mechanical strength of a crystal depends on the direction in which it is stressed.",
+    "explanation": "Anisotropy is a direct consequence of long-range order: because the lattice is periodic but not the same in every direction, a measured property depends on the direction chosen. Isotropy, its opposite, is shown by amorphous solids and liquids, where the random arrangement makes every direction equivalent. Graphite is the standard example in this chapter, since its electrical conductivity along the layers is many times its conductivity across them.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What is Transition temperature? Explain with examples.",
+    "answer": "Transition temperature: The temperature at which two different allotropic or crystalline forms of the same substance can exist side by side in equilibrium is called the transition temperature. At this temperature the two forms have the same free energy, so neither form changes into the other; below it the low-temperature form is stable and above it the high-temperature form is stable, and the conversion of one form into the other is a reversible phase transition accompanied by the absorption or evolution of heat.\nExamples:\n(i) Sulfur: rhombic (α) sulfur changes reversibly into monoclinic (β) sulfur at 95.6 °C. Rhombic sulfur is stable below 95.6 °C and monoclinic sulfur is stable between 95.6 °C and the melting point of sulfur, so 95.6 °C is the transition temperature of sulfur.\n(ii) Tin: grey tin (a brittle non-metallic powder) changes into white tin at 13.2 °C. White tin is stable above 13.2 °C, while below this temperature white tin slowly changes into grey tin; this is why tin articles crumble to powder in severe cold, a change known as tin disease or tin pest.\n(iii) Potassium nitrate: it changes from the rhombic form into the trigonal form at about 129 °C, which is its transition temperature.\nThus the transition temperature is a characteristic constant of an allotropic substance and it decides which form is stable under a given set of conditions.",
+    "explanation": "The key idea is equilibrium between two solid forms, not between a solid and its liquid (that is the melting point). Since the two forms have equal free energies at the transition temperature, both can be kept together indefinitely at that temperature. Above and below it only one form is stable, so the physical properties of the substance change abruptly at the transition temperature; the sulfur (95.6 °C) and tin (13.2 °C) examples are the standard illustrations.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Explain why diamond is non-conductor of electricity and Graphite is a conductor?",
+    "answer": "Diamond is a non-conductor: In diamond every carbon atom is sp³ hybridized and is joined by four strong σ covalent bonds to four other carbon atoms, forming one continuous three-dimensional covalent network. All four valence electrons of each carbon atom are used up in these bonding molecular orbitals, so no free or delocalized electrons are left in the crystal. The filled bonding band is separated from the empty conduction band by a very large energy gap (about 5.5 eV), which electrons cannot cross at ordinary temperature; with no mobile charge carriers, diamond cannot carry an electric current. Diamond is therefore an insulator, although it is an excellent conductor of heat because its rigid lattice transmits vibrations very efficiently.\nGraphite is a conductor: In graphite each carbon atom is sp² hybridized and is bonded to only three other carbon atoms, forming flat hexagonal layers. The fourth valence electron of each carbon atom occupies a p orbital perpendicular to the layer, and these p orbitals overlap sideways to give a delocalized π electron cloud above and below each layer. These π electrons are free to move throughout the layer, so when a potential difference is applied they drift in one direction and carry a current. Graphite is therefore a conductor of electricity along its layers, and because the layers are held by weak van der Waals forces, conduction perpendicular to the layers is poor. The same delocalized electrons and weak interlayer forces make graphite soft, black and flaky, in contrast with hard, colourless, insulating diamond, even though both are allotropes of carbon.",
+    "explanation": "The difference lies entirely in the bonding and in the fate of the fourth valence electron. In diamond all four valence electrons are localized in σ bonds, so there is a filled band separated from an empty band by a large gap. In graphite only three electrons form σ bonds and the fourth is delocalized in a π band that is partly filled, so electrons can move under an applied field. The weak interlayer forces also make graphite's conductivity strongly anisotropic, which links this question to the earlier MCQ on anisotropy.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Define lattice energy. Explain how it is effected by size and the charge of ion.",
+    "answer": "Lattice energy: The lattice energy of an ionic solid is the energy released when one mole of the solid ionic compound is formed from its constituent gaseous ions, M⁺(g) + X⁻(g) → MX(s). It is also the energy required to separate one mole of the solid into its gaseous ions, so it is a direct measure of the strength of the ionic bond in the crystal. Lattice energy is determined from the Born–Haber cycle and is exothermic when the lattice is formed.\nEffect of charge: The electrostatic force between two ions is proportional to the product of their charges and inversely proportional to the square of the distance between them, so the lattice energy is approximately proportional to (q₁q₂)/(r₁ + r₂), where q₁ and q₂ are the ionic charges and r₁ + r₂ is the interionic distance. Increasing the charge on either ion increases the attraction sharply and raises the lattice energy: MgO, made of Mg²⁺ and O²⁻, has a lattice energy of about 3900 kJ mol⁻¹ and melts at 2852 °C, whereas NaCl, made of Na⁺ and Cl⁻, has a lattice energy of only about 787 kJ mol⁻¹ and melts at 801 °C.\nEffect of size: For ions carrying the same charge, the lattice energy decreases as the ionic radii, and hence the interionic distance, increase, because the centres of charge are then farther apart. Thus the lattice energy and the melting point fall in the order LiF > NaF > KF > RbF > CsF, and MgO (small ions, high charges) is far more stable than BaO (large ions, same charges). Small ions with high charges, such as Al³⁺ and O²⁻ in Al₂O₃, therefore give exceptionally strong lattices with very high lattice energies and melting points.",
+    "explanation": "Lattice energy measures how strongly the ions are held, so it controls hardness, melting point and solubility. Coulomb's law gives the two trends: lattice energy increases with the product of the charges (doubling each charge quadruples the attraction) and decreases with increasing ionic size (larger separation, weaker attraction). MgO versus NaCl illustrates the charge effect and the alkali-metal halide series illustrates the size effect.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Differentiate between the following:\n(i) Crystalline and amorphous solids\n(ii) Isomorphism and polymorphism",
+    "answer": "(i) Crystalline and amorphous solids:\n- Particle arrangement: crystalline solids have a regular, repeating three-dimensional arrangement of particles with long-range order; amorphous solids have a random, disordered arrangement with no long-range order.\n- Geometrical shape: crystals have a definite geometrical shape with flat faces, sharp edges and characteristic interfacial angles; amorphous solids have irregular shapes.\n- Melting point: crystalline solids have a sharp, definite melting point; amorphous solids soften gradually over a range of temperature.\n- Cleavage: crystals split along definite cleavage planes; amorphous solids break irregularly.\n- Anisotropy: crystalline solids are anisotropic, their properties differ with direction; amorphous solids are isotropic.\n- Examples: crystalline — NaCl, diamond, quartz, sugar, alum; amorphous — glass, rubber, plastic, charcoal.\n- Nature: amorphous solids are sometimes described as supercooled liquids or pseudo-solids because their particles are frozen in a disordered arrangement like that of a liquid.\n(ii) Isomorphism and polymorphism:\n- Definition: isomorphism is the existence of two or more different substances in the same crystalline form; polymorphism is the existence of one and the same substance in more than one crystalline form.\n- Number of substances: isomorphism concerns different substances with the same crystal form; polymorphism concerns one substance with different crystal forms.\n- Structural requirement: isomorphous substances have the same crystal structure, the same axial ratios and the same coordination; polymorphs differ in the arrangement or coordination of particles in the lattice.\n- Examples: isomorphism — NaCl and MgO, K₂SO₄ and K₂CrO₄, ZnSO₄·7H₂O and MgSO₄·7H₂O; polymorphism — rhombic and monoclinic sulfur, calcite and aragonite (CaCO₃), diamond and graphite (the element case is called allotropy).\n- Property relation: isomorphous substances usually show analogous chemical formulae and similar chemical behaviour; polymorphs have the same chemical composition but different physical properties such as density, hardness and melting point.",
+    "explanation": "The two pairs are frequently confused. Crystalline versus amorphous is about the presence or absence of long-range order, which shows up in shape, melting behaviour, cleavage and anisotropy. Isomorphism versus polymorphism is about whether different substances share one crystal form (isomorphism) or one substance takes several crystal forms (polymorphism); allotropy is simply polymorphism shown by an element.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Explain the following with scientific reason.\n(i) Why the compressibility of solids is nearly zero?\n(ii) Why some solids are sublime in nature?",
+    "answer": "(i) The compressibility of solids is nearly zero because in a solid the constituent particles (ions, atoms or molecules) are packed very closely together and are held in their positions by strong forces, namely ionic, covalent or metallic bonds or strong intermolecular forces. There is therefore very little empty space between the particles. When pressure is applied the particles cannot be pushed appreciably closer, because the repulsion between their electron clouds rises steeply as they are forced together; the solid resists compression and has a very high bulk modulus. A solid can be deformed only slightly, and its volume changes by a very small fraction unless the solid is actually broken, which is why solids are described as rigid and incompressible.\n(ii) Some solids sublime because their molecules are held in the crystal by weak intermolecular forces, such as van der Waals forces, dipole–dipole attractions or hydrogen bonds, while the atoms inside each molecule are joined by strong covalent bonds. Such molecular solids have a low enthalpy of sublimation and a relatively high vapour pressure at temperatures below their melting point. When this vapour pressure becomes equal to the atmospheric pressure, the molecules escape directly from the surface of the solid as vapour and the solid sublimes without melting. Non-polar molecular solids with nearly spherical molecules behave in this way: iodine, naphthalene, anthracene, camphor and solid carbon dioxide (dry ice) all sublime, and the process is used to purify such solids.",
+    "explanation": "Both answers come from the same picture of a solid: close packing with strong forces gives rigidity and very low compressibility, whereas weak intermolecular forces inside a molecular lattice allow molecules to escape into the vapour phase without the lattice melting. Sublimation is favoured when the solid's vapour pressure reaches atmospheric pressure below its melting point, which is typical of molecular solids with weak intermolecular attractions.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Define unit cell. Draw a diagram to show its axial distances and axial angles.",
+    "answer": "Definition: A unit cell is the smallest repeating unit of a crystal lattice, the smallest portion of the crystal which, when translated repeatedly in three dimensions, builds up the entire crystal. It is a parallelepiped whose corners are occupied by lattice points and which contains the complete structural pattern of the crystal; the whole crystal is obtained by stacking identical unit cells side by side in the three directions. A unit cell is described by six parameters: the three axial lengths a, b and c and the three axial angles α, β and γ.\nDiagram (described in words): Draw a parallelepiped, that is a box-like figure which is oblique in the general case and whose eight corners are lattice points. Take the lower-front-left corner as the origin O and draw the three edges that meet there: O→A of length a along the x-direction, O→B of length b along the y-direction, and O→C of length c along the z-direction. Label these three axial distances a, b and c on the three edges. Mark the three axial angles at O inside the cell: α is the angle between the edges b and c (between OB and OC), β is the angle between the edges a and c (between OA and OC), and γ is the angle between the edges a and b (between OA and OB). Thus a, b and c are the axial distances and α, β and γ are the axial angles. For a simple cubic unit cell a = b = c and α = β = γ = 90°, so the six faces are squares and the three edges are mutually perpendicular; in the general triclinic cell a ≠ b ≠ c and α ≠ β ≠ γ ≠ 90°. The seven crystal systems are classified by these six parameters: cubic (a = b = c, α = β = γ = 90°), tetragonal (a = b ≠ c, all angles 90°), orthorhombic (a ≠ b ≠ c, all angles 90°), hexagonal (a = b ≠ c, α = β = 90°, γ = 120°), rhombohedral (a = b = c, α = β = γ ≠ 90°), monoclinic (a ≠ b ≠ c, two angles 90°) and triclinic (a ≠ b ≠ c, no angle 90°).",
+    "explanation": "The unit cell is the geometrical basis of crystal description: its three edge lengths and three interfacial angles are the six lattice parameters, and their values sort every crystal into one of the seven systems. Note carefully the conventional pairing of the angles with the edges: α lies between b and c, β between a and c, and γ between a and b, all measured at a common corner of the cell.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Give four properties of ionic solids. How can you determine the number of Na⁺ and Cl⁻ ions in a unit cell of sodium chloride?",
+    "answer": "Four properties of ionic solids:\n(i) Hard and brittle: the ions are held by strong electrostatic forces in a rigid lattice, so ionic solids are hard; when a blow is struck the layers of ions are displaced so that ions of like charge come opposite one another, and the resulting repulsion makes the crystal break, so it is brittle.\n(ii) High melting and boiling points: a large amount of energy is needed to overcome the strong electrostatic attraction between the ions, for example NaCl melts at 801 °C and MgO melts at 2852 °C.\n(iii) Non-conductors in the solid state but conductors when molten or in aqueous solution: in the solid the ions are held in fixed positions and cannot move, but on melting or on dissolving in water the ions become free to move and the liquid conducts electricity; this conduction is electrolytic and is accompanied by chemical change at the electrodes.\n(iv) Soluble in polar solvents such as water and insoluble in non-polar solvents such as benzene and carbon tetrachloride: the polar water molecules attract and surround the ions, pulling them out of the lattice and hydrating them. Ionic solids are also crystalline and have high lattice energies.\nNumber of Na⁺ and Cl⁻ ions in the unit cell of sodium chloride: NaCl crystallizes in the face-centred cubic (rock-salt) structure, and the number of ions is found by counting the ions at each type of position and multiplying by the fraction of each ion that lies inside the cell.\n- Cl⁻ ions: 8 at the corners, each shared by 8 adjacent cells, give 8 × 1/8 = 1; 6 at the face centres, each shared by 2 cells, give 6 × 1/2 = 3. Total Cl⁻ = 1 + 3 = 4.\n- Na⁺ ions: 12 at the edge centres, each shared by 4 cells, give 12 × 1/4 = 3; 1 at the body centre, wholly inside the cell, gives 1 × 1 = 1. Total Na⁺ = 3 + 1 = 4.\nHence one unit cell contains 4 Na⁺ and 4 Cl⁻ ions, that is 4 formula units of NaCl, which agrees with the 1:1 ratio needed for electrical neutrality and gives the formula NaCl.",
+    "explanation": "The counting method depends on the fraction of each ion that belongs to a given cell: a corner ion is shared by eight cells, an edge-centre ion by four, a face-centre ion by two and a body-centre ion belongs entirely to one cell. Applying these fractions to the rock-salt structure gives 4 Cl⁻ and 4 Na⁺ per unit cell, i.e. four NaCl formula units.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Give a brief account on metallic solids. Why they conduct heat and electricity?",
+    "answer": "Metallic solids: Metallic solids are crystalline solids in which the atoms of a metal are packed closely together and the lattice consists of positive metal ions (kernels) surrounded by a sea of delocalized valence electrons that belong to the crystal as a whole rather than to any single atom. The attraction between the positive ions and this mobile electron cloud is the metallic bond; it is non-directional, so the metal ions behave as spheres of equal size packed in a close arrangement such as face-centred cubic, body-centred cubic or hexagonal close packing. Examples are all metals and alloys: copper, iron, aluminium, silver, gold and sodium, with mercury being the only metal that is liquid at room temperature.\nProperties: metallic lustre, because the free electrons absorb and re-emit light of all wavelengths; high electrical and thermal conductivity; malleability and ductility, because layers of ions can slide over one another without breaking the non-directional metallic bond; generally high melting and boiling points (except mercury and the soft alkali metals); and they are opaque, dense and crystalline.\nWhy they conduct electricity: the delocalized electrons are free to move throughout the crystal. When a potential difference is applied across the metal the electrons drift in one direction and carry charge from one end to the other, so the metal conducts. This conduction is electronic and does not involve any chemical change, unlike the electrolytic conduction of ionic solids.\nWhy they conduct heat: the free electrons at the hot end gain kinetic energy and move rapidly through the lattice, colliding with other electrons and with the metal ions and transferring energy to them; the vibrations of the ions also help to carry energy, but the electrons are far more effective, which is why metals conduct heat much better than non-metals.",
+    "explanation": "The electron-sea model explains all the characteristic properties of metals: mobility of the delocalized electrons gives electrical and thermal conductivity, their interaction with light gives metallic lustre, and the non-directional nature of the metallic bond allows the layers of ions to slide, giving malleability and ductility. Because the carriers are electrons and not ions, metallic conduction produces no chemical change.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "What is meant by polymorphism? How it is related to allotropy. Give your answer with examples.",
+    "answer": "Polymorphism: Polymorphism is the existence of one and the same substance in more than one crystalline form, the different forms being called polymorphs. The forms differ in the arrangement or coordination of the particles in the crystal lattice, so they differ in physical properties such as density, hardness, melting point, solubility and refractive index, although the chemical composition is the same in all of them. The forms are interconvertible at a definite temperature, the transition temperature, and the form that is stable depends on the temperature and pressure.\nRelation to allotropy: When the substance that shows polymorphism is an element, the phenomenon is called allotropy and the forms are called allotropes. Allotropy is therefore a special case of polymorphism: all allotropes are polymorphs, but not all polymorphs are allotropes, because the term allotropy is reserved for elements. Some books use polymorphism for compounds and allotropy for elements, but the underlying phenomenon, the existence of more than one crystal form of the same substance, is identical in both cases.\nExamples:\n(i) Carbon (allotropy): diamond, in which each carbon atom is sp³ hybridized and bonded to four others in a three-dimensional network, and graphite, in which each carbon atom is sp² hybridized and forms hexagonal layers, and fullerene, C₆₀, a molecular allotrope.\n(ii) Sulfur (allotropy): rhombic (α) sulfur, stable below 95.6 °C, and monoclinic (β) sulfur, stable above 95.6 °C, with a transition temperature of 95.6 °C.\n(iii) Phosphorus (allotropy): white, red and black phosphorus.\n(iv) Compounds (polymorphism): calcium carbonate as calcite and aragonite, calcium sulfate as gypsum and anhydrite, and silica as quartz, tridymite and cristobalite.",
+    "explanation": "The distinction is one of scope rather than of mechanism: polymorphism is the general term for a substance crystallizing in more than one form, and allotropy is the same behaviour shown by an element. The polymorphs differ in lattice arrangement, so their physical properties differ even though their chemical composition is identical, and the temperature at which one form changes into the other is the transition temperature.",
+    "pdfPage": 145,
+    "bookPage": 139
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Molecular solids are soft and possess low melting point, how can you justify this statement?",
+    "answer": "Justification: In a molecular solid the lattice is built of discrete molecules, for example H₂O, I₂, CO₂, naphthalene and sugar. Within each molecule the atoms are held by strong covalent bonds, but the molecules themselves are held together by weak intermolecular forces, namely London dispersion forces, dipole–dipole attractions and, in some cases, hydrogen bonds. These intermolecular forces are much weaker than ionic, covalent or metallic bonds: they typically amount to only a few to a few tens of kJ mol⁻¹, whereas a covalent bond is of the order of hundreds of kJ mol⁻¹.\nWhy they are soft: when a molecular solid is pressed, scratched or deformed, only the weak intermolecular forces have to be overcome, and whole molecules slide over one another easily. Molecular solids are therefore soft, waxy, easily broken or powdered, as seen in iodine, naphthalene, wax and sugar crystals.\nWhy they have low melting points: melting and boiling require only the separation of the molecules from one another, not the breaking of the covalent bonds inside the molecules. The small amount of energy needed to overcome the weak intermolecular forces is supplied at a low temperature, so molecular solids melt and boil at low temperatures. For example ice melts at 0 °C, naphthalene at 80 °C and iodine at 114 °C, while solid CO₂ sublimes at −78.5 °C; in contrast, the covalent network solid diamond melts at about 3550 °C and the ionic solid NaCl at 801 °C.\nOther consequences of the weak intermolecular forces: molecular solids are poor conductors of electricity in the solid, molten or dissolved state because they contain no free ions or electrons; they are volatile and many sublime readily; and they are usually soluble in non-polar solvents. Hydrogen bonding in ice raises its melting point above that of other small molecular solids and gives ice an open structure, which is why ice is less dense than water, but even then its melting point is low compared with those of ionic and covalent network solids.",
+    "explanation": "The statement is justified by the difference between the strong covalent bonds inside a molecule and the weak intermolecular forces between molecules. Since melting and softening only require the molecules to move apart, the energy needed is small, so molecular solids are soft and melt at low temperatures; the same weak forces make them volatile, non-conducting and soluble in non-polar solvents.",
+    "pdfPage": 145,
+    "bookPage": 139
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "u5_r_pre_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Pre-reading 1. Look at the pictures and quickly describe different activities.",
+    "answer": "Picture 1: A young man with a shoulder bag stands at an ATM (automated teller machine). He has inserted his card, is pressing the keys to enter his PIN and is about to collect the cash that the machine will dispense. He is doing his own banking - withdrawing money - without going to a clerk at a counter.\n\nPicture 2: The busy hall of a bank. A customer in a red shawl stands at the counter being served by a clerk behind the grille, while a small child in a red shirt holds on to her. A man in a green shirt waits behind her, and other clients stand in a loose queue holding forms, passbooks and cash. Some are filling in deposit and withdrawal slips, others are waiting for their turn.\n\nActivities shown: withdrawing cash from an ATM, depositing and withdrawing money at the counter, encashing a cheque, filling in bank forms, waiting in a queue and being served by the staff. Both pictures show ordinary civic/banking activities in which people have to wait patiently, take their turn and behave courteously towards staff and fellow customers.",
+    "explanation": "The task is open-ended picture description; the answer names each activity visible in the two pictures and links them to the unit theme of civic sense (queueing, patience, courtesy).",
+    "bookPage": 73
+  },
+  {
+    "id": "u5_r_ex1_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "1",
+    "question": "While-reading Exercise 1. Work in pairs and deduce the meaning of words given in column A and write their contextual meaning in column B. Share with your partner once you have completed.",
+    "answer": "No. | Word | Contextual meaning (Column B)\n1 | solemnly | in a serious, grave and formal manner; the writer said 'alone' in a solemn, almost solemnly important tone, as though it were a matter of great secrecy.\n2 | terrible | extremely bad, dreadful, frightening; 'a terrible secret' is a shocking secret that makes one afraid.\n3 | detective | a person whose job is to investigate crimes, especially a private investigator; the manager thought he belonged to Pinkerton's detective agency.\n4 | mysterious | strange, secret and puzzling, suggesting that something is being hidden; his frightened look and his demand to see the manager 'alone' seemed mysterious.\n5 | whispered | spoke in a very low, soft voice so that other people could not hear; 'Fairly large', I whispered.\n6 | painful | causing distress or embarrassment, difficult and unpleasant to do; handing over his money felt 'painful' to the shy writer.\n7 | astonished | greatly surprised, amazed; the clerk was astonished that the customer wanted to draw out every cent at once.\n8 | hollow | empty, dull and without real feeling or strength; a 'hollow shaking voice' is a voice that sounds lifeless and trembling.\n9 | temper | a person's tendency to become angry; 'a man with a fearfully quick temper' means a man who loses his temper very easily.\n10 | rival | a competitor; a rival agency is another detective agency competing with Pinkerton's.",
+    "explanation": "Each meaning is deduced from the sentence in which the word occurs in 'My Bank Account' (pages 73-75), not from a dictionary, as the task asks for contextual meaning.",
+    "bookPage": 76
+  },
+  {
+    "id": "u5_r_ex2_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "2",
+    "question": "While-reading Exercise 2. Work in pairs. Match the following bank-related words of column A with their meanings given in column B and write answers in Column C. After you have completed, share your work with your partner.",
+    "answer": "No. | Column A | Column C (answer) | Meaning matched from Column B\n1 | bank manager | F | one who has control of all resources in the bank\n2 | accountant | E | one who maintains audits business accounts\n3 | clerk | A | one who maintain all written record\n4 | cheque | G | a written order directing a bank to pay money\n5 | transactions | C | dealings and exchanges\n6 | deposits | B | to put money in the account\n7 | cheque book | D | a small book having checks to draw money",
+    "explanation": "Every word is paired with exactly one meaning, so the matching is one-to-one (manager F, accountant E, clerk A, cheque G, transactions C, deposits B, cheque book D). Note: the printed definitions are loosely worded - 'clerk' is defined as 'one who maintain all written record' (grammatically faulty in the book) and 'deposits' is defined by the act 'to put money in the account'; the intended pairing is still clear.",
+    "bookPage": 76
+  },
+  {
+    "id": "u5_r_ex3_q1",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "Exercise 3. Read the statements and encircle the right option. 1. The writer visited the bank________________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "frequently"
+      },
+      {
+        "key": "b",
+        "text": "first time"
+      },
+      {
+        "key": "c",
+        "text": "in a month"
+      },
+      {
+        "key": "d",
+        "text": "yearly"
+      }
+    ],
+    "optionsRaw": "(a) frequently   (b) first time   (c) in a month   (d) yearly",
+    "correctAnswer": "(b) first time",
+    "answer": "The writer visited the bank for the first time.",
+    "explanation": "He knows nothing about bank procedure - he believes that anyone opening an account must consult the manager, is frightened by the clerks, the desks and the very sight of money, and behaves like an 'irresponsible fool'. Such complete unfamiliarity shows that this was his first visit to open an account; nothing in the text suggests frequent, monthly or yearly visits.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q2",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "Exercise 3. 2. The writer's salary was raised to_____________ a month.",
+    "options": [
+      {
+        "key": "a",
+        "text": "sixty dollars"
+      },
+      {
+        "key": "b",
+        "text": "fifty dollars"
+      },
+      {
+        "key": "c",
+        "text": "thirty dollars"
+      },
+      {
+        "key": "d",
+        "text": "fifty-six dollars"
+      }
+    ],
+    "optionsRaw": "(a) sixty dollars   (b) fifty dollars   (c) thirty dollars   (d) fifty-six dollars",
+    "correctAnswer": "(b) fifty dollars",
+    "answer": "The writer's salary was raised to fifty dollars a month.",
+    "explanation": "The text says: 'my salary had been raised to fifty dollars a month and I felt that the bank was the only place for it.' Fifty-six dollars is the sum he deposited, not his salary.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q3",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "Exercise 3. 3. ____________ presumed the writer to be a detective.",
+    "options": [
+      {
+        "key": "a",
+        "text": "clerk"
+      },
+      {
+        "key": "b",
+        "text": "manager"
+      },
+      {
+        "key": "c",
+        "text": "accountant"
+      },
+      {
+        "key": "d",
+        "text": "rich man"
+      }
+    ],
+    "optionsRaw": "(a) clerk   (b) manager   (c) accountant   (d) rich man",
+    "correctAnswer": "(b) manager",
+    "answer": "The manager presumed the writer to be a detective.",
+    "explanation": "In the private room the manager says, 'You are one of Pinkerton's detectives, I suppose,' and the writer adds, 'My mysterious manner had made him think that I was a detective.'",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q4",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "Exercise 3. 4. The writer first met the ____________ in the bank.",
+    "options": [
+      {
+        "key": "a",
+        "text": "accountant"
+      },
+      {
+        "key": "b",
+        "text": "manager"
+      },
+      {
+        "key": "c",
+        "text": "clerk"
+      },
+      {
+        "key": "d",
+        "text": "security guard"
+      }
+    ],
+    "optionsRaw": "(a) accountant   (b) manager   (c) clerk   (d) security guard",
+    "correctAnswer": "(a) accountant",
+    "answer": "The writer first met the accountant in the bank.",
+    "explanation": "He 'went up to a place marked Accountant', asked that official to let him see the manager, and the accountant 'brought him'. The manager was met afterwards.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q5",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "Exercise 3. 5. The writer had____________ dollars at the time of opening the account.",
+    "options": [
+      {
+        "key": "a",
+        "text": "six"
+      },
+      {
+        "key": "b",
+        "text": "fifty six"
+      },
+      {
+        "key": "c",
+        "text": "fifty"
+      },
+      {
+        "key": "d",
+        "text": "sixty"
+      }
+    ],
+    "optionsRaw": "(a) six   (b) fifty six   (c) fifty   (d) sixty",
+    "correctAnswer": "(b) fifty six",
+    "answer": "The writer had fifty-six dollars at the time of opening the account.",
+    "explanation": "He 'held my fifty-six dollars, pressed together in a ball, in my pocket' and told the manager he intended to place 'the sum of fifty-six dollars' in the bank.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q6",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "Exercise 3. 6. Mr. Montgomery was a/ an____________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "manager"
+      },
+      {
+        "key": "b",
+        "text": "accountant"
+      },
+      {
+        "key": "c",
+        "text": "clerk"
+      },
+      {
+        "key": "d",
+        "text": "detective"
+      }
+    ],
+    "optionsRaw": "(a) manager   (b) accountant   (c) clerk   (d) detective",
+    "correctAnswer": "(b) accountant",
+    "answer": "Mr. Montgomery was the accountant.",
+    "explanation": "The manager opened the door and called to the accountant, 'Mr. Montgomery ... this gentleman is opening an account.' So Montgomery is the accountant to whom the writer later pushes his money.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q7",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "Exercise 3. 7. The ____________ of the author made the manager think that he was a detective?",
+    "options": [
+      {
+        "key": "a",
+        "text": "mysterious manner"
+      },
+      {
+        "key": "b",
+        "text": "simplicity"
+      },
+      {
+        "key": "c",
+        "text": "harsh behaviour"
+      },
+      {
+        "key": "d",
+        "text": "boldness"
+      }
+    ],
+    "optionsRaw": "(a) mysterious manner   (b) simplicity   (c) harsh behaviour   (d) boldness",
+    "correctAnswer": "(a) mysterious manner",
+    "answer": "The mysterious manner of the author made the manager think that he was a detective.",
+    "explanation": "The text states it directly: 'My mysterious manner had made him think that I was a detective.' The demand to see the manager 'alone' and the writer's frightened secrecy produced this impression; he was neither simple, harsh nor bold - he was terrified.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q8",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "Exercise 3. 8. The author wrote fifty-six dollars instead of six dollars due to____________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "fear"
+      },
+      {
+        "key": "b",
+        "text": "haste"
+      },
+      {
+        "key": "c",
+        "text": "anxiety"
+      },
+      {
+        "key": "d",
+        "text": "madness"
+      }
+    ],
+    "optionsRaw": "(a) fear   (b) haste   (c) anxiety   (d) madness",
+    "correctAnswer": "(c) anxiety",
+    "answer": "The author wrote fifty-six dollars instead of six dollars because of anxiety (nervous confusion).",
+    "explanation": "The text says, 'I was too upset to reason now. I had a feeling that it was impossible to explain the thing. All the clerks had stopped writing to look at me.' His hand was shaking, his face 'terribly pale' and the bank 'seemed to swim' before his eyes - acute nervous anxiety made him write the larger figure. Fear is the general mood of the story, but the immediate cause stated is being too upset to think; the answer is not madness.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q9",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "Exercise 3. 9. The text 'My Bank Account' is an example of_______ tale.",
+    "options": [
+      {
+        "key": "a",
+        "text": "detective"
+      },
+      {
+        "key": "b",
+        "text": "humorous"
+      },
+      {
+        "key": "c",
+        "text": "moral"
+      },
+      {
+        "key": "d",
+        "text": "fictitious"
+      }
+    ],
+    "optionsRaw": "(a) detective   (b) humorous   (c) moral   (d) fictitious",
+    "correctAnswer": "(b) humorous",
+    "answer": "The text 'My Bank Account' is an example of a humorous tale.",
+    "explanation": "The comedy arises from the gap between the narrator's terror and the ordinary business of opening an account, from the manager mistaking him for a detective, and from the comic climax of depositing fifty-six dollars and instantly withdrawing the whole amount while the clerks roar with laughter. The detective element is only a misunderstanding, and the story teaches no explicit moral.",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex3_q10",
+    "sectionCode": "U5S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "Exercise 3. 10. After returning from the bank, the writer put his savings in____________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "bank"
+      },
+      {
+        "key": "b",
+        "text": "pocket"
+      },
+      {
+        "key": "c",
+        "text": "silver box"
+      },
+      {
+        "key": "d",
+        "text": "sock"
+      }
+    ],
+    "optionsRaw": "(a) bank   (b) pocket   (c) silver box   (d) sock",
+    "correctAnswer": "(d) sock",
+    "answer": "After returning from the bank, the writer put his savings in a sock.",
+    "explanation": "The last lines say: 'Since then I use a bank no more. I keep my money in my pocket and my savings in silver dollars in a sock.'",
+    "bookPage": 77
+  },
+  {
+    "id": "u5_r_ex4_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 4. Work in pairs. Read the text again carefully and write the sequence of events of the story. After completing, share your work with your partner.",
+    "answer": "Firstly | The writer's salary is raised to fifty dollars a month, so he decides to keep the money in a bank. He walks into the bank frightened by the clerks, the desks and the sight of money, asks the accountant to let him see the manager 'alone', and is taken to a private room.\nSecondly | The manager, alarmed by his strange behaviour, locks the door and asks whether he is one of Pinkerton's detectives; the writer denies it and explains that he has come only to open an account and deposit fifty-six dollars, plus fifty dollars every month.\nAfter That | Relieved and now convinced that he is a rich man, the manager calls the accountant, Mr. Montgomery, and tells him that the gentleman is opening an account; the writer hands over his ball of money and signs the sum on a slip, and is given a cheque book.\nThen | Wishing to draw six dollars for present use, he writes the cheque for fifty-six dollars by mistake; when the clerk asks in surprise whether he is drawing it all out again, he is too upset to explain and says, 'Yes, the whole thing.'\nLater | The astonished clerk asks whether he will not put any more money in the account; the writer answers 'Never', and the clerk pays him a fifty-dollar note and six one-dollar notes, and he rushes out of the bank.\nFinally | As the big door swings behind him he hears a roar of laughter rising to the roof of the bank; since then he never uses a bank and keeps his savings in silver dollars in a sock.",
+    "explanation": "The six stages follow the chronological order of 'My Bank Account': decision and entry, interview with the manager, opening of the account, the mistaken cheque, the withdrawal, and the comic exit and resolution.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 5. Read the text and answer the following questions. 1. What is effect upon the author of entering the bank to do business?",
+    "answer": "Entering the bank destroys the author's confidence and turns him into, in his own words, an 'irresponsible fool'. The clerks frighten him, the desks frighten him, the very sight of money frightens him, and 'everything frightens' him. His voice sounds 'as if it came from the grave', his face is 'terribly pale', the bank seems to swim before his eyes and he loses the power to reason, which is why he behaves so oddly and finally makes the mistake with the cheque.",
+    "explanation": "The text opens with the author's confession of fear and repeatedly shows its physical effects (voice, pale face, swimming bank, inability to reason), so the effect is loss of nerve and of clear thinking.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q2",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 5. 2. Why did the author decide to open an account?",
+    "answer": "He decided to open an account because his salary had been raised to fifty dollars a month and he felt that 'the bank was the only place for it'. In other words, he had a regular monthly income that he thought would be safe and sensible to keep in a bank rather than carry about or hoard at home.",
+    "explanation": "The second paragraph gives the reason directly: the raised salary made a bank account seem the proper place for his money.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q3",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 5. 3. What was the manager's reaction when the author told him that he would like to see him alone?",
+    "answer": "The manager 'looked at me with some anxiety', because he felt that the visitor had 'a terrible secret to tell'. He said, 'Come in here,' led the way into a private room, turned the key in the lock and, telling the writer that they were safe from interruption, invited him to sit down. Later, in the locked room, he guessed aloud that the visitor must be one of Pinkerton's detectives.",
+    "explanation": "The text describes the manager's anxious look, his belief that a terrible secret was about to be revealed, and his dramatic locking of the door - all reactions to the word 'alone'.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q4",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 5. 4. Why did the manager look relieved when he knew the purpose of the author's visit?",
+    "answer": "The manager looked relieved because the visitor turned out to be neither a detective nor a criminal, but an ordinary customer who had come only to open an account and deposit money. His fear that some serious or dangerous matter was about to be disclosed disappeared. In fact he was so pleased that he convinced himself the visitor was 'a very rich man, perhaps a son of Baron Roth's child', and he treated him with sudden respect.",
+    "explanation": "The text says the manager 'looked relieved but still serious; he felt sure now that I was a very rich man' - relief at the harmless purpose plus satisfaction at gaining a wealthy client.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q5",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 5. 5. What is the equivalent of fifty American dollars in Pakistani currency?",
+    "answer": "Fifty American dollars are equivalent to roughly fourteen thousand Pakistani rupees at an exchange rate of about Rs. 280 to a dollar (50 x 280 = Rs. 14,000). The exact figure changes every day with the interbank rate, so the current rate on the day of answering should be used; for example at Rs. 275 the amount is Rs. 13,750, and at Rs. 285 it is Rs. 14,250.",
+    "explanation": "This is a real-world conversion question, not one answered by the text. The answer gives the method (50 x the current dollar-rupee rate) and a figure based on the approximate 2025-26 rate of about Rs. 280 per dollar.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q6",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 5. 6. What mistake did the author make when he wrote the cheque?",
+    "answer": "He intended to draw only six dollars for present use, but in his nervous confusion he wrote 'fifty-six dollars' on the cheque instead of 'six'. When the clerk asked in surprise, 'What! Are you drawing it all out again?', he was too upset to explain his error; he lost his nerve, pretended it was deliberate, and said 'Yes, the whole thing' - so he withdrew the entire amount he had just deposited.",
+    "explanation": "The text states, 'I realized that I had written fifty-six dollars instead of six. I was too upset to reason now', and his refusal to explain turns a slip of the pen into a withdrawal of the whole deposit.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q7",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Exercise 5. 7. Explain the meaning of the clerk's question, 'How will you have it?'",
+    "answer": "The clerk is asking in what form or denominations the writer wants his money - that is, which currency notes should be counted out to him. The writer does not understand at first ('What?'), and when he does, he answers 'in fifty-dollar notes', after which the clerk gives him a fifty-dollar note and asks how he wants the remaining six, which the writer asks for 'in six-dollar notes' - meaning six one-dollar notes.",
+    "explanation": "The following exchange ('in fifty-dollar notes', 'And the six?') shows that the question concerns the denominations of the notes in which the amount is to be paid.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q8",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Exercise 5. 8. Why was there a roar of laughter when the author left the bank?",
+    "answer": "There was a roar of laughter because the clerks had just watched a ridiculous performance. A trembling customer had deposited fifty-six dollars, signed the slip as if he were a millionaire, then immediately written a cheque for the entire amount, refused to explain, insisted on drawing out 'every cent' and asked for the money 'in fifty-dollar notes' and 'in six-dollar notes' before rushing out. To the staff the whole transaction was pointless and absurd, and the nervous, secretive manner in which it was carried out made it irresistibly funny, so the laughter 'went up to the roof of the bank'.",
+    "explanation": "The comedy is the contrast between the writer's terror and the trivial sum involved; the clerks' laughter follows his hasty exit after drawing out everything he had just paid in.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q9",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "9",
+    "question": "Exercise 5. 9. The author, Stephen Leacock, was a respected university teacher and a highly successful writer. Do you think this is a true story?",
+    "answer": "It is most probably not literally true. Leacock was a professor of political economy and a famous humorist, and the piece is a comic sketch in which the narrator is exaggerated for effect: his terror of 'everything', his belief that an account-holder must see the manager 'alone', the manager's guess that he is a Pinkerton detective, the locked room, the instant withdrawal of the whole deposit and the final roar of laughter are all too neatly arranged to be a plain record of fact. The small sum of fifty-six dollars contradicting the manager's idea of 'a very rich man' is a further comic invention. What is true is the feeling described - the nervousness of an ordinary person facing unfamiliar bank formalities - which is why readers find the story convincing even while laughing at it.",
+    "explanation": "The question invites a personal, evidence-based judgement. The answer takes the position that the sketch is fictional in detail but true in feeling, and supports it with the exaggerations and coincidences in the text.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex5_q10",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Exercise 5. 10. Why is it wiser to keep one's money in a bank than to hoard it in one's home?",
+    "answer": "Keeping money in a bank is wiser for several reasons. (i) Safety: cash at home can be stolen, burnt or lost, whereas a bank account is protected and, in Pakistan, deposits are also insured up to a limit. (ii) No loss in value: money kept in a sock earns nothing, while a savings account or term deposit earns profit and helps the savings keep pace with inflation. (iii) Convenience and record: cheques, ATM cards, mobile and internet banking make payments and transfers easy, and the bank statement is proof of every transaction. (iv) Protection from one's own weakness: money at home is easily spent, whereas withdrawing from a bank takes a deliberate effort. (v) Legal and official use: salary payments, fees, scholarships and government transactions require a bank account. The narrator of 'My Bank Account' keeps his savings 'in silver dollars in a sock' - safe from the bank's clerks perhaps, but earning nothing and exposed to theft.",
+    "explanation": "The answer draws the moral contrast implied by the story's ending (savings in a sock) and gives practical reasons that go beyond the text, as the question asks for the reader's own reasoning.",
+    "bookPage": 78
+  },
+  {
+    "id": "u5_r_ex6_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 6. Work in groups. Fill in the required information in the given application form. Once you have filled in, exchange it with other groups.",
+    "answer": "Account Opening Form (specimen entries - imaginary applicant)\nApplication is for: | New account (ticked); Renewal account (not ticked)\nName: | Ali Raza\nCNIC: | 41303-1234567-8\nFather/Husband Name: | Muhammad Raza\nNationality: | Pakistani\nSurname: | Raza\nCity: | Hyderabad\nTown: | Latifabad\nProvince: | Sindh\nCountry: | Pakistan\nMobile No.: | 0300-1234567\nTelephone No.: | 022-3821234\nEmail: | aliraza.raza@example.com\nDoB: | 12-03-2009\nMarital Status: | Single\nProfessional Employment: | Student (ticked); Salaried employee, Self-employed, Other (not ticked)\nGender: | Male\nLanguage spoken: | Sindhi, Urdu, English\nName of the company/organisation: | Government Degree College, Latifabad (no employer - 'student' may be written)\nType of business/work: | Student, Intermediate (Class XI)\nOffice address: | Not applicable (college address: Government Degree College, Latifabad, Hyderabad)\nPurpose of Account: | Personal (ticked), Saving (ticked); Current, Investment (not ticked)\nPostal Address: | House No. 24, Block B, Unit 7, Latifabad, Hyderabad\nPermanent Address: | House No. 24, Block B, Unit 7, Latifabad, Hyderabad\nSignature of Applicant: | Ali Raza (signed)\nApplicant witness No. 1: | Imran Ali, CNIC 41303-7654321-9 (signed)",
+    "explanation": "This is a form-filling task, so the answer is a complete specimen form. The entries are consistent with one another (a college student, CNIC age matching the date of birth, permanent address the same as the postal address) and every printed field is filled, with ticks shown in the appropriate boxes.",
+    "bookPage": 79
+  },
+  {
+    "id": "u5_r_ex7_q1",
+    "sectionCode": "U5S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Exercise 7. There are many advantages of using Bank. Work in groups, first collect some points on the topic: Advantages of Using Bank. Then, present these opinions in front of the class.",
+    "answer": "Points for the presentation - Advantages of Using a Bank\n1. Safety of money: cash kept at home can be stolen, lost or destroyed in a fire or flood; a bank keeps it in a secure vault and the deposit is recorded in the bank's books.\n2. Profit on savings: a savings or fixed deposit account earns profit/interest, so money grows instead of lying idle.\n3. Easy payments: cheques, debit cards, ATM cards and mobile/internet banking let a person pay bills, fees and shopkeepers without carrying large amounts of cash.\n4. Record of every transaction: the passbook and statement show when money came in and went out, which helps in budgeting and in settling disputes.\n5. Safe money transfer: money can be sent to another city or country in minutes through online transfer or demand draft - impossible with hoarded cash.\n6. Access to loans and credit: banks give loans for education, business and housing, and issue credit/debit cards, but only to account holders.\n7. Receipt of salary, pension, scholarships and zakat: employers and the government pay through bank accounts, so an account is almost a necessity today.\n8. Protection from theft and impulse spending: a thief cannot steal what is in the bank, and money is not spent carelessly because it is not in one's pocket.\n9. Utility bills and taxes: bills can be paid by direct debit, autopay or mobile banking, saving time and queues.\n10. Financial discipline and documentation: regular deposits encourage the habit of saving and the statement serves as proof of income for visas, admissions and loans.\n\nPresentation outline for the class: greet the audience, state the topic in one sentence, present the points in three groups (safety, growth and convenience), give one real example for each group (for instance, a family whose house was burgled but whose savings were in the bank), then end with the advice to prefer a bank account over hoarding cash at home and invite questions.",
+    "explanation": "The exercise is a group discussion and oral presentation task; the answer gives the substantive points the group should collect and a structure for presenting them, including a conclusion and an invitation for questions.",
+    "bookPage": 79
+  },
+  {
+    "id": "u5_w_ex1_q1",
+    "sectionCode": "U5S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1. Work in pairs and write a letter to the National Book Foundation for provision of English Grammar books for your library. Follow the tips and format provided above. After completing, share your work with your partner.",
+    "answer": "14 August 20XX\n\nThe Director,\nNational Book Foundation,\nIslamabad.\n\nSubject: Request for the provision of English Grammar books for our college library\n\nDear Sir,\n\nI am writing on behalf of the Students' Library Committee of Government Degree College, Latifabad, Hyderabad, to request the provision of English Grammar books for our library.\n\nOur library serves more than twelve hundred students of Classes XI and XII. At present we have only two copies of an old grammar book, and both are in poor condition. As a result, students preparing for the Board examinations in English cannot practise the grammar exercises they are given in class, and many of them have to buy expensive books that they cannot afford. We therefore need about fifty copies of a modern, board-oriented English Grammar and Composition book, together with twenty copies of its workbook, so that whole classes can work from the same text.\n\nWe shall be grateful if the Foundation supplies these books under its book-aid scheme or at its concessional rate. Kindly let us know the procedure for placing the order, the price of the titles available, the discount allowed to educational institutions and the mode of payment. Our committee is prepared to deposit the amount as soon as the quotation is received, and we can also arrange for the books to be collected from your regional office in Karachi.\n\nAn early reply will be highly appreciated.\n\nThanking you in anticipation.\n\nYours faithfully,\nAyesha Khan\nSecretary, Students' Library Committee\nGovernment Degree College, Latifabad, Hyderabad\nMobile: 0300-1234567",
+    "explanation": "The letter follows the block format of the sample on page 80 (date, inside name and address, greeting, opening paragraph, concluding paragraph, closing and signature), uses simple formal language without abbreviations, and asks for the books in the manner suggested by the tips.",
+    "bookPage": 81
+  },
+  {
+    "id": "u5_w_ex2_q1",
+    "sectionCode": "U5S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2. You went to a commercial bank for account opening. However, you are not satisfied with their services. Now, work individually and write a letter to the Manager of the bank complaining about the unprofessional behaviour of the staff. Follow the tips and the format provided above.",
+    "answer": "5 September 20XX\n\nThe Manager,\nNational Commercial Bank,\nBranch Latifabad No. 4,\nHyderabad.\n\nSubject: Complaint about the unprofessional behaviour of the branch staff\n\nDear Sir,\n\nI opened a savings account (No. 0412-778899) at your branch on 28 August 20XX, and I regret to say that I have been deeply disappointed by the behaviour of the staff.\n\nFirst, although I arrived at ten in the morning, I had to wait for more than an hour because the clerk at the account-opening counter was busy chatting with a colleague and attending to personal phone calls. Secondly, when my turn came he did not greet me or ask me to sit, and he spoke to me in a rude and dismissive tone when I asked which form I should fill in. Thirdly, he took my documents, including my original CNIC, and disappeared for twenty minutes without telling me where he was going; when I asked another official about them, I was simply told to wait and was not given any explanation. Fourthly, my deposit slip was filled in by hand and I was not given a receipt until I insisted on one, and the account number written on my passbook was later found to be incorrect.\n\nThis is not the standard of service that a customer expects from a commercial bank. I therefore request you to look into the matter, correct the entries in my account, issue me a proper receipt for the deposit, and instruct the staff concerned to treat customers with courtesy and efficiency. I would also be grateful for a written confirmation that my account details have been verified.\n\nI hope you will take prompt action so that other account holders do not face the same treatment.\n\nThanking you.\n\nYours sincerely,\nBilal Ahmed\nHouse No. 15, Block C, Latifabad No. 4, Hyderabad\nMobile: 0333-9876543",
+    "explanation": "The letter keeps the sample's block format and tips: it is clear and to the point, avoids abbreviations, states the date and nature of the visit, lists the specific unprofessional acts, and ends with concrete requests and a polite hope for action.",
+    "bookPage": 81
+  },
+  {
+    "id": "u5_o_ex1_q1",
+    "sectionCode": "U5S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1. Work in groups of three and practise the following dialogue. You will have to practise the dialogue three times, each time taking the role of one another.",
+    "answer": "Model performance of the printed dialogue\nThe three friends are planning a farewell party for their seniors. Their negotiation runs as follows:\n\nBashir (proposal): 'I think we should arrange a farewell party for all our seniors.'\nZamir (partial disagreement): 'I agree, but we have so many seniors and we have collected limited amount of money.'\nKashif (reason): every year Class XI arranges a farewell, so it must be done.\nBashir (proposal): invite all the seniors if the menu is kept limited.\nZamir (disagreement + reason): the problem is not only the menu - many guests need a big venue, and that needs a lot of money.\nKashif (reason): a farewell is held in honour of the seniors and for fun, so all of them should be invited.\nBashir (concession): but we must be careful not to spend too much.\nZamir (agreement + proposal): 'You have a strong point here. Let's make a list of all the participants including teachers. Then we can decide how many people to invite and who to invite.'\nKashif (acceptance): 'I think that would be acceptable. Once we know for sure how many people we are inviting, we can then decide about venue and menu.'\n\nConsensus reached: a farewell party will be held; a complete list of invitees, including teachers and all seniors, will be prepared first; only after the number is known will the venue and a limited menu be decided within the money collected.\n\nHow to perform it three times: in round one take the role of Bashir (the proposer - use 'I think we should...', 'I would like to propose that...'); in round two take Zamir (the questioner - use 'I agree, but...', 'I'm afraid we have some reservations on that point', 'You have a strong point here'); in round three take Kashif (the reconciler - use 'This is because...', 'One of the key reasons for this is...', 'I think that would be acceptable'). Each time, keep your tone polite, let the other speaker finish, stress the words that carry the argument (all, limited, venue, list) and close the dialogue by summing up the agreement.",
+    "explanation": "The printed task is a speaking/role-play task, so the answer supplies a model performance: the moves made by each speaker, the consensus the group reaches, and role-specific phrases to use in each of the three rounds.",
+    "bookPage": 82
+  },
+  {
+    "id": "u5_o_ex2_q1",
+    "sectionCode": "U5S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 2. After you have practised the above dialogue, work in same group of three and develop a dialogue on one of the following topics. You need to come to a consensus and then role play as above. Remember to use phrases given above. Topic 1: Organising a college debate competition (discuss and agree on what will be done, when will the programme be, how long will it be, who will be invited as a chief guest, etc.)",
+    "answer": "Kashif: I would like to propose that our class organise an inter-class English debate competition this term.\nBashir: I agree with you on that point - we have not held one for two years - but I am afraid we have some reservations about the time. Our monthly tests begin in three weeks.\nKashif: That is exactly why I am suggesting the last Friday of this month. One of the key reasons for this is that it falls before the tests, so nobody will be busy.\nZamir: Perhaps a better idea would be to keep it on a Saturday morning, because on Friday many students leave after the prayer break.\nBashir: You have a strong point there. A Saturday gives us a full morning and parents can also come.\nKashif: All right, Saturday the 26th, from nine to eleven - about two hours. Now, what exactly will be done?\nZamir: I propose two rounds: a prepared speech round of four minutes for each speaker and a rebuttal round of two minutes. Two speakers from each section, so eight speakers in all.\nBashir: Concerning your proposal, our basic position is that four minutes is too long for eight speakers. Could we make it three minutes and a one-minute rebuttal?\nZamir: I can't quite agree with you on that. Three minutes is hardly enough to develop an argument with evidence.\nKashif: Let us look at the points we agree on: two rounds, two speakers per section. Why not three minutes for the speech and two for the rebuttal? That gives us eight speeches of three minutes and a rebuttal session of about sixteen minutes.\nBashir: I think that would be acceptable, and the whole programme will still finish within two hours.\nZamir: Agreed. What about the motion and the chief guest?\nKashif: I suggest the motion 'Social media has done more harm than good', and for chief guest our Principal, with the Head of the English Department as a second judge.\nBashir: I agree with you on that point. But the Principal may be busy; may I suggest that we invite the retired Professor of English, Mr. Saleem Akhtar, as chief guest, and request the Principal to preside?\nZamir: That sounds better. A retired professor is a neutral judge and will attract a bigger audience.\nKashif: So we are agreed: the competition will be held on Saturday the 26th from 9 to 11 a.m. in the college hall; eight speakers, two from each section; a three-minute speech and a two-minute rebuttal; the motion on social media; Mr. Saleem Akhtar as chief guest and the Principal presiding.\nBashir: I think we have reached an agreement here. I will prepare the notice and the registration sheet.\nZamir: And I will write the invitation letters. This agreement is acceptable to us.",
+    "explanation": "The dialogue is built entirely from the negotiation phrases on page 82 (proposing, giving reasons, partial disagreement, conceding a strong point, accepting and summing up) and settles every element the topic asks for: what will be done, when, how long, and who the chief guest will be.",
+    "bookPage": 83
+  },
+  {
+    "id": "u5_o_ex2_q2",
+    "sectionCode": "U5S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2. Topic 2: Having a college trip (discuss and agree on where will you go, only students or teachers also, how much money will be required and what will be the share on each student, etc.)",
+    "answer": "Zamir: I would like to propose a one-day college trip to Keenjhar Lake and the ruins of Makli this month.\nBashir: I agree in principle, but we have to be careful about the cost. Last year's trip was cancelled because the share per student became too high.\nZamir: One of the key reasons for choosing Keenjhar and Makli is that both places are within three hours of Hyderabad, so we do not need to pay for a hotel.\nKashif: I agree with you on that point, and it is educational as well - Makli is a World Heritage site and our history teacher can explain it on the spot.\nBashir: My reservation is about safety. If only students go, parents will not allow it. I propose that three teachers, including at least one female teacher, accompany us.\nZamir: You have a strong point there. I accept that. Let us say forty-five students and three teachers.\nKashif: Then we must work out the money. A fifty-seater bus for the day will cost about thirty thousand rupees; lunch at about two hundred and fifty rupees a head for forty-eight people is twelve thousand; entry tickets at fifty rupees for forty-eight people come to two thousand four hundred; and water and first aid about two thousand. The total is about forty-six thousand four hundred.\nBashir: If we round it to forty-nine thousand five hundred and add a small contingency, and request four thousand five hundred from the college welfare fund, each of the forty-five students will pay one thousand rupees. That is affordable.\nKashif: I think we should also collect the money in advance, by the twentieth, so that the bus can be booked. Those who do not pay by then cannot be counted.\nZamir: Perhaps a better idea would be to allow instalments of five hundred rupees, because some students cannot pay a thousand at once.\nBashir: I can't quite agree with you on that - instalments will make the accounts difficult to maintain in one week. Instead, those who cannot pay in time may apply to the welfare fund for a concession.\nZamir: That is acceptable to me.\nKashif: So, to sum up the main points of our discussion: the trip will be to Keenjhar Lake and Makli on the last Sunday of this month; forty-five students and three teachers, including one female teacher, will go; the total cost is about forty-nine thousand five hundred rupees; the college fund will give four thousand five hundred; each student will pay one thousand rupees by the twentieth; and consent letters from parents are compulsory.\nBashir: I think we have reached an agreement here. I will draft the consent letter tonight.\nZamir: And I will get the bus quotation. This agreement is acceptable to us.",
+    "explanation": "The dialogue covers each point the topic lists - destination, whether teachers accompany, total cost, per-student share - and shows the arithmetic behind the figures, while using the polite proposal, disagreement, concession and consensus phrases from page 82.",
+    "bookPage": 83
+  },
+  {
+    "id": "u5_g_ex1_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1. Each of the following sentences has an error in the use of comparative or superlative adjectives. Work individually and identify the error, and write corrected sentences in your notebook.",
+    "answer": "1. My bed is more big than my desk. -> My bed is bigger than my desk. (Error: 'more big' doubles the comparison. A one-syllable adjective takes -er, not 'more'.)\n2. Zaheer can run fast than me. -> Zaheer can run faster than I can. (Error: 'than' needs a comparative form, so 'fast' must become 'faster'.)\n3. You are most generous than my brother. -> You are more generous than my brother. (Error: a superlative ('most generous') cannot be followed by 'than'; a two-syllable adjective with -ous forms its comparative with 'more'.)\n4. Of all our luggage, mine is the heavier. -> Of all our luggage, mine is the heaviest. (Error: 'of all' compares one thing with the whole group, so the superlative is required.)\n5. The weather during the summer is the most hot than during the winter. -> The weather during the summer is hotter than during the winter. (Errors: 'most hot' is a doubled/wrong comparative-superlative form, and 'than' requires the comparative 'hotter'.)\n6. The Earth is closest to the moon than the sun. -> The Earth is closer to the moon than to the sun. (Error: 'than' requires the comparative; 'closest' is superlative. 'to the sun' is repeated after 'than' to avoid an ambiguous comparison.)\n7. You should always turn in your work because some points are best than no points. -> You should always turn in your work because some points are better than no points. (Error: 'than' requires the comparative 'better', not the superlative 'best'.)",
+    "explanation": "The seven sentences illustrate the errors listed on pages 84-85: doubled comparisons, a missing comparative before 'than', a superlative before 'than', a comparative where 'of all' requires a superlative, and a missing second element of comparison.",
+    "bookPage": 85
+  },
+  {
+    "id": "u5_g_ex2_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2. In the following sentences, some parts have been labelled A, B, C and D. Work in pairs and identify the part that contains an error. If there is no error in any part of the sentence, mark your answer as E. After you have completed, share your work with your partner.",
+    "answer": "1. Part E (No Error) - 'Nadeem and Saleem are comparatively weaker in English as assessed by their teacher.' 'Comparatively' is an adverb of degree modifying the comparative 'weaker'; it is not a doubled comparison like 'more weaker'.\n2. Part D - 'of all other friends' -> 'of all friends' (or: 'richer than all other friends'). A superlative ('the richest') already includes the whole group, so 'other' is wrong with 'of all'.\n3. Part B - 'more good' -> 'better'. 'Good' has the irregular comparative 'better'; 'more good' is wrong.\n4. Part D - 'the most charming of all other areas in Pakistan' -> 'the most charming of all the areas in Pakistan' (or 'more charming than all other areas in Pakistan'). 'Most ... of all other' mixes a superlative with 'other'.\n5. Part B - 'the most smartest' -> 'the smartest'. 'Most' and '-est' cannot both be used (doubled superlative).\n6. Part A - 'The most happiest man' -> 'The happiest man'. Doubled superlative: 'happy' takes '-est', not 'most'.\n7. Part A - 'more intelligent' -> 'the most intelligent' (so the phrase reads 'the most intelligent among her class fellows'). With 'among' (a group of three or more) the superlative is required, and the superlative needs 'the'.\n8. Part C - 'than any actor of Pakistani films' -> 'than any other actor of Pakistani films'. Javed Shaikh is himself an actor of Pakistani films, so 'other' is needed; otherwise he is compared with himself.\n9. Part A - 'A most hard working student' -> 'The most hard-working student'. The superlative takes the definite article 'the', not 'a'.\n10. Part E (No Error) - 'Mr. Najeeb was the tallest among the four brothers and the three sisters.' The superlative 'the tallest' is correct with 'among' plus a group of more than two.",
+    "explanation": "Each answer names the printed labelled part, quotes the faulty words and gives the correction with the rule applied (pages 84-85: comparative vs superlative, doubling, 'other' after a comparative, the definite article with superlatives). In item 7 the printed labels are A = 'more intelligent', B = 'among', C = 'her class', D = 'fellows'; the error is the comparative in Part A. Item 1 is answered E because 'comparatively weaker' is standard English, though a very strict reading of the 'doubling' rule would make B the intended error.",
+    "bookPage": 86
+  },
+  {
+    "id": "u5_g_ex3_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 3. Work individually and rectify the following sentences with proper use of degrees of adjectives, and write corrected sentences in your notebook.",
+    "answer": "i. Shahid's motivation to succeed in this program seems to be great than his sister. -> Shahid's motivation to succeed in this program seems to be greater than that of his sister. (A comparative is needed before 'than', and 'that of' prevents comparing a motivation with a person.)\nii. Either you will make serious study than your sister or risk failing the exam. -> Either you will make a more serious study than your sister or risk failing the exam. (The comparison with 'than' requires the comparative 'more serious'.)\niii. A few students are found the more interested in mathematics in whole class. -> A few students are found the most interested in mathematics in the whole class. (The group is the whole class, so the superlative with 'the' is required, and 'the whole class' needs the article.)\niv. My travelling partner's journey was long than mine. -> My travelling partner's journey was longer than mine. (Comparative 'longer' before 'than'.)\nv. My income is little than that of my brother. -> My income is less than that of my brother. (The comparative of 'little' is 'less'.)\nvi. Among all my colleagues, Mr. Altaf is the more regular. -> Among all my colleagues, Mr. Altaf is the most regular. (With 'among all' the superlative is needed.)\nvii. Karachi is the more populous city in Pakistan. -> Karachi is the most populous city in Pakistan. (Superlative used for one city compared with all cities of the country.)\nviii. She is intelligent than her cousin so she has taken many marks. -> She is more intelligent than her cousin, so she has taken many marks. (Comparative 'more intelligent' before 'than'; two-syllable adjective takes 'more'.)\nix. Azizia in Libya is the hot place in the world. -> Azizia in Libya is the hottest place in the world. (Superlative '-est' with 'in the world'.)\nx. The Jupiter is the large planet in the solar system. -> Jupiter is the largest planet in the solar system. (Superlative 'the largest'; 'the' is not used before the name of a planet.)",
+    "explanation": "The ten sentences are corrected according to the five error types taught on pages 84-86, with the reason given for each change.",
+    "bookPage": 86
+  },
+  {
+    "id": "u5_g_ex4_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 4. Work in pairs and spot the errors in degree of adjective and rewrite the correct conversation in your notebook. Share your work with your partner after completing the exercise.",
+    "answer": "Errors corrected:\n1. 'old than all the other phones' -> 'older than all the other phones' (comparative form needed before 'than').\n2. 'a latest phone' -> 'the latest phone' (the superlative takes 'the').\n3. 'more cheaper than' -> 'cheaper than' (doubled comparative).\n4. 'much happiest' -> 'much happier' (comparison with the other phone needs the comparative; 'much' also modifies a comparative).\n5. 'a more big memory card' -> 'a bigger memory card' (one-syllable adjective takes '-er', not 'more').\n6. 'much nice than mine' -> 'much nicer than mine' (comparative before 'than').\n7. 'a lot largest' -> 'a lot larger' (comparing two screens, so the comparative is needed).\n8. 'a newer and a good version' -> 'a newer and better version' (parallel comparative; 'good' -> 'better').\n9. 'more advanced features among all new smart phones' -> 'the most advanced features among all new smart phones' (superlative with 'among all').\n10. 'the most new version' -> 'the newest version' (doubled/wrong superlative; 'new' takes '-est').\n\nCorrected conversation:\nMateen: My phone is working the worst ever! And it's older than all the other phones I see, too. I want the latest phone.\nLaiba: Take a look at my phone. It was cheaper than my last phone, and I'm much happier with it. When I'm traveling, I listen to music more often than I do when I'm at home, so I wanted a phone with a bigger memory card.\nMateen: Wow, it's much nicer than mine! The screen is a lot larger, too. I want one like that!\nLaiba: Yeah, you need a big screen, because you watch videos on your phone more frequently than I do.\nMateen: I need to check my emails; do you think a newer and better version will help me out?\nLaiba: Why not, Mateen. Since it has the most advanced features among all new smart phones in the market, this mobile phone will not only help you to receive and send emails but you can also download different applications.\nMateen: Thank you, Laiba, for helping me out to buy this newest version of the mobile phone.",
+    "explanation": "All ten numbered errors are corrected and the whole conversation is rewritten, since the task asks for both error-spotting and a corrected conversation.",
+    "bookPage": 87
+  },
+  {
+    "id": "u5_g_ex5_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 5. Work in pairs and make at least five sentences of each model verb according to its nature. After you have completed, share your sentences with your partner.",
+    "answer": "CAN (ability / possibility / permission)\n1. Sana can speak three languages fluently.\n2. Can you solve this algebra problem in five minutes?\n3. A trained nurse can dress this wound properly.\n4. You can borrow my dictionary for the weekend.\n5. Heavy rain can damage the wheat crop.\n\nCOULD (past ability / polite request / possibility)\n1. My grandfather could walk ten miles when he was young.\n2. Could you please pass me the salt?\n3. She could read English before she joined school.\n4. The road is blocked, so the bus could be late.\n5. Could I use your phone for a minute?\n\nMAY (permission / possibility)\n1. May I come in, sir?\n2. You may leave the class after finishing the test.\n3. It may rain in the afternoon, so take an umbrella.\n4. The results may be announced next week.\n5. May I borrow your notes for one day?\n\nSHOULD (advice / expectation)\n1. You should revise your notes every evening.\n2. Patients with high blood pressure should avoid salt.\n3. You should apologise to your teacher for coming late.\n4. The train should reach Karachi by eight o'clock.\n5. We should plant trees to keep the air clean.\n\nMUST (strong obligation / certainty)\n1. Every citizen must obey the traffic rules.\n2. You must submit the assignment before Friday.\n3. She must be tired after the long journey.\n4. We must not waste water in summer.\n5. Candidates must bring their original CNIC to the examination hall.\n\nHAVE TO (external obligation)\n1. I have to wear a uniform at my school.\n2. She has to catch the seven o'clock bus every morning.\n3. We had to wait two hours for the doctor.\n4. You have to take off your shoes before entering the prayer room.\n5. They will have to renew the licence next month.\n\nMIGHT (possibility)\n1. It looks cloudy; it might rain tonight.\n2. She might join the debate competition if her exams are over.\n3. The shop might be closed on Sunday.\n4. He might not agree to our proposal.\n5. We might visit our uncle during the holidays.",
+    "explanation": "The table on page 88 lists seven modal verbs under five uses (ability, permission, advice, obligation, possibility); five sentences are supplied for each verb, and each sentence follows the use named in brackets.",
+    "bookPage": 88
+  },
+  {
+    "id": "u5_g_ex6_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 6. Use appropriate modal verbs from the box given below and fill in the following conversation. An example has been done for you. Two colleagues, Sara and Zoya, are at a lunch meeting. They are waiting for their co-worker, Noor, who is late.",
+    "answer": "1. 'No, she may be on her way,' replies Sara. (possibility)\n2. 'Yes, she said she left the office 30 minutes ago,' says Zoya. 'She must be about to arrive.' (strong deduction)\n3. 'Traffic could be bad during this hour of time, because it usually doesn't take too long to reach here,' Sara says. (weak possibility)\n4. 'She must feel bad about being late since I know her so well,' Sara says. (confident deduction from knowing her)\n5. 'Well, that's alright! We shouldn't be impatient, don't you think?' Zoya smiles. (advice / disapproval)\n6. 'Remember her rule: the one who is late must buy lunch!' (obligation fixed by Noor's own rule)\n7. 'What should we order?' asks Noor. (asking for advice)\n8. 'I think we should take some light meals since we all are on diet,' says Zoya. (advice / suggestion)\n9. 'Could we order a large serving of salad with steamed chicken?' asks Noor. (polite proposal / request for permission)\n10. 'But I would rather prefer to take a bowl of humus since its very healthy and scrumptious,' adds Zoya. (preference)\n11. 'Well, girls, we mustn't waste time, now it's already late...' yells Sara. (prohibition / necessity not to)\n12. '...we should place an order,' yells Sara. (advice / what is right to do)\n\nCompleted opening line as given: 'We must wait for Noor before we start,' says Zoya.\nAll the box words are used: may, must, shouldn't, would, should, could, mustn't.",
+    "explanation": "Each blank is filled from the given box (may, must, shouldn't, would, should, could, mustn't) according to the meaning required by the speaker's line: possibility (may, could), deduction (must), advice (should, shouldn't), preference (would), and prohibition (mustn't).",
+    "bookPage": 89
+  },
+  {
+    "id": "u5_g_ex7_q1",
+    "sectionCode": "U5S4",
+    "type": "sq",
+    "number": "7",
+    "question": "Exercise 7. Insert proper modal verbs in the following blanks.",
+    "answer": "1. When Sara was five, she could read and write. (past ability)\n2. I need not get up early today, because it is Sunday. (absence of obligation; 'don't have to' is also correct)\n3. Birds can fly but lions cannot. (ability / inability; 'can't' is also correct)\n4. This bag is too heavy for you. Shall I help you? (offer; 'May I help you?' or 'Can I help you?' are also acceptable)\n5. I have to wear school uniform at my school. (obligation imposed by the school's rule)\n6. You must not smoke here. It is forbidden. (prohibition)\n7. Could you turn on the lights, please? (polite request; 'Would' or 'Will' are also correct)\n8. I should help my mother with the housework. She is tired. (advice / moral duty)\n9. If you go to bed late, you may be late for the school. (possibility; 'might' or 'will' are also correct)\n10. You must do your homework if you want to go out. (obligation laid down as a condition)",
+    "explanation": "Each blank is filled with the modal that matches the meaning of its sentence (ability, absence of obligation, offer, obligation, prohibition, polite request, advice and possibility); acceptable alternatives are given in brackets.",
+    "bookPage": 89
+  }
+]

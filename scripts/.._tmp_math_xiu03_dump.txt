@@ -1,0 +1,320 @@
+  1 | Exercise 3.1 | 1(i)      | Classify the quantity Force as a scalar or a vector.
+      ANS: Vector.
+  2 | Exercise 3.1 | 1(ii)     | Classify the quantity Speed as a scalar or a vector.
+      ANS: Scalar.
+  3 | Exercise 3.1 | 1(iii)    | Classify the quantity Velocity as a scalar or a vector.
+      ANS: Vector.
+  4 | Exercise 3.1 | 1(iv)     | Classify the quantity Area as a scalar or a vector.
+      ANS: Scalar.
+  5 | Exercise 3.1 | 1(v)      | Classify the quantity Acceleration as a scalar or a vector.
+      ANS: Vector.
+  6 | Exercise 3.1 | 1(vi)     | Classify the quantity Work as a scalar or a vector.
+      ANS: Scalar.
+  7 | Exercise 3.1 | 1(vii)    | Classify the quantity Volume as a scalar or a vector.
+      ANS: Scalar.
+  8 | Exercise 3.1 | 1(viii)   | Classify the quantity Weight as a scalar or a vector.
+      ANS: Vector.
+  9 | Exercise 3.1 | 1(ix)     | Classify the quantity Mass as a scalar or a vector.
+      ANS: Scalar.
+ 10 | Exercise 3.1 | 2(i)      | P(4,6) and Q(−4,5) are given. Write the vector PQ in the form xi + yj.
+      ANS: PQ = −8i − j.
+ 11 | Exercise 3.1 | 2(ii)     | P(−5/2, 9) and Q(10, 8) are given. Write the vector PQ in the form xi + yj.
+      ANS: PQ = (25/2)i − j.
+ 12 | Exercise 3.1 | 2(iii)    | P(−3,6) and Q(5,9) are given. Write the vector PQ in the form xi + yj.
+      ANS: PQ = 8i + 3j.
+ 13 | Exercise 3.1 | 2(iv)     | P(−6,2) and Q(0,−5) are given. Write the vector PQ in the form xi + yj.
+      ANS: PQ = 6i − 7j.
+ 14 | Exercise 3.1 | 3(i)      | If p = −5i + 4j, q = −3i + 5j and r = −6i + 7j, find 2p + 3q.
+      ANS: 2p + 3q = −19i + 23j.
+ 15 | Exercise 3.1 | 3(ii)     | If p = −5i + 4j, q = −3i + 5j and r = −6i + 7j, find 3p + (1/2)q + r.
+      ANS: 3p + (1/2)q + r = (−45/2)i + (43/2)j.
+ 16 | Exercise 3.1 | 3(iii)    | If p = −5i + 4j, q = −3i + 5j and r = −6i + 7j, find 3p + 5q − 4r.
+      ANS: 3p + 5q − 4r = −6i + 9j.
+ 17 | Exercise 3.1 | 3(iv)     | If p = −5i + 4j, q = −3i + 5j and r = −6i + 7j, find (1/2)p − 2r + 4q.
+      ANS: (1/2)p − 2r + 4q = (−5/2)i + 8j.
+ 18 | Exercise 3.1 | 4         | P(−2,5), Q(8,0), R(7/2,6) and S(−10,7) are given points. Find the sum of the vectors PQ and RS.
+      ANS: PQ + RS = (−7/2)i − 4j.
+ 19 | Exercise 3.1 | 5(i)      | Find the unit vector in the direction of p = −3i + 8j.
+      ANS: p̂ = (−3/√73)i + (8/√73)j.
+ 20 | Exercise 3.1 | 5(ii)     | Find the unit vector in the direction of q = 5i − 9j.
+      ANS: q̂ = (5/√106)i − (9/√106)j.
+ 21 | Exercise 3.1 | 5(iii)    | Find the unit vector in the direction of r = 10i − 12j.
+      ANS: r̂ = (5/√61)i − (6/√61)j.
+ 22 | Exercise 3.1 | 5(iv)     | Find the unit vector in the direction of s = 7i + 5j.
+      ANS: ŝ = (7/√74)i + (5/√74)j.
+ 23 | Exercise 3.1 | 6(i)      | Find the vector in the direction of a = 2i − 3j with magnitude 6 units.
+      ANS: (12/√13)i − (18/√13)j.
+ 24 | Exercise 3.1 | 6(ii)     | Find the vector in the direction of b = 10i − 9j with magnitude 7 units.
+      ANS: (70/√181)i − (63/√181)j.
+ 25 | Exercise 3.1 | 6(iii)    | Find the vector in the direction of c = 5i + 6j with magnitude 11 units.
+      ANS: (55/√61)i + (66/√61)j.
+ 26 | Exercise 3.1 | 7(i)      | Find the value of the unknown in 4i + 5j = pi + 5j.
+      ANS: p = 4.
+ 27 | Exercise 3.1 | 7(ii)     | Find the value of the unknown in (5,7) = (5,−q).
+      ANS: q = −7.
+ 28 | Exercise 3.1 | 7(iii)    | Find the value of the unknown in (7/2)i − (3/5)j = pi − (3/√25)j.
+      ANS: p = 7/2.
+ 29 | Exercise 3.1 | 7(iv)     | Find the value of the unknown in (5/2, −7) = (p, −7).
+      ANS: p = 5/2.
+ 30 | Exercise 3.1 | 8(i)      | Find the position vector of the point dividing the join of the points with position vectors 4i − 5j and 2i + 7j in the ratio 3:5.
+      ANS: (13/4)i − (1/2)j.
+ 31 | Exercise 3.1 | 8(ii)     | Find the position vector of the point dividing the join of the points with position vectors 3i + 5j and 11i + 8j in the ratio 3:2.
+      ANS: (39/5)i + (34/5)j.
+ 32 | Exercise 3.1 | 8(iii)    | Find the position vector of the point dividing the join of the points with position vectors 2i − 3j and 2i + 6j in the ratio 4:3.
+      ANS: 2i + (15/7)j.
+ 33 | Exercise 3.1 | 9         | Prove the Hexagon law of vector addition.
+      ANS: For a hexagon ABCDEF, AB + BC + CD + DE + EF + FA = 0; equivalently AB + BC + CD + DE + EF = AF.
+ 34 | Exercise 3.1 | 10(a)     | A(3,−5), B(6,0) and C(2,4) are vertices of a parallelogram. Using vectors, find the coordinates of D if ABCD is the parallelogram.
+      ANS: D(−1,−1).
+ 35 | Exercise 3.1 | 10(b)     | A(3,−5), B(6,0) and C(2,4) are vertices of a parallelogram. Using vectors, find the coordinates of D if ADBC is the parallelogram.
+      ANS: D(7,−9).
+ 36 | Exercise 3.1 | 10(c)     | A(3,−5), B(6,0) and C(2,4) are vertices of a parallelogram. Using vectors, find the coordinates of D if ABDC is the parallelogram.
+      ANS: D(5,9).
+ 37 | Exercise 3.1 | 11        | A is the point (1,3). AB = (4,1) and AD = (2,3). Find the coordinates of the vertices B, C and D of the parallelogram ABCD.
+      ANS: B(5,4), C(7,7), D(3,6).
+ 38 | Exercise 3.1 | 12(i)     | Using vectors, prove that if one pair of opposite sides of a quadrilateral are congruent and parallel then it is a parallelogram.
+      ANS: Both pairs of opposite sides are parallel and equal, so the quadrilateral is a parallelogram.
+ 39 | Exercise 3.1 | 12(ii)    | Using vectors, prove that the line segments joining the midpoints of the opposite sides of a quadrilateral bisect each other.
+      ANS: The two segments have the same midpoint, so they bisect each other.
+ 40 | Exercise 3.1 | 12(iii)   | Using vectors, prove that the medians of a triangle are concurrent.
+      ANS: All three medians pass through G = (a+b+c)/3, the centroid.
+ 41 | Exercise 3.1 | 12(iv)    | Using vectors, prove that the midpoint of the hypotenuse of a right-angled triangle is equidistant from its vertices.
+      ANS: MA = MB = MC for the midpoint M of the hypotenuse BC.
+ 42 | Exercise 3.1 | 13        | The points (1,1), (5,4), (8,9) and (0,3) represent the position vectors of A, B, C and D respectively. Show that ABCD is a trapezium.
+      ANS: AB is parallel to DC (AB = (4,3), DC = (8,6) = 2AB), while AD and BC are not parallel; hence ABCD is a trapezium.
+ 43 | Exercise 3.1 | 14        | A, B, C are the points a, b and 2a − b respectively. D divides AC in the ratio 2:3 and E divides BD in the ratio 4:1. Find the position vector of E.
+      ANS: E = (28a − 3b)/25.
+ 44 | Exercise 3.1 | 15        | In a parallelogram ABCD, X is the midpoint of AB and Y divides BC in the ratio 1:2. Show that if Z divides DX in the ratio 6:1, then Z also divides AY
+      ANS: Z = (3/7)b + (1/7)d = (3/7)Y, so AZ:ZY = 3:4.
+ 45 | Exercise 3.2 | 1(i)      | Let u = i + 2j + k, v = 3i − 5j and w = −8i + 7j − 2k. Find 3u + 2v.
+      ANS: 9i − 4j + 3k.
+ 46 | Exercise 3.2 | 1(ii)     | Let u = i + 2j + k, v = 3i − 5j and w = −8i + 7j − 2k. Find v − 2u.
+      ANS: i − 9j − 2k.
+ 47 | Exercise 3.2 | 1(iii)    | Let u = i + 2j + k, v = 3i − 5j and w = −8i + 7j − 2k. Find u − 3v + 2w.
+      ANS: −24i + 31j − 3k.
+ 48 | Exercise 3.2 | 1(iv)     | Let u = i + 2j + k, v = 3i − 5j and w = −8i + 7j − 2k. Find 3u + v − w.
+      ANS: 14i − 6j + 7k.
+ 49 | Exercise 3.2 | 1(v)      | Let u = i + 2j + k, v = 3i − 5j and w = −8i + 7j − 2k. Find −2u + (1/2)v − 3w.
+      ANS: (47/2)i − (55/2)j + 4k.
+ 50 | Exercise 3.2 | 2(i)      | If a = −5i + 3j − 4k, find −2a.
+      ANS: 10i − 6j + 8k.
+ 51 | Exercise 3.2 | 2(ii)     | If a = −5i + 3j − 4k, find 3|a|.
+      ANS: 15√2.
+ 52 | Exercise 3.2 | 2(iii)    | If a = −5i + 3j − 4k, find (4/5)a.
+      ANS: −4i + (12/5)j − (16/5)k.
+ 53 | Exercise 3.2 | 2(iv)     | If a = −5i + 3j − 4k, find −(1/2)a.
+      ANS: (5/2)i − (3/2)j + 2k.
+ 54 | Exercise 3.2 | 3(i)      | Let A = i + 2j − 3k, B = 2i − j + 2k and C = 3i − j + 5k. Find A − 2B.
+      ANS: −3i + 4j − 7k.
+ 55 | Exercise 3.2 | 3(ii)     | Let A = i + 2j − 3k, B = 2i − j + 2k and C = 3i − j + 5k. Find 3B + 2C.
+      ANS: 12i − 5j + 16k.
+ 56 | Exercise 3.2 | 3(iii)    | Let A = i + 2j − 3k, B = 2i − j + 2k and C = 3i − j + 5k. Find 3A − (2B + C).
+      ANS: −4i + 9j − 18k.
+ 57 | Exercise 3.2 | 4(i)      | Let u = i − 3j + 2k, v = i + j and w = 2i + 2j − 4k. Find |u + v − w|.
+      ANS: 2√13.
+ 58 | Exercise 3.2 | 4(ii)     | Let u = i − 3j + 2k, v = i + j and w = 2i + 2j − 4k. Find |u| + |v|.
+      ANS: √14 + √2.
+ 59 | Exercise 3.2 | 4(iii)    | Let u = i − 3j + 2k, v = i + j and w = 2i + 2j − 4k. Find |(1/|w|)w|.
+      ANS: 1.
+ 60 | Exercise 3.2 | 5(a)      | The position vector of P is (5,−3,2) and the position vector of Q is (−2,4,−6). Find 4PQ and |5PQ|.
+      ANS: 4PQ = (−28, 28, −32); |5PQ| = 45√2.
+ 61 | Exercise 3.2 | 5(b)(i)   | If a = 3i − 5j + 2k and b = −i − 2j + 3k, find â, the unit vector in the direction of a.
+      ANS: â = (3/√38)i − (5/√38)j + (2/√38)k.
+ 62 | Exercise 3.2 | 5(b)(ii)  | If a = 3i − 5j + 2k and b = −i − 2j + 3k, find b̂, the unit vector in the direction of b.
+      ANS: b̂ = (−1/√14)i − (2/√14)j + (3/√14)k.
+ 63 | Exercise 3.2 | 5(b)(iii) | If a = 3i − 5j + 2k and b = −i − 2j + 3k, find |a + b|.
+      ANS: √78.
+ 64 | Exercise 3.2 | 5(b)(iv)  | If a = 3i − 5j + 2k and b = −i − 2j + 3k, find |a − b|.
+      ANS: √26.
+ 65 | Exercise 3.2 | 6(i)      | Find the vector A₁A₂ when A₁(0,0,0) and A₂(−2,5,1).
+      ANS: −2i + 5j + k.
+ 66 | Exercise 3.2 | 6(ii)     | Find the vector A₁A₂ when A₁(2,1,−3) and A₂(7,1,−3).
+      ANS: 5i.
+ 67 | Exercise 3.2 | 6(iii)    | Find the vector A₁A₂ when A₁(5,−2,1) and A₂(2,4,2).
+      ANS: −3i + 6j + k.
+ 68 | Exercise 3.2 | 7(i)      | Find the initial point of the vector a = (−2,1,2) if the terminal point is (4,0,−1).
+      ANS: (6,−1,−3).
+ 69 | Exercise 3.2 | 7(ii)     | Find the terminal point of the vector A₁A₂ = (1,3,−3) if the initial point is (−2,1,4).
+      ANS: (−1,4,1).
+ 70 | Exercise 3.2 | 8(a)      | The initial point of a vector a of magnitude 5 is (1,−√3,−5). Find k if the terminal point is (3,√3,k).
+      ANS: k = −2 or k = −8.
+ 71 | Exercise 3.2 | 8(b)      | The initial point of a vector a of magnitude 5 is (1,−√3,−5). Find k if the terminal point is (2,−3√3,−10k).
+      ANS: k = 1/2 ± √3/5.
+ 72 | Exercise 3.2 | 8(c)      | The initial point of a vector a of magnitude 5 is (1,−√3,−5). Find k if the terminal point is (−2,k,−3).
+      ANS: k = √3 or k = −3√3.
+ 73 | Exercise 3.2 | 9         | Find the coordinates of A if OA is of length 6 units in the direction of OB, where B is the point (2,−1,4).
+      ANS: A = (12/√21, −6/√21, 24/√21).
+ 74 | Exercise 3.2 | 10(i)     | P, Q, R, S are points with position vectors (1,1,−1), (1,−1,2), (0,1,1) and (2,1,0) respectively. Find |PQ| and |QS|.
+      ANS: |PQ| = √13; |QS| = 3.
+ 75 | Exercise 3.2 | 10(ii)(a) | P, Q, R, S are points with position vectors (1,1,−1), (1,−1,2), (0,1,1) and (2,1,0) respectively. Find the position vector of the point which divides 
+      ANS: (2/5)i + (1/5)j + (7/5)k.
+ 76 | Exercise 3.2 | 10(ii)(b) | P, Q, R, S are points with position vectors (1,1,−1), (1,−1,2), (0,1,1) and (2,1,0) respectively. Find the position vector of the point which divides 
+      ANS: −2i + j + 5k.
+ 77 | Exercise 3.2 | 10(iii)   | P, Q, R, S are points with position vectors (1,1,−1), (1,−1,2), (0,1,1) and (2,1,0) respectively. If X and Y are the midpoints of PR and RS, show that
+      ANS: XY = (1/2, 0, 1/2) and (1/2)PS = (1/2, 0, 1/2), so XY = (1/2)PS.
+ 78 | Exercise 3.2 | 11(i)     | Find the vector OA if |OA| = 6 and OA is in the direction of the vector (2,−3,6).
+      ANS: OA = (12/7)i − (18/7)j + (36/7)k.
+ 79 | Exercise 3.2 | 11(ii)    | Find the vector OA if |OA| = 2 and OA is in the opposite direction to the vector (8,1,−4).
+      ANS: OA = (−16/9)i − (2/9)j + (8/9)k.
+ 80 | Exercise 3.2 | 12(a)     | Find the magnitude of the vector a = −2i + 3j − 4k.
+      ANS: |a| = √29.
+ 81 | Exercise 3.2 | 12(b)     | Find the value of t if the vectors −3i + 5j − 6k and 2i − 3j + tk have the same magnitude.
+      ANS: t = ±√57.
+ 82 | Exercise 3.2 | 12(c)     | Find the vector whose magnitude is 5 times the length of a and which is in the opposite direction to a = 4i − 5j + 6k.
+      ANS: (−20/√77)i + (25/√77)j − (30/√77)k.
+ 83 | Exercise 3.2 | 12(d)     | Express a = −2i + 4j − 6k as a product of its magnitude and direction.
+      ANS: a = 2√14[(−1/√14)i + (2/√14)j + (−3/√14)k].
+ 84 | Exercise 3.2 | 13        | Find the length of the median through O of the triangle OCD, where C and D are (2,7,−1) and (4,1,2) respectively.
+      ANS: √101/2 units.
+ 85 | Exercise 3.2 | 14        | If S and T are the midpoints of PR and QR, show that ST = (1/2)PQ.
+      ANS: ST = (1/2)PQ.
+ 86 | Exercise 3.3 | 1(i)      | If a = −5i + 3j − 4k and b = 2i + 4j + 5k, verify that 0 + a = a + 0 = a.
+      ANS: 0 + a = a + 0 = −5i + 3j − 4k = a.
+ 87 | Exercise 3.3 | 1(ii)     | If a = −5i + 3j − 4k and b = 2i + 4j + 5k, find the additive inverses of a, b and 2a + 3b.
+      ANS: −a = 5i − 3j + 4k; −b = −2i − 4j − 5k; −(2a + 3b) = 4i − 18j − 7k.
+ 88 | Exercise 3.3 | 1(iii)    | If a = −5i + 3j − 4k and b = 2i + 4j + 5k, verify the commutative law for vector addition.
+      ANS: a + b = b + a = −3i + 7j + k.
+ 89 | Exercise 3.3 | 2         | Let u = 3i + j + 5k, v = i − 2j and w = −i + 3j − k. Verify the associative law of vector addition.
+      ANS: (u + v) + w = u + (v + w) = 3i + 2j + 4k.
+ 90 | Exercise 3.3 | 3         | Let a = 3i + 2j + 5k be a vector and m = 5 a scalar. Verify the commutative law of scalar multiplication.
+      ANS: m a = a m = 15i + 10j + 25k.
+ 91 | Exercise 3.3 | 4         | Let a = 5i + 2j − 3k be a vector, and m = 2 and n = 5. Verify the associative law of scalar multiplication.
+      ANS: m(n a) = (mn)a = 50i + 20j − 30k.
+ 92 | Exercise 3.3 | 5(i)      | Let a = 3i + j + 5k and b = −5i + 3j − 4k be two vectors, and m = 3, n = 7. Prove that m(a + b) = m a + m b.
+      ANS: Both sides equal −6i + 12j + 3k.
+ 93 | Exercise 3.3 | 5(ii)     | Let a = 3i + j + 5k and b = −5i + 3j − 4k be two vectors, and m = 3, n = 7. Prove that (m + n)a = m a + n a.
+      ANS: Both sides equal 30i + 10j + 50k.
+ 94 | Exercise 3.4 | 1(i)      | If a = 2i + 3j + 5k, b = i − 2j − 3k and c = 5i + j − k, find a·b.
+      ANS: −19.
+ 95 | Exercise 3.4 | 1(ii)     | If a = 2i + 3j + 5k, b = i − 2j − 3k and c = 5i + j − k, find a·(b + c).
+      ANS: −11.
+ 96 | Exercise 3.4 | 1(iii)    | If a = 2i + 3j + 5k, b = i − 2j − 3k and c = 5i + j − k, find (2a + 3b)·(a − 2b).
+      ANS: 11.
+ 97 | Exercise 3.4 | 2(i)      | If a = 5i − j − 3k and b = i + 3j − 5k, show that a·b = b·a.
+      ANS: Both dot products equal 17.
+ 98 | Exercise 3.4 | 2(ii)     | If a = 5i − j − 3k and b = i + 3j − 5k, show that the vectors a + b and a − b are perpendicular.
+      ANS: (a + b)·(a − b) = |a|² − |b|² = 0, so they are perpendicular.
+ 99 | Exercise 3.4 | 3(i)      | Check whether the vectors a = 2i − 3j + 2k and b = 5i + 8j + 7k are orthogonal or not.
+      ANS: Orthogonal.
+100 | Exercise 3.4 | 3(ii)     | Check whether the vectors a = i + 3j − 4k and b = −2i + j + 3k are orthogonal or not.
+      ANS: Not orthogonal.
+101 | Exercise 3.4 | 4(i)      | Verify the distributive laws for the dot product for a = i − j + 2k, b = 2i + 3j − k and c = 5i − j + 2k.
+      ANS: a·(b + c) = a·b + a·c = 7 and (a + b)·c = a·c + b·c = 15.
+102 | Exercise 3.4 | 4(ii)     | Verify the distributive laws for the dot product for a = 3i − 5j + 7k, b = −4i + j + k and c = 6i + j − 2k.
+      ANS: a·(b + c) = a·b + a·c = −11 and (a + b)·c = a·c + b·c = −26.
+103 | Exercise 3.4 | 5(i)      | Find the angle between the vectors i − 2j + 3k and 3i − 2j + k.
+      ANS: θ ≈ 44.41°.
+104 | Exercise 3.4 | 5(ii)     | Find the angle between the vectors 3i + 5j − 3k and i − 4j + k.
+      ANS: θ ≈ 135.9°.
+105 | Exercise 3.4 | 6(i)      | Find the direction cosines and direction angles of the vector 2i + j − 3k.
+      ANS: cosα = 2/√14, cosβ = 1/√14, cosγ = −3/√14; α ≈ 57.7°, β ≈ 74.5°, γ ≈ 143.3°.
+106 | Exercise 3.4 | 6(ii)     | Find the direction cosines and direction angles of the vector 2i − 4j + 5k.
+      ANS: cosα = 2/√45, cosβ = −4/√45, cosγ = 5/√45; α ≈ 72.7°, β ≈ 126.6°, γ ≈ 41.8°.
+107 | Exercise 3.4 | 6(iii)    | Find the direction cosines and direction angles of the vector −3i + 4j + 5k.
+      ANS: cosα = −3/(5√2), cosβ = 4/(5√2), cosγ = 1/√2; α ≈ 115.1°, β ≈ 55.5°, γ = 45°.
+108 | Exercise 3.4 | 7         | If α, β, γ are the direction angles of a vector, show that sin²α + sin²β + sin²γ = 2.
+      ANS: sin²α + sin²β + sin²γ = 3 − (cos²α + cos²β + cos²γ) = 3 − 1 = 2.
+109 | Exercise 3.4 | 8         | If the measures of two of the direction angles of a vector are 45° and 60°, find the measure of the third angle.
+      ANS: γ = 60° or γ = 120°.
+110 | Exercise 3.4 | 9         | Find the work done by the force F = 7i + 9j − 11k in moving an object along a straight line from (4,2,7) to (6,4,9).
+      ANS: W = 10 units (joules).
+111 | Exercise 3.4 | 10(i)     | For a = i − 2j + 3k and b = 3i − j − 5k, calculate the projection of a along b and the projection of b along a.
+      ANS: Projection of a along b = −10/√35; projection of b along a = −10/√14.
+112 | Exercise 3.4 | 10(ii)    | For a = 2i + 3j + 2k and b = i + 2j + k, calculate the projection of a along b and the projection of b along a.
+      ANS: Projection of a along b = 10/√6; projection of b along a = 10/√17.
+113 | Exercise 3.4 | 11        | Calculate the work done by the force F = 3i + 4j + 5k in displacing a body from position B to position A along a straight path, where r_A = 2i + 5j − 
+      ANS: W = 8 units.
+114 | Exercise 3.5 | 1(i)      | Find a × b and b × a if a = 4i + j + k and b = i + 2j + 3k.
+      ANS: a × b = i − 11j + 7k; b × a = −i + 11j − 7k.
+115 | Exercise 3.5 | 1(ii)     | Find a × b and b × a if a = −2i + 5j − 3k and b = 3i + 2j + k.
+      ANS: a × b = 11i − 7j − 19k; b × a = −11i + 7j + 19k.
+116 | Exercise 3.5 | 2         | Verify that a × b = −(b × a) for a = i − 7j + 7k and b = 3i − 2j + 2k.
+      ANS: a × b = 19j + 19k and b × a = −19j − 19k, so b × a = −(a × b).
+117 | Exercise 3.5 | 3         | Find a unit vector which is orthogonal to both the vectors a = i − 2j + 3k and b = 3i − 2j + k.
+      ANS: n̂ = (1/√6)i + (2/√6)j + (1/√6)k (or its negative).
+118 | Exercise 3.5 | 4         | Find a unit vector perpendicular to each of the vectors a + b and a − b, where a = 3i + 5j − k and b = i + 2j − 5k.
+      ANS: n̂ = (23/√726)i − (14/√726)j − (1/√726)k (or its negative).
+119 | Exercise 3.5 | 5         | Find the area of the parallelogram whose adjacent sides are represented by a = 5i − j + 3k and b = i + k.
+      ANS: Area = √6 square units.
+120 | Exercise 3.5 | 6         | Find the area of the triangle with vertices A(1,1,2), B(2,3,5) and C(1,5,5).
+      ANS: Area = √61/2 square units.
+121 | Exercise 3.5 | 7         | If a = 2i + j + 7k, b = i − 3j + 5k and c = −i + 5j + k, verify that a × (b + c) = (a × b) + (a × c).
+      ANS: Both sides equal −8i − 12j + 4k.
+122 | Exercise 3.5 | 8         | Using the cross product, find the angle between the vectors i − 7j + 7k and 3i − 2j + 2k.
+      ANS: θ ≈ 41°.
+123 | Exercise 3.5 | 9         | Find the moment about the point A(1,3,5) of the force F = i + 2j − k applied at B(3,−2,5).
+      ANS: M = 5i + 2j + 9k; |M| = √110 ≈ 10.49 Nm.
+124 | Exercise 3.5 | 10        | If you apply a 40 N force to the end of a 0.3 metre wrench at an angle of 110°, calculate the magnitude of the moment M₀ produced by the applied force
+      ANS: |M₀| = 11.28 Nm.
+125 | Exercise 3.6 | 1         | Find the scalar triple product of the vectors i + 2j + 3k, −i − j + k and i + j + k.
+      ANS: 2.
+126 | Exercise 3.6 | 2         | Compute [i + j, i, i − j + k].
+      ANS: −1.
+127 | Exercise 3.6 | 3(i)      | Find the volume of the parallelepiped whose edges are represented by the vectors 3i + 2j − k, i − 2j + k and i + 2j − 4k.
+      ANS: Volume = 24 cubic units.
+128 | Exercise 3.6 | 3(ii)     | Find the volume of the parallelepiped whose edges are represented by the vectors i − 2j + 3k, 2i − j − k and i + 2j − 4k.
+      ANS: Volume = 7 cubic units.
+129 | Exercise 3.6 | 4         | Find the volume of the tetrahedron whose vertices are A(2,1,8), B(3,2,9), C(2,1,4) and D(3,3,10).
+      ANS: Volume = 2/3 cubic units.
+130 | Exercise 3.6 | 5         | Show that the vectors 4i − j + k, 3i − 2j − k and i + j + 2k are coplanar.
+      ANS: Their scalar triple product is 0, so the vectors are coplanar.
+131 | Exercise 3.6 | 6         | Find λ if the vectors i + j + 2k, λi − j + k and 3i − 2j − k are coplanar.
+      ANS: λ = 4.
+132 | Exercise 3.6 | 7         | Show that i + j + k, i − 2j + 3k and 2i − j + 3k are not coplanar vectors.
+      ANS: Their scalar triple product is 3 ≠ 0, so they are not coplanar.
+133 | Review Exerc | i         | The unit vector in the direction of r = 2i + j − k is:
+      ANS: (a) (1/√6)(2i + j − k)
+134 | Review Exerc | ii        | The magnitude of a × b represents the ______ of a parallelogram with adjacent sides a and b.
+      ANS: (c) area
+135 | Review Exerc | iii       | The volume of a tetrahedron determined by vectors a, b and c is:
+      ANS: (c) (1/6)[a,b,c]
+136 | Review Exerc | iv        | a·(b × c) = ______.
+      ANS: (d) (a × b)·c
+137 | Review Exerc | v         | If a and b are parallel then a·b = ______.
+      ANS: (d) ab
+138 | Review Exerc | vi        | If three vectors a, b and c are coplanar, then [a b c] = ______.
+      ANS: (b) 0
+139 | Review Exerc | vii       | Direction cosines of the vector i + j − k are:
+      ANS: (d) 1/√3, 1/√3, −1/√3
+140 | Review Exerc | viii      | a × b is ______ to the plane of a and b.
+      ANS: (b) Perpendicular
+141 | Review Exerc | ix        | If a = P₁P₂, where P₁(0,0,1) and P₂(−3,1,2), then |a| =
+      ANS: (d) √11
+142 | Review Exerc | x         | If p = 4i + 6k and q = 6i − 4j, then |p − q| is:
+      ANS: (b) 2√14
+143 | Review Exerc | xi        | For non-zero vectors a and b, a × b is a unit vector and |a| = |b| = √2; then the angle θ between a and b is:
+      ANS: (c) π/6
+144 | Review Exerc | xii       | Magnitude of a = 3i − j + 2k is:
+      ANS: (c) √14
+145 | Review Exerc | xiii      | The position vector of the point (1, 0, 2) is:
+      ANS: (d) i + 2k
+146 | Review Exerc | xiv       | If O is the origin and OP = 2i + 3j − 4k and OQ = 5i + 4j − 3k, then PQ is equal to:
+      ANS: (c) 3i + j + k
+147 | Review Exerc | xv        | k × j = ______.
+      ANS: (d) −i
+148 | Review Exerc | xvi       | If |a × b| = |a·b| then the angle between a and b is:
+      ANS: (c) π/4
+149 | Review Exerc | xvii      | The distance of the point (−3,4,5) from the origin is:
+      ANS: (b) 5√2
+150 | Review Exerc | xviii     | The vector having initial and terminal points as (2,5,0) and (−3,7,4) respectively is:
+      ANS: (c) −5i + 2j + 4k
+151 | Review Exerc | xix       | If |a| = 10, |b| = 2 and a·b = 0, then the value of |a × b| is:
+      ANS: (d) 20
+152 | Review Exerc | xx        | The number of unit vectors of unit length perpendicular to the plane of the vectors a = 2i + j + 2k and b = j + k is:
+      ANS: (b) Two
+153 | Review Exerc | 2(i)      | Write PQ in the form xi + yj for P(4,6) and Q(−4,5).
+      ANS: PQ = −8i − j.
+154 | Review Exerc | 2(ii)     | Write PQ in the form xi + yj for P(−5/2, 9) and Q(10, 8).
+      ANS: PQ = (25/2)i − j.
+155 | Review Exerc | 3         | Find the vector PQ joining the points P(3,4,2) and Q(−2,3,4), and also find the direction cosines of PQ.
+      ANS: PQ = −5i − j + 2k; cosα = −5/√30, cosβ = −1/√30, cosγ = 2/√30.
+156 | Review Exerc | 4         | Show that P(2,3,6), Q(3,7,4) and R(4,11,−2) are collinear.
+      ANS: As printed the points are not collinear: PQ = (1,4,−2) and QR = (1,4,−6) are not parallel. If the intended point is R(4,11,2), then QR = (1,4,−2) = PQ
+157 | Review Exerc | 5         | Show that the vectors (1/7)i + j + k, 2i − 3j + 3k and 4i + j − 5k are mutually perpendicular.
+      ANS: They are not mutually perpendicular as printed: a·b = 2/7, a·c = −24/7 and b·c = −10, none of which is zero.
+158 | Review Exerc | 6         | Find the area of the parallelogram whose adjacent sides are 3i − 5j + 6k and i + 3j − 4k. Also find a unit vector parallel to its diagonal through the
+      ANS: Area = 2√131 square units; unit vector = (1/√6)(2i − j + k).
+159 | Review Exerc | 7         | Prove that [p + q, q + r, r + p] = 2[p q r].
+      ANS: [p+q, q+r, r+p] = 2[p q r].
+160 | Review Exerc | 8         | For the vectors a = i + 2j + k, b = 3i − j − k and c = i + 8j + k, verify the distributive property of the cross product.
+      ANS: a × (b + c) = (a × b) + (a × c) = −7i + 4j − k.

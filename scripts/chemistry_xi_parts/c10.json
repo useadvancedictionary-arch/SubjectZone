@@ -1,0 +1,260 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Only one pair of liquid in the following set does not obey Raoult law, identify it:",
+    "options": [
+      "Methanol and Ethanol",
+      "Benzene and toluene",
+      "n-Hexane and n-heptane",
+      "Ethanol and Acetone"
+    ],
+    "correct": "d",
+    "explanation": "Raoult's law, p_A = p°_A X_A, is obeyed exactly only by an ideal solution, in which the A–A, B–B and A–B intermolecular forces are all of the same strength, so ΔH_mix = 0 and ΔV_mix = 0. Methanol–ethanol (a), benzene–toluene (b) and n-hexane–n-heptane (c) are pairs of chemically similar liquids with nearly identical intermolecular forces, and each forms an almost ideal solution whose vapour pressures follow Raoult's law over the whole composition range. Ethanol and acetone (d) are chemically different: ethanol molecules are associated through hydrogen bonds, and acetone can hydrogen-bond to ethanol through its carbonyl oxygen. Adding acetone disrupts the ethanol–ethanol hydrogen bonds without forming equally strong new ones, so the molecules escape more readily, the vapour pressure is higher than Raoult's law predicts (positive deviation), and heat is absorbed on mixing. Hence (d) is the pair that does not obey Raoult's law.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Identify the incorrect statement about colloidal solution:",
+    "options": [
+      "It shows Tyndall effect",
+      "Its particles movement is Brownian type",
+      "Its particle size is less than 1 nm",
+      "Its physical appearance is translucent"
+    ],
+    "correct": "c",
+    "explanation": "A colloidal solution has dispersed particles with at least one dimension between about 1 nm and 1000 nm (1 nm to 1 µm). A particle size 'less than 1 nm' describes a true solution of ions or molecules, not a colloid, so statement (c) is incorrect and is the required answer. Statement (a) is correct: colloidal particles are large enough to scatter light, which is observed as the Tyndall effect. Statement (b) is correct: the dispersed particles are struck unevenly by solvent molecules and move in the random zig-zag Brownian motion explained by Einstein and seen with an ultramicroscope. Statement (d) is correct: a colloid is neither a clear transparent solution nor an opaque suspension but translucent, because it transmits most light while scattering part of it. The classification used in the chapter is true solution below 1 nm, colloid 1–1000 nm and suspension above 1000 nm.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Effect of pressure change play significant role in the solubility of:",
+    "options": [
+      "Solid into liquid",
+      "Liquid into liquid",
+      "Gas into liquid",
+      "All of them"
+    ],
+    "correct": "c",
+    "explanation": "Pressure strongly affects the solubility of a gas in a liquid because a gas is highly compressible, whereas solids and liquids are almost incompressible, so pressure has a negligible effect on them. Henry's law states that at constant temperature the solubility of a gas in a liquid is directly proportional to the partial pressure of that gas above the liquid, p = K_H X_gas. Raising the pressure increases the number of gas molecules striking the liquid surface and entering the solvent, so solubility rises; this is why carbonated drinks are bottled under CO₂ pressure and why deep-sea divers suffer from increased nitrogen solubility in blood. Lowering the pressure releases the dissolved gas. Because the effect is significant only for gas into liquid, (c) is correct and (d) 'All of them' is wrong.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Which is not a colligative property:",
+    "options": [
+      "Lowering in vapours pressure",
+      "Elevation in boiling point",
+      "Depression in freezing point",
+      "Atmospheric pressure"
+    ],
+    "correct": "d",
+    "explanation": "A colligative property is one that depends only on the number of solute particles in solution and not on their identity. The four colligative properties are relative lowering of vapour pressure (a), elevation of boiling point (b), depression of freezing point (c) and osmotic pressure. Each arises because the solute lowers the chemical potential (escaping tendency) of the solvent, so each is proportional to the concentration of particles: ΔTb = Kb m, ΔTf = Kf m and π = CRT. Atmospheric pressure (d) is the external pressure exerted by the atmosphere; it is a property of the surroundings, not of the solution, and does not depend on the amount of dissolved solute. Although atmospheric pressure fixes the temperature at which a liquid boils, it is not itself a colligative property, so (d) is the answer.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "According to Raoult law the relative lowering of vapour pressure is equal to:",
+    "options": [
+      "Mole fraction of solvent",
+      "Mole fraction of solute",
+      "Molality",
+      "Molarity"
+    ],
+    "correct": "b",
+    "explanation": "For a solution containing a non-volatile solute, Raoult's law gives p = X_solvent p°_solvent. The lowering of vapour pressure is p° − p = p°(1 − X_solvent) = p° X_solute, so the relative lowering (p° − p)/p° = X_solute, the mole fraction of the solute. This is one of the four colligative properties and is the starting point for deriving the elevation of boiling point and the depression of freezing point. Molality (c) and molarity (d) are concentration units that are proportional to the amount of solute, but neither is equal to the relative lowering; only the mole fraction gives the exact ratio. For example, if X_solute = 0.10, the vapour pressure falls by 10% of that of the pure solvent. Hence (b).",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The sum of mole fractions of components of a solution is equal to:",
+    "options": [
+      "0.0",
+      "1.0",
+      "10",
+      "100"
+    ],
+    "correct": "b",
+    "explanation": "For a solution containing components 1, 2, ..., i, the mole fraction of component i is X_i = n_i/(n₁ + n₂ + ...), the ratio of its moles to the total moles. Since each numerator is a part of the same total, X₁ + X₂ + ... = 1 exactly, whatever the number of components and whatever their proportions. In a binary solution X₁ + X₂ = 1, so X₂ = 1 − X₁; for example, a solution with X_ethanol = 0.090 has X_water = 0.910. Mole fractions are dimensionless numbers between 0 and 1. The value 1.0 (b) is therefore the sum; 0.0, 10 and 100 are impossible for a sum of fractions.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "How many moles of NaOH are present in a 2dm³ of 1 molar aqueous solution of it.",
+    "options": [
+      "0.5 mole",
+      "1 mole",
+      "1.5 mole",
+      "2 mole"
+    ],
+    "correct": "d",
+    "explanation": "Molarity is the number of moles of solute per cubic decimetre of solution, M = n/V, so n = M × V. Here M = 1 mol dm⁻³ and V = 2 dm³, giving n = 1 mol dm⁻³ × 2 dm³ = 2 mol of NaOH. The corresponding mass is 2 mol × 40 g mol⁻¹ = 80 g. Options (a) 0.5 mol, (b) 1 mol and (c) 1.5 mol would require only 0.5 dm³, 1 dm³ and 1.5 dm³ of the same solution respectively. The answer is (d).",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "A colloidal solution of liquid into liquid is known as:",
+    "options": [
+      "Gel",
+      "Foam",
+      "Sol",
+      "Emulsion"
+    ],
+    "correct": "d",
+    "explanation": "Colloids are classified according to the physical states of the dispersed phase and the dispersion medium. When both are liquids, droplets of one liquid are dispersed in the other and the system is called an emulsion, for example milk (butterfat droplets in water) and mayonnaise (oil-in-water). A gel (a) is a liquid dispersed in a solid, such as jelly or butter; a foam (b) is a gas dispersed in a liquid, such as whipped cream or soap lather; a sol (c) is a solid dispersed in a liquid, such as paint, blood plasma or a gold sol. The only liquid-in-liquid system listed is the emulsion, so (d) is correct.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "An example of completely immiscible liquid pair is:",
+    "options": [
+      "Benzene to toluene",
+      "Water and phenol",
+      "Water and Benzene",
+      "Water and methanol"
+    ],
+    "correct": "c",
+    "explanation": "Miscibility follows the rule 'like dissolves like': liquids with similar polarity and intermolecular forces mix in all proportions, while liquids whose molecules interact very differently do not. Benzene and toluene (a) are both non-polar aromatic hydrocarbons and are completely miscible. Water and methanol (d) can both form hydrogen bonds and are completely miscible. Water and phenol (b) are only partially miscible: the –OH group of phenol hydrogen-bonds with water while its aromatic ring is hydrophobic, and the pair becomes completely miscible only above about 66 °C. Water and benzene (c) consist of a polar hydrogen-bonded liquid and a non-polar hydrocarbon; the energy needed to break water–water hydrogen bonds is not recovered from benzene–water dispersion forces, so benzene dissolves only to about 0.07 g per 100 g of water. This pair is effectively completely immiscible, so (c) is the answer.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "A 15% W/W KOH solution can be prepared by mixing 15g KOH in:",
+    "options": [
+      "15g water",
+      "85g water",
+      "100g water",
+      "115g water"
+    ],
+    "correct": "b",
+    "explanation": "Percent by mass (w/w) is defined as mass of solute ÷ mass of solution × 100. A 15% w/w KOH solution therefore contains 15 g of KOH in every 100 g of solution, so the mass of water required is 100 g − 15 g = 85 g. Option (a) 15 g water gives 15/30 × 100 = 50%; option (c) 100 g water gives 15/115 × 100 = 13.0%; option (d) 115 g water gives 15/130 × 100 = 11.5%. Only 85 g of water gives 15/100 × 100 = 15%, so (b) is correct.",
+    "pdfPage": 222,
+    "bookPage": 216
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Name various units of concentration and explain mole fraction.",
+    "answer": "The units of concentration commonly used are: (1) percentage by mass, w/w; (2) percentage by volume, v/v; (3) mass/volume percentage, w/v; (4) molarity, M = moles of solute per dm³ of solution (mol dm⁻³); (5) molality, m = moles of solute per kg of solvent (mol kg⁻¹); (6) mole fraction, X; (7) normality, N = gram equivalents of solute per dm³ of solution; (8) parts per million, ppm; and (9) formality, F. Mole fraction is the ratio of the number of moles of one component to the total number of moles of all components in the solution. For a binary solution of components A and B, X_A = n_A/(n_A + n_B) and X_B = n_B/(n_A + n_B). It is a pure number with no units, its value lies between 0 and 1, the sum of all mole fractions is exactly 1, and because it is defined through moles (masses) it does not change with temperature. For example, 46 g of ethanol (1 mol) dissolved in 180 g of water (10 mol) gives X_ethanol = 1/11 = 0.0909 and X_water = 10/11 = 0.9091, and the two fractions add up to 1.",
+    "explanation": "Concentration expresses how much solute is present in a given amount of solution or solvent. Different units suit different purposes: molarity is convenient for volumetric analysis, molality and mole fraction are used for colligative-property calculations because they are temperature independent, and ppm is used for very dilute solutions such as pollutants. Mole fraction is especially important because the vapour pressures of ideal solutions are directly proportional to the mole fractions of their components (Raoult's law), and because it is a ratio of moles it is dimensionless and unaffected by temperature.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Define Molarity and molality. Which of these depends on temperature?",
+    "answer": "Molarity (M) is the number of moles of solute dissolved in one cubic decimetre (one litre) of solution: M = moles of solute ÷ volume of solution in dm³, with units mol dm⁻³. Molality (m) is the number of moles of solute dissolved in one kilogram of solvent: m = moles of solute ÷ mass of solvent in kg, with units mol kg⁻¹. Molarity depends on temperature: the volume of a solution expands when heated and contracts when cooled, so the same amount of solute occupies a different volume and the molarity changes. Molality does not depend on temperature, because it is based on the mass of solvent, which is unaffected by temperature changes. That is why molality and mole fraction, rather than molarity, appear in the equations for colligative properties.",
+    "explanation": "Molarity is the more convenient unit for preparing solutions in the laboratory because a volumetric flask measures the volume of solution directly, and it is used in titration calculations where the volume of solution that reacts is measured. However, because liquids expand on heating, the volume of a solution and hence its molarity change with temperature; a solution that is 1.00 M at 20 °C is slightly less concentrated at 40 °C. Molality avoids this problem by using the mass of solvent, which does not change with temperature. Colligative properties such as boiling-point elevation and freezing-point depression are therefore expressed in molality (ΔTb = Kb m and ΔTf = Kf m), and mole fraction, also based on moles rather than volume, is likewise temperature independent.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Explain on particles bases how the vapours pressure of solution is lowered by adding non volatile solute.",
+    "answer": "In a pure solvent at equilibrium, molecules escape from the liquid surface into the vapour and condense back at equal rates, and the pressure of the vapour at this balance is the vapour pressure of the pure solvent. When a non-volatile solute is dissolved, its particles occupy part of the liquid surface and cannot themselves enter the vapour phase. The fraction of the surface available to solvent molecules is therefore reduced, so fewer solvent molecules escape per unit time, while the rate at which vapour molecules condense back into the liquid is unchanged at a given pressure. Equilibrium is re-established only at a lower vapour pressure, so the vapour pressure of the solution is lower than that of the pure solvent. Quantitatively, Raoult's law gives p_solution = X_solvent p°_solvent, and the relative lowering is (p° − p)/p° = X_solute. Because the lowering depends on the number of solute particles, it is a colligative property; an electrolyte furnishes more particles per formula unit and therefore lowers the vapour pressure more than the same amount of a non-electrolyte.",
+    "explanation": "The lowering of vapour pressure is the fundamental colligative property from which the elevation of boiling point, depression of freezing point and osmotic pressure can all be derived. The particle picture explains why the effect depends on the number of dissolved particles rather than on their chemical nature: each solute particle occupies surface sites and hinders solvent escape, whatever its identity. The vapour pressure of the solution is always lower than that of the pure solvent at the same temperature, and the difference increases with the mole fraction of solute.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "What are miscible and immiscible liquids? Why n-hexane (petrol) is immiscible in water?",
+    "answer": "Miscible liquids are liquids that dissolve in one another in all proportions and form a single homogeneous phase, for example ethanol and water, benzene and toluene, or water and methanol. Immiscible liquids do not dissolve appreciably in one another and form two separate layers, for example benzene and water or n-hexane and water. n-Hexane (petrol) is a non-polar hydrocarbon held together only by weak London dispersion forces, while water is a highly polar molecule held together by a strong three-dimensional network of hydrogen bonds. For n-hexane to dissolve, the strong water–water hydrogen bonds would have to be broken and replaced by much weaker hexane–water dispersion forces; the energy required is not recovered, so the process is energetically unfavourable and the liquids remain in separate layers. This is the practical meaning of the rule 'like dissolves like'.",
+    "explanation": "Miscibility is governed by the balance between the forces holding each pure liquid together and the forces formed between unlike molecules. When the new interactions are comparable in strength to the old ones the liquids mix in all proportions (ethanol and water both hydrogen-bond). When the new interactions are much weaker the liquids separate. n-Hexane is a symmetrical non-polar molecule with only London dispersion forces, whereas water molecules are held by hydrogen bonds roughly twenty times stronger. The same behaviour is why petrol floats on water and why water is ineffective for extinguishing a petrol fire.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Solubility of oxygen in water increases with pressure but solubility of glucose in water has negligible effect of pressure why?",
+    "answer": "Oxygen is a gas, and the solubility of a gas in a liquid is governed by Henry's law: at constant temperature the solubility is directly proportional to the partial pressure of the gas above the liquid (p = K_H X). Oxygen molecules are small and the gas is highly compressible, so raising the pressure increases the number of gas molecules striking the liquid surface and entering the solvent, and the solubility rises; lowering the pressure reverses the process. Glucose is a solid molecular substance whose dissolution depends on breaking its crystal lattice and on hydrogen bonding with water, not on the volume of a gas phase. Solids and liquids are almost incompressible, so a change in external pressure produces no appreciable change in their escaping tendency or in the free volume available to the solvent. The solubility of glucose is therefore practically independent of pressure, and the very small effect is neglected.",
+    "explanation": "The difference is the difference between dissolving a gas and dissolving a solid. For a gas, the amount dissolved is proportional to its partial pressure above the liquid because the number of gas molecules striking the surface per unit time is proportional to pressure. For a solid such as glucose, the saturated concentration is fixed by the balance between lattice energy and hydration energy, both of which are essentially independent of pressure. Le Chatelier's principle confirms this: increasing pressure favours the side of the equilibrium with the smaller volume, and the dissolution of a solid in a liquid involves almost no change in volume.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State Raoult's law and derive its mathematical expression.",
+    "answer": "Statement: at a given temperature, the partial vapour pressure of each volatile component of a solution is directly proportional to its mole fraction in the solution. For a binary solution of liquids A and B, p_A = p°_A X_A and p_B = p°_B X_B, where p°_A and p°_B are the vapour pressures of the pure liquids and X_A and X_B are their mole fractions in the liquid.\nDerivation: consider a solution of A and B in a closed vessel. In pure liquid A the whole surface is occupied by A molecules and the vapour pressure is p°_A. In the solution only the fraction X_A of the surface is occupied by A molecules, and the rate at which A molecules escape into the vapour is proportional to that fraction. Hence p_A ∝ X_A, or p_A = k X_A. When X_A = 1 the liquid is pure A, so p_A = p°_A; therefore k = p°_A and p_A = p°_A X_A. Applying the same argument to component B gives p_B = p°_B X_B. By Dalton's law of partial pressures the total vapour pressure is P = p_A + p_B = p°_A X_A + p°_B X_B. Since X_B = 1 − X_A, this becomes P = p°_B + (p°_A − p°_B) X_A, a straight line when P is plotted against X_A. For a solution containing a non-volatile solute, p_solute = 0, so P = p°_solvent X_solvent and the relative lowering of vapour pressure is (p° − p)/p° = X_solute, the form used in colligative-property calculations.",
+    "explanation": "Raoult's law is the foundation of the physical chemistry of solutions: it links the composition of the liquid to its vapour pressure and leads directly to the colligative properties. The derivation assumes an ideal solution, an ideal vapour and, for the non-volatile case, a solute of negligible vapour pressure. The linear dependence of total pressure on mole fraction predicted by the law is observed experimentally for pairs such as benzene and toluene; deviations from the straight line are the signature of non-ideal behaviour. Positive deviations occur when A–B attractions are weaker than A–A and B–B, and negative deviations when they are stronger.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What does an Ideal solution means? Give four characteristics to distinguish between ideal and non ideal solution.",
+    "answer": "An ideal solution is one in which every component obeys Raoult's law over the entire range of composition and at all temperatures, so p_A = p°_A X_A and p_B = p°_B X_B throughout. It is a model solution in which the molecules of the components are so similar in size, shape and polarity that the A–A, B–B and A–B intermolecular attractions are equal; the components mix spontaneously with no absorption or evolution of heat (ΔH_mix = 0), no change in volume (ΔV_mix = 0), no extra entropy change beyond that of ideal mixing, and a vapour pressure that varies linearly with mole fraction. A solution of benzene and toluene is the standard example.\nFour characteristics distinguishing ideal from non-ideal solutions:\n(1) Vapour pressure: an ideal solution obeys Raoult's law at every composition, whereas a non-ideal solution shows positive or negative deviations, its partial vapour pressures being respectively greater or smaller than p°_i X_i.\n(2) Enthalpy of mixing: ΔH_mix = 0 for an ideal solution, while ΔH_mix ≠ 0 for a non-ideal solution, positive when the new A–B forces are weaker than A–A and B–B (endothermic) and negative when the A–B forces are stronger (exothermic).\n(3) Volume change on mixing: ΔV_mix = 0 for an ideal solution, whereas a non-ideal solution shows contraction (negative deviation) or expansion (positive deviation).\n(4) Intermolecular forces and azeotropes: in an ideal solution A–A, B–B and A–B forces are equal and no azeotrope forms, whereas in a non-ideal solution the A–B forces differ from A–A and B–B and constant-boiling azeotropes such as ethanol–water may form.",
+    "explanation": "The ideal solution is a limiting model, just as the ideal gas is; no real solution is ideal at every concentration, but dilute solutions approach ideality and many pairs of similar liquids (benzene–toluene, n-hexane–n-heptane, methanol–ethanol) are nearly ideal over the whole range. Positive deviations occur when A–B attractions are weaker than A–A and B–B (ethanol–acetone, ethanol–hexane), giving a higher vapour pressure and an endothermic heat of mixing; negative deviations occur when A–B attractions are stronger (chloroform–acetone, nitric acid–water), giving a lower vapour pressure and an exothermic heat of mixing. Large deviations can produce azeotropes, which cannot be separated by simple fractional distillation.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Define osmosis and osmotic pressure. Give four daily life examples of osmosis.",
+    "answer": "Osmosis is the spontaneous net movement of solvent molecules through a semipermeable membrane from a region of higher solvent concentration (lower solute concentration) to a region of lower solvent concentration (higher solute concentration), until equilibrium is reached. Osmotic pressure is the minimum excess pressure that must be applied to the solution side to stop this net flow of solvent across the membrane; it is measured as the hydrostatic pressure of the column of solution at equilibrium. For dilute solutions, van't Hoff's law gives π = CRT, where C is the molar concentration of solute, R is the gas constant and T is the absolute temperature.\nFour daily-life examples: (1) Plant roots absorb soil water through their semipermeable root hairs because the cell sap is more concentrated than the surrounding soil solution. (2) Fresh vegetables and fruits become crisp by absorbing water, but shrivel (plasmolysis) when placed in concentrated salt or sugar solution because water leaves the cells. (3) The kidneys remove waste by dialysis through semipermeable membranes, and the same principle is used in haemodialysis for patients with kidney failure. (4) Food is preserved in concentrated salt or sugar solutions (pickles, jams) because the high osmotic pressure of the external solution draws water out of bacterial cells and prevents their growth. Other acceptable examples are the swelling of a seed before germination, red blood cells bursting in pure water, the sensation of thirst, and water uptake by a cucumber placed in a hypotonic solution.",
+    "explanation": "Osmosis is a special case of diffusion of solvent through a semipermeable membrane, and it is one of the four colligative properties because the osmotic pressure depends on the number of solute particles (π = CRT for dilute solutions, or π = iCRT for electrolytes). The direction of flow is from the more dilute to the more concentrated solution, that is from higher to lower solvent chemical potential. Osmotic pressure is important in biology (cell turgor, water transport in plants, kidney function) and in industry (reverse osmosis desalination, in which a pressure greater than π is applied to force solvent back through the membrane).",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "What are colligative properties? Why does the boiling point of a liquid get raised when a non volatile solute is added?",
+    "answer": "Colligative properties are those properties of a solution that depend only on the number (concentration) of dissolved solute particles and not on the chemical nature, size or mass of those particles. The four colligative properties are relative lowering of vapour pressure, elevation of boiling point, depression of freezing point and osmotic pressure. The boiling point of a liquid is the temperature at which its vapour pressure becomes equal to the external atmospheric pressure. When a non-volatile solute is dissolved, its particles occupy part of the surface and reduce the escaping tendency of the solvent, so the vapour pressure is lowered at every temperature according to Raoult's law, p = X_solvent p°_solvent. The vapour pressure curve of the solution therefore lies below that of the pure solvent and intersects the horizontal atmospheric-pressure line at a higher temperature. The liquid must be heated above its normal boiling point before its vapour pressure again equals the external pressure, so the boiling point is raised. The elevation is ΔTb = Tb − Tb° = Kb m, where Kb is the ebullioscopic constant of the solvent and m is the molality of the solute; it is a colligative property because it depends on the number of solute particles.",
+    "explanation": "All four colligative properties have the same physical origin: the solute lowers the chemical potential of the solvent, which lowers the vapour pressure and shifts the liquid–vapour and liquid–solid equilibria. Boiling-point elevation is measured with an ebullioscope and freezing-point depression with a Beckmann thermometer; the latter is especially useful for determining molar masses because Kf is larger than Kb for most solvents. The equations ΔTb = Kb m and ΔTf = Kf m are strictly valid for dilute solutions of non-volatile, non-electrolyte solutes; for electrolytes the van't Hoff factor i must be included, and for concentrated solutions activities replace concentrations.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Differentiate among true solution, colloidal solution and suspension on the bases of.\n(i) Particle size\n(ii) Visibility",
+    "answer": "(i) Particle size: in a true solution the dissolved particles are atoms, ions or molecules smaller than 1 nm (10⁻¹⁰–10⁻⁹ m); in a colloidal solution the dispersed particles have sizes from 1 nm to 1000 nm (10⁻⁹–10⁻⁶ m); in a suspension the particles are larger than 1000 nm (10⁻⁶ m) and may be visible.\n(ii) Visibility: a true solution is transparent and homogeneous, its particles cannot be seen even with a microscope and it does not scatter light, so it shows no Tyndall effect; a colloidal solution appears clear or translucent, its particles cannot be seen with the naked eye or an ordinary microscope but can be detected under an ultramicroscope, and it scatters a beam of light, showing the Tyndall effect; a suspension is heterogeneous and opaque, its particles are visible to the naked eye, settle under gravity on standing and can be separated by ordinary filter paper.",
+    "explanation": "These differences are operational rather than absolute: the boundaries at 1 nm and 1000 nm are conventional, and a system near a boundary may show intermediate behaviour. The key microscopic reason for the differences is that the size of the dispersed particles controls whether light is scattered (Tyndall effect), whether Brownian motion keeps the particles suspended, and whether gravity or a filter can separate them. A true solution is a single phase; a colloid is a two-phase system that is kinetically stable because Brownian motion and electrical repulsion prevent settling; a suspension is a coarse two-phase system that settles and can be filtered. Related differences follow from particle size: true-solution particles pass through both filter paper and parchment, colloid particles pass through filter paper but not parchment, and suspension particles are retained by both.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Automotive antifreeze is a 60% (w/w) aqueous solution of ethylene glycol (C₂H₆O₂). Determine:\n(a) molality of solution\n(b) mole fraction of ethylene glycol in the solution.\n[Ans: molality = 24.19 mol/kg, X = 0.3]",
+    "answer": "Given: 60% (w/w) ethylene glycol solution, so every 100 g of solution contains 60 g of ethylene glycol and 40 g of water; molar mass of C₂H₆O₂ = 2(12.0) + 6(1.0) + 2(16.0) = 62.0 g mol⁻¹; molar mass of H₂O = 18.0 g mol⁻¹.\n(a) Molality: moles of ethylene glycol = 60 g ÷ 62.0 g mol⁻¹ = 0.9677 mol. Mass of solvent = 40 g = 0.0400 kg. Molality = 0.9677 mol ÷ 0.0400 kg = 24.19 mol kg⁻¹. Check: m = 1000 × 60/(62 × 40) = 24.19 mol kg⁻¹.\n(b) Mole fraction: moles of water = 40 g ÷ 18.0 g mol⁻¹ = 2.222 mol. Total moles = 0.9677 + 2.222 = 3.190 mol. X_glycol = 0.9677 ÷ 3.190 = 0.303 ≈ 0.30. X_water = 2.222 ÷ 3.190 = 0.697, and 0.303 + 0.697 = 1.000.\nAnswer: molality = 24.19 mol kg⁻¹ and mole fraction of ethylene glycol X₂ = 0.30, matching the printed [Ans: molality = 24.19 mol/kg, X = 0.3].",
+    "explanation": "A 60% w/w solution is specified by masses, so no density is needed; choosing a 100 g basis converts the percentage directly into 60 g of solute and 40 g of solvent. Molality uses the mass of solvent (not of solution) in kilograms, which is why 40 g and not 100 g appears in the denominator. Mole fraction uses the moles of both components and is dimensionless. The very large molality (24.19 mol kg⁻¹) shows that the antifreeze is a concentrated solution; it lowers the freezing point of the coolant substantially, which is precisely the purpose of antifreeze. Using the dilute-solution equation ΔTf = Kf m with Kf = 1.86 °C kg mol⁻¹ for water gives ΔTf ≈ 45 °C, though the real concentrated solution deviates from this ideal estimate.",
+    "pdfPage": 223,
+    "bookPage": 217
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A solution is prepared by mixing 46g ethanol (C₂H₅OH) and 180g water. Calculate the mole fraction of both components. [Ans: X₂ = 0.090, X₁ = 0.909]",
+    "answer": "Given: mass of ethanol = 46 g; molar mass of C₂H₅OH = 2(12.0) + 6(1.0) + 16.0 = 46.0 g mol⁻¹; mass of water = 180 g; molar mass of H₂O = 18.0 g mol⁻¹.\nStep 1, moles of ethanol (component 2): n₂ = 46 g ÷ 46.0 g mol⁻¹ = 1.00 mol.\nStep 2, moles of water (component 1): n₁ = 180 g ÷ 18.0 g mol⁻¹ = 10.0 mol.\nStep 3, total moles: n = n₁ + n₂ = 10.0 + 1.00 = 11.0 mol.\nStep 4, mole fractions: X₂ = n₂/n = 1.00/11.0 = 0.0909 ≈ 0.090; X₁ = n₁/n = 10.0/11.0 = 0.9091 ≈ 0.909.\nCheck: X₁ + X₂ = 0.0909 + 0.9091 = 1.000.\nAnswer: X_ethanol = 0.090 and X_water = 0.909, matching the printed [Ans: X₂ = 0.090, X₁ = 0.909].",
+    "explanation": "Mole fraction is the ratio of the moles of one component to the total moles, so both masses must first be converted into moles using their molar masses. Ethanol and water are completely miscible, so the mixture is a single liquid phase and the mole fractions describe its composition. Because X₁ + X₂ = 1, only one mole fraction needs to be calculated and the other follows by subtraction. Mole fractions are temperature independent and are used directly in Raoult's law; for example, the vapour pressure of this solution would be p = X_water p°_water + X_ethanol p°_ethanol.",
+    "pdfPage": 223,
+    "bookPage": 217
+  }
+]

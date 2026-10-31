@@ -1,0 +1,41 @@
+# Dependencies and build output
+node_modules/
+dist/
+release/
+_tools/
+
+# Source books and rendered page scans (too large for GitHub; regenerate locally)
+Books and Solutions/
+_book_pages/
+public/books/
+
+# Scratch images from the solution pipelines
+_inv*/
+.tmp_crops/
+_crop_*.png
+_c[0-9]*.png
+scripts/**/*.png
+scripts/**/*.jpg
+scripts/**/*.jpeg
+scripts/**/*.webp
+scripts/debug_highlights/
+
+# Android build artefacts and signing material
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/public/
+android/local.properties
+android/keystore.properties
+android/app/*.jks
+*.jks
+
+# MSIX signing material
+build/msix/*.pfx
+build/msix/*.cer
+*.pfx
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,260 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "H₂SO₄ is stronger acid than CH₃COOH because:",
+    "options": [
+      "It gives two H⁺ ion per molecule",
+      "Its boiling point is high",
+      "Its degree of ionization is high",
+      "It is highly corrosive"
+    ],
+    "correct": "c",
+    "explanation": "Acid strength is measured by the extent to which an acid donates protons to water, that is by its degree of ionization, not by the number of hydrogen atoms in its formula. H₂SO₄ is a strong acid: its first ionization is essentially complete, H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻, so a 0.1 M solution furnishes almost 0.1 M H₃O⁺. Acetic acid is a weak acid, CH₃COOH + H₂O ⇌ H₃O⁺ + CH₃COO⁻, with Ka = 1.8 × 10⁻⁵, so only about 1.3% of its molecules are ionized in 0.1 M solution. Option (a) confuses basicity (the number of replaceable hydrogen atoms) with acid strength: HCl, with only one hydrogen per molecule, is a much stronger acid than acetic acid. Boiling point (b) and corrosiveness (d) are physical properties and do not measure the tendency to release a proton. Hence (c), its degree of ionization is high.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Al₂O₃ is amphoteric oxide because it reacts with:",
+    "options": [
+      "Acids",
+      "Base",
+      "Both acids and base",
+      "Neither acid nor base"
+    ],
+    "correct": "c",
+    "explanation": "An amphoteric oxide is one that can neutralize both acids and bases, because it behaves as a base towards an acid and as an acid towards a base. Aluminium oxide dissolves in acids to give aluminium salts: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O. It also dissolves in strong alkalis to give aluminates: Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄], or on fusion Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O. Since it reacts with both acids and bases it is amphoteric. An oxide that reacts only with acids is basic (Na₂O, CaO), and one that reacts only with bases is acidic (CO₂, SO₂). Hence (c), both acids and base.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Which of the following is not a Buffer solution:",
+    "options": [
+      "CH₃COOH/CH₃COONa",
+      "Na₂CO₃/NaHCO₃",
+      "NH₄OH/NH₄Cl",
+      "NaOH/HCl"
+    ],
+    "correct": "d",
+    "explanation": "A buffer is a mixture of a weak acid and its conjugate base, or a weak base and its conjugate acid, in comparable amounts, so that it can absorb added H⁺ or OH⁻ with little change in pH. CH₃COOH/CH₃COONa is the standard acidic buffer (pH ≈ 4.7); Na₂CO₃/NaHCO₃ is a basic buffer built on the CO₃²⁻/HCO₃⁻ conjugate pair (pH ≈ 10.3); NH₄OH/NH₄Cl is a basic buffer built on the NH₃/NH₄⁺ pair (pH ≈ 9.25). NaOH/HCl, however, is a mixture of a strong acid and a strong base: they neutralize each other almost completely, H⁺ + OH⁻ → H₂O, and neither a weak acid nor a weak base remains to absorb further additions, so the pH changes sharply. Such a mixture is not a buffer, hence (d).",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Which oxide is amphoteric in nature:",
+    "options": [
+      "K₂O",
+      "CO₂",
+      "CaO",
+      "Al₂O₃"
+    ],
+    "correct": "d",
+    "explanation": "K₂O and CaO are basic oxides: they are the anhydrides of the strong bases KOH and Ca(OH)₂ and react only with acids, for example K₂O + 2HCl → 2KCl + H₂O. CO₂ is an acidic oxide, the anhydride of carbonic acid; it dissolves in water to give H₂CO₃ and reacts with bases to give carbonates (CO₂ + 2NaOH → Na₂CO₃ + H₂O) but does not react with acids. Al₂O₃ is amphoteric: it reacts with acids to give aluminium salts (Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O) and with alkalis to give aluminates (Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]). Hence the amphoteric oxide is Al₂O₃, option (d).",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Which of the following does not alter the pH of a solution?",
+    "options": [
+      "NH₄Cl",
+      "Na₂CO₃",
+      "NaCl",
+      "Mg(OH)Cl"
+    ],
+    "correct": "c",
+    "explanation": "A salt changes the pH of water only if one of its ions hydrolyses. NaCl is the salt of a strong acid (HCl) and a strong base (NaOH): Cl⁻ is the conjugate base of a strong acid and Na⁺ is the conjugate acid of a strong base, so neither ion reacts with water to any measurable extent and a NaCl solution stays neutral at pH 7. NH₄Cl is acidic because NH₄⁺ hydrolyses (NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺), Na₂CO₃ is alkaline because CO₃²⁻ hydrolyses (CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻), while Mg(OH)Cl is a basic salt whose solution is alkaline because it contains OH⁻ in addition to Cl⁻. Hence NaCl, option (c), does not alter the pH.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Conjugated acid of NH₃ is:",
+    "options": [
+      "NH₄⁺",
+      "NH₂⁻",
+      "NH₂",
+      "NH"
+    ],
+    "correct": "a",
+    "explanation": "In the Brønsted-Lowry theory an acid is a proton donor and a base is a proton acceptor, and a conjugate acid is the species formed when a base accepts one proton. Ammonia accepts a proton from water, NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, so NH₄⁺ is the conjugate acid of NH₃ and NH₃ is the conjugate base of NH₄⁺; the two differ by exactly one proton. NH₂⁻ is obtained by removing H⁺ from NH₃ and is therefore the conjugate base formed when ammonia itself acts as an acid (NH₃ ⇌ NH₂⁻ + H⁺), not its conjugate acid. NH₂ and NH are not related to ammonia by the gain of a proton. Hence (a), NH₄⁺.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Salt which is formed by the neutralization of weak acid and strong base is:",
+    "options": [
+      "NaNO₃",
+      "NH₄Cl",
+      "Na₂CO₃",
+      "NH₄CN"
+    ],
+    "correct": "c",
+    "explanation": "The nature of a salt is fixed by the strengths of the acid and the base from which it is formed. Na₂CO₃ is obtained when carbonic acid, a weak acid, is neutralized by sodium hydroxide, a strong base: H₂CO₃ + 2NaOH → Na₂CO₃ + 2H₂O. Its anion hydrolyses, CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻, so the solution is alkaline. NaNO₃ is formed from HNO₃ (strong acid) and NaOH (strong base); NH₄Cl from HCl (strong acid) and NH₄OH (weak base); NH₄CN from HCN (weak acid) and NH₄OH (weak base). The salt of a weak acid and a strong base is therefore Na₂CO₃, option (c).",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which of the following statements is not correct about the bases?",
+    "options": [
+      "They have bitter tastes",
+      "They have high pH value",
+      "They react with acids to form salts",
+      "They turn blue litmus red"
+    ],
+    "correct": "d",
+    "explanation": "Bases have a bitter taste (a) and a soapy feel, they give pH values above 7 (b), and they neutralize acids to form a salt and water (c), for example NaOH + HCl → NaCl + H₂O. Their action on indicators is the opposite of that of acids: bases turn red litmus blue and leave blue litmus blue, whereas it is acids that turn blue litmus red. Statement (d) therefore describes an acid and not a base, so it is the incorrect statement about bases that the question asks for.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "A conjugate acid base pair has the difference of only:",
+    "options": [
+      "One electron",
+      "One proton",
+      "One electron pair",
+      "One proton pair"
+    ],
+    "correct": "b",
+    "explanation": "According to Brønsted and Lowry an acid is a proton donor and a base is a proton acceptor, and a conjugate acid-base pair consists of two species that differ by exactly one proton. For example CH₃COOH and CH₃COO⁻ differ by one H⁺, NH₄⁺ and NH₃ differ by one H⁺, and H₃O⁺ and H₂O differ by one H⁺. A proton is the hydrogen ion H⁺, so the difference is one proton, not one electron or one electron pair. The electron-pair relationship belongs to the Lewis theory, in which an acid accepts and a base donates a pair of electrons. Hence (b), one proton.",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Salt formed by neutralization of weak acid and weak base is:",
+    "options": [
+      "NH₄Cl",
+      "Na₂CO₃",
+      "NH₄CN",
+      "Na₂SO₄"
+    ],
+    "correct": "c",
+    "explanation": "NH₄CN is obtained by neutralizing hydrocyanic acid, HCN, a weak acid, with ammonium hydroxide, NH₄OH, a weak base: HCN + NH₄OH → NH₄CN + H₂O. In solution both ions hydrolyse: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺ and CN⁻ + H₂O ⇌ HCN + OH⁻. Since Ka(HCN) = 4.9 × 10⁻¹⁰ is smaller than Kb(NH₃) = 1.8 × 10⁻⁵, the basic hydrolysis predominates and the solution is slightly alkaline (pH ≈ 9.3). NH₄Cl is a strong acid-weak base salt, Na₂CO₃ a weak acid-strong base salt and Na₂SO₄ a strong acid-strong base salt, so none of them is made from a weak acid and a weak base. Hence (c).",
+    "pdfPage": 185,
+    "bookPage": 179
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define pH & pOH of a solution? Also show that pH + pOH = 14.",
+    "answer": "pH: The pH of a solution is the negative logarithm to the base 10 of its hydrogen ion (hydronium ion) concentration expressed in moles per cubic decimetre: pH = −log₁₀[H⁺], or pH = −log₁₀[H₃O⁺]. It measures the acidity of a solution on a scale that usually runs from 0 to 14 at 25 °C: pH < 7 for an acidic solution, pH = 7 for a neutral solution and pH > 7 for a basic solution. Because the scale is logarithmic, a change of one pH unit means a tenfold change in [H⁺]; for example [H⁺] = 10⁻³ M gives pH = 3.\npOH: pOH is the negative logarithm of the hydroxide ion concentration: pOH = −log₁₀[OH⁻]. It measures the basicity of a solution, so a high pOH corresponds to a low [OH⁻] and an acidic solution.\nProof that pH + pOH = 14: In water the ionic product is Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 25 °C. Taking logarithms of both sides, log[H⁺] + log[OH⁻] = log(1.0 × 10⁻¹⁴) = −14. Multiplying throughout by −1 gives (−log[H⁺]) + (−log[OH⁻]) = 14, that is pH + pOH = 14.\nCheck: in pure water [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ M, so pH = 7 and pOH = 7, and 7 + 7 = 14. If [H⁺] = 10⁻³ M, then pH = 3, [OH⁻] = 10⁻¹¹ M, pOH = 11, and again pH + pOH = 14. The relation holds at 25 °C because it is based on Kw at that temperature; at 100 °C, Kw ≈ 1 × 10⁻¹², so pH + pOH = 12.",
+    "explanation": "pH and pOH are defined through negative logarithms so that the very small concentrations of H⁺ and OH⁻, typically between 10⁻¹ and 10⁻¹⁴ M, can be written as convenient numbers. The sum relation follows directly from the self-ionization equilibrium of water, for which Kw = [H⁺][OH⁻] is constant at a given temperature. Because the product of the two concentrations is fixed, an increase in [H⁺] must be accompanied by a proportional decrease in [OH⁻], which is exactly what pH + pOH = pKw = 14 expresses. The relation is valid only in dilute aqueous solutions and only at 25 °C; at other temperatures pKw is different.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Why the aqueous solution of NH₄Cl is acidic and Na₂CO₃ is alkaline.",
+    "answer": "The acidity or alkalinity of a salt solution is decided by hydrolysis, that is by the reaction of its ions with water.\nNH₄Cl is acidic: NH₄Cl is the salt of a strong acid, HCl, and a weak base, NH₃. The chloride ion is the conjugate base of a strong acid and does not hydrolyse, but the ammonium ion is the conjugate acid of the weak base ammonia and donates a proton to water: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺. Extra hydronium ions are produced, so [H⁺] > 10⁻⁷ M and the solution is acidic (pH < 7, about 5 for 0.1 M NH₄Cl). The hydrolysis constant is Kh = Kw/Kb = 1.0 × 10⁻¹⁴/1.8 × 10⁻⁵ = 5.6 × 10⁻¹⁰.\nNa₂CO₃ is alkaline: Na₂CO₃ is the salt of a strong base, NaOH, and a weak acid, H₂CO₃. The sodium ion does not hydrolyse, but the carbonate ion is the conjugate base of the weak acid HCO₃⁻ and accepts a proton from water: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻ (and HCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻ to a smaller extent). The hydroxide ions released make [OH⁻] > 10⁻⁷ M, so the solution is alkaline (pH > 7, about 11.6 for 0.1 M Na₂CO₃). Its hydrolysis constant is Kh = Kw/Ka₂ = 1.0 × 10⁻¹⁴/4.7 × 10⁻¹¹ ≈ 2.1 × 10⁻⁴, which is much larger than that of NH₄⁺, so carbonate is hydrolysed to a much greater extent than ammonium ion.\nIn short, the cation of a weak base hydrolyses to give an acidic solution (NH₄Cl), while the anion of a weak acid hydrolyses to give an alkaline solution (Na₂CO₃).",
+    "explanation": "Salts of a strong acid and a strong base, such as NaCl and KNO₃, are neutral because neither ion reacts with water. When one of the ions is the conjugate of a weak acid or a weak base it does react with water, taking or giving a proton, and thereby shifts the self-ionization equilibrium of water. NH₄⁺ is a weak acid (Ka = Kw/Kb = 5.6 × 10⁻¹⁰) and releases H₃O⁺; CO₃²⁻ is a weak base (Kb = Kw/Ka₂ ≈ 2.1 × 10⁻⁴) and releases OH⁻. The pH of such solutions can be calculated from the hydrolysis constant and the concentration of the salt.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Write down conjugate base of each of the following acids.\nH₂SO₄, H₂S, NH₄⁺, HCOOH",
+    "answer": "A conjugate base is formed when an acid loses one proton (H⁺).\n(i) H₂SO₄ → HSO₄⁻ (hydrogen sulphate ion).\n(ii) H₂S → HS⁻ (hydrogen sulphide ion).\n(iii) NH₄⁺ → NH₃ (ammonia).\n(iv) HCOOH → HCOO⁻ (formate ion).\nIn every case the acid and its conjugate base differ by exactly one proton, giving the pairs H₂SO₄/HSO₄⁻, H₂S/HS⁻, NH₄⁺/NH₃ and HCOOH/HCOO⁻. Note that HSO₄⁻ and HS⁻ are themselves amphiprotic: they can lose a further proton to give SO₄²⁻ and S²⁻, or accept a proton to give back H₂SO₄ and H₂S.",
+    "explanation": "The conjugate base of a Brønsted acid is obtained by removing one H⁺ and lowering the charge by one unit, so the number of hydrogen atoms decreases by one and the negative charge increases by one. The stronger the acid, the weaker its conjugate base: HSO₄⁻ and HS⁻ are still able to act as acids, whereas HCOO⁻ and NH₃ act mainly as bases. This is why H₂SO₄ is a strong acid in its first ionization but HSO₄⁻ is only a weak acid in its second.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "What is meant by self-ionization of water? Write the expression of Kw. What is its value at 25°C?",
+    "answer": "Self-ionization (auto-ionization) of water: Water is a very weak electrolyte which ionizes to a small extent by transferring a proton from one water molecule to another: H₂O + H₂O ⇌ H₃O⁺ + OH⁻, or more simply H₂O ⇌ H⁺ + OH⁻. This process, in which water molecules themselves produce hydronium and hydroxide ions, is called the self-ionization of water. In pure water at 25 °C the concentrations are [H₃O⁺] = [OH⁻] = 1.0 × 10⁻⁷ mol dm⁻³, so only about one water molecule in 550 million is ionized at any instant.\nExpression for Kw: The equilibrium constant of the self-ionization, written as the ionic product, is Kw = [H₃O⁺][OH⁻], or Kw = [H⁺][OH⁻]. The concentration of liquid water is essentially constant and is incorporated into the constant.\nValue at 25 °C: Kw = (1.0 × 10⁻⁷)(1.0 × 10⁻⁷) = 1.0 × 10⁻¹⁴ mol² dm⁻⁶, so pKw = −log Kw = 14. The value rises with temperature, for example Kw ≈ 1 × 10⁻¹² at 100 °C, because the ionization is endothermic.",
+    "explanation": "The self-ionization equilibrium is the basis of the pH scale. Because [H⁺][OH⁻] is constant at a fixed temperature, adding an acid raises [H⁺] and lowers [OH⁻], and adding a base does the opposite, while the product remains 1.0 × 10⁻¹⁴ at 25 °C. Kw is used to convert [H⁺] into [OH⁻] and to derive the relation pH + pOH = 14. In pure water the solution is neutral not because there are no ions but because the two ions are present in equal concentration, 10⁻⁷ M each.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Write equation and indicate the conjugate acid-base pairs for the following:\n(i) Acetic acid & ammonia\n(ii) Hydrochloric acid & water",
+    "answer": "(i) Acetic acid and ammonia:\nCH₃COOH + NH₃ ⇌ CH₃COO⁻ + NH₄⁺\nAcetic acid donates a proton and is the acid; ammonia accepts it and is the base. The two conjugate acid-base pairs are CH₃COOH (acid)/CH₃COO⁻ (conjugate base) and NH₃ (base)/NH₄⁺ (conjugate acid). Each pair differs by one proton. Since both substances are weak, the equilibrium constant is K = Ka(CH₃COOH) × Kb(NH₃)/Kw = (1.8 × 10⁻⁵)(1.8 × 10⁻⁵)/(1.0 × 10⁻¹⁴) ≈ 3.2 × 10⁴, so the equilibrium lies well to the right: acetic acid is a stronger acid than NH₄⁺ and ammonia is a stronger base than CH₃COO⁻.\n(ii) Hydrochloric acid and water:\nHCl + H₂O ⇌ H₃O⁺ + Cl⁻\nHCl donates a proton and is the acid; water accepts it and is the base. The conjugate pairs are HCl (acid)/Cl⁻ (conjugate base) and H₂O (base)/H₃O⁺ (conjugate acid). Because HCl is a strong acid the equilibrium lies almost completely to the right, so in dilute solution the reaction is written with a single arrow: HCl + H₂O → H₃O⁺ + Cl⁻. Here water acts as a base; with ammonia it acts as an acid, which is why water is called amphiprotic.",
+    "explanation": "In the Brønsted-Lowry scheme every acid-base reaction involves two conjugate pairs, one on each side of the equation. The species that loses the proton is the acid and the species that gains it is the base; on the product side the deprotonated species is the conjugate base and the protonated species is the conjugate acid. The position of the equilibrium always favours the formation of the weaker acid and the weaker base, which is why a strong acid such as HCl transfers its proton almost completely to water while acetic acid does so only slightly.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Explain Bronsted-Lowry theory of acids and bases. What is meant by conjugate acid-base pair give examples?",
+    "answer": "Brønsted-Lowry theory: In 1923 Brønsted and Lowry proposed that an acid is a proton (H⁺) donor and a base is a proton acceptor. An acid-base reaction is therefore a proton-transfer reaction: the acid gives up a proton and the base takes it up. For example, in HCl + H₂O → H₃O⁺ + Cl⁻, HCl donates a proton (acid) and water accepts it (base); in NH₃ + H₂O ⇌ NH₄⁺ + OH⁻, water donates a proton (acid) and ammonia accepts it (base). The theory does not require water as the solvent, so it also describes reactions in other solvents and in the gas phase, for example HCl(g) + NH₃(g) → NH₄Cl(s). It also explains why substances such as H₂O, HCO₃⁻ and HSO₄⁻ can act either as an acid or as a base (amphiprotic behaviour).\nConjugate acid-base pair: A pair of species that differ by exactly one proton, one of them being the acid and the other the base left after that acid has lost the proton. Examples: HCl/Cl⁻, in which HCl is the acid and Cl⁻ its conjugate base; CH₃COOH/CH₃COO⁻; NH₄⁺/NH₃, in which NH₄⁺ is the acid and NH₃ its conjugate base; H₃O⁺/H₂O; HSO₄⁻/SO₄²⁻; and HCO₃⁻/CO₃²⁻. In the reaction CH₃COOH + NH₃ ⇌ CH₃COO⁻ + NH₄⁺ there are two conjugate pairs, CH₃COOH/CH₃COO⁻ and NH₄⁺/NH₃.\nStrength relation: the stronger an acid, the weaker its conjugate base, and the stronger a base, the weaker its conjugate acid. HCl is a strong acid, so Cl⁻ is a very weak base; CH₃COOH is a weak acid, so CH₃COO⁻ is a strong enough base to accept protons from water. This is why a strong acid displaces a weak acid from its salt: HCl + CH₃COONa → CH₃COOH + NaCl.",
+    "explanation": "The Brønsted-Lowry definition is broader than the Arrhenius definition because it does not restrict acids and bases to species that give H⁺ or OH⁻ in water; the essential requirement is proton transfer, which may occur in any solvent or even in the absence of a solvent. It introduces conjugate pairs, which allow acid and base strengths to be compared quantitatively through Ka and Kb, related by Ka × Kb = Kw. Its limitation, removed by the Lewis theory, is that it cannot classify species such as BF₃ and AlCl₃ as acids because they have no proton to donate.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Define the process of hydrolysis. Explain the behavior of each of the following salts in aqueous solution.\n(i) K₂CO₃\n(ii) (NH₄)₂SO₄\n(iii) NaNO₃",
+    "answer": "Hydrolysis: Hydrolysis is the reaction of the ions of a salt with water, in which the cation or the anion (or both) takes up or gives up a proton, so that the solution becomes acidic, alkaline or remains neutral. It is the reverse of neutralization and occurs because the ions of a weak acid or a weak base are themselves conjugate bases or acids and therefore react with water. The hydrolysis constant is Kh = Kw/Ka for an anion and Kh = Kw/Kb for a cation.\n(i) K₂CO₃: It is the salt of a strong base, KOH, and a weak acid, H₂CO₃. K⁺ is the conjugate acid of a strong base and does not hydrolyse, but CO₃²⁻ is the conjugate base of the weak acid HCO₃⁻ and hydrolyses: CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻, followed to a smaller extent by HCO₃⁻ + H₂O ⇌ H₂CO₃ + OH⁻. Hydroxide ions are produced, so the solution is basic (pH > 7, about 11.6 for 0.1 M). The hydrolysis constant is Kh = Kw/Ka₂ = 1.0 × 10⁻¹⁴/4.7 × 10⁻¹¹ ≈ 2.1 × 10⁻⁴.\n(ii) (NH₄)₂SO₄: It is the salt of a weak base, NH₃, and a strong acid, H₂SO₄. SO₄²⁻ is the conjugate base of HSO₄⁻, a moderately strong acid, and its hydrolysis is negligible, but NH₄⁺ is the conjugate acid of the weak base NH₃ and hydrolyses: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺. Hydronium ions are produced, so the solution is acidic (pH < 7, about 5 for 0.1 M). The hydrolysis constant is Kh = Kw/Kb = 1.0 × 10⁻¹⁴/1.8 × 10⁻⁵ = 5.6 × 10⁻¹⁰.\n(iii) NaNO₃: It is the salt of a strong acid, HNO₃, and a strong base, NaOH. Na⁺ is the conjugate acid of a strong base and NO₃⁻ is the conjugate base of a strong acid, so neither ion reacts with water to any measurable extent and there is no hydrolysis. The solution remains neutral with pH = 7, and [H⁺] = [OH⁻] = 1.0 × 10⁻⁷ M.\nSummary: K₂CO₃ gives an alkaline solution because its anion hydrolyses, (NH₄)₂SO₄ gives an acidic solution because its cation hydrolyses, and NaNO₃ gives a neutral solution because neither ion hydrolyses.",
+    "explanation": "The general rule is that a salt of a strong acid and a strong base is neutral; a salt of a weak acid and a strong base is basic because the anion hydrolyses; a salt of a strong acid and a weak base is acidic because the cation hydrolyses; and a salt of a weak acid and a weak base has a pH that depends on the relative magnitudes of Ka and Kb. Hydrolysis explains why solutions of salts such as Na₂CO₃ and NH₄Cl change the colour of indicators, and it underlies buffer action and the pH control of biological fluids.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is Buffer solution? Explain how it resists the change of pH by adding small amount of acid and base. Give the applications of buffer solution.",
+    "answer": "Buffer solution: A buffer solution is a solution that resists a change in its pH when a small amount of a strong acid or a strong base is added to it, or when it is diluted. It contains a mixture of a weak acid and its conjugate base (acidic buffer), or a weak base and its conjugate acid (basic buffer), both in appreciable and comparable amounts. Examples are CH₃COOH/CH₃COONa (pH ≈ 4.7), H₂CO₃/NaHCO₃, and NH₃/NH₄Cl (pH ≈ 9.25).\nHow an acidic buffer resists change: In CH₃COOH/CH₃COONa the solution contains a large reserve of CH₃COOH molecules and of CH₃COO⁻ ions. If a little strong acid is added, the acetate ion removes the added protons: CH₃COO⁻ + H⁺ → CH₃COOH, so [H⁺] hardly rises. If a little strong base is added, it is removed by the weak acid: CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O, so [OH⁻] hardly rises. In each case one component is converted into the other, and because both are present in large amounts the ratio [CH₃COO⁻]/[CH₃COOH], and hence the pH, changes only slightly.\nHow a basic buffer resists change: In NH₃/NH₄Cl, added acid is consumed by ammonia, NH₃ + H⁺ → NH₄⁺, and added base is consumed by the ammonium ion, NH₄⁺ + OH⁻ → NH₃ + H₂O, again with little change in pH.\npH of a buffer: The Henderson-Hasselbalch equation gives pH = pKa + log([salt]/[acid]) for an acidic buffer, and pOH = pKb + log([salt]/[base]) for a basic buffer. The pH therefore depends mainly on the ratio of the two components and is nearly independent of dilution.\nApplications: (1) Blood is buffered by the H₂CO₃/HCO₃⁻ system, together with phosphate and proteins, at pH ≈ 7.4; a deviation of a few tenths of a pH unit is dangerous. (2) Analytical chemistry: buffers of known pH are used in titrations, for example pH 4 for the estimation of acetic acid and pH 9–10 for EDTA titrations, and for calibrating pH meters. (3) Pharmaceutical preparations such as eye drops, injections and syrups are buffered to a pH compatible with body fluids and to keep the drug stable. (4) Fermentation, brewing and dairy processes require a controlled pH. (5) Food preservation and soft drinks. (6) Cosmetics and shampoos. (7) Photography and dyeing. (8) Biochemical and enzyme studies, because enzymes work only within a narrow pH range.",
+    "explanation": "A buffer works because it contains a reservoir of both a proton donor and a proton acceptor. Added H⁺ or OH⁻ is consumed by one member of the conjugate pair and converted into the other, so the free H⁺ concentration changes only slightly. The buffer capacity, that is the amount of acid or base that can be absorbed before the pH changes appreciably, is greatest when the concentrations of the two components are large and nearly equal, which occurs when pH ≈ pKa. If a large amount of acid or base is added, one component is used up and the buffer is destroyed.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Describe Lewis theory of acids and bases. What are the advantages of this theory over Lowry Bronsted theory?",
+    "answer": "Lewis theory: In 1923 G. N. Lewis proposed that an acid is a species that accepts a pair of electrons and a base is a species that donates a pair of electrons to form a coordinate (dative) covalent bond. An acid-base reaction is therefore the formation of an adduct in which the base shares its lone pair with the acid. Examples: BF₃ + NH₃ → BF₃·NH₃, in which BF₃ accepts the lone pair of nitrogen and is the acid while NH₃ donates it and is the base; AlCl₃ + Cl⁻ → AlCl₄⁻; H⁺ + H₂O → H₃O⁺, in which H⁺ accepts an electron pair from a lone pair of oxygen; Ag⁺ + 2NH₃ → [Ag(NH₃)₂]⁺; CO₂ + OH⁻ → HCO₃⁻; and SO₃ + H₂O → H₂SO₄. Lewis acids are usually species with an incomplete octet (BF₃, AlCl₃), a vacant orbital (H⁺) or a polar multiple bond (CO₂, SO₃); Lewis bases are species with lone pairs (NH₃, H₂O, Cl⁻, OH⁻, amines, ethers).\nAdvantages over the Lowry-Bronsted theory:\n(i) It includes acids that contain no hydrogen and cannot donate a proton, such as BF₃, AlCl₃, SO₃ and CO₂, which the Brønsted-Lowry theory cannot classify as acids.\n(ii) It explains reactions in non-aqueous and aprotic solvents and in the gas phase, and reactions that involve no proton transfer at all.\n(iii) It gives a unified explanation of the formation of complex ions and coordination compounds, and of catalysis by metal halides such as AlCl₃ and FeCl₃ in Friedel-Crafts reactions.\n(iv) It covers a much larger number of reactions, because the proton released by a Brønsted acid is itself a Lewis acid (an electron-pair acceptor) and every Brønsted base is also a Lewis base (it donates a lone pair); the Brønsted-Lowry theory is therefore a special case of the Lewis theory.\n(v) It explains the acidic behaviour of molecules such as CO₂ and SO₂ towards water and bases, and the basic behaviour of ethers, carbonyl compounds and amines.\nLimitation: the Lewis theory is very general and does not give a quantitative measure of acid or base strength comparable with Ka and Kb, and it does not emphasize the special role of the proton in aqueous equilibria.",
+    "explanation": "The Lewis definition shifts the emphasis from the proton to the electron pair: an acid is an electron-pair acceptor and a base is an electron-pair donor. This makes the theory far more general than the Brønsted-Lowry theory, which is restricted to proton transfer, but it is also less specific, so the Brønsted-Lowry theory remains more useful for aqueous solutions and for quantitative work with pH, Ka and Kb.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "What is salt? Explain Acidic, Basic and Neutral salts?",
+    "answer": "Salt: A salt is an ionic compound formed when the hydrogen of an acid is replaced, wholly or partly, by a metal ion or by the ammonium ion (NH₄⁺). It is the product, together with water, of the neutralization of an acid by a base: acid + base → salt + water, for example HCl + NaOH → NaCl + H₂O and CH₃COOH + NH₄OH → CH₃COONH₄ + H₂O. Salts are crystalline solids, usually with high melting points, and they conduct electricity when molten or in aqueous solution. The nature of a salt solution, acidic, basic or neutral, depends on the strengths of the acid and the base from which the salt is derived, because its ions may hydrolyse.\nAcidic salts: These are formed from a strong acid and a weak base, and their aqueous solutions are acidic (pH < 7) because the cation hydrolyses. Example: NH₄Cl, formed from HCl and NH₃, in which NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺. Other examples are (NH₄)₂SO₄, CuSO₄, FeCl₃, AlCl₃ and ZnCl₂. A salt that still contains a replaceable hydrogen atom, such as NaHSO₄ or NaHCO₃, is also called an acid salt.\nBasic salts: These are formed from a weak acid and a strong base, and their aqueous solutions are alkaline (pH > 7) because the anion hydrolyses. Example: Na₂CO₃, formed from H₂CO₃ and NaOH, in which CO₃²⁻ + H₂O ⇌ HCO₃⁻ + OH⁻. Other examples are CH₃COONa, NaHCO₃, KCN and sodium oxalate. A salt that still contains an OH group, such as Mg(OH)Cl or basic lead carbonate, is also called a basic salt.\nNeutral salts: These are formed from a strong acid and a strong base, and their aqueous solutions are neutral (pH = 7) because neither ion hydrolyses. Examples are NaCl (HCl + NaOH), NaNO₃ (HNO₃ + NaOH), K₂SO₄, KCl and NaBr. A salt of a weak acid and a weak base, such as CH₃COONH₄ or NH₄CN, is also often called neutral because neither ion is the conjugate of a strong acid or a strong base, but its pH is decided by the relative values of Ka and Kb and is not exactly 7.",
+    "explanation": "The classification follows from hydrolysis. The cation of a weak base is a weak acid and gives H₃O⁺; the anion of a weak acid is a weak base and gives OH⁻; the ions of strong acids and strong bases do not react with water. Hence strong acid-weak base salts are acidic, weak acid-strong base salts are basic, and strong acid-strong base salts are neutral, while salts of a weak acid and a weak base are approximately neutral but slightly acidic or basic according to whether Ka or Kb is larger. These terms should not be confused with acid salt and basic salt in the structural sense, that is a salt that still contains replaceable H atoms or OH groups.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A solution is made by dissolving 14.8g HCl in water at 25°C. If the volume of solution is 750cm³ and HCl is assumed to be completely ionized, calculate its pH. [Ans: pH = 1.2]",
+    "answer": "Given: mass of HCl = 14.8 g; volume of solution V = 750 cm³ = 750/1000 = 0.750 dm³; molar mass of HCl = 1.0 + 35.5 = 36.5 g mol⁻¹; HCl is completely ionized.\nStep 1, moles of HCl: n = mass/molar mass = 14.8 g ÷ 36.5 g mol⁻¹ = 0.405 mol.\nStep 2, molarity of the solution: c = n/V = 0.405 mol ÷ 0.750 dm³ = 0.541 mol dm⁻³.\nStep 3, hydrogen ion concentration: since HCl is completely ionized, HCl → H⁺ + Cl⁻, so [H⁺] = c = 0.541 mol dm⁻³.\nStep 4, pH: pH = −log₁₀[H⁺] = −log₁₀(0.541) = −(−0.267) = 0.27.\nAnswer: pH = 0.27, a strongly acidic solution, as expected for about 0.5 M HCl.\nPrinted key: the textbook gives [Ans: pH = 1.2]. This printed value is not reproduced by the printed data: pH = 1.2 corresponds to [H⁺] = 10⁻¹.² = 6.3 × 10⁻² mol dm⁻³, that is only about 1.7 g of HCl in 750 cm³. If the mass were 1.48 g instead of 14.8 g, the result would be pH = 1.27 ≈ 1.3, close to the printed value, so the decimal point in the mass appears to have been lost. The printed [Ans: pH = 1.2] is quoted here as it stands, but the value calculated from the printed data is pH = 0.27.",
+    "explanation": "pH is calculated from the molar concentration of hydrogen ions, so the mass of HCl must first be converted into moles and the volume into dm³; 750 cm³ is 0.750 dm³, not 7.5 dm³. Because HCl is a strong acid and is assumed to be completely ionized, [H⁺] is equal to the molarity of the acid and no equilibrium calculation is needed. A 0.54 M solution of a strong monobasic acid has pH = −log 0.54 ≈ 0.27, which is less than 1 and therefore strongly acidic, consistent with a concentration greater than 0.1 M. The printed answer of pH = 1.2 is inconsistent with these data and would correspond to a solution about ten times more dilute.",
+    "pdfPage": 186,
+    "bookPage": 180
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "The hydroxide ion concentration in an antiseptic solution at 25°C is 3.5 × 10⁻⁴M. Calculate its pH. [Ans: pH = 8]",
+    "answer": "Given: [OH⁻] = 3.5 × 10⁻⁴ mol dm⁻³ at 25 °C, where Kw = 1.0 × 10⁻¹⁴.\nMethod 1, through pOH: pOH = −log₁₀[OH⁻] = −log₁₀(3.5 × 10⁻⁴) = 4 − log₁₀3.5 = 4 − 0.544 = 3.46. Then pH = 14 − pOH = 14 − 3.46 = 10.54.\nMethod 2, through [H⁺]: [H⁺] = Kw/[OH⁻] = 1.0 × 10⁻¹⁴/3.5 × 10⁻⁴ = 2.86 × 10⁻¹¹ mol dm⁻³, so pH = −log(2.86 × 10⁻¹¹) = 11 − 0.456 = 10.54.\nAnswer: pH ≈ 10.5. The solution is basic, as it must be when [OH⁻] is greater than 10⁻⁷ mol dm⁻³.\nPrinted key: the textbook gives [Ans: pH = 8]. This printed value is not reproduced by the printed concentration: pH = 8 would require pOH = 6, that is [OH⁻] = 1.0 × 10⁻⁶ mol dm⁻³, which is 350 times smaller than the given value. The printed answer therefore appears to be a misprint, but it is quoted here as it stands; the value calculated from the printed data is pH = 10.54.",
+    "explanation": "For a basic solution it is safer to calculate pOH first and then use pH + pOH = 14 at 25 °C, or to convert [OH⁻] into [H⁺] with Kw. The logarithm of 3.5 × 10⁻⁴ is −3.456, so pOH = 3.46 and pH = 10.54; the solution is therefore mildly basic, which is reasonable for an alkaline antiseptic solution. A pH of 8 would mean [OH⁻] = 1.0 × 10⁻⁶ M, so the printed answer is not consistent with the stated hydroxide concentration.",
+    "pdfPage": 186,
+    "bookPage": 180
+  }
+]

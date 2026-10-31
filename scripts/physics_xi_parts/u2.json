@@ -1,0 +1,272 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "To get a resultant displacement of 10m, two displacement vectors of magnitude 6m and 8m should be combined:",
+    "options": ["Parallel", "Antiparallel", "At an angle of 45°", "Perpendicular to each other"],
+    "correct": "d",
+    "answer": "(d) Perpendicular to each other",
+    "explanation": "For vectors of 6 m and 8 m, R² = 6² + 8² + 2(6)(8)cosθ = 100 + 96cosθ. A resultant of 10 m requires 100 = 100 + 96cosθ, so cosθ = 0 and θ = 90°, i.e. the vectors must be perpendicular. Parallel gives 14 m, antiparallel 2 m, and 45° gives about 12.96 m, so the other options fail.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The velocity of a particle at an instant is 10 m/s and after 5sec the velocity of particle is 20m/s. The velocity at 3 sec before in before 10m/s is:",
+    "options": ["8", "4", "6", "7"],
+    "correct": "b",
+    "answer": "(b) 4",
+    "explanation": "The acceleration is a = (20 − 10)/5 = 2 m/s². Going back 3 s from the instant when v = 10 m/s, v = 10 − 2(3) = 4 m/s, so the answer is 4 m/s. Options 8 and 7 would come from adding the velocity change or using a wrong time, and 6 from using a = 1.33 m/s²; the printed options omit units.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "A ball is thrown upwards with a velocity of 100 m/s. It will reach the ground after:",
+    "options": ["10 sec", "20 sec", "5 sec", "40 sec"],
+    "correct": "b",
+    "answer": "(b) 20 sec",
+    "explanation": "With g = 10 m/s² the time to reach the top is u/g = 100/10 = 10 s, and the downward journey takes the same time, so the total is 20 s. 10 s is only the ascent, 5 s would require g = 20 m/s², and 40 s is double the correct total. Using g = 9.8 m/s² gives about 20.4 s.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Two projectiles are fired from the same point with the same speed at angles of projection 60° and 30° respectively. Which one of the following is true?",
+    "options": ["The range will be same", "Their maximum height will be same", "Their landing velocity will be same", "their time of flight will be same"],
+    "correct": "a",
+    "answer": "(a) The range will be same",
+    "explanation": "R = u²sin2θ/g, and for 60° and 30° sin120° = sin60°, so the ranges are equal. The maximum heights H = u²sin²θ/2g differ because sin²60° ≠ sin²30°, and the times of flight T = 2u sinθ/g also differ. The landing speeds are equal, but the landing velocities point at different angles, so their velocities as vectors are not the same and (c) is not true.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The ratio of numerical values of average velocity and average speed of a body is always:",
+    "options": ["Unity", "Unity or less", "Unity or more", "Less than unity"],
+    "correct": "b",
+    "answer": "(b) Unity or less",
+    "explanation": "Average speed uses the total path length, while the magnitude of average velocity uses the net displacement; since path length is always greater than or equal to the magnitude of displacement, the ratio is at most 1. It equals unity for straight-line motion without reversal and is less than unity when the path bends or reverses. Hence the ratio is unity or less, not always less.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "If the average velocities of a body become equal to the instantaneous velocity, body is said to be moving with:",
+    "options": ["Uniform acceleration", "Uniform velocity", "Variable velocity", "Variable acceleration"],
+    "correct": "b",
+    "answer": "(b) Uniform velocity",
+    "explanation": "Average velocity over any interval equals the instantaneous velocity at every instant only when the velocity is constant in both magnitude and direction, that is, uniform velocity. Uniform acceleration still changes the instantaneous velocity, so the average over an interval generally differs from the instantaneous value. Variable velocity or variable acceleration would also make the two unequal.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "At the top of a trajectory of a projectile, the acceleration is:",
+    "options": ["maximum", "minimum", "zero", "g"],
+    "correct": "d",
+    "answer": "(d) g",
+    "explanation": "At the top of the trajectory the vertical component of velocity is zero, but gravity still acts, so the acceleration remains g downward throughout the flight. Acceleration does not vanish when velocity does. It is neither maximum nor minimum at the top; its magnitude is the same g at every point when air resistance is neglected.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "At what angle the range of projectile becomes equal to the height of projectile?",
+    "options": ["65°", "45", "76°", "30°"],
+    "correct": "c",
+    "answer": "(c) 76°",
+    "explanation": "Setting R = H gives u²sin2θ/g = u²sin²θ/2g, so 4cosθ = sinθ and tanθ = 4, giving θ = 75.96° ≈ 76°. Option (b) is printed without the degree sign; 45° gives the maximum range, where R = 4H, not R = H. At 30° or 65° the range and height are also unequal.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The angle at which dot product becomes equal to the cross product is:",
+    "options": ["65°", "45°", "76°", "30°"],
+    "correct": "b",
+    "answer": "(b) 45°",
+    "explanation": "For two vectors, A·B = ABcosθ and |A×B| = ABsinθ. Equating the two gives cosθ = sinθ, so tanθ = 1 and θ = 45°. At 65°, 76° or 30° the cosine and sine are unequal, so the dot and cross products differ.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "If the dot product of two non-zero vectors vanishes; the vectors will be:",
+    "options": ["in the same direction", "opposite direction to each other", "perpendicular to each other", "zero"],
+    "correct": "c",
+    "answer": "(c) perpendicular to each other",
+    "explanation": "A·B = ABcosθ vanishes for non-zero A and B only when cosθ = 0, that is, θ = 90°, so the vectors are perpendicular. Parallel vectors give the maximum positive dot product and antiparallel vectors the maximum negative product. Zero is a value of the product, not a direction.",
+    "pdfPage": 59,
+    "bookPage": 55
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Is the range equivalent to the horizontal distance in the projectile motion, or do they have distinct meaning? Explain",
+    "answer": "They are related but not identical. The horizontal distance travelled after time t is x = v₀cosθ·t, which grows continuously during the flight. The range is the particular horizontal distance between the point of projection and the point where the projectile returns to the same horizontal level, obtained by putting t equal to the total time of flight: R = v₀cosθ × (2v₀sinθ/g) = v₀²sin2θ/g. Thus the range is the total horizontal displacement for a complete flight, whereas horizontal distance means the x-coordinate at any instant. If the projectile lands at a different height, the horizontal distance to the landing point is not given by the standard range formula.",
+    "explanation": "Range is a special value of horizontal distance evaluated at the landing time, not a different physical quantity. The standard formula applies only when launch and landing heights are equal.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "If air resistance is taken into account in case of projectile motion, then what parameters of projectile are influenced?",
+    "answer": "With air resistance, the drag force opposes the velocity and grows with speed, so it changes both components of motion. The maximum height reached is lower, the time of flight is shorter, and the horizontal range is reduced compared with the vacuum case. The path is no longer a symmetric parabola: the descending branch is steeper than the ascending one, and the projectile lands with a smaller speed than it was launched. The horizontal velocity is no longer constant because drag has a horizontal component. The angle for maximum range is also reduced below 45°. Spin can add lift or side force, further modifying the trajectory.",
+    "explanation": "Drag removes mechanical energy and couples the horizontal and vertical motions, so the ideal projectile equations no longer hold. The trajectory becomes asymmetric, and both range and maximum height decrease.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What are some real-life examples of projectile motion? Can motion of an aero plane be considered as projectile motion? Explain",
+    "answer": "Examples include a cricket ball thrown to a fielder, a football kicked towards the goal, a javelin in flight, a shell fired from a gun, water spurting from a horizontal pipe and a stone thrown from a cliff. In each case, after release the only significant force is gravity (air resistance neglected), so the object follows a parabolic path. An aeroplane in powered flight is not a projectile: its engines provide continuous thrust, its wings provide lift and its control surfaces change the forces, so its motion is not determined solely by its initial velocity and gravity. A glider with its engine off, or an aircraft in a ballistic phase, only approximates projectile motion.",
+    "explanation": "The defining test is whether gravity alone acts after launch. Thrust, lift and control forces disqualify a powered aeroplane from being treated as a projectile.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Where do we use the concept of speed and velocity in our daily life? Can you give some examples?",
+    "answer": "Speed, a scalar, tells how fast a body moves along its path, while velocity, a vector, also gives the direction. In daily life a car's speedometer reads speed only, and a speed limit of 60 km/h is a scalar restriction. Weather reports and air-traffic control use velocity because the direction of a wind or an aircraft matters: a plane heading north at 300 km/h in a 50 km/h east wind has a velocity different from its heading. Navigation and GPS use displacement and velocity to give the direction of travel. An athlete's average speed describes a race, whereas collision analysis or escape problems require velocity. Thus speed suffices when direction is irrelevant, and velocity is needed when direction affects the outcome.",
+    "explanation": "Speed is the magnitude of velocity but carries no direction; distance divided by time gives average speed, whereas displacement divided by time gives average velocity.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Can an object have an initial velocity of zero and still experience uniformly accelerated motion",
+    "answer": "Yes. Uniformly accelerated motion means the acceleration is constant, not that the velocity is non-zero. If an object is released from rest, its initial velocity is zero while its acceleration remains constant, for example g downward for a dropped stone or a constant 3 m/s² for a car starting from rest. The velocity then grows as v = at, and the distance as s = ½at². The condition u = 0 merely selects one particular case of the equations of motion; it does not prevent the acceleration from being uniform. A body remaining at rest would not accelerate, but a body starting from rest certainly can.",
+    "explanation": "Do not confuse zero initial velocity with zero acceleration. Constant acceleration and u = 0 are independent conditions.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "What are three equations of uniformly accelerated motion and how they are derived?",
+    "answer": "For motion in a straight line with constant acceleration a, initial velocity u and displacement s in time t, the three equations are:\n(1) v = u + at\n(2) s = ut + ½at²\n(3) 2as = v² − u²\n\nDerivation of (1): By definition a = (v − u)/t for constant acceleration, so v = u + at. Equivalently, a = dv/dt, and integrating from 0 to t gives v − u = at.\n\nDerivation of (2): The displacement is the area under the v–t graph, a trapezium with parallel sides u and v and width t: s = ½(u + v)t. Substituting v = u + at gives s = ½(u + u + at)t = ut + ½at². Alternatively, integrating v dt = (u + at)dt gives the same result.\n\nDerivation of (3): Eliminate t between (1) and (2). From (1), t = (v − u)/a. Substituting in (2): s = u(v − u)/a + ½a(v − u)²/a² = [2uv − 2u² + v² − 2uv + u²]/2a = (v² − u²)/2a, so 2as = v² − u².\n\nThese equations apply only when the acceleration is constant and the motion is along a straight line. For example, a car starting from rest with a = 2 m/s² reaches v = 20 m/s in 10 s and covers s = ½(2)(10)² = 100 m.",
+    "explanation": "All three follow from the definitions of acceleration and velocity for constant a; equation (3) is obtained by eliminating t. They are valid only for uniform acceleration in one dimension.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "How does the horizontal component of velocity in projectile motion behaves?",
+    "answer": "Once a projectile is launched and air resistance is neglected, the only force acting on it is its weight, which is vertical. There is therefore no horizontal force and hence no horizontal acceleration: aₓ = 0. Consequently the horizontal component of velocity, vₓ = v₀cosθ, remains constant in magnitude and direction throughout the flight. It is the same at launch, at the top of the path and at landing.\nThe horizontal displacement after time t is therefore x = vₓt = (v₀cosθ)t, which increases uniformly with time. The vertical component, by contrast, changes as v_y = v₀sinθ − gt, so the velocity vector continually changes direction while its horizontal component stays fixed.\nAt the top of the trajectory v_y = 0 but vₓ is still v₀cosθ, so the speed at the top is not zero unless θ = 90°. The constant vₓ is what carries the projectile forward, while gravity controls the vertical motion and the time of flight. Because vₓ is constant, the x–t graph is a straight line through the origin, whereas the y–t graph of height against time is a parabola.\nIf air resistance is included, a horizontal drag component appears and vₓ decreases during the flight, so the above result is an idealisation valid for low speeds and short ranges.",
+    "explanation": "The key point is that gravity has no horizontal component, so vₓ = v₀cosθ is constant. A common error is to assume that the horizontal velocity becomes zero at the top, where only the vertical component vanishes.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is the significance of the area under a velocity-time graph in the context of accelerated motion?",
+    "answer": "On a velocity–time graph the velocity is plotted against time, so a small interval of time dt corresponds to a thin strip of area v dt. Since v dt is the displacement ds during that interval, the area under the graph between two times equals the displacement of the body during that interval.\nFor uniformly accelerated motion the graph is a straight line. The area between t = 0 and t is a trapezium with parallel sides u and v and width t, so s = ½(u + v)t. Substituting v = u + at gives s = ut + ½at², which is the second equation of motion. Thus the area under a v–t graph is not merely a geometrical quantity; it directly yields the displacement and leads to the kinematic equations.\nThe area is counted as positive above the time axis and negative below it, because velocity in the opposite direction corresponds to negative displacement. If the graph crosses the time axis, the net area gives the net displacement, while the total unsigned area gives the distance travelled.\nThe slope of the same graph gives the acceleration, so a v–t graph contains the complete kinematics: slope = a, area = s. For example, if velocity rises uniformly from 5 m/s to 15 m/s in 10 s, the area is ½(5 + 15)(10) = 100 m, the displacement.",
+    "explanation": "Area under v–t = displacement, while slope of v–t = acceleration. Signed areas must be used when the velocity reverses.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "How do the initial launch angle and velocity affect projectile motion?",
+    "answer": "For a projectile launched with speed v₀ at angle θ to the horizontal (air resistance neglected), the three characteristic quantities are:\nRange R = v₀²sin2θ/g\nMaximum height H = v₀²sin²θ/(2g)\nTime of flight T = 2v₀sinθ/g\n\nEffect of initial speed: for a fixed angle, R, H and T all increase with v₀; R and H are proportional to v₀², while T is proportional to v₀. Doubling the launch speed therefore quadruples the range and maximum height but only doubles the time of flight.\n\nEffect of launch angle: for a fixed speed, the range is greatest at θ = 45°, where sin2θ = 1, and falls to zero at 0° and 90°. Two angles that add to 90° (complementary angles, e.g. 30° and 60°) give the same range, because sin2θ = sin(180° − 2θ). Maximum height increases with θ, reaching v₀²/2g at 90°, while the time of flight also increases with θ. At 45°, H = R/4. For instance, doubling v₀ from 10 m/s to 20 m/s at 45° increases the range from v₀²/g = 10.2 m to 40.8 m, a fourfold rise.\nThe angle thus trades range against height and time: a low angle gives a flat, fast trajectory, a high angle a lofty, slow one. With air resistance the optimum angle for range falls below 45°, and the ideal formulas no longer apply.",
+    "explanation": "Range depends on sin2θ (maximum at 45°, equal for complementary angles), whereas height and time depend on sinθ and increase all the way to 90°. Speed affects range and height quadratically.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Explain the concept of independence between horizontal and vertical motion in projectile motion",
+    "answer": "Projectile motion is two-dimensional, but the horizontal and vertical motions can be treated separately because the only acceleration is vertical (g). There is no horizontal acceleration, so the horizontal motion is uniform; the vertical motion is uniformly accelerated. The two sets of equations are:\nHorizontal: vₓ = v₀cosθ (constant), x = (v₀cosθ)t\nVertical: v_y = v₀sinθ − gt, y = (v₀sinθ)t − ½gt²\nThe two motions are independent in the sense that neither the acceleration nor the velocity component in one direction affects the other. The single quantity that links them is the time t, which is the same for both.\nA striking demonstration is the simultaneous fall experiment: one ball is dropped from rest while another is projected horizontally from the same height at the same instant. Both reach the ground together, because the vertical motion of each is identical free fall; the horizontal velocity of the second ball does not delay its fall. Likewise, the horizontal range is unaffected by the value of g, while the time of flight is unaffected by the horizontal speed.\nThis independence allows each direction to be solved with one-dimensional equations and then combined vectorially. It holds only while air resistance is neglected, since drag couples the components.",
+    "explanation": "The shared time is the link between the components; gravity acts only vertically, so the horizontal motion stays uniform. The dropped-and-projected ball demonstration is the classic test.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A helicopter is ascending at the rate of 12 m/s. At a height of 80 m above the ground, a package is dropped. How long does the package take to reach the ground?",
+    "answer": "Given: u = +12 m/s (upward), a = −g = −9.8 m/s², displacement s = −80 m (ground below the release point)\nFormula: s = ut + ½at²\nSubstitution: −80 = 12t − 4.9t², i.e. 4.9t² − 12t − 80 = 0\nCalculation: t = [12 ± √((−12)² − 4(4.9)(−80))]/(2 × 4.9) = [12 ± √(144 + 1568)]/9.8 = [12 ± 41.38]/9.8\nPositive root: t = 53.38/9.8 = 5.447 s\nResult: t ≈ 5.4 s",
+    "explanation": "The package initially moves upward with the helicopter, so u = +12 m/s while the displacement to the ground is negative. The printed answer 5.4 s matches; with g = 10 m/s² the result is 5.38 s. The negative root is discarded.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Two tug boats are towing a ship each exerts a force of 6000 N, and the angle between two ropes is 60°. Calculate the resultant force on the ship?",
+    "answer": "Given: F₁ = F₂ = 6000 N, θ = 60°\nFormula: R = √(F₁² + F₂² + 2F₁F₂cosθ)\nSubstitution: R = √(6000² + 6000² + 2(6000)(6000)cos60°)\nCalculation: R = 6000√(1 + 1 + 2 × 0.5) = 6000√3 = 6000 × 1.7321\nResult: R = 10392 N ≈ 1.04 × 10⁴ N, directed along the bisector, 30° from each rope",
+    "explanation": "Equal forces at 60° combine to √3 times one force. The printed 10392 N matches. The resultant lies midway between the ropes because the forces are equal.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "A car starts from rest and moves with a constant acceleration. During the 5th second of its motion, it covers a distance of 36 meters. Calculate:\n(a) acceleration of the car\n(b) the total distance covered by the car during this time.",
+    "answer": "Given: u = 0, distance in the 5th second s₅ = 36 m, n = 5, total time t = 5 s\nFormula: s_n = u + (a/2)(2n − 1); total distance s = ut + ½at²\nSubstitution: 36 = 0 + (a/2)(2 × 5 − 1) = 4.5a\nCalculation: a = 36/4.5 = 8 m/s²\ns = 0 + ½(8)(5)² = 4 × 25 = 100 m\nCheck: s₅ − s₄ = 100 − ½(8)(4)² = 100 − 64 = 36 m\nResult: (a) a = 8 m/s²; (b) s = 100 m",
+    "explanation": "The distance covered in the nth second uses s_n = u + a(2n − 1)/2, which gives 4.5a for n = 5. The printed answers 8 m/s² and 100 m match, and the check confirms 36 m during the fifth second.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Show that the range of projectile at complementary angles are same with examples?",
+    "answer": "To show: R(θ) = R(90° − θ).\nLet a projectile be launched with speed v₀ at angle θ. Its range is R(θ) = v₀²sin2θ/g.\nFor the complementary angle (90° − θ),\nR(90° − θ) = v₀²sin[2(90° − θ)]/g = v₀²sin(180° − 2θ)/g.\nSince sin(180° − 2θ) = sin2θ,\nR(90° − θ) = v₀²sin2θ/g = R(θ).\nHence complementary angles give equal ranges.\n\nExample 1: θ = 30° and 60°. With v₀ = 20 m/s and g = 9.8 m/s²,\nR(30°) = (400 × sin60°)/9.8 = (400 × 0.8660)/9.8 = 35.3 m,\nR(60°) = (400 × sin120°)/9.8 = (400 × 0.8660)/9.8 = 35.3 m.\nExample 2: θ = 15° and 75° give R = (400 × sin30°)/9.8 = (400 × 0.5)/9.8 = 20.4 m for both.\nThe maximum range occurs at θ = 45°, which is its own complement, R = v₀²/g = 40.8 m.",
+    "explanation": "The identity sin(180° − 2θ) = sin2θ is the whole proof. The pair 45° is self-complementary and gives the maximum range; complementary pairs share a range but have different heights and times of flight.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "At what angle the range of projectile becomes equal to the height of projectile?",
+    "answer": "Given: range R equals maximum height H\nFormula: R = v₀²sin2θ/g and H = v₀²sin²θ/(2g)\nSubstitution: v₀²sin2θ/g = v₀²sin²θ/(2g)\nCalculation: 2sinθcosθ = sin²θ/2; for θ ≠ 0, dividing by sinθ gives 4cosθ = sinθ, so tanθ = 4\nθ = tan⁻¹(4) = 75.96°\nResult: θ ≈ 76°\nCheck: R = H = 0.47v₀²/g at this angle.",
+    "explanation": "The printed answer 76° matches. At 45° the range is four times the height (R = 4H), which is why 45° is not the answer; tanθ = 4 follows from equating the two expressions.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A marter shell is fired at a ground level target 500 m distance with an initial velocity of 90 m/s. What is the launch angle?",
+    "answer": "Given: R = 500 m, v₀ = 90 m/s, g = 9.8 m/s²\nFormula: R = v₀²sin2θ/g, so sin2θ = Rg/v₀²\nSubstitution: sin2θ = (500 × 9.8)/(90)² = 4900/8100\nCalculation: sin2θ = 0.60494\n2θ = 37.22° or 2θ = 180° − 37.22° = 142.78°\nθ = 18.61° or θ = 71.39°\nResult: θ ≈ 71.4° (the high trajectory; the low trajectory is 18.6°)",
+    "explanation": "The printed answer 71.4° corresponds to the larger angle; 18.6° gives the same range. The sine equation has two solutions because sin2θ is positive in both the first and second quadrants. Using g = 10 m/s² would give about 19.0° and 71.0°.",
+    "pdfPage": 60,
+    "bookPage": 56,
+    "figure": null
+  }
+]

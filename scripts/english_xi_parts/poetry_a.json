@@ -1,0 +1,2082 @@
+[
+ {
+  "id": "p0_pre_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Recite any of your favourite poems in Sindhi, Urdu or English.",
+  "answer": "I would recite Allama Iqbal's well-known Urdu poem 'Lab pe aati hai dua ban ke tamanna meri'. I choose it because it is short, its rhymes fall easily on the tongue ('tamanna meri' / 'zindagi shama ki surat ho khudaya meri'), and its prayer for a life of light and service says in eight lines what the whole of Section B says about living well. My recitation would follow the poem's own movement: the first two lines softly, as a child speaking to God; the middle lines, which ask for love of the country and for strength against evil, a little louder and slower, with a pause after 'dua'; and the last line, 'zindagi shama ki surat ho khudaya meri', almost a whisper, so that the closing wish stays in the room. I would keep my hands still, look up at the last line, and let the rhyme do the work instead of shouting it.",
+  "explanation": "Open-ended oral task; the model response names a specific poem, gives a reason for the choice and describes a genuine recitation plan (pace, stress, pause, gesture).",
+  "bookPage": 177
+ },
+ {
+  "id": "p0_ex1_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What is meant by rhyme in poetry?",
+  "answer": "Rhyme is the repetition of the same sound at the end of poetic lines. When the last stressed vowel and the sounds after it in one line match those of another line, the two lines rhyme: 'will' rhymes with 'skill', 'thought' with 'taught', 'death' with 'breath'. Rhyme is not decoration only; it marks the end of a line, binds lines into a stanza and pleases the ear, which is why poetry is heard as well as read. A poet's arrangement of rhymes is shown by letters - the first rhyme is (a), the second (b), and so on - so Wotton's 'The Character of a Happy Life' rhymes abab in every stanza, while Shelley's 'Ozymandias' rhymes ababacdcedefef. Rhyme inside a single line (as in 'the light of sight') is called internal rhyme.",
+  "explanation": "Based on the table entry 'Rhyme - It is the same sound at the end of poetic lines', expanded with the book's letter system (a, b, a, b) and examples from the poems in this section.",
+  "bookPage": 181
+ },
+ {
+  "id": "p0_ex1_q2",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "2",
+  "question": "What is meter in poetry?",
+  "answer": "Meter is the measured pattern of syllables and stresses in a line of poetry. It fixes how many syllables a line carries and which of them are emphasised, and it is counted in feet, a foot being one stressed syllable combined with one or two unstressed ones. The most widely used English meter is iambic pentameter - five feet, each an unstressed syllable followed by a stressed one, ten syllables in all - as in Keats's line 'Close bosom-friend of the maturing sun'. Meter is what gives poetry its regular beat: when we read 'How happy is he born or taught', we feel four beats falling in the same place in every line. Meter and rhyme together produce the music of verse, and when a poem has neither a fixed meter nor rhyme it is called free verse.",
+  "explanation": "Follows the book's definitions of foot, meter and iambic pentameter, using its own Keats example and a line from Poem 1.",
+  "bookPage": 181
+ },
+ {
+  "id": "p0_ex1_q3",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "3",
+  "question": "What are different kinds of stanza?",
+  "answer": "A stanza is a group of lines in a poem that share the same meter, rhyme and unifying idea, and it is named after the number of lines it contains: a couplet has two lines ('Whose armour is his honest thought / And simple truth his utmost skill'); a tercet has three; a quatrain has four ('How happy is he born or taught / That serveth not another's will; / Whose armour is his honest thought / And simple truth his utmost skill!'); a quintain has five; a sestet has six (the second half of a sonnet); a septet has seven; and an octave has eight (the first half of a sonnet). Longer units are simply described by their line count, and poems that ignore stanza division altogether are written in continuous verse or free verse.",
+  "explanation": "The book's stanza table (couplet to octave) is listed with an example of a quatrain and a couplet taken from the poem that follows in this section.",
+  "bookPage": 181
+ },
+ {
+  "id": "p0_ex1_q4",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "4",
+  "question": "What is a sonnet?",
+  "answer": "A sonnet is a fourteen-line lyric poem, written in one meter (usually iambic pentameter) and arranged with a fixed rhyme scheme. The word comes from the Italian 'sonetto', a little song, and the form is normally divided into two parts - an octave of eight lines and a sestet of six - with a turn of thought between them. Its three main types are the Italian or Petrarchan sonnet (rhyming abbaabba in the octave and cdecde or cdcdcd in the sestet), the English or Shakespearean sonnet (three quatrains and a final couplet) and the Spenserian sonnet. Wordsworth's 'Composed upon Westminster Bridge', printed in Exercise 2, is an Italian sonnet: fourteen lines, an octave on the sleeping city and a sestet on the calm that it produces in the poet.",
+  "explanation": "Definition from the 'Forms and Genres of Poetry' table, applied to the sonnet printed in Exercise 2 on the next page.",
+  "bookPage": 181
+ },
+ {
+  "id": "p0_ex1_q5",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "5",
+  "question": "What is function of the poetic devices?",
+  "answer": "Poetic devices do not decorate a poem; they do the poem's work. First, they sharpen meaning, because a single image can carry an idea that would need a paragraph of prose - 'The tree that never had to fight ... lived and died a scrubby thing' states a whole philosophy of hardship in six lines. Second, they create mood: alliteration and onomatopoeia make the ear hear what the eye sees, and a metaphor can make a reader feel awe or pity before he has understood why. Third, they compress: a symbol such as Ozymandias's broken statue holds pride, power, time and ruin together. Fourth, they make language memorable and repeatable, which is why proverbs and refrains are built on them. In short, devices heighten the meaning and the mood of a poem and turn statement into experience.",
+  "explanation": "The book's own sentence - poets use devices 'in order to enhance the meaning or mood of a poem' - is expanded with examples from Poems 1, 3 and 4.",
+  "bookPage": 181
+ },
+ {
+  "id": "p0_ex2_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What type of poem is it? Explain and justify your answer.",
+  "answer": "It is a sonnet, and specifically an Italian or Petrarchan sonnet. The justification is in the form. The poem has exactly fourteen lines, written in iambic pentameter. It falls into two clearly marked parts: the first eight lines (the octave) describe what the poet sees from Westminster Bridge - the city wearing 'the beauty of the morning' like a garment, ships, towers, domes, theatres and temples open to the sky; the last six lines (the sestet) turn from description to the poet's own feeling, 'Ne'er saw I, never felt, a calm so deep!' The rhyme scheme is the Italian one - abbaabba in the octave and cdcdcd in the sestet - and the turn of thought is marked by the opening words of line 9, 'Never did sun more beautifully steep'. A lyric of fourteen lines with this structure and rhyme is by definition a Petrarchan sonnet.",
+  "explanation": "The identification rests on the four marks of the form: fourteen lines, iambic pentameter, octave plus sestet, and the abbaabba / cdcdcd rhyme scheme.",
+  "bookPage": 182
+ },
+ {
+  "id": "p0_ex2_q2",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "2",
+  "question": "How many stanzas are there and what are they called?",
+  "answer": "There are two stanzas. The first has eight lines and is called an octave; the second has six lines and is called a sestet. In the octave Wordsworth describes the morning view of London from the bridge, and in the sestet he expresses the deep calm that the sight produces in him. This division into an eight-line and a six-line stanza is the normal shape of the Italian or Petrarchan sonnet, and it is why the two stanzas are known by these names rather than simply as 'stanza one' and 'stanza two'.",
+  "explanation": "The printed poem shows two verse paragraphs of 8 and 6 lines; the book's sonnet table gives the technical names octave and sestet.",
+  "bookPage": 182
+ },
+ {
+  "id": "p0_ex2_q3",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Write down the rhyming scheme of the poem?",
+  "answer": "The rhyme scheme is abbaabba in the octave and cdcdcd in the sestet, that is, abbaabbacdcdcd for the whole poem. In the octave 'fair' rhymes with 'wear' and 'bare' and 'air' (a), while 'by' rhymes with 'majesty' and 'lie' and 'sky' (b), giving the enclosing pattern a-b-b-a, a-b-b-a. In the sestet 'steep' rhymes with 'deep' and 'asleep' (c), and 'hill' rhymes with 'will' and 'still' (d), giving c-d-c-d-c-d. This Italian pattern, with only four rhyme sounds in fourteen lines, is what gives the sonnet its slow, stately music.",
+  "explanation": "Checked line by line: fair/by/majesty/wear/bare/lie/sky/air = abbaabba; steep/hill/deep/will/asleep/still = cdcdcd.",
+  "bookPage": 182
+ },
+ {
+  "id": "p0_ex3_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Two lines which rhyme at the end are called a couplet.",
+  "answer": "Correct (tick). Two successive lines that rhyme at the end do form a couplet, for example 'Whose armour is his honest thought / And simple truth his utmost skill' or the closing 'Lord of himself, though not of lands, / And having nothing, yet hath all'. When the two lines are also complete in sense - they close a thought - the pair is called a closed couplet, and a couplet that ends a sonnet is a heroic couplet.",
+  "explanation": "True by definition; the book's stanza table names the two-line stanza a couplet, and Poem 1 supplies ready examples.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex3_q2",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "2",
+  "question": "There is no convenient way of setting out a pattern of rhymes.",
+  "answer": "Incorrect (cross). There is a very convenient way: the rhymes are marked with letters, (a) for the first rhyme, (b) for the second, (c) for the third and so on, and the pattern of a whole stanza can be read at a glance. The book itself uses this method - the lines 'The people along the sand / All turn and look one way / They turn their back on the land / They look at the sea all day' are marked (a) (b) (a) (b). By this method we can state in one line that a poem rhymes abab or abbaabba.",
+  "explanation": "The table on page 179 says exactly the opposite: 'A convenient way of setting out a pattern of rhymes is to write (a) for the first rhyme, (b) for the second'. The statement reverses it.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex3_q3",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Imagery is the use of figurative language to represent objects, actions, and ideas.",
+  "answer": "Incorrect (cross) as the book defines the term. In the table of poetic devices, imagery is 'the use of words to create an image or images in the reader's mind based on five senses' - its test is whether we can see, hear, smell, taste or touch what is described, as in Wordsworth's 'I wandered lonely as a cloud / That floats on high o'er vales and hills'. The statement confuses imagery with figurative language (metaphor, simile and the like), which is only one of the tools imagery may use. A literal description - 'the river glideth at his own sweet will' - is still imagery because it makes us see the river.",
+  "explanation": "Marked incorrect against the textbook's sense-based definition on page 180. Note: some dictionaries do define imagery as 'figurative language representing objects, actions and ideas', so a teacher may accept a tick; the exercise, however, asks students to read the book's own table.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex3_q4",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Usually a sonnet is comprised of 14 lines having certain rhyming scheme.",
+  "answer": "Correct (tick). A sonnet is by definition a fourteen-line lyric poem with a fixed rhyme scheme and a single meter, normally iambic pentameter. The Italian sonnet rhymes abbaabba plus a sestet, the English sonnet three quatrains and a couplet, but in every type the count is fourteen lines. Wordsworth's 'Composed upon Westminster Bridge', printed in Exercise 2, is an exact example: fourteen lines, abbaabbacdcdcd.",
+  "explanation": "Matches the book's sonnet entry ('a 14-line lyrical poem divided into two stanzas') and the sonnet set in Exercise 2.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex3_q5",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Ballad is expressed for sorrow, grief or death.",
+  "answer": "Incorrect (cross). A ballad is a narrative poem that tells a story, usually in four-line stanzas called quatrains, often about love, courage, crime or the supernatural, and often meant to be sung. The poem that expresses sorrow over the death of a loved one is the elegy, not the ballad; that is the term the statement has confused. The book's table keeps the two apart: ballad - 'a narrative poem that tells a story, usually in four-line stanzas called quatrains'; elegy - 'a lyrical poem expressing sorrow over the death of a loved one'.",
+  "explanation": "The definition given belongs to the elegy; the ballad is narrative, as the 'Forms and Genres of Poetry' table states.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex3_q6",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "6",
+  "question": "A metaphor states explicitly that one thing is like another.",
+  "answer": "Incorrect (cross). That is the definition of a simile. A simile states the comparison openly with 'like' or 'as' - 'She was as proud as a peacock', 'The muscles on his brawny arms are strong as iron bands'. A metaphor makes the comparison implicitly, without 'like' or 'as', by speaking of one thing as if it were another: 'Life is a dream', 'The road was a ribbon of moonlight', 'Whose armour is his honest thought'. The word 'explicitly' in the statement is exactly what a metaphor avoids.",
+  "explanation": "The simile entry says 'usually with the words like or as'; the metaphor entry says 'without like or as'. The statement has swapped the two definitions.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "To enter in the thoughts of desperate men. (Name the figure of speech.)",
+  "answer": "Metaphor. Thoughts are spoken of as a place that a person can 'enter', as if another man's mind were a room with a door; the comparison is implied, with no 'like' or 'as'. The figure makes sympathy sound like an act of physical movement and so gives the line its quiet force. The line also works as imagery, because it makes us picture a mind as an enclosed space, but the device that carries the meaning is the metaphor.",
+  "explanation": "Implied comparison (mind as a place) with no connective; the image of 'entering' thoughts supports the reading. Imagery is a defensible second answer, since the exercise is not keyed.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q2",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "2",
+  "question": "They speak like saints and act like devils. (Name the figure of speech.)",
+  "answer": "Simile - in fact a double simile, since both halves of the line use 'like' ('like saints', 'like devils'). The comparison is stated openly rather than implied, which is what separates a simile from a metaphor. The line is also built on antithesis: 'speak' is balanced against 'act', 'saints' against 'devils', so the sound of the sentence enacts the hypocrisy it describes - holy words, cruel deeds.",
+  "explanation": "The word 'like' twice marks the simile; the paired opposites are a secondary figure (antithesis).",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q3",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "3",
+  "question": "How could he be a king, a soldier and a peon? (Name the figure of speech.)",
+  "answer": "Irony. The speaker asks a question whose answer he already knows, in order to mock the claim that one man can be all three things at once; the words say 'how could he?' while the meaning is 'he certainly could not'. The absurd list - king, soldier, peon - places the highest and the lowest rank side by side, so the irony bites at a man who pretends to every role. The rhetorical question is the vehicle; the irony is the point.",
+  "explanation": "The question is asked to expose an absurdity rather than to seek information, which is the book's sense of irony ('a situation that means quite opposite to what is apparently said'). Some keys give 'rhetorical question'.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q4",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "4",
+  "question": "How high, his highness holds his haughty head. (Name the figure of speech.)",
+  "answer": "Alliteration. The consonant 'h' is repeated at the beginning of the stressed words 'high', 'his', 'highness', 'holds', 'haughty', 'head', and the repetition makes the line strut like the man it describes. There is a second device at work: 'his highness' is the title of a prince applied to an ordinary proud man, so the line is also ironic - the alliteration and the irony together turn the sentence into a sneer.",
+  "explanation": "Six stressed words begin with the same consonant sound; the mocking use of the honorific 'his highness' is the secondary figure.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q5",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "5",
+  "question": "What avail me, all my Kingdoms? (Name the figure of speech.)",
+  "answer": "Irony. A king who owns kingdoms asks what good they are to him, and the words contradict the value that kingdoms are supposed to have; what is apparently a question about wealth is really a statement that wealth is worthless. The rhetorical question sharpens the irony, because the answer - 'nothing' - is understood by everyone except the speaker's pride. The line can also be read as hyperbole, since 'all my Kingdoms' exaggerates the speaker's possessions to measure his despair.",
+  "explanation": "The meaning is the reverse of the apparent value of 'all my Kingdoms', which fits the book's definition of irony; note the secondary rhetorical-question/hyperbole reading.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q6",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Hasten slowly. (Name the figure of speech.)",
+  "answer": "Oxymoron. Two contradictory words, 'hasten' (make speed) and 'slowly' (take time), are placed together to express one exact idea: move with urgency but without rashness. The contradiction is not a mistake but the meaning - the phrase holds speed and care in balance. It is the same figure as 'the wisest fool', 'bitter-sweet' or 'living death'.",
+  "explanation": "The book defines an oxymoron as 'contradictory words used together signifying two different but exact ideas'.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q7",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "7",
+  "question": "Not that I loved Caesar less, but that I loved Rome more. (Name the figure of speech.)",
+  "answer": "Antithesis. Two opposed ideas are set in exactly parallel grammatical frames - 'loved Caesar less' against 'loved Rome more', 'not that ... but that' - so that the balance of the sentence carries the balance of Brutus's loyalty. The figure is also called contrast or balanced sentence, and it is the reason the line is remembered: the form argues as much as the words do. (Some keys call it climax, but nothing here rises in a series; the structure is contrast, not height.)",
+  "explanation": "Parallel clauses with opposed terms; not one of the ten devices in the book's table, but a standard figure of speech, and the exercise asks for 'various figures of speech'.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q8",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Life is a dream. (Name the figure of speech.)",
+  "answer": "Metaphor. Life is called a dream outright, without 'like' or 'as', so that everything a dream implies - unreality, swiftness, illusion, a waking that ends it - is transferred to human existence in three words. Because the comparison is asserted rather than illustrated, the line is a metaphor and not a simile; had it read 'Life is like a dream', it would be a simile.",
+  "explanation": "Direct equation of two unlike things with no connective - the book's definition of metaphor.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q9",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "9",
+  "question": "She was as proud as a peacock. (Name the figure of speech.)",
+  "answer": "Simile. The comparison is stated openly with 'as ... as', and the peacock supplies a picture of a creature that struts and displays itself, so pride becomes visible. The line also has alliteration in 'proud ... peacock', which makes the comparison sound as vain as it looks. If the 'as ... as' were removed - 'She was a peacock' - the figure would become a metaphor.",
+  "explanation": "Open comparison marked by 'as ... as'; the repeated 'p' is a secondary device.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex4_q10",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "10",
+  "question": "More haste, less speed. (Name the figure of speech.)",
+  "answer": "Paradox, closely allied to oxymoron. The saying yokes two opposites - 'more haste' and 'less speed' - and asserts that they are true together: hurry defeats its own purpose and the traveller arrives later. The contradiction is deliberate and is resolved in the meaning, which is exactly how an oxymoron ('hasten slowly') works; because the contradiction is stretched over a whole proverb rather than packed into two adjacent words, the stricter name is paradox.",
+  "explanation": "Contradictory terms held together to state a truth; both 'oxymoron' and 'paradox' are acceptable, and the explanation says why.",
+  "bookPage": 183
+ },
+ {
+  "id": "p0_ex5_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "1",
+  "question": "He is as sober as a judge. (metaphor)",
+  "answer": "Converted into a metaphor: 'He is a judge in his sobriety - nothing can make him swerve.' The comparison is kept but the words 'as ... as' are dropped, so the judge is no longer a likeness but an identity, which is what turns a simile into a metaphor. A shorter version is 'He is a very judge of calm', where 'judge' stands directly for the sober man.",
+  "explanation": "Simile to metaphor: remove the connective and assert the comparison directly.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex5_q2",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "2",
+  "question": "She was a tower of strength in their trouble. (simile)",
+  "answer": "Converted into a simile: 'She was like a tower of strength in their trouble.' The metaphor 'was a tower' becomes a simile as soon as 'like' is inserted, because the sentence now states a resemblance instead of an identity. An acceptable variant that keeps the sense is 'She stood in their trouble as a tower stands against the wind'.",
+  "explanation": "Metaphor to simile: add 'like' or 'as' and the implied comparison becomes an open one.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex5_q3",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Necessity knows no law. (oxymoron)",
+  "answer": "Converted into an oxymoron: 'Necessity is a lawless law.' The two contradictory words 'lawless' and 'law' are now side by side and state one exact idea - that extreme need creates its own rules and cancels the ordinary ones. A second version is 'Necessity is a cruel kindness', where the contradiction lies between 'cruel' and 'kindness'. The original sentence is personification ('Necessity knows'), which is what the conversion is meant to replace.",
+  "explanation": "Oxymoron requires contradictory words placed together (book's definition); the original uses personification instead.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex5_q4",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "4",
+  "question": "He is the wisest fool of them all. (personification)",
+  "answer": "Converted into personification: 'Folly sits enthroned in him, and Wisdom waits upon him like a servant.' The abstract qualities 'Folly' and 'Wisdom' are now given human actions - sitting on a throne, waiting at table - which is exactly what personification does. The oxymoron of the original ('wisest fool') survives in the picture of Folly crowned and Wisdom serving, but the device asked for is now the personification of the two abstractions.",
+  "explanation": "Personification gives human qualities to an abstract idea; here Folly and Wisdom are made to sit and serve.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex5_q5",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "5",
+  "question": "The professor's ideas are as old as the hills. (irony)",
+  "answer": "Converted into irony: 'The professor's ideas are wonderfully new and modern.' The words now say the opposite of what is meant, which is the definition of irony; the hearer understands 'new and modern' as 'hopelessly out of date'. A fuller ironic version is 'How refreshing it is to hear the professor's brand-new ideas - the same ones the hills were young with.' The flat compliment is what makes the irony work: nothing in the sentence admits the mockery.",
+  "explanation": "Irony says the opposite of the intended meaning; the apparent praise carries the real criticism.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex5_q6",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "6",
+  "question": "The fire station burned down last night. (hyperbole)",
+  "answer": "Converted into hyperbole: 'The fire station burned down last night in a blaze so fierce that the flames were seen twenty miles away and the sky stayed red until morning.' Nothing in the sentence is a lie in kind - a fire did happen - but the size of it is exaggerated far beyond the facts, which is what hyperbole does: it heightens the effect by overstatement. A shorter version is 'The fire station burned down last night and took half the sky with it'.",
+  "explanation": "Hyperbole is 'an exaggerated statement used to heighten the effect' (book's table); the plain fact is kept, the scale is enlarged.",
+  "bookPage": 184
+ },
+ {
+  "id": "p0_ex6_q1",
+  "sectionCode": "P0S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Most of the figures of speech are very common in our daily use. Work in pairs and collect as many other common examples of above-mentioned figures of speech in Exercise 4. Once you have done, display them in front of the class by writing on the charts.",
+  "answer": "Our chart, headed 'Figures We Use Every Day', collected twelve examples, each with the figure named in the margin:\n\nMetaphor: 'This classroom is a zoo before the bell.' / 'Her voice is velvet.'\nSimile: 'He runs like the wind.' / 'The queue was as slow as a loaded camel.'\nPersonification: 'The kettle is singing.' / 'The wind whispered through the shutters.'\nHyperbole: 'I have told you a million times.' / 'I am so hungry I could eat a horse.'\nAlliteration: 'Busy boys bounce balls.' / 'Sweet scent of the samosa'.\nOxymoron: 'a deafening silence', 'a bitter sweet', 'the living dead'.\nIrony: a student complaining on Facebook that Facebook wastes everybody's time.\nOnomatopoeia: 'The tap dripped all night - plink, plink.' / 'The motorcycle went putt-putt down the lane.'\nSymbol: a white flag for surrender, the crescent for faith, a red rose for love.\nImagery: 'The chai-wallah poured the steaming tea from a height, and the smell of cardamom filled the street.'\n\nWe wrote the figures in one colour and the examples in another, and each pair read its examples aloud so that the class could hear the sound devices - alliteration and onomatopoeia need the ear, not the eye.",
+  "explanation": "Open-ended collection and display task; the model response supplies a genuine chart with ten named figures and everyday examples that match Exercise 4's list.",
+  "bookPage": 184
+ },
+ {
+  "id": "p1_pre_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What is happiness according to you?",
+  "answer": "Happiness, to me, is not a mood that arrives but a way of standing in my own life. It is the feeling of being at peace with what I have done - the evening after an examination I prepared for honestly, when I can close my books without shame. It is also being needed: my mother asking me to read a letter to her, my friend telephoning because something has gone wrong. And it is a certain lightness in ordinary things - tea on a cold morning, rain that arrives after a hot day, a joke that makes us all laugh at the table. I have noticed that happiness rarely comes to people who chase it directly; it comes as a by-product of work that satisfies, people we love and a conscience that is quiet. So for me happiness is three things at once: a clear conscience, useful work and someone to share the evening with.",
+  "explanation": "Open-ended personal-response question; the answer is a genuine first-person definition built on conscience, usefulness and relationship, which prepares the ground for Wotton's poem.",
+  "bookPage": 186
+ },
+ {
+  "id": "p1_pre_q2",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Write briefly in the boxes the things/ideas that make you happy.",
+  "answer": "In the seven hexagons of the diagram I would write:\n\n1. A quiet conscience - nothing hidden, nothing owed.\n2. My family at the evening meal, all of us talking at once.\n3. Work finished well - a page written, a problem solved.\n4. A friend I do not have to explain myself to.\n5. Health - being able to walk, run and sleep without pain.\n6. A book and an unhurried hour to read it in.\n7. Being useful - helping someone who cannot repay me.\n\nIf an eighth box were added I would put 'enough, not more': the discovery that what I already own is sufficient. Notice that none of the seven is bought with money; that is the point the poem makes too.",
+  "explanation": "Open-ended pre-reading diagram; the model fills each box with a concrete idea and adds a comment linking the list to Wotton's argument that happiness lies within.",
+  "bookPage": 186
+ },
+ {
+  "id": "p1_ex1_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Column A has words from the poem; underline these words in the poem. Column B has the contextual meanings of these words, but they are jumbled up. Work in pairs. Try and match the appropriate meaning of each word, and write your answer in column C. Share your work with your partner after you have completed.",
+  "answer": "No. | Column A | Column C (correct meaning)\n1 | passion | H - strong emotions. The poet says a happy man's passions are not his masters.\n2 | armour | D - a metallic covering to protect from attack. Here it is metaphorical: 'Whose armour is his honest thought'.\n3 | rumours | A - unverified or doubtful information. 'Who hath his life from rumours freed'.\n4 | conscience | E - moral sense of right and wrong. 'Whose conscience is his strong retreat'.\n5 | retreat | B - move back (in the poem, a place to withdraw to, a refuge).\n6 | servile bands | G - slavish bonds. 'This man is freed from servile bands'.\n7 | envy | C - jealous. 'Who envies none that chance doth raise'.\n8 | ruin | F - destruction. 'Nor ruin make oppressors great'.",
+  "explanation": "Matches are made from the poem's context: 'passions not his masters are' (strong emotions), 'armour is his honest thought' (protective covering), 'from rumours freed' (unverified talk), 'conscience is his strong retreat' (moral sense, a refuge), 'servile bands' (slavish bonds), 'envies none' (jealous), 'ruin' (destruction).",
+  "bookPage": 187
+ },
+ {
+  "id": "p1_ex2_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Work in pairs and read the above poem again. Comprehend it thoroughly and paraphrase it in simple words. After you have completed, share it with your partner. The Stanza-1 is paraphrased for you as an example.",
+  "answer": "Stanza 1 (given as the example): Blessed is the man, whether he is born so or taught so, who does not obey another man's will. His honesty is his armour, and plain truth is the greatest skill he possesses.\n\nStanza 2: His passions are not his masters; his soul is always ready for death; he is not tied to the world by anxiety about fame among people or about what they whisper of him in private.\n\nStanza 3: He does not envy anyone whom luck or wrongdoing raises above him; he has never understood how the deepest wounds are given by praise; and he knows nothing of the rules of high office, only the rules of goodness.\n\nStanza 4: He keeps his life free of gossip; his conscience is the fortress he retreats into; his position is such that flatterers cannot fatten on it, and no ruin of others can make him an oppressor who grows great.\n\nStanza 5: Morning and evening he prays to God, asking more for grace than for gifts; and he spends the harmless day with a religious book or with a friend.\n\nStanza 6: This man is free from the slave's chains of hoping to rise and fearing to fall. He is lord of himself, though he owns no lands, and having nothing, he yet has everything.\n\nIn one sentence: happy is the man who belongs to no one, fears nothing, envies nobody, wants little, prays sincerely and is therefore master of himself.",
+  "explanation": "Paraphrase keeps the poem's order and sense; the six-stanza structure, which the book's exercise assumes, is followed exactly.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q1",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "1",
+  "question": "The strong retreat for a happy man is his________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "heart"
+   },
+   {
+    "key": "b",
+    "text": "thoughts"
+   },
+   {
+    "key": "c",
+    "text": "mind"
+   },
+   {
+    "key": "d",
+    "text": "conscience"
+   }
+  ],
+  "optionsRaw": "(a) heart   (b) thoughts   (c) mind   (d) conscience",
+  "correctAnswer": "(d) conscience",
+  "answer": "(d) conscience - 'Whose conscience is his strong retreat' (line 14).",
+  "explanation": "The poem names the retreat in so many words: when the world turns hostile, the happy man withdraws into his own conscience, which no one else can enter or take from him.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q2",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "2",
+  "question": "According to the poet, a happy man cares much about________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "worldly needs"
+   },
+   {
+    "key": "b",
+    "text": "material uplift"
+   },
+   {
+    "key": "c",
+    "text": "character"
+   },
+   {
+    "key": "d",
+    "text": "finance"
+   }
+  ],
+  "optionsRaw": "(a) worldly needs   (b) material uplift   (c) character   (d) finance",
+  "correctAnswer": "(c) character",
+  "answer": "(c) character - his armour is 'honest thought' and his skill 'simple truth' (lines 3-4).",
+  "explanation": "Everything the poem praises is a quality of character - honesty, truth, self-control, freedom from envy - while money, lands and position are named only to be dismissed ('Lord of himself, though not of lands').",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q3",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "3",
+  "question": "A happy man's armour is his________ thought.",
+  "options": [
+   {
+    "key": "a",
+    "text": "clever"
+   },
+   {
+    "key": "b",
+    "text": "honest"
+   },
+   {
+    "key": "c",
+    "text": "deep"
+   },
+   {
+    "key": "d",
+    "text": "lofty"
+   }
+  ],
+  "optionsRaw": "(a) clever   (b) honest   (c) deep   (d) lofty",
+  "correctAnswer": "(b) honest",
+  "answer": "(b) honest - 'Whose armour is his honest thought' (line 3).",
+  "explanation": "A man with nothing to hide needs no other defence; the metaphor turns integrity into protective armour.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q4",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "4",
+  "question": "A happy man's days are________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "joyful"
+   },
+   {
+    "key": "b",
+    "text": "carefree"
+   },
+   {
+    "key": "c",
+    "text": "harmless"
+   },
+   {
+    "key": "d",
+    "text": "playful"
+   }
+  ],
+  "optionsRaw": "(a) joyful   (b) carefree   (c) harmless   (d) playful",
+  "correctAnswer": "(c) harmless",
+  "answer": "(c) harmless - 'And entertains the harmless day / With a religious book or friend' (lines 19-20).",
+  "explanation": "'Harmless' is the poet's own word for the day: it is innocent, injuring nobody, and it is filled with a book or a friend rather than with noise.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q5",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "5",
+  "question": "________ is the utmost skill of an honest man.",
+  "options": [
+   {
+    "key": "a",
+    "text": "truth"
+   },
+   {
+    "key": "b",
+    "text": "honesty"
+   },
+   {
+    "key": "c",
+    "text": "simplicity"
+   },
+   {
+    "key": "d",
+    "text": "wisdom"
+   }
+  ],
+  "optionsRaw": "(a) truth   (b) honesty   (c) simplicity   (d) wisdom",
+  "correctAnswer": "(a) truth",
+  "answer": "(a) truth - 'And simple truth his utmost skill!' (line 4).",
+  "explanation": "The line makes 'simple truth' the height of skill: the happy man's greatest accomplishment is to speak and live truthfully, not to master clever arts.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q6",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "6",
+  "question": "A happy man does not serve another's________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "order"
+   },
+   {
+    "key": "b",
+    "text": "direction"
+   },
+   {
+    "key": "c",
+    "text": "wish"
+   },
+   {
+    "key": "d",
+    "text": "will"
+   }
+  ],
+  "optionsRaw": "(a) order   (b) direction   (c) wish   (d) will",
+  "correctAnswer": "(d) will",
+  "answer": "(d) will - 'That serveth not another's will' (line 2).",
+  "explanation": "The first stanza states the condition of happiness as independence of another person's will; the word is repeated in the closing 'Lord of himself'.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q7",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "7",
+  "question": "A happy man's soul is always prepared for________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "exam"
+   },
+   {
+    "key": "b",
+    "text": "fight"
+   },
+   {
+    "key": "c",
+    "text": "quarrel"
+   },
+   {
+    "key": "d",
+    "text": "death"
+   }
+  ],
+  "optionsRaw": "(a) exam   (b) fight   (c) quarrel   (d) death",
+  "correctAnswer": "(d) death",
+  "answer": "(d) death - 'Whose soul is still prepared for death' (line 6).",
+  "explanation": "'Still' means always; because he has nothing to hide and nothing he clings to, death holds no terror for him.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex3_q8",
+  "sectionCode": "P1S1",
+  "type": "mcq",
+  "number": "8",
+  "question": "According to the poet, the deepest wounds are always given by________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "back-biting"
+   },
+   {
+    "key": "b",
+    "text": "praise"
+   },
+   {
+    "key": "c",
+    "text": "trust"
+   },
+   {
+    "key": "d",
+    "text": "friendship"
+   }
+  ],
+  "optionsRaw": "(a) back-biting   (b) praise   (c) trust   (d) friendship",
+  "correctAnswer": "(b) praise",
+  "answer": "(b) praise - 'How deepest wounds are given by praise' (line 11).",
+  "explanation": "The happy man has 'never understood' this worldly art: flattery, not open attack, does the lasting damage, because it corrupts the man who is praised.",
+  "bookPage": 188
+ },
+ {
+  "id": "p1_ex4_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Independence and write them against it in the table.",
+  "answer": "'That serveth not another's will' (line 2), and again in the last stanza: 'This man is freed from servile bands / Of hope to rise, or fear to fall' (lines 21-22). Independence is the very first condition of the happy life, and the poem closes on it: 'Lord of himself, though not of lands'.",
+  "explanation": "The quality is named at the opening and restated at the close, so the poem's argument is framed by independence.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q2",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Honesty and write them against it in the table.",
+  "answer": "'Whose armour is his honest thought' (line 3). Honesty here is not merely truth-telling but defensive equipment: it is the armour that turns aside every accusation, because a man with nothing to hide cannot be wounded by what is said of him.",
+  "explanation": "The metaphor of armour shows that honesty is the happy man's protection, not just a virtue he admires.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q3",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Truthfulness and write them against it in the table.",
+  "answer": "'And simple truth his utmost skill!' (line 4). Truthfulness is described as his 'utmost skill' - the highest achievement he can claim - and the adjective 'simple' insists that it is plain, unadorned truth, not clever argument.",
+  "explanation": "The exclamation mark and the word 'utmost' make truthfulness the summit of the happy man's accomplishment.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q4",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Ambition and write them against it in the table.",
+  "answer": "'Nor rules of state, but rules of good' (line 12), supported by 'Who envies none that chance doth raise' (line 9) and 'freed from servile bands / Of hope to rise, or fear to fall' (lines 21-22). The happy man knows nothing of the arts by which men climb at court; he has no ambition for place, and therefore nothing to lose.",
+  "explanation": "Ambition appears here only as something the happy man is free of: he follows the rules of goodness instead of the rules of advancement.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q5",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Self-control and write them against it in the table.",
+  "answer": "'Whose passions not his masters are' (line 5). The line states self-control as a relationship of rank: the passions are servants, not masters. The man rules his feelings instead of being ruled by them, which is why the poem can end with the phrase 'Lord of himself'.",
+  "explanation": "The metaphor of master and servant is the poem's way of describing self-control; it is picked up again in 'servile bands'.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q6",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Envy and write them against it in the table.",
+  "answer": "'Who envies none that chance doth raise, / Nor vice' (lines 9-10). He is free of envy both of those whom luck has raised and of those whom wrongdoing has enriched - the second half is the harder discipline, because it refuses to admire successful villainy.",
+  "explanation": "Envy is named and negated: the happy man is defined by the absence of it, in both its respectable and its disreputable forms.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q7",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "7",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of No greed and write them against it in the table.",
+  "answer": "'Whose state can neither flatterers feed, / Nor ruin make oppressors great' (lines 15-16). His position is moderate: it is not large enough to enrich flatterers, and he will not enlarge it by ruining others. The closing line, 'And having nothing, yet hath all', completes the freedom from greed by showing that he does not measure his wealth in possessions at all.",
+  "explanation": "The pair of negatives defines a man whose means are sufficient and whose conscience forbids gain by oppression.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex4_q8",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Pick out the line(s) from 'The Character of a Happy Life' in which the poet has identified the quality of Piety and write them against it in the table.",
+  "answer": "'Who God doth late and early pray / More of His grace than gifts to lend; / And entertains the harmless day / With a religious book or friend' (lines 17-20). Piety is shown in three details: prayer morning and evening, a prayer for grace rather than for gifts, and a day spent with a holy book or a devout friend.",
+  "explanation": "These four lines are the only explicitly religious passage in the poem, and they contain all three marks of the happy man's piety.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What does the poet mean when he says that a happy man does not serve another's will?",
+  "answer": "He means that the happy man is not a servant - not of a master, not of public opinion, and not of his own appetites. The phrase comes in the poem's opening condition: 'How happy is he born or taught / That serveth not another's will.' In the sixteenth century, when Wotton wrote, most men lived by pleasing a patron, a prince or a crowd, and a courtier's whole life was the art of guessing another man's will. Wotton says that such service destroys happiness because it puts your peace in someone else's hands. The man who keeps his own judgement - whose 'armour is his honest thought' - cannot be bought, flattered or frightened. The last stanza completes the idea: he is 'freed from servile bands', 'Lord of himself, though not of lands'.",
+  "explanation": "Line 2 is explained through the poem's own closing stanza (lines 21-24) and through the ordinary meaning of 'will' as another person's command or desire.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q2",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Explain briefly, how Sir Henry Wotton's happy man is 'having nothing yet hath all'.",
+  "answer": "The line is a paradox, and it is the poem's final summary. Literally, the happy man may own no lands, no title and no fortune - 'Lord of himself, though not of lands'. But because he wants nothing that others can give or take, he lacks nothing that he needs: his honesty is his armour, his conscience is his retreat, his passions are his servants, and his day is filled with a book or a friend. A rich man who is always hoping to rise and fearing to fall is a slave to his own possessions; this man, owning little, is master of himself. So 'having nothing' counts only material things, while 'hath all' counts peace, freedom, self-respect and God's grace - the things the whole poem has been listing. He is poor in goods and rich in sufficiency.",
+  "explanation": "The explanation joins the closing line to the six stanzas of qualities that precede it, and reads 'all' as the inward goods the poem has enumerated.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q3",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "3",
+  "question": "What a happy man is taught from his very birth?",
+  "answer": "The poem opens with 'How happy is he born or taught / That serveth not another's will', so what the happy man is taught from birth is independence - the habit of not bending to another person's will. Wotton deliberately leaves it open whether this is a gift of birth ('born') or of upbringing ('taught'); either way it is learned so early that it becomes nature. Along with it he is taught the two things that make independence possible: that honesty is armour and that 'simple truth' is the utmost skill. In the rest of the poem this early lesson grows into a whole character - passions kept as servants, envy refused, flattery understood, prayer morning and evening.",
+  "explanation": "The question is answered from lines 1-4, with the phrase 'born or taught' noted as the poet's deliberate alternative.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q4",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Write the central idea of the poem 'The Character of a Happy Life'.",
+  "answer": "The central idea is that true happiness is inward and does not depend on wealth, rank or other people's opinions. Wotton builds his poem as a portrait: he never names the happy man, but lists what he is free from - another's will, his own passions, fear of death, anxiety about fame or gossip, envy, ambition, flattery, greed - and what he lives by - honesty, truth, a good conscience, prayer and a book or a friend. Because all of these are within a man's own control, happiness becomes a matter of character rather than of circumstance. The famous last line, 'And having nothing, yet hath all', states the paradox at the heart of the poem: the man who wants least possesses most. The poem is therefore a moral argument as well as a description, urging the reader to seek freedom of mind instead of the things the world calls success.",
+  "explanation": "The idea is drawn from the structure of the poem: a list of freedoms in stanzas 1-5 and a summary of self-mastery in stanza 6.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q5",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Write the rhyming scheme of the poem.",
+  "answer": "The poem rhymes abab in every one of its six stanzas. Stanza 1: taught (a), will (b), thought (a), skill (b). Stanza 2: are (a), death (b), care (a), breath (b). Stanza 3: raise (a), understood (b), praise (a), good (b). Stanza 4: freed (a), retreat (b), feed (a), great (b). Stanza 5: pray (a), lend (b), day (a), friend (b). Stanza 6: bands (a), fall (b), lands (a), all (b). The lines are short - four stresses each, iambic tetrameter - and the alternating rhyme gives the poem the neat, orderly movement of a proverb being proved.",
+  "explanation": "The scheme is established by reading the end words of each quatrain; the stanza form is the quatrain described in the Elements of Poetry table.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex5_q6",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "6",
+  "question": "What are the sources of happiness other than those mentioned in the poem?",
+  "answer": "Wotton's sources are inward: honesty, a good conscience, freedom from ambition and envy, prayer and a book or a friend. Other genuine sources of happiness include work that uses our abilities - a farmer's harvest, a carpenter's finished door, a student's solved problem; health and the ordinary pleasures of the body, such as sleep after labour, a walk in cool air, a shared meal; love and family life, in which happiness is given and received without calculation; beauty, whether in music, calligraphy, a mosque's tilework or the Indus at sunset; and service to others, which brings a satisfaction no possession can match. Curiosity is another source - learning a language, following a question to its end. To these a religious person would add the sense of God's presence, which Wotton does mention, while a lover of country might add the sight of rain on dry land. All of these differ from fame and money in one respect: they cannot be taken away by other people.",
+  "explanation": "Open-ended extension question; the answer keeps Wotton's inward test (things not in others' power) while offering sources he does not name.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex6_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Work individually and identify the poetic devices in the poem. Make a list of them and use them in your sentences. Share your work with your class fellows after you have completed.",
+  "answer": "Devices found in the poem:\n\n1. Metaphor - 'Whose armour is his honest thought' (line 3); 'Whose conscience is his strong retreat' (line 14). Honesty is armour and conscience is a fortress; the comparison is implied, with no 'like'. My sentence: 'Her patience was a wall around the family during those hard months.'\n\n2. Personification - 'Whose passions not his masters are' (line 5): passions are given the human role of masters. My sentence: 'Anger knocked at the door, but I did not let it in.'\n\n3. Alliteration - 'simple truth his utmost skill' (s/t sounds); 'Of public fame, or private breath' (p, f, b); 'fear to fall' (f). My sentence: 'The far fields were fading in the faint light.'\n\n4. Antithesis - 'Of hope to rise, or fear to fall' (line 22); 'Lord of himself, though not of lands' (line 23); 'And having nothing, yet hath all' (line 24). Opposites are balanced in parallel clauses. My sentence: 'He had little money but great peace.'\n\n5. Anaphora - the repeated openings 'Who ... Whose ... Who ...' begin five of the six stanzas, holding the portrait together. My sentence: 'Who works, who waits, who keeps his word - such a man is trusted.'\n\n6. Paradox - 'And having nothing, yet hath all'. My sentence: 'She gave away her time and found she had more of it.'\n\n7. Symbol - armour, retreat, servile bands and lands stand for integrity, inner life, slavery and property. My sentence: 'The white flag is a symbol of surrender.'\n\n8. Imagery - 'a religious book or friend', 'the harmless day' give pictures of a quiet life. My sentence: 'The lamp, the open book, the sleeping house - that was his evening.'",
+  "explanation": "Each device is quoted from the poem with its line, explained, and then used in an original sentence, as the task requires.",
+  "bookPage": 189
+ },
+ {
+  "id": "p1_ex7_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "7",
+  "question": "Work in pairs and give a critical appreciation of the poem based on the following aspects. After you have written, compare your work with your partner. 1. Poetic Diction  2. Theme  3. Structure  3. Language  5. Message",
+  "answer": "1. Poetic Diction: The vocabulary is plain and largely monosyllabic - 'will', 'skill', 'death', 'breath', 'good', 'friend', 'all' - with a few abstract nouns of moral weight (conscience, passions, flattery, piety). The diction suits a poem that praises simplicity; there is no ornament for its own sake, and the archaic 'doth' and 'hath' give it the tone of a proverb or a prayer. Key words are repeated like a refrain: 'happy', 'who', 'whose', 'freed'.\n\n2. Theme: Happiness is inward and independent of circumstance. The poet defines the happy man by negatives - he does not serve another's will, does not obey his passions, does not envy, does not crave - and by a few positives, honesty, truth, conscience, prayer.\n\n3. Structure: Six quatrains of iambic tetrameter rhyming abab. Stanzas 1-5 are a single long portrait built on the relative pronoun 'Who/Whose'; stanza 6 turns from description to conclusion and ends on a paradox - 'having nothing, yet hath all'. The movement is from conditions to consequence, like a syllogism in verse.\n\n4. Language: The language is dignified but never difficult. Its power lies in antithesis ('hope to rise, or fear to fall'), metaphor ('armour', 'retreat', 'servile bands') and the balanced line. The tone is calm, assured and mildly didactic; the exclamation in 'utmost skill!' is the only raised voice.\n\n5. Message: Do not measure your life by lands, titles or applause. Guard your honesty, rule your passions, refuse envy, keep your conscience clear, and you will be free - master of yourself even if you own nothing. The message is still valid for a student who must choose between pleasing a crowd and keeping his self-respect.",
+  "explanation": "Aspects answered in the printed order; note that the book prints '3' twice (Structure and Language both numbered 3) - a printing error, and all five aspects are covered here.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex8_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Work in groups of three. Compose your own poem on the theme of happiness using elements of poetry based on three stanzas. Each member of the group should compose 1 stanza. After your group has composed the poem, exchange it with other groups.",
+  "answer": "Happiness\n\nI\nIt is not in the vault of gold,\nNor in the applause of crowds that pass,\nBut in a hand that I can hold,\nAnd in the green and quiet grass.\n\nII\nIt is the work I finished well,\nThe bread I earned, the song I bring,\nThe funny story I must tell,\nThe quiet joy an evening brings.\n\nIII\nSo let me count the things I hold:\nA roof, a friend, a page, a song;\nAnd learn that happiness is old,\nAnd simple, and has waited long.\n\n(Our group's plan: each member took one stanza. Stanza I uses a metaphor - 'the vault of gold' for wealth - and a contrast with 'the green and quiet grass'. Stanza II uses anaphora, repeating 'It is' at the start of the first two lines, and lists ordinary pleasures. Stanza III turns to the reader with 'So let me count', rhymes abab, and ends on personification - happiness is 'old' and has 'waited long', as if it were a patient guest. The whole poem is three quatrains rhyming abab, like Wotton's, but in modern, simple diction.)",
+  "explanation": "Creative task; the model supplies a complete three-stanza poem plus a short note naming the devices used, as the exercise asks for 'elements of poetry'.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q1",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Explain the following stanza: Stanza 1 - 'How happy......utmost skill!'",
+  "answer": "In the opening stanza Wotton states the first condition of happiness: independence. 'How happy is he born or taught / That serveth not another's will' - blessed is the man who, whether by nature or by training, does not live at another person's command. The word 'serveth' carries the idea of service to a master, and the poet will return to it in the last stanza with 'servile bands'. The next two lines explain how such a man can afford to be independent: 'Whose armour is his honest thought / And simple truth his utmost skill!' Honesty is his armour - a defence that no enemy can pierce, because a man with nothing to hide cannot be blackmailed, flattered or shamed into obedience. And 'simple truth' is his 'utmost skill', the highest art he possesses. The stanza therefore begins the poem by joining freedom to integrity: you can belong to yourself only if you have nothing to be ashamed of.",
+  "explanation": "Lines 1-4 explained clause by clause, with the links to the poem's closing stanza pointed out.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q2",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Explain the following stanza: Stanza 2 - 'Whose passions ....... or private breath:'",
+  "answer": "The second stanza describes inward peace. 'Whose passions not his masters are' - his feelings are his servants, not his rulers; he is not dragged about by anger, lust or fear. Wotton uses the language of rank deliberately, because a man who is mastered by his passions is still a servant, however free he looks. 'Whose soul is still prepared for death' - 'still' means always: because his conscience is clear, death is not a terror but a door, and a man who has accepted death cannot be threatened with anything else. The last two lines widen the freedom from self to society: 'Untied unto the world by care / Of public fame, or private breath.' He is not bound to the world by anxiety about his reputation - 'public fame' being what is said aloud, 'private breath' the whispered opinion of a few. The stanza thus frees him from three masters at once: his own passions, his fear of death, and the good opinion of others.",
+  "explanation": "Lines 5-8 explained phrase by phrase, with 'still' glossed as 'always' and 'private breath' as private gossip.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q3",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Explain the following stanza: Stanza 3 - 'Who envies none ....... but rules of good;'",
+  "answer": "The third stanza turns from what the happy man feels to what he refuses. 'Who envies none that chance doth raise' - he does not resent those whom luck has lifted above him, because his worth does not depend on comparisons. 'Nor vice' adds a harder refusal: he does not envy even those whom wrongdoing has made rich. 'Who never understood / How deepest wounds are given by praise' - he has never learned the courtier's secret that flattery, not open attack, does the lasting harm; praise is the weapon that wounds because it is welcome. Finally, 'Nor rules of state, but rules of good' - he knows nothing of the arts of politics and place-seeking, only the rules of right conduct. In these four lines the poet separates happiness from competition: envy, ambition and flattery are the three diseases of a court, and the happy man is immune to all three.",
+  "explanation": "Lines 9-12 explained, with 'rules of state' read as the arts of worldly advancement and 'rules of good' as moral law.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q4",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Explain the following stanza: Stanza 4 - 'Who hath his life ....... make oppressors great;'",
+  "answer": "The fourth stanza describes a life protected from gossip and from greed. 'Who hath his life from rumours freed' - his conduct is so open that slander finds no hold on it; to be free of rumours is not merely to be talked about less but to be untouched by talk. 'Whose conscience is his strong retreat' - when trouble comes, he withdraws into his own conscience as into a fortress; note the metaphor, which answers the 'armour' of stanza 1: first a defence in battle, now a place of refuge. 'Whose state can neither flatterers feed, / Nor ruin make oppressors great' - his position is moderate and clean. It is not large enough for flatterers to grow fat on, and he will not enlarge it by crushing others; no man's ruin is the ladder of his greatness. The stanza therefore describes a man whose means are sufficient and whose hands are clean.",
+  "explanation": "Lines 13-16 explained, with attention to the metaphor of 'retreat' and the pair of negatives about flattery and oppression.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q5",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Explain the following stanza: Stanza 5 - 'Who God doth late............ book or friend;'",
+  "answer": "The fifth stanza is the only religious passage in the poem, and it shows where such a life draws its strength. 'Who God doth late and early pray' - 'late and early' means at night and at dawn, that is, continually; prayer frames his day at both ends. 'More of His grace than gifts to lend' - he asks not for worldly goods but for grace, for the inward help that makes a man good; the distinction is important, because the poem has already taught that gifts of fortune are not the source of happiness. 'And entertains the harmless day / With a religious book or friend' - the day itself is 'harmless', hurting nobody, and it is filled with two kinds of company: a holy book and a trusted friend. Wotton thus completes the portrait: the man who is free of the world is not empty, but filled with prayer, reading and friendship.",
+  "explanation": "Lines 17-20 explained, with 'late and early' glossed as continual prayer and 'grace' contrasted with 'gifts'.",
+  "bookPage": 190
+ },
+ {
+  "id": "p1_ex9_q6",
+  "sectionCode": "P1S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Explain the following stanza: Stanza 6 - 'This man is freed............ yet hath all.'",
+  "answer": "The last stanza draws the conclusion of the whole poem. 'This man is freed from servile bands / Of hope to rise, or fear to fall' - the phrase 'servile bands' means the chains of a slave, and Wotton surprises us by saying that hope and fear are themselves chains: the man who hopes for promotion and fears demotion is never free, even if he is rich. The happy man has cut both. 'Lord of himself, though not of lands' - he rules a kingdom, but it is himself, not an estate; the antithesis makes the point that self-command is worth more than property. And the poem ends with a paradox: 'And having nothing, yet hath all.' He owns nothing that can be taken away, and therefore possesses everything that matters - honesty, conscience, freedom, prayer, friendship. The stanza is the perfect close to the argument, because it turns the world's arithmetic upside down.",
+  "explanation": "Lines 21-24 explained, with 'servile bands' glossed and the closing paradox related to the qualities listed in the earlier stanzas.",
+  "bookPage": 190
+ },
+ {
+  "id": "p2_pre_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Read about the following famous personalities who turned their failures into success.",
+  "answer": "The three boxes tell one story three times. Abraham Lincoln failed in business three times and lost seven campaigns before he became President of the United States. Albert Einstein was expelled from school and described by his teachers as 'mentally slow', yet became the greatest scientist of his age. J.K. Rowling's 'Harry Potter' was rejected by twelve publishing houses before it became the world's number one best-selling book. In each case the failure was real, public and repeated - not a small setback - and in each case it was followed by persistence rather than by luck. The lesson the table teaches is the one Edgar Guest's poem will put into verse: failure is not the opposite of success but a stage of it, and the only people who never succeed are those who stop after being rejected.",
+  "explanation": "Reading-and-response task; the model response summarises all three printed cases and draws the common lesson that leads into the poem.",
+  "bookPage": 192
+ },
+ {
+  "id": "p2_pre_q2",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "2",
+  "question": "What comes to your mind after reading them?",
+  "answer": "Two things come to my mind. The first is how narrow the margin is between a failure and a success: Lincoln lost seven campaigns, and one more loss would have ended the story; Rowling was refused by twelve publishers, and a thirteenth 'no' would have buried the book. None of them knew, at the moment of rejection, that the goal was one step away - which is exactly what the third stanza of 'Don't Quit' says about the struggler who gives up when he might have captured the victor's cup. The second is that the world's judgement at any one moment is unreliable: teachers called Einstein slow, and publishers called Rowling unpublishable. What these men and women had was not better luck but a refusal to accept a temporary verdict as final. Reading them, I stop seeing failure as a verdict on my ability and start seeing it as a stage I have to pass through.",
+  "explanation": "Open-ended reflection; the answer links the three printed biographies to the poem's argument about nearness of success.",
+  "bookPage": 192
+ },
+ {
+  "id": "p2_ex1_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Column A has words from the poem; underline these words in the poem. Column B has the contextual meanings of these words, but they are jumbled up. Work in pairs. Try and match the appropriate meaning of each word, and write your answer in column C. Share your work with your partner after you have completed.",
+  "answer": "No. | Column A | Column C (correct meaning)\n1 | trudge | d - to walk slowly. 'When the road you're trudging seems all uphill'.\n2 | quit | e - to stop. 'Rest, if you must, but don't you quit'.\n3 | queer | a - strange. 'Life is queer with its twists and turns'.\n4 | pace | b - speed. 'Don't give up though the pace seems slow'.\n5 | twist | g - an unexpected change. 'Life is queer with its twists and turns'.\n6 | stuck | f - caught. 'When he might have won had he stuck it out'.\n7 | tint | h - shade. 'The silver tint of clouds of doubt'.\n8 | sigh | c - a long deep breath. 'And you want to smile but have to sigh'.",
+  "explanation": "Meanings are fixed by the context of each line: trudging an uphill road (walking slowly and with effort), 'don't you quit' (stop), life's 'twists and turns' (strange, unexpected changes), 'the pace seems slow' (speed), 'stuck it out' (held on, caught in the struggle), 'silver tint' (shade of colour), 'have to sigh' (a long breath of disappointment).",
+  "bookPage": 193
+ },
+ {
+  "id": "p2_ex2_q1",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "1",
+  "question": "The figure of speech in 'The silver tint of the cloud of doubt' is________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "personification"
+   },
+   {
+    "key": "b",
+    "text": "metaphor"
+   },
+   {
+    "key": "c",
+    "text": "onomatopoeia"
+   },
+   {
+    "key": "d",
+    "text": "simile"
+   }
+  ],
+  "optionsRaw": "(a) personification   (b) metaphor   (c) onomatopoeia   (d) simile",
+  "correctAnswer": "(b) metaphor",
+  "answer": "(b) metaphor - doubt is spoken of as a cloud with a silver lining, with no 'like' or 'as'.",
+  "explanation": "The poem reads 'The silver tint of clouds of doubt': doubt is turned into a cloud and its hopeful side into a silver tint. The comparison is implied, so it is a metaphor, not a simile. Note the printed question says 'cloud' (singular) while the poem has 'clouds'.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q2",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "2",
+  "question": "'When things seem worst', we should________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "run away"
+   },
+   {
+    "key": "b",
+    "text": "take some other way"
+   },
+   {
+    "key": "c",
+    "text": "stop moving ahead"
+   },
+   {
+    "key": "d",
+    "text": "stick to them"
+   }
+  ],
+  "optionsRaw": "(a) run away   (b) take some other way   (c) stop moving ahead   (d) stick to them",
+  "correctAnswer": "(d) stick to them",
+  "answer": "(d) stick to them - 'So stick to the fight when you're hardest hit - / It's when things seem worst that you mustn't quit.'",
+  "explanation": "The closing couplet of the poem gives the instruction directly: hold on to the struggle precisely when it is at its worst.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q3",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "3",
+  "question": "\"You might succeed with another blow\", means you________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "give the blow"
+   },
+   {
+    "key": "b",
+    "text": "receive the blow"
+   },
+   {
+    "key": "c",
+    "text": "continue struggle"
+   },
+   {
+    "key": "d",
+    "text": "withdraw the struggle"
+   }
+  ],
+  "optionsRaw": "(a) give the blow   (b) receive the blow   (c) continue struggle   (d) withdraw the struggle",
+  "correctAnswer": "(c) continue struggle",
+  "answer": "(c) continue struggle - one more blow, one more effort, may bring success.",
+  "explanation": "The line comes after 'Don't give up though the pace seems slow'; 'another blow' means another stroke of effort, so the advice is to keep struggling, not to strike someone or to accept a defeat.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q4",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "4",
+  "question": "The struggler learns too late that he________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "was unable to struggle"
+   },
+   {
+    "key": "b",
+    "text": "was close to his victory"
+   },
+   {
+    "key": "c",
+    "text": "should have taken rest"
+   },
+   {
+    "key": "d",
+    "text": "should have quit"
+   }
+  ],
+  "optionsRaw": "(a) was unable to struggle   (b) was close to his victory   (c) should have taken rest   (d) should have quit",
+  "correctAnswer": "(b) was close to his victory",
+  "answer": "(b) was close to his victory - 'And he learned too late when the night slipped down, / How close he was to the golden crown.'",
+  "explanation": "The stanza says the struggler gave up 'when he might have captured the victor's cup', and discovered afterwards how near the goal had been; the tragedy is the nearness, not any lack of strength.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q5",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "5",
+  "question": "The moral of the poem is that we should________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "face challenges of life"
+   },
+   {
+    "key": "b",
+    "text": "enjoy success"
+   },
+   {
+    "key": "c",
+    "text": "run away from the hardships of life"
+   },
+   {
+    "key": "d",
+    "text": "only think positively"
+   }
+  ],
+  "optionsRaw": "(a) face challenges of life   (b) enjoy success   (c) run away from the hardships of life   (d) only think positively",
+  "correctAnswer": "(a) face challenges of life",
+  "answer": "(a) face challenges of life - 'So stick to the fight when you're hardest hit.'",
+  "explanation": "The poem does not promise that positive thinking alone succeeds; it asks for effort in the face of difficulty - rest if you must, but do not quit. Option (d) is too passive.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q6",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "6",
+  "question": "'So stick to the fight when you're________',",
+  "options": [
+   {
+    "key": "a",
+    "text": "hardest hit"
+   },
+   {
+    "key": "b",
+    "text": "betrayed"
+   },
+   {
+    "key": "c",
+    "text": "unhappy"
+   },
+   {
+    "key": "d",
+    "text": "unlucky"
+   }
+  ],
+  "optionsRaw": "(a) hardest hit   (b) betrayed   (c) unhappy   (d) unlucky",
+  "correctAnswer": "(a) hardest hit",
+  "answer": "(a) hardest hit - 'So stick to the fight when you're hardest hit.'",
+  "explanation": "The line is quoted exactly from the last stanza; 'hardest hit' means when misfortune strikes you most heavily.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q7",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "7",
+  "question": "The phrase 'golden crown' means________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "wealth"
+   },
+   {
+    "key": "b",
+    "text": "power"
+   },
+   {
+    "key": "c",
+    "text": "victory"
+   },
+   {
+    "key": "d",
+    "text": "throne"
+   }
+  ],
+  "optionsRaw": "(a) wealth   (b) power   (c) victory   (d) throne",
+  "correctAnswer": "(c) victory",
+  "answer": "(c) victory - the crown is the prize won by the man who does not give up.",
+  "explanation": "It appears in the same stanza as 'the victor's cup', and both images stand for the reward of success, not for money or a literal throne.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex2_q8",
+  "sectionCode": "P2S1",
+  "type": "mcq",
+  "number": "8",
+  "question": "In the first stanza of the poem, the word 'sigh' symbolizes________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "happiness"
+   },
+   {
+    "key": "b",
+    "text": "regret"
+   },
+   {
+    "key": "c",
+    "text": "courage"
+   },
+   {
+    "key": "d",
+    "text": "pain"
+   }
+  ],
+  "optionsRaw": "(a) happiness   (b) regret   (c) courage   (d) pain",
+  "correctAnswer": "(d) pain",
+  "answer": "(d) pain - 'And you want to smile but have to sigh' shows the ache of hardship that forces a sigh instead of a smile.",
+  "explanation": "The sigh is set against the wish to smile, so it stands for the distress of low funds, high debts and pressing care. 'Regret' is a plausible second reading, but the stanza stresses suffering rather than remorse.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex3_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Work in pairs and read the above poem again. Comprehend it thoroughly and paraphrase it in simple words. After you have completed, share it with your partner.",
+  "answer": "Stanza 1: When things go wrong - and they sometimes do - when the road you are walking seems to climb uphill all the way, when you have little money and many debts, when you feel like smiling but can only sigh, when worry presses you down a little, then rest if you must, but do not give up.\n\nStanza 2: Life is strange with its sudden turns, as each of us learns at some time or other; many a man turns his failure into success when he might have won if he had only held on. So do not give up even though your progress seems slow - one more effort may bring you success.\n\nStanza 3: Often the goal is nearer than it looks to a tired and hesitating man; often the struggler has stopped just when he might have won the winner's cup. And he learns too late, when night has fallen, how close he had been to the golden crown.\n\nStanza 4: Success is failure turned inside out - the silver lining of the clouds of doubt. You can never tell how near you are; it may be close when it seems far away. So hold on to the struggle when you are struck hardest - it is exactly when things look worst that you must not quit.\n\nIn one sentence: life is full of sudden turns, the winning post is often nearer than it looks, and the one sure way to lose is to stop before the last effort.",
+  "explanation": "A stanza-by-stanza paraphrase in simple words, keeping the order and the key images of the poem.",
+  "bookPage": 194
+ },
+ {
+  "id": "p2_ex4_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What is the poet's message in the first stanza?",
+  "answer": "The first stanza lists the troubles of ordinary life - things going wrong, an uphill road, low funds and high debts, the wish to smile that ends in a sigh, care pressing a man down - and then gives one instruction: 'Rest, if you must, but don't you quit.' The message is that hardship is normal ('as they sometimes will') and that fatigue deserves rest but never surrender. The poet is careful to allow rest, because he is not asking for impossible endurance; what he forbids is the decision to stop altogether. The stanza is written from inside the experience: the repeated 'When ... When ...' puts the reader in the middle of the struggle before the advice is given.",
+  "explanation": "The message is located in the stanza's closing couplet (lines 5-6), which answers the list of troubles that precedes it.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q2",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Which lines of the poem do you like the most and why?",
+  "answer": "The lines I like most are from the third stanza: 'And he learned too late when the night slipped down, / How close he was to the golden crown.' I like them because they turn an abstract piece of advice into a picture. 'The night slipped down' is beautifully quiet - failure does not arrive with a crash but comes like darkness, without being noticed - and 'too late' carries the whole tragedy of a man who stopped one step from the prize. These lines also explain why the poem is worth listening to: they show the cost of quitting, which is not the loss of the race but the discovery, afterwards, that the race was almost won. Reading them, I remember the table of famous failures we read before the poem: Lincoln and Rowling were each, at some point, one 'no' away from the night slipping down.",
+  "explanation": "Open-ended personal-choice question; the answer quotes the chosen lines, explains their imagery and links them to the poem's theme and the pre-reading table.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q3",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Write the central idea of the poem.",
+  "answer": "The central idea is that perseverance, not talent or luck, decides success, and that failure often comes to those who stop when success was nearest. The poem builds this idea in four movements: it begins with the troubles of life and the command not to quit; it observes that life is full of sudden turns and that many men fail only because they did not 'stick it out'; it shows the struggler who gives up just short of the victor's cup and learns too late how close he had been; and it ends by redefining success itself - 'Success is failure turned inside out.' Because no one can see how near the goal is, the only sensible rule is to keep going, resting when necessary but never abandoning the fight. The poem is thus both a consolation and a warning.",
+  "explanation": "The idea is traced through all four stanzas, with the closing definition of success as the poem's final statement of it.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q4",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Find similes, metaphors and alliterations in the poem.",
+  "answer": "Metaphors: 'the road you're trudging seems all uphill' (life as an uphill road); 'Success is failure turned inside out' (success identified with reversed failure); 'The silver tint of clouds of doubt' (doubt as a cloud with a silver lining); 'the victor's cup' and 'the golden crown' (victory as a prize to be won); 'stick to the fight' (life as a battle).\n\nSimiles: there is no true simile in the poem - no comparison is made with 'like' or 'as'. Phrases such as 'as they sometimes will' and 'As every one of us sometimes learns' use 'as' as a conjunction of time or reason, not of comparison. The nearest thing to a simile is the metaphor of the silver-lined cloud, and it is worth noticing that Guest prefers implied comparisons throughout.\n\nAlliteration: 'When things go wrong, as they sometimes will' (w); 'the road you're trudging' (r/t); 'the funds are low' (l); 'want to smile but have to sigh' (s); 'care is pressing' (p); 'Don't give up though the pace seems slow' (g/p/s); 'So stick to the fight when you're hardest hit' (h); 'when things seem worst that you mustn't quit' (w). The repeated 'When' at the start of the first stanza is anaphora, and the repetition of 'quit' at the end of stanzas 1 and 4 acts as a refrain.",
+  "explanation": "Each device is quoted with its exact words. The question assumes a simile exists; the honest finding is that the poem's comparisons are all metaphors, and the explanation says so.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q5",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Discuss how the poem helps the reader to be optimistic in every situation.",
+  "answer": "The poem makes optimism reasonable rather than sentimental, and that is why it helps. First, it normalises trouble: 'When things go wrong, as they sometimes will' tells the reader that difficulty is not a sign that he is singled out or doing something wrong. Second, it permits rest - 'Rest, if you must' - so that a tired reader is not asked to pretend he is strong; the poem offers recovery instead of shame. Third, it changes the meaning of apparent failure: 'Success is failure turned inside out' and 'many a failure turns about' recast defeat as a stage, which removes the despair that comes from thinking a setback is final. Fourth, it supplies hope grounded in uncertainty: since 'you never can tell how close you are', the reasonable gamble is always to try once more. Finally, its rhythm and repetition work on the feelings as much as the argument does - the short lines and the recurring 'don't you quit' become a voice the reader can hear in his own head during an examination, an illness or a family difficulty.",
+  "explanation": "The discussion draws on the poem's own sequence: normalising hardship, allowing rest, redefining failure, arguing from uncertainty and using rhythm and refrain.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q6",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "6",
+  "question": "What effect does the poem create on the reader?",
+  "answer": "The poem creates the effect of being spoken to by someone who has been through the same troubles - encouraged, steadied and slightly ashamed of wanting to give up. The effect comes mainly from three things. The repeated 'When' clauses at the beginning put the reader inside his own difficulties, so that the advice arrives when he is already nodding. The tone is warm and colloquial, with contractions and direct address ('don't you quit'), which makes it feel like advice from a friend rather than a lecture. And the short four-beat lines with their strong rhymes - 'will' / 'uphill', 'high' / 'sigh', 'slow' / 'blow' - give the verse a marching quality that is itself encouraging; the sound says what the words say. After reading it, one feels that quitting is not a private weakness but a common mistake, and that the next attempt is worth making.",
+  "explanation": "The answer identifies the emotional effect and explains the technical causes: direct address, colloquial tone, anaphora and the marching rhythm of the rhymed quatrains.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q7",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "7",
+  "question": "What is the message of the poem?",
+  "answer": "The message is: never give up, because you cannot know how near success is, and the last effort is often the one that wins. The poem repeats the message in every stanza - 'Rest, if you must, but don't you quit', 'Don't give up though the pace seems slow', 'So stick to the fight when you're hardest hit' - and it supports it with two arguments. The first is experience: life is queer with twists and turns, and many a failure turns about. The second is the nearness of the goal: the struggler gives up 'when he might have captured the victor's cup' and learns too late 'how close he was to the golden crown'. The message is not that everyone will succeed if he persists, but that quitting guarantees failure while persistence keeps success possible.",
+  "explanation": "The message is stated in the refrain lines and supported by the two arguments the poem makes in stanzas 2 and 3.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q8",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Why does the poet term life 'queer with twists and turns'?",
+  "answer": "Because life does not move in a straight line, and its changes are often unexpected and hard to explain. 'Queer' here means strange or odd, not wrong; 'twists and turns' suggests a road that bends without warning. A man may work hard and fail, while another succeeds by accident; a defeat may turn out to be the beginning of a career, as it did for Lincoln and Rowling. The phrase prepares the argument of the stanza: since no one can predict the next turn, no one can declare a struggle lost. The poet is not complaining about life's unpredictability - he is using it as a reason for hope.",
+  "explanation": "The phrase is explained through its context ('As every one of us sometimes learns') and through the examples of unexpected reversal given in the stanza.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex4_q9",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "9",
+  "question": "What is the benefit of not quitting as suggested in the poem?",
+  "answer": "The poem suggests three benefits. The first is success itself: 'You might succeed with another blow', and the man who sticks it out may 'capture the victor's cup' and reach 'the golden crown'. The second is the avoidance of lifelong regret: the struggler who gives up learns 'too late' how close he had been, and that knowledge is worse than the failure itself. The third is the change of character that persistence brings - the poem's definition, 'Success is failure turned inside out', implies that a man who keeps going turns his defeats into the raw material of his achievement. To these the reader may add a fourth: the peace of mind of knowing that one has done everything possible, whether or not the prize is won.",
+  "explanation": "Benefits are drawn from lines 12, 15-18 and 19-20, with a brief extension beyond the poem noted as the reader's addition.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex5_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Work individually and identify the poetic devices in the poem. Make a list of them and use them in your sentences. Share your work with your class fellows after you have completed.",
+  "answer": "Devices found in 'Don't Quit':\n\n1. Metaphor - 'the road you're trudging seems all uphill' (life as a road); 'Success is failure turned inside out'; 'The silver tint of clouds of doubt'; 'the victor's cup'; 'the golden crown'. My sentence: 'Her years of rejection were the compost in which her first book grew.'\n\n2. Personification - 'When care is pressing you down a bit' (care as a weight with hands); 'when the night slipped down' (night as a quiet thief). My sentence: 'Fear sat beside him all night and would not let him sleep.'\n\n3. Alliteration - 'When things go wrong, as they sometimes will'; 'the funds are low'; 'want to smile but have to sigh'; 'the pace seems slow'; 'hardest hit'. My sentence: 'Slow steps on the steep slope still reach the summit.'\n\n4. Anaphora - the fivefold repetition of 'When ...' at the beginning of the first stanza. My sentence: 'When the money is gone, when the friends are silent, when the door is shut - knock again.'\n\n5. Refrain / repetition - 'don't you quit' closes stanza 1 and 'you mustn't quit' closes stanza 4, framing the poem. My sentence: 'Whatever the score, keep playing; whatever the score, keep playing.'\n\n6. Antithesis - 'you want to smile but have to sigh'; 'the funds are low and debts are high'; 'It may be near when it seems so far'. My sentence: 'The room was small but the dream in it was large.'\n\n7. Imagery - 'the funds are low and debts are high', 'the silver tint of clouds of doubt'. My sentence: 'The lantern threw a small yellow circle on the wet road.'\n\n8. Symbol - the 'golden crown' and the 'victor's cup' stand for the reward of perseverance. My sentence: 'The finish line is a symbol of everything we refused to abandon.'",
+  "explanation": "Each device is quoted from the exact line, explained and used in an original sentence, as the task requires.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex6_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Work in pairs and give a critical appreciation of the poem based on the following aspects. Compare your work with your partner. 1. Poetic Diction  2. Theme  3. Structure  4. Language  5. Message",
+  "answer": "1. Poetic Diction: The diction is deliberately plain and conversational - 'things go wrong', 'the funds are low', 'don't you quit', 'stick to the fight'. Guest chooses the vocabulary of everyday speech rather than of literature, and the few images he uses (the uphill road, the victor's cup, the golden crown, the silver lining) are common coin. This is a poem meant to be remembered by people who are tired, so simplicity is a strategy, not a limitation.\n\n2. Theme: Perseverance. The poem argues that failure is usually temporary and that most people fail by stopping too soon; success is redefined as 'failure turned inside out'.\n\n3. Structure: Four six-line stanzas, each rhyming aabbcc (will/uphill, high/sigh, bit/quit), with lines built on four stresses and a short closing line. Each stanza is a complete movement - trouble, reversal, nearness of the goal, redefinition - and the first and last stanzas close with the same command, so the poem ends where it began, only with more force.\n\n4. Language: The language is direct, using the second person ('you'), contractions, imperatives ('Rest', 'Don't give up', 'stick') and anaphora ('When ... When ...'). Rhyme and alliteration give it a marching rhythm; the tone is encouraging, brotherly and slightly sentimental, which suits its purpose.\n\n5. Message: Do not surrender in the middle of the fight. Rest if you must, but return; you cannot see how near the goal is, and the effort that seems futile may be the one that wins.",
+  "explanation": "All five printed aspects are covered in order, with the stanza rhyme pattern checked (will/uphill/high/sigh/bit/quit) and the refrain noted as structural frame.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex7_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Explain the following stanza: Stanza 1 - 'When things go wrong ........... but don't you quit.'",
+  "answer": "The opening stanza sets the scene of ordinary hardship and gives the poem's first command. 'When things go wrong, as they sometimes will' - the parenthesis is important, because it tells us that trouble is not exceptional but the common weather of life. 'When the road you're trudging seems all uphill' - 'trudging' is the slow, heavy walk of a tired man, and an uphill road gives no view and no rest. 'When the funds are low and debts are high' states the trouble in its plainest, most modern form: money. 'And you want to smile but have to sigh' turns to the feelings behind the money, the gap between the face one wants to show and the breath one actually draws. 'When care is pressing you down a bit' adds the weight of worry, and the modest 'a bit' makes the line believable. Then comes the answer: 'Rest, if you must, but don't you quit.' The poet allows rest because bodies and minds tire, but he separates resting from surrendering - you may stop for a while, you may not stop for good.",
+  "explanation": "Lines 1-6 explained in sequence, with attention to 'trudging', 'as they sometimes will' and the crucial distinction between rest and surrender.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex7_q2",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Explain the following stanza: Stanza 2 - 'Life is queer .... with another blow.'",
+  "answer": "The second stanza explains why quitting is a mistake. 'Life is queer with its twists and turns' - life is strange, full of bends that no one can foresee; 'As every one of us sometimes learns' adds that this is not theory but the common experience of everybody. 'And many a failure turns about, / When he might have won had he stuck it out' - here 'failure' means a man who has failed, and 'turns about' means he reverses his fortune. The couplet makes the central claim of the poem: the difference between the man who wins and the man who loses is often nothing but the decision to hold on a little longer. 'Don't give up though the pace seems slow - / You might succeed with another blow.' 'Pace' is speed: progress may look slow without being absent, and 'another blow' is another stroke of effort. The stanza therefore moves from observation (life is unpredictable) to advice (do not give up) to hope (one more effort may succeed).",
+  "explanation": "Lines 7-12 explained, with 'queer' glossed as strange, 'turns about' as reverses his fortune, and 'blow' as a stroke of effort.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex7_q3",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Explain the following stanza: Stanza 3 - 'Often the goal ....... to the golden crown.'",
+  "answer": "The third stanza is the emotional centre of the poem. 'Often the goal is nearer than, / It seems to a faint and faltering man' - the goal does not move, but the tired man's judgement does: 'faint' means weak and discouraged, 'faltering' means stumbling, and such a man always overestimates the distance left. 'Often the struggler has given up, / When he might have captured the victor's cup' - the tragedy is stated plainly: the prize was within reach at the very moment of surrender. 'And he learned too late when the night slipped down, / How close he was to the golden crown.' The image of night slipping down is the finest in the poem: failure comes quietly, like darkness, and only afterwards, in the dark, does the man measure how near he had come. 'The golden crown' and 'the victor's cup' are metaphors for victory, taken from the race and the contest. The stanza does not scold the struggler; it mourns him, and in mourning him it warns the reader.",
+  "explanation": "Lines 13-18 explained, with 'faint and faltering' glossed and the two victory metaphors identified.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex7_q4",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Explain the following stanza: Stanza 4 - 'Success is failure ..... that you mustn't quit.'",
+  "answer": "The last stanza redefines success and closes with the poem's command. 'Success is failure turned inside out' - a startling metaphor: success is not the opposite of failure but the same cloth reversed, so that what looked like defeat becomes achievement when it is turned round by persistence. 'The silver tint of clouds of doubt' continues the image with the proverb of the silver lining: doubt is a cloud, and its edge is already bright. 'And you never can tell how close you are, / It may be near when it seems so far' gives the reasoning behind hope - our sense of distance is unreliable, so despair is never justified by appearances. 'So stick to the fight when you're hardest hit - / It's when things seem worst that you mustn't quit.' The two closing lines use the imperative and a dash to make the advice sound like a command shouted to a soldier. The stanza thus ends the poem on its strongest note: precisely when everything looks worst, the one thing forbidden is surrender.",
+  "explanation": "Lines 19-24 explained, with the central metaphor unpacked and the closing imperative noted.",
+  "bookPage": 195
+ },
+ {
+  "id": "p2_ex8_q1",
+  "sectionCode": "P2S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Work in groups of three. Compose your own poem on the theme of 'Don't Give Up', using elements of poetry based on three stanzas. Each member of the group should compose 1 stanza. After your group has composed the poem, exchange it with other groups.",
+  "answer": "Don't Give Up\n\nI\nWhen the first plan breaks and the road turns steep,\nAnd the friends you counted have gone to sleep,\nWhen the marks are low and the days are long,\nRemember the seed that the winter made strong.\n\nII\nThe digger who stops at the hardest stone\nWill never uncover the vein of gold;\nThe runner who quits when he runs alone\nWill never have such a story told.\n\nIII\nSo take the blow and steady your feet,\nThe darkest hour is before the light;\nThe gate you are sure you will never meet\nIs standing open, just out of sight.\n\n(Group note: the three stanzas rhyme aabb in the first and abab in the second and third, like Guest's mixture of couplets and alternating rhyme. Stanza I uses a metaphor - the seed strengthened by winter - and alliteration in 'first plan' and 'days are long'. Stanza II uses two parallel examples, the digger and the runner, the second of which echoes Guest's 'victor's cup'. Stanza III uses personification of the 'darkest hour' and ends with the image of a gate standing open, a symbol of the success that is nearer than it looks.)",
+  "explanation": "Creative task; a complete three-stanza poem is supplied with a note naming the elements of poetry used, as the exercise requires.",
+  "bookPage": 195
+ },
+ {
+  "id": "p3_pre_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Read the following quote and guess the theme of the poem: \"Graveyards are full of the people who thought themselves indispensable\"",
+  "answer": "The quote suggests that no one is indispensable: the people who believed the world could not go on without them are lying in graveyards like everybody else, and the world has gone on. From this I guess that the poem will be about the vanity of human pride and the shortness of power and fame. The theme is likely to be that greatness, wealth and authority are temporary, that monuments cannot preserve a name, and that time and nature finally level every human boast. The poem is 'Ozymandias', and the title itself is the name of a king who thought his works would outlast everything.",
+  "explanation": "Pre-reading prediction; the guess is drawn from the quote's argument and confirmed by the poem's own subject, a ruined statue of a boastful king.",
+  "bookPage": 197
+ },
+ {
+  "id": "p3_ex1_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Column A has words from the poem; underline these words in the poem. Column B has the contextual meanings of these words, but they are jumbled up. Work in pairs. Try and match the appropriate meaning of each word, and write your answer in column C. Share your work with your partner after you have completed.",
+  "answer": "No. | Column A | Column C (correct meaning)\n1 | frown | d - a displeasing or concentrating face. 'whose frown' — the carved lines of displeasure on the visage.\n2 | visage | g - a human or animal face. 'a shattered visage lies'.\n3 | sculptor | b - an artist who makes sculpture. 'Tell that its sculptor well those passions read'.\n4 | mock | e - make fun of. 'The hand that mocked them' — the sculptor's hand imitated and mocked the king's passions.\n5 | pedestal | f - the base of sculpture. 'And on the pedestal, these words appear'.\n6 | colossal | c - huge. 'Of that Colossal Wreck'.\n7 | remains | a - the parts left over. 'Nothing beside remains'.",
+  "explanation": "Each match is confirmed by the poem's context: the frown is a carved expression, the visage is the broken face, the sculptor is the artist, 'mocked' is the mocking imitation of the passions, the pedestal is the statue's base, 'colossal' describes the size of the wreck, and 'remains' means what is left.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q1",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "1",
+  "question": "'Ozymandias' is a poem depicting that the life is________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "beautiful"
+   },
+   {
+    "key": "b",
+    "text": "transient"
+   },
+   {
+    "key": "c",
+    "text": "attractive"
+   },
+   {
+    "key": "d",
+    "text": "alluring"
+   }
+  ],
+  "optionsRaw": "(a) beautiful   (b) transient   (c) attractive   (d) alluring",
+  "correctAnswer": "(b) transient",
+  "answer": "(b) transient - the poem shows that life, power and glory pass away: 'Nothing beside remains.'",
+  "explanation": "The ruined statue in an empty desert is the poem's argument that everything human is short-lived; beauty, attraction and allurement are not its subject at all.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q2",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "2",
+  "question": "The poet met a traveller from________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "an ancient land"
+   },
+   {
+    "key": "b",
+    "text": "aboard"
+   },
+   {
+    "key": "c",
+    "text": "a neighbouring country"
+   },
+   {
+    "key": "d",
+    "text": "a desert"
+   }
+  ],
+  "optionsRaw": "(a) an ancient land   (b) aboard   (c) a neighbouring country   (d) a desert",
+  "correctAnswer": "(a) an ancient land",
+  "answer": "(a) an ancient land - 'I met a traveller from an antique land'.",
+  "explanation": "The opening line is quoted almost verbatim; 'antique' means ancient, and the land is Egypt, though the poem does not name it.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q3",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "3",
+  "question": "The traveller told the poet that he had seen________ in the desert.",
+  "options": [
+   {
+    "key": "a",
+    "text": "a statue"
+   },
+   {
+    "key": "b",
+    "text": "a sculptor"
+   },
+   {
+    "key": "c",
+    "text": "an oasis"
+   },
+   {
+    "key": "d",
+    "text": "a snake"
+   }
+  ],
+  "optionsRaw": "(a) a statue   (b) a sculptor   (c) an oasis   (d) a snake",
+  "correctAnswer": "(a) a statue",
+  "answer": "(a) a statue - two vast trunkless legs of stone and a shattered visage lying in the sand.",
+  "explanation": "The traveller describes the remains of a colossal statue; the sculptor is mentioned only as its maker, and no oasis or snake appears in the poem.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q4",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "4",
+  "question": "The words on the base of statue tell us that the king Ozymandias was a________ king.",
+  "options": [
+   {
+    "key": "a",
+    "text": "kind"
+   },
+   {
+    "key": "b",
+    "text": "humble"
+   },
+   {
+    "key": "c",
+    "text": "proud"
+   },
+   {
+    "key": "d",
+    "text": "cruel"
+   }
+  ],
+  "optionsRaw": "(a) kind   (b) humble   (c) proud   (d) cruel",
+  "correctAnswer": "(c) proud",
+  "answer": "(c) proud - 'My name is Ozymandias, King of Kings; / Look on my Works, ye Mighty, and despair!'",
+  "explanation": "'King of Kings' and the challenge to the Mighty to despair are the language of pride. The 'sneer of cold command' suggests cruelty as well, but the inscription itself is a boast, so pride is the answer the question asks for.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q5",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "5",
+  "question": "The message of the poem for all powerful authority and glory is________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "'sands stretch far away'"
+   },
+   {
+    "key": "b",
+    "text": "'frown and wrinkled lips'"
+   },
+   {
+    "key": "c",
+    "text": "'nothing remains'"
+   },
+   {
+    "key": "d",
+    "text": "'stamped on these lifeless things'"
+   }
+  ],
+  "optionsRaw": "(a) 'sands stretch far away'   (b) 'frown and wrinkled lips'   (c) 'nothing remains'   (d) 'stamped on these lifeless things'",
+  "correctAnswer": "(c) 'nothing remains'",
+  "answer": "(c) 'nothing remains' - 'Nothing beside remains. Round the decay / Of that Colossal Wreck, boundless and bare / The lone and level sands stretch far away.'",
+  "explanation": "The phrase states the poem's moral directly: of all the king's works nothing is left but a broken statue. The other quoted phrases describe the statue or the desert, not the message.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q6",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "6",
+  "question": "In the poem 'Ozymandias', the condition of the statue is________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "good"
+   },
+   {
+    "key": "b",
+    "text": "bad"
+   },
+   {
+    "key": "c",
+    "text": "excellent"
+   },
+   {
+    "key": "d",
+    "text": "marvellous"
+   }
+  ],
+  "optionsRaw": "(a) good   (b) bad   (c) excellent   (d) marvellous",
+  "correctAnswer": "(b) bad",
+  "answer": "(b) bad - only 'Two vast and trunkless legs of stone' stand, and the face lies 'Half sunk, a shattered visage' in the sand.",
+  "explanation": "The statue has lost its body and its head, and the head itself is broken; the poem calls it 'that Colossal Wreck'.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q7",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "7",
+  "question": "'My name is Ozymandias - King of Kings;' is ________ literary device.",
+  "options": [
+   {
+    "key": "a",
+    "text": "Simile"
+   },
+   {
+    "key": "b",
+    "text": "Irony"
+   },
+   {
+    "key": "c",
+    "text": "Personification"
+   },
+   {
+    "key": "d",
+    "text": "Metaphor"
+   }
+  ],
+  "optionsRaw": "(a) Simile   (b) Irony   (c) Personification   (d) Metaphor",
+  "correctAnswer": "(b) Irony",
+  "answer": "(b) Irony - the boast 'King of Kings' is carved on a broken statue in an empty desert, so the words mean the opposite of what they claim.",
+  "explanation": "Irony is the device the whole poem turns on: the king who commands the Mighty to look at his works has left nothing to look at. Note that the title itself can also be read as hyperbole or as a metaphor of absolute power; the printed key may vary, but the contextual device is irony.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex2_q8",
+  "sectionCode": "P3S1",
+  "type": "mcq",
+  "number": "8",
+  "question": "One of the following lines does NOT make use of alliteration in the poem.",
+  "options": [
+   {
+    "key": "a",
+    "text": "The lone and level sands stretch far away"
+   },
+   {
+    "key": "b",
+    "text": "I met a traveller from an antique land"
+   },
+   {
+    "key": "c",
+    "text": "Nothing beside remains. Round the decay"
+   },
+   {
+    "key": "d",
+    "text": "Half sunk, a shattered visage lies, whose frown"
+   }
+  ],
+  "optionsRaw": "(a) The lone and level sands stretch far away   (b) I met a traveller from an antique land   (c) Nothing beside remains. Round the decay   (d) Half sunk, a shattered visage lies, whose frown",
+  "correctAnswer": "(b) I met a traveller from an antique land",
+  "answer": "(b) 'I met a traveller from an antique land' - no consonant is repeated at the beginning of stressed words.",
+  "explanation": "Option (a) repeats 'l' (lone, level), (d) repeats 's' (sunk, shattered) and (c) carries the 'r' of 'remains' and 'Round' (a weaker instance, which is why it is not the answer). Line (b) has no such repetition, so it is the line without alliteration.",
+  "bookPage": 198
+ },
+ {
+  "id": "p3_ex3_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Work in pairs and read the above poem again. Comprehend it thoroughly and paraphrase it in simple words. After you have completed, share it with your partner.",
+  "answer": "Paraphrase in simple words:\n\nI met a traveller who came from an ancient country. He told me that two huge legs of stone, with no body left, stand in the desert. Near them, half buried in the sand, lies a broken face. Its frown, its wrinkled lip and its sneer of cold command show that the sculptor understood the king's feelings very well, and those feelings still live, stamped on these lifeless stones - the hand that copied them and the heart that fed them.\n\nOn the base of the statue these words are carved: 'My name is Ozymandias, King of Kings. Look at my works, you Mighty ones, and despair!' Nothing else is left. Around the ruins of that enormous wreck, boundless and bare, the lonely, level sands stretch far away.\n\nIn one sentence: a traveller describes a broken statue in the desert, whose proud inscription is contradicted by the endless empty sand around it.",
+  "explanation": "A close paraphrase of the whole fourteen lines in modern, simple English, keeping the order and details of the original.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What did the traveller see in the desert and whom he told about it?",
+  "answer": "The traveller saw the remains of a huge statue in the desert: 'Two vast and trunkless legs of stone' standing on the sand, and near them, half sunk and shattered, a great face with a frown, a wrinkled lip and 'a sneer of cold command'. On the pedestal of the statue an inscription was carved. He told all this to the poet, the speaker of the poem, who reports it in the opening line: 'I met a traveller from an antique land, / Who said -'. Nothing in the poem tells us whether the traveller was an explorer, a merchant or a wondering tourist; his importance is that he is a witness, so the story reaches us at second hand, like a report from a far country.",
+  "explanation": "The answer follows lines 1-10 and notes the framing device - the poet repeats what the traveller said rather than seeing the statue himself.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q2",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "2",
+  "question": "How can you say that the sculptor was a great artist?",
+  "answer": "Because he could read a man's character and reproduce it in stone so exactly that it survives after the man and the empire are gone. The poem says the frown, the 'wrinkled lip' and the 'sneer of cold command' on the broken face 'Tell that its sculptor well those passions read / Which yet survive, stamped on these lifeless things'. The passions outlived both the king and the sculptor, and they did so only because the sculptor's hand had 'mocked' them - copied them with such skill that the stone still sneers. A great artist is not only a craftsman of stone but a reader of the heart, and here the sculptor understood the pride and cruelty of the tyrant he was paid to flatter, and even mocked it while carving it. His art, not the king's power, is what survived.",
+  "explanation": "Lines 5-8 supply the evidence: the expression on the shattered face and the words 'well those passions read' and 'The hand that mocked them'.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q3",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "3",
+  "question": "What was written on the pedestal of the statue of Ozymandias?",
+  "answer": "These words were carved on the pedestal: 'My name is Ozymandias, King of Kings; / Look on my Works, ye Mighty, and despair!' The inscription gives the king's name, claims for him the highest title on earth, and challenges every other powerful ruler to look at what he has built and despair of equalling it. The irony is that the 'Works' the traveller can see are two broken legs and a shattered head, and the only thing the Mighty would despair of is finding anything at all. The boast is therefore the strongest proof of the poem's message: the inscription survives, but the works it advertises have vanished into sand.",
+  "explanation": "Lines 9-11 are quoted exactly, and the contrast with lines 12-14 supplies the irony the question expects.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q4",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "4",
+  "question": "What is the meaning of the phrase in the poem \"the heart that fed\"?",
+  "answer": "It means the king's own heart, which fed and nourished the passions carved on his face. The full sentence runs: the frown, the wrinkled lip and the sneer 'Tell that its sculptor well those passions read, / Which yet survive, stamped on these lifeless things / The hand that mocked them, and the heart that fed'. Grammatically the phrase belongs with 'those passions': the passions were fed by the heart of Ozymandias and mocked by the hand of the sculptor. The heart is called a 'heart that fed' because pride, contempt and the lust for command are not passing moods but appetites that a man keeps feeding until they become his whole character. The phrase therefore blames the living man, not the stone: the statue is only a copy of what the heart had already made.",
+  "explanation": "The phrase is read in the syntax of lines 6-8, where 'the hand that mocked them' and 'the heart that fed' are parallel: the sculptor's hand copied the passions, the king's heart fed them.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q5",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "5",
+  "question": "What is ironic about the fate of Ozymandias?",
+  "answer": "The irony is complete and double. First, the king who called himself 'King of Kings' and ordered the Mighty to look at his works and despair now has no works to show: only 'Two vast and trunkless legs of stone' and a 'shattered visage' half sunk in the sand, with 'Nothing beside remains'. Second, the boast itself has been preserved by the very art he meant only to advertise - the sculptor's mocking hand outlived the empire, so that the words 'look on my Works' now point at ruin. A third layer is that the 'Mighty' whom he addressed have also vanished, and the only thing that stretches 'far away' is 'The lone and level sands'. The statue that was built to make his name eternal has become the monument of his insignificance.",
+  "explanation": "The irony is between the inscription (lines 10-11) and the scene around it (lines 12-14), reinforced by the sculptor's survival in lines 6-8.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q6",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "6",
+  "question": "What is the message of the poem?",
+  "answer": "The message is that human power, pride and glory are temporary, and that time destroys every monument and every empire. Ozymandias ruled as 'King of Kings', yet his statue is a wreck in an empty desert and his 'Works' have disappeared; the only thing that has lasted is the sculptor's art and the desert sand. Shelley is warning the powerful - and the reader - against the illusion of permanence: to build monuments to oneself is to build for the sand. At the same time the poem quietly praises art, since the sculptor's mocking hand preserved both the king's arrogance and its refutation. The message, in the words of the inscription turned against itself, is 'Nothing beside remains'; and the proper human response is humility rather than despair.",
+  "explanation": "The message is gathered from the inscription, the description of the wreck and the closing image of the 'lone and level sands'; the secondary point about art is drawn from lines 6-8.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q7",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "7",
+  "question": "How does this poem relate to your life?",
+  "answer": "The poem relates to my life in three ways. First, it is a cure for boasting: I have sometimes wanted to be praised for a good result or a prize, and Ozymandias shows where the desire to be admired ends - a name carved on a broken stone. Second, it teaches proportion: the things I am anxious about, a mark in a test or an argument I must win, look very small beside 'the lone and level sands'. Third, it gives a better ambition: since power and possessions do not last, what is worth building is what the sculptor built - skill, honesty and work done well, which outlived the king who paid for it. I would rather be the artist whose hand told the truth than the king whose inscription was proved false by the desert.",
+  "explanation": "Open-ended personal-response question; the answer draws three specific lessons (humility, proportion, value of art and honest work) from the poem.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex4_q8",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "8",
+  "question": "The proud Ozymandias lies forgotten in the desert. Comment.",
+  "answer": "The line is a fair summary of the poem's judgement. Ozymandias built a colossal statue of himself and carved on it the command 'Look on my Works, ye Mighty, and despair!'; what is left is a pair of 'trunkless legs' and a face 'Half sunk, a shattered visage' in the sand. The frown and the 'sneer of cold command' still tell us what kind of man he was, but nothing tells us what he did; even his name is known only because a traveller repeated an inscription. He is 'forgotten' in the precise sense that no city, no law and no living memory of his rule remains, and the desert has taken his works. Shelley's point is not that Ozymandias was unusual but that he is typical: every proud ruler ends as a ruin in somebody's desert. The comment is therefore ironic rather than cruel - the poem does not gloat, it simply lets time do the arguing.",
+  "explanation": "The comment is supported by the description of the wreck, the inscription and the closing image of the sands; 'forgotten' is interpreted as the loss of everything but a name on a stone.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex5_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Work in pairs and give a critical appreciation of the poem based on the following aspects. Compare your work with your partner after you have done it. 1. Poetic Diction  2. Theme  3. Structure  4. Language  5. Message",
+  "answer": "1. Poetic Diction: The diction is formal, archaic and monumental - 'antique land', 'trunkless legs', 'shattered visage', 'sneer of cold command', 'ye Mighty', 'Colossal Wreck'. Words such as 'visage', 'pedestal' and 'colossal' belong to the world of monuments and inscriptions, so the vocabulary itself sounds like stone. The one modern, plain phrase, 'Nothing beside remains', hits hard precisely because it is plain.\n\n2. Theme: The vanity of human power and the transience of glory; time and nature outlast tyrants, while art survives to mock them.\n\n3. Structure: A Petrarchan sonnet of fourteen lines, rhymed ababacdcedefef, in which the octave reports what the traveller saw and the sestet reports the inscription and its setting. The poem is framed in reported speech ('I met a traveller ... Who said'), so the reader hears the story at second hand, as history reaches us. The turn comes at line 9 with 'And on the pedestal'.\n\n4. Language: Shelley uses irony as the organising principle: the boast is placed in the middle of the ruin, so that statement and setting contradict each other. Alliteration ('lone and level', 'sunk, a shattered'), imagery of size and emptiness ('boundless and bare'), and the powerful antithesis between 'King of Kings' and 'Nothing beside remains' do the rest. The tone is detached and grimly amused rather than angry.\n\n5. Message: No earthly power is permanent. Pride builds monuments that become ruins, and the only immortality worth having belongs to the truth told about power, not to power itself.",
+  "explanation": "All five printed aspects are answered, with the rhyme scheme, the framing device and the central irony identified.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex6_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "6",
+  "question": "'Every rise has a fall.' Work in pairs and discuss it in the light of the poem.",
+  "answer": "The proverb says that no height is permanent, and 'Ozymandias' is its illustration in stone. Ozymandias 'rose' to be King of Kings, the ruler of an empire great enough to raise a colossal statue of himself in the desert; the statue's pedestal still carries his challenge to the Mighty. His fall is not recorded as an event - no battle, no rebellion is mentioned - because Shelley is not interested in how empires collapse, only in the fact that they do. The fall is visible in the legs without a body, the face in the sand and the words 'Nothing beside remains'. In the light of the poem, then, the proverb is not a threat but a law of nature, like gravity: whatever is raised by human power will be brought down by time. The poem adds a warning that the proverb does not: the higher the rise, the more absurd the fall, because the proud man has built his monument to himself. And it adds a consolation: the sculptor's art, which served no ambition, has outlived the king's power.",
+  "explanation": "Discussion task; the answer applies the proverb to the poem's evidence (the rise implied by the title 'King of Kings', the fall shown by the wreck) and adds the poem's own qualification about pride and art.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex7_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Explain the following lines: Line No. 1-8 - 'I met a traveller ......... and the heart that fed;'",
+  "answer": "The octave reports what a traveller saw. 'I met a traveller from an antique land' establishes the frame: the poet has not seen the statue himself, and the story comes from a distant, ancient country, which gives it the authority of report and the distance of legend. The traveller speaks in his own voice: 'Two vast and trunkless legs of stone / Stand in the desert.' 'Vast' gives the size and 'trunkless' the mutilation - the body is gone, only the legs remain, standing for nothing. 'Near them, on the sand / Half sunk, a shattered visage lies' gives us the head, face down and broken, half swallowed by the desert. Then the face is read like a document: 'whose frown, / And wrinkled lip, and sneer of cold command' - three details that rebuild the tyrant's character in stone. 'Tell that its sculptor well those passions read' praises the artist's insight, and 'Which yet survive, stamped on these lifeless things' makes the crucial point that the passions outlived the man. The closing phrases, 'The hand that mocked them, and the heart that fed', set artist against king: the hand that copied and mocked, the heart that fed the passions it could not master.",
+  "explanation": "Lines 1-8 are explained in sequence, with attention to the framed narration, the irony of 'trunkless', the three facial details and the contrast between hand and heart.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex7_q2",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Explain the following lines: Line No. 9-14 - 'And on the pedestal ..... stretch far away.'",
+  "answer": "The sestet turns from the broken statue to the words carved on it. 'And on the pedestal, these words appear' - the inscription is quoted as if it were still speaking: 'My name is Ozymandias, King of Kings; / Look on my Works, ye Mighty, and despair!' The voice is the voice of absolute power: it names itself, claims the highest title on earth, and commands all other rulers to look and be humbled. The next line destroys the boast with four words: 'Nothing beside remains.' The colon of the inscription leads straight into emptiness. 'Round the decay / Of that Colossal Wreck, boundless and bare' describes what is left - a wreck so large that its ruin is itself impressive, surrounded by a desert without limit or feature. The last line, 'The lone and level sands stretch far away', is the poem's true reply to the inscription: 'lone' and 'level' answer 'King of Kings', and 'stretch far away' answers 'my Works'. The rhyme of 'despair' with 'bare' quietly turns the king's command against himself.",
+  "explanation": "Lines 9-14 explained, with the inscription's imperatives contrasted word by word with the adjectives 'lone', 'level', 'boundless' and 'bare'.",
+  "bookPage": 199
+ },
+ {
+  "id": "p3_ex8_q1",
+  "sectionCode": "P3S1",
+  "type": "sq",
+  "number": "8",
+  "question": "Work in groups of three. Compose your own poem on the theme of 'all power is temporary, no matter how proud a person is'. Make sure that you are using the elements of poetry. Each member of group should compose 1 stanza. After your group has composed the poem, exchange it with other groups.",
+  "answer": "The Broken Throne\n\nI\nThe king who carved his name in stone\nAnd bade the nations bow,\nNow sits upon a broken throne\nWith sand upon his brow.\n\nII\nThe tower that his masons piled\nIs level with the dust;\nThe wind has taken back the wild\nBright banners of his trust.\n\nIII\nSo walk, O prince, with quiet tread,\nAnd hold your crown in hand;\nThe proudest empire of the dead\nIs nothing but the sand.\n\n(Group note: each member wrote one stanza. Stanza I uses irony - the king 'sits upon a broken throne' - and alliteration in 'bade the nations bow' and 'sand upon his brow'. Stanza II uses the metaphor of the tower 'level with the dust' and personification of the wind that 'has taken back' the banners. Stanza III addresses a prince directly (apostrophe), uses the symbol of the crown held in the hand for power surrendered willingly, and closes on the same image of sand that ends Shelley's sonnet. The rhyme is abcb throughout, and the last line of each stanza is short, like the sound of something falling.)",
+  "explanation": "Creative task; a complete three-stanza poem with a note naming the devices used, in the manner the exercise requires.",
+  "bookPage": 199
+ },
+ {
+  "id": "p4_pre_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "1",
+  "question": "\"The stronger the wind, the stronger the tree\". Read the line and guess the theme of the poem.",
+  "answer": "The line says that resistance makes strength: a tree that has to stand against a strong wind grows tough roots and a hard trunk, while a sheltered tree stays weak. From this I guess that the poem will be about hardship as a teacher - that difficulties, storms and struggle do not destroy a person but develop him, and that comfort and ease produce softness. The title 'Good Timber' supports the guess, because timber means wood used for building, and good timber is exactly the wood that has grown slowly in wind and cold. I expect the poem to compare trees and men and to conclude that the same law governs both.",
+  "explanation": "Pre-reading prediction; the guess is drawn from the line's logic and from the title's word 'timber', and it matches the poem's actual argument.",
+  "bookPage": 201
+ },
+ {
+  "id": "p4_ex1_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Work in pairs and find out the meaning of the following words by using dictionary. Read the poem carefully and write the contextual meaning against each word. After completing, share your work with your partner.",
+  "answer": "No. | Word | Contextual meaning\n1 | timber | Wood suitable for building; in the poem it means a person of strong, tested character - 'In trees and men good timbers grow'. Not the wood itself but the quality of being sound and useful.\n2 | scrubby | Stunted, thin and poor in growth; the 'scrubby thing' is the sheltered tree that never grew to full size, and by implication a small, undeveloped person.\n3 | toil | Hard, continuous labour; 'The man who never had to toil / To gain and farm his patch of soil' - to work the soil with effort and patience.\n4 | patriarchs | The oldest and most respected heads of a family or tribe; here the tallest, oldest trees of the forest, and the strong, experienced men compared with them.\n5 | counsel | Advice, consultation; 'they hold counsel with the stars' means the old trees and old men seem to take counsel - to talk and plan - with the sky above them.\n6 | scars | Marks left on the skin by a healed wound; here the broken branches of the old trees, which are the visible marks of the storms and struggles they have survived.",
+  "explanation": "Each entry gives the dictionary sense and then the sense the line requires, as the exercise asks; note that 'timber' shifts from material to character and 'counsel' is used figuratively.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q1",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "1",
+  "question": "The poem explains to us that good qualities always develop in________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "hardships"
+   },
+   {
+    "key": "b",
+    "text": "ease"
+   },
+   {
+    "key": "c",
+    "text": "idleness"
+   },
+   {
+    "key": "d",
+    "text": "illness"
+   }
+  ],
+  "optionsRaw": "(a) hardships   (b) ease   (c) idleness   (d) illness",
+  "correctAnswer": "(a) hardships",
+  "answer": "(a) hardships - 'Good timber does not grow with ease, / The stronger wind, the stronger trees.'",
+  "explanation": "The whole poem argues that wind, storm, cold and struggle produce strength; ease produces only 'a scrubby thing'.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q2",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "2",
+  "question": "\"Never became a forest king\" means never________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "became a lion"
+   },
+   {
+    "key": "b",
+    "text": "acquired a prominent position"
+   },
+   {
+    "key": "c",
+    "text": "possessed courage to fight"
+   },
+   {
+    "key": "d",
+    "text": "enjoyed life"
+   }
+  ],
+  "optionsRaw": "(a) became a lion   (b) acquired a prominent position   (c) possessed courage to fight   (d) enjoyed life",
+  "correctAnswer": "(b) acquired a prominent position",
+  "answer": "(b) acquired a prominent position - the sheltered tree never rose to be the tallest and most honoured tree of the forest.",
+  "explanation": "'Forest king' is a metaphor for the tree that dominates the forest; applied to men, it means a person of standing and achievement, not a literal lion or king.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q3",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "3",
+  "question": "\"But lived and died as he began\" points out towards ________ human being.",
+  "options": [
+   {
+    "key": "a",
+    "text": "a courageous"
+   },
+   {
+    "key": "b",
+    "text": "an effortless"
+   },
+   {
+    "key": "c",
+    "text": "a wealthy"
+   },
+   {
+    "key": "d",
+    "text": "a successful"
+   }
+  ],
+  "optionsRaw": "(a) a courageous   (b) an effortless   (c) a wealthy   (d) a successful",
+  "correctAnswer": "(b) an effortless",
+  "answer": "(b) an effortless human being - one who never struggled, so he ended exactly as he started, with nothing gained.",
+  "explanation": "The stanza is about 'the man who never had to toil'; because nothing was ever demanded of him, nothing was ever added to him. 'Effortless' describes such a life of ease.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q4",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "4",
+  "question": "In the poem 'Good Timber', the poet discusses themes of________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "nature, wealth and defeat"
+   },
+   {
+    "key": "b",
+    "text": "power, relationship and hope"
+   },
+   {
+    "key": "c",
+    "text": "nature, struggle and fulfilment"
+   },
+   {
+    "key": "d",
+    "text": "nature, nurture and chaos"
+   }
+  ],
+  "optionsRaw": "(a) nature, wealth and defeat   (b) power, relationship and hope   (c) nature, struggle and fulfilment   (d) nature, nurture and chaos",
+  "correctAnswer": "(c) nature, struggle and fulfilment",
+  "answer": "(c) nature, struggle and fulfilment - the poem reads human growth in the forest, treats struggle as the condition of growth and ends in the fulfilment of 'good timbers' and 'the common law of life'.",
+  "explanation": "The three terms match the poem's structure: the tree and forest imagery, the storms and toil, and the mature 'patriarchs' who have reached their full height.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q5",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "5",
+  "question": "The poem teaches us that the people reach their true potential by overcoming________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "feelings"
+   },
+   {
+    "key": "b",
+    "text": "enemies"
+   },
+   {
+    "key": "c",
+    "text": "desires"
+   },
+   {
+    "key": "d",
+    "text": "adversities"
+   }
+  ],
+  "optionsRaw": "(a) feelings   (b) enemies   (c) desires   (d) adversities",
+  "correctAnswer": "(d) adversities",
+  "answer": "(d) adversities - 'The more the storm, the more the strength' and 'By sun and cold, by rain and snow / In trees and men good timbers grow'.",
+  "explanation": "The obstacles the poem names are wind, storm, cold, rain and snow - hardships of circumstance, not feelings, enemies or desires.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q6",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "6",
+  "question": "\"But lived and died a scrubby thing\" means lived a/an________ life.",
+  "options": [
+   {
+    "key": "a",
+    "text": "unimportant"
+   },
+   {
+    "key": "b",
+    "text": "high status"
+   },
+   {
+    "key": "c",
+    "text": "useful"
+   },
+   {
+    "key": "d",
+    "text": "comfortable"
+   }
+  ],
+  "optionsRaw": "(a) unimportant   (b) high status   (c) useful   (d) comfortable",
+  "correctAnswer": "(a) unimportant",
+  "answer": "(a) unimportant - 'scrubby' means stunted and poor, so the sheltered tree lived and died a small, insignificant thing.",
+  "explanation": "The contrast is with 'a forest king'; the scrubby tree is the opposite of prominent, so its life is unimportant rather than comfortable or useful.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q7",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "7",
+  "question": "'By sun and cold, by rain and snow' is________ literary device.",
+  "options": [
+   {
+    "key": "a",
+    "text": "Metaphor"
+   },
+   {
+    "key": "b",
+    "text": "Oxymoron"
+   },
+   {
+    "key": "c",
+    "text": "Alliteration"
+   },
+   {
+    "key": "d",
+    "text": "Simile"
+   }
+  ],
+  "optionsRaw": "(a) Metaphor   (b) Oxymoron   (c) Alliteration   (d) Simile",
+  "correctAnswer": "(c) Alliteration",
+  "answer": "(c) Alliteration - 'sun' and 'snow' repeat the 's' sound at the start of stressed syllables.",
+  "explanation": "The line repeats initial consonants ('sun ... snow', and 'rain ... snow' in the same breath) and contains no comparison at all, so metaphor and simile are ruled out; an oxymoron would need contradictory words, which sun and cold are not.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex2_q8",
+  "sectionCode": "P4S1",
+  "type": "mcq",
+  "number": "8",
+  "question": "\"Broken branches\" in last stanza is the example of________.",
+  "options": [
+   {
+    "key": "a",
+    "text": "simile"
+   },
+   {
+    "key": "b",
+    "text": "metaphor"
+   },
+   {
+    "key": "c",
+    "text": "hyperbole"
+   },
+   {
+    "key": "d",
+    "text": "none of them"
+   }
+  ],
+  "optionsRaw": "(a) simile   (b) metaphor   (c) hyperbole   (d) none of them",
+  "correctAnswer": "(b) metaphor",
+  "answer": "(b) metaphor - the broken branches 'show the scars / Of many winds and much of strife', so the branches stand for the wounds that a life of struggle leaves behind.",
+  "explanation": "Literally the branches are broken wood; the poem calls them 'scars', the marks of healed wounds, and so makes them a metaphor of endurance. There is no 'like' or 'as', so it is not a simile.",
+  "bookPage": 202
+ },
+ {
+  "id": "p4_ex3_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "1",
+  "question": "What is the significance of the title of the poem?",
+  "answer": "'Timber' means wood that is fit for building - sound, straight, strong wood that has grown slowly and hardened. The title therefore works in two directions at once. Literally, it points to the forest: the poem is about trees, and 'good timber' is the tree that has fought for sun and stood against wind and snow. Figuratively, it points to people: 'In trees and men good timbers grow', so good timber means a person of tested character, useful to others and able to bear weight. The adjective 'good' matters too, because the poem distinguishes good timber from the 'scrubby thing' that grew in the shelter of the plain. The title is thus a compressed statement of the theme - strength is grown, not given - and it prepares the reader for a poem that is a parable rather than a description of forestry.",
+  "explanation": "The title is interpreted through the poem's key line 'In trees and men good timbers grow' and through the contrast between good timber and the 'scrubby thing'.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q2",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "2",
+  "question": "What happens to the people who work hard?",
+  "answer": "They grow into their full size, become useful and are honoured. The poem's third stanza states the law: 'Good timber does not grow with ease, / The stronger wind, the stronger trees'; and its fourth stanza shows the result - in the thickest part of the forest grow the 'patriarchs', the oldest and tallest trees, whose 'broken branches show the scars / Of many winds and much of strife'. Applied to men, this means that those who toil, face storms and keep standing become 'manly' men, capable of bearing responsibility, respected by others, and able to 'hold counsel with the stars' - that is, to have wisdom and a wide view of life. Their scars are not a disfigurement but a record of survival. So hard work does not merely produce results; it produces the person who can carry them.",
+  "explanation": "The answer follows the poem's argument from stanza 3 (the law) to stanza 4 (the patriarchs and their scars).",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q3",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "3",
+  "question": "How can one achieve one's true potential in life according to the poem?",
+  "answer": "According to the poem, one achieves one's true potential by accepting struggle instead of avoiding it. The tree that 'never had to fight / For sun and sky and air and light' but 'always got its share of rain' becomes a 'scrubby thing'; the man who 'never had to toil' remains exactly as he began. Growth comes from the opposite conditions: 'The stronger wind, the stronger trees, / The further sky, the greater length, / The more the storm, the more the strength.' In practical terms this means seeking the difficult task rather than the easy one, competing for one's share of 'sun and sky and light and air' instead of waiting to be given it, and enduring cold, rain and snow without withdrawing. The poem's metaphor of roots and branches suggests patience as well: potential is realised slowly, over years, and the scars one collects on the way are the proof that the growth has taken place.",
+  "explanation": "The answer draws on stanzas 1-3, where the negative examples of the sheltered tree and effortless man are set against the law of growth through storm.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q4",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Why does the poet suggest people to be like good timber?",
+  "answer": "Because good timber is wood that can be used - it bears weight, holds up a roof and does not break - and the poet wants people to be like that: strong, sound and useful rather than ornamental. In the poem good timber is the product of a hard life, not of a sheltered one: it has fought for light, stood in wind and snow, and carries the scars of many storms. Its strength is therefore tested strength, which is the only kind that can be trusted when a load is placed on it. A person of that kind can be relied on by a family, a village or a country; a 'scrubby thing' cannot, however comfortable its life has been. The poet also values the timber's usefulness to others: wood is good not because it is admired but because it serves. The comparison therefore asks the reader to measure himself by what he can bear and give, not by what he can avoid.",
+  "explanation": "The comparison is explained through the properties of timber (strength, usefulness, tested by weather) and through the poem's contrast with the sheltered, 'scrubby' tree.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q5",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Which poetic devices are used in the poem?",
+  "answer": "1. Metaphor - the tree is a man and the man is a tree: 'In trees and men good timbers grow'; 'Never became a forest king'; 'they hold counsel with the stars'. The whole poem is an extended metaphor.\n2. Personification - 'they hold counsel with the stars' gives the old trees the human act of taking counsel; the tree that 'never had to fight' is also given a human struggle.\n3. Alliteration - 'The tree that never had to fight' (t); 'For sun and sky and air and light' (s); 'lived and died' (l, d); 'Good timber does not grow with ease' (g); 'The stronger wind, the stronger trees' (s, w); 'the more the storm, the more the strength' (m, s); 'sun and cold ... rain and snow' (s).\n4. Anaphora and parallelism - 'The stronger wind, the stronger trees, / The further sky, the greater length, / The more the storm, the more the strength' repeats one grammatical pattern three times.\n5. Antithesis - the sheltered tree against the forest king; 'lived and died' against 'grow'; the plain against the thickest forest.\n6. Symbol - the tree, the storm, the broken branches and the scars stand for human hardship and endurance.\n7. Imagery - 'stood out in the open plain', 'Where thickest lies the forest growth', 'broken branches show the scars' give clear pictures.\n8. Repetition - 'good timber' and 'trees and men' recur, keeping the comparison before the reader.",
+  "explanation": "Each device is quoted from the poem; the extended tree-man metaphor and the anaphora of stanza 3 are the poem's two governing devices.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q6",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Write central idea of the poem.",
+  "answer": "The central idea is that strength of character, like good timber, is produced by hardship and not by comfort. Malloch makes the point twice, once for trees and once for men: the tree that never had to fight for light and always got its share of rain 'lived and died a scrubby thing', and the man who never had to toil 'lived and died as he began'. The third stanza states the law that governs both - 'Good timber does not grow with ease, / The stronger wind, the stronger trees' - and the fourth shows its result: the oldest and greatest trees stand where the growth is thickest and carry the scars of 'many winds and much of strife'. The poem's closing line, 'This is the common law of life', extends the law to all living things. The idea is therefore both a consolation and a challenge: hardship is not a misfortune to be escaped but the condition of growth.",
+  "explanation": "The idea is stated and then traced through the two parallel examples, the law in stanza 3 and the conclusion in stanza 4.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex3_q7",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "7",
+  "question": "How does this poem relate to your life?",
+  "answer": "It relates to my life as a student in a very direct way. I have often wished for the easy path - a teacher who gives notes instead of questions, a syllabus with no difficult chapters, a test that asks only what I already know. The poem tells me that this is exactly the 'open plain' where nothing grows. The subjects I found hardest, and the teachers who demanded most, are the ones that changed me; the easy months left no mark. It also helps me interpret failure: a bad result is a storm, and the tree that survives it grows a thicker trunk. And it warns me against comparing myself with someone who is sheltered: his ease is not an advantage but a stunting. What I take from the poem is a rule for the years ahead - choose the difficult thing while I am young enough to be shaped by it, and expect the scars to be part of the growth.",
+  "explanation": "Open-ended personal-response question; the answer applies the poem's law to study, difficulty and failure in a student's own experience.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex4_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Work individually and identify the poetic devices in the poem. Make a list of them and use them in your sentences. Share your work with your class fellows once you have completed.",
+  "answer": "Devices found in 'Good Timber':\n\n1. Metaphor - 'Never became a forest king'; 'In trees and men good timbers grow'; 'they hold counsel with the stars'. The tree stands for a man throughout. My sentence: 'My grandfather was an old banyan: shade for everyone and roots no storm could move.'\n\n2. Personification - 'The tree that never had to fight'; 'they hold counsel with the stars'. My sentence: 'The old gate complained every time we opened it.'\n\n3. Alliteration - 'The tree that never had to fight'; 'For sun and sky and air and light'; 'lived and died'; 'Good timber does not grow with ease'; 'The stronger wind, the stronger trees'. My sentence: 'Slow streams shape smooth stones.'\n\n4. Anaphora / parallelism - 'The stronger wind, the stronger trees, / The further sky, the greater length, / The more the storm, the more the strength'. My sentence: 'The harder the question, the sharper the mind; the longer the climb, the wider the view.'\n\n5. Antithesis - 'lived and died a scrubby thing' against 'became a forest king'; the sheltered plain against 'Where thickest lies the forest growth'. My sentence: 'The easy road is short and the hard road is long, but only one of them arrives.'\n\n6. Symbol - the storm, the broken branches and the scars stand for hardship and endurance. My sentence: 'The crack in the wall is a symbol of the earthquake we all survived.'\n\n7. Imagery - 'stood out in the open plain', 'broken branches show the scars', 'hold counsel with the stars'. My sentence: 'The bare branches cut black lines across the winter sky.'\n\n8. Repetition - 'good timber' and 'trees and men' return in each stanza. My sentence: 'Practice, practice, practice - that is the whole secret.'",
+  "explanation": "Each device is quoted from the poem, explained and used in an original sentence; the extended tree-man metaphor is identified as the poem's governing device.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex5_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "5",
+  "question": "Work in pairs and give a critical appreciation of the poem based on the following aspects. Once you have written, compare your work with your partner. 1. Poetic Diction  2. Theme  3. Structure  4. Language  5. Message",
+  "answer": "1. Poetic Diction: The diction is plain, homely and agricultural - 'timber', 'scrubby', 'toil', 'patch of soil', 'patriarchs', 'scars'. These are the words of a farmer or a forester rather than of a philosopher, and they give the poem its solid, workaday feel. The diction also carries the parable: because the words describe trees literally, they can describe men figuratively without strain.\n\n2. Theme: Character is formed by hardship. Comfort produces weakness ('a scrubby thing'), struggle produces strength ('good timber'), and this is 'the common law of life' for trees and men alike.\n\n3. Structure: Four six-line stanzas, each rhyming aabbcc in iambic tetrameter. The stanzas move in a clear sequence: the sheltered tree (1), the sheltered man (2), the law of growth (3), the mature patriarchs and the conclusion (4). The first two stanzas are parallel, the third states the principle and the fourth provides the proof, so the poem has the shape of an argument.\n\n4. Language: Malloch relies on the extended metaphor of the tree and on parallelism - 'The stronger wind, the stronger trees, / The further sky, the greater length' - which gives the lines a proverbial, hammering force. Alliteration ('sun and sky', 'lived and died'), personification ('hold counsel with the stars') and antithesis (scrubby thing against forest king) fill out the style. The tone is calm, assured and slightly old-fashioned in its moral confidence.\n\n5. Message: Do not run from difficulty. The wind that bends the tree makes it strong, and the man who never struggles never grows. Accept the storm, keep your roots down, and let your scars be the record of your strength.",
+  "explanation": "All five printed aspects are answered, with the stanza form (four sixains, aabbcc) and the argumentative structure identified.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex6_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "6",
+  "question": "Work in groups of three. Compose your own poem on the theme of 'When life gives you lemons, make lemonade', using elements of poetry based on three stanzas. Each member of group should compose 1 stanza. Once your group has composed the poem, exchange it with other groups.",
+  "answer": "Lemonade\n\nI\nLife gave me lemons, sharp and sour,\nI ate them raw in a bitter hour;\nThen someone taught me to add the sweet\nOf patience, water and steady heat.\n\nII\nThe blacksmith's iron is beaten cold,\nThe diamond is cut by the grit it fears,\nThe story that makes the heart grow bold\nIs the story written in patient years.\n\nIII\nSo pour the water, and stir the glass,\nAnd sweeten the sorrow that you were given;\nThe worst of the seasons is sure to pass,\nAnd the lemon will taste like a gift from heaven.\n\n(Group note: the first stanza is a metaphor in which 'lemons' stand for troubles and 'lemonade' for what we make of them; the second uses two comparisons, the beaten iron and the cut diamond, as images of growth through pressure; the third turns to direct address with imperatives - 'pour', 'stir', 'sweeten' - and ends on personification of the season that 'is sure to pass'. The rhyme is aabb in the first stanza and abab in the second and third, and each stanza has four lines, so the poem has a regular beat like Malloch's.)",
+  "explanation": "Creative task; the model supplies a complete three-stanza poem with a note naming the elements of poetry used.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex7_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "7",
+  "question": "'Life grows when a person comes out of comfort zone.' Elaborate this statement in the light of the poem 'The Good Timber'. Note down your points in the notebook and share it with your class fellows.",
+  "answer": "The poem is an argument for exactly this statement. Its first stanza describes a tree that stayed in its comfort zone: it 'never had to fight / For sun and sky and air and light', it 'stood out in the open plain' where nothing challenged it, and it 'always got its share of rain' without asking. The result was not peace but stuntedness - it 'Never became a forest king / But lived and died a scrubby thing'. The second stanza repeats the pattern for a man who 'never had to toil', and his life also ends where it began. Growth, in the poem, happens only where there is resistance: 'The stronger wind, the stronger trees, / The further sky, the greater length, / The more the storm, the more the strength.' The fourth stanza shows what a life outside the comfort zone looks like at the end - the 'patriarchs' of the forest, tall, old, consulted by the stars, and marked by scars that prove they endured 'many winds and much of strife'. The poem then universalises the point: 'This is the common law of life.'\n\nMy points for the notebook: (1) comfort removes the need to try, and effort is what develops ability; (2) difficulty tests and therefore strengthens character; (3) scars are evidence of growth, not of damage; (4) the person who never risks anything remains exactly as he began; (5) leaving the comfort zone should be a habit begun young, because growth is slow.",
+  "explanation": "Elaboration task; each point is tied to a specific stanza or line of the poem, and the notebook list is given as the exercise asks.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex8_q1",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "1",
+  "question": "Explain the following lines: Line No. 1-6 - 'The tree that ...........a scrubby thing.'",
+  "answer": "The opening stanza gives the negative example. 'The tree that never had to fight / For sun and sky and air and light' - note that the tree is given a human activity, fighting, and that what it would have fought for is the ordinary food of any plant: light and air. 'But stood out in the open plain / And always got its share of rain' describes a life without competition: the plain is open, the rain comes without asking, nothing is denied it. The consequence is stated bluntly: 'Never became a forest king / But lived and died a scrubby thing.' 'Forest king' is a metaphor for the tallest, most dominant tree; 'scrubby' means stunted and poor. The stanza's irony is that the tree's advantages - space, rain, safety - are exactly what kept it small. Malloch is preparing the comparison with men, and he chooses the plainest possible words so that the moral will be unmistakable.",
+  "explanation": "Lines 1-6 explained, with 'forest king' identified as a metaphor and the irony of the sheltered life pointed out.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex8_q2",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "2",
+  "question": "Explain the following lines: Line No. 7-12 - 'The man who ....died as he began.'",
+  "answer": "The second stanza repeats the first with a human subject. 'The man who never had to toil / To gain and farm his patch of soil' - 'toil' is hard, continuous labour, and the phrase 'gain and farm' suggests that even the land had to be earned before it could be worked. 'Who never had to win his share / Of sun and sky and light and air' uses the language of the first stanza deliberately: a man, like a tree, must compete for his share of what sustains him, and the word 'win' implies effort and the possibility of loss. The result is stated in the same flat rhythm as before: 'Never became a manly man / But lived and died as he began.' 'Manly' here does not mean aggressive; it means fully developed, mature, able to bear weight. 'Lived and died as he began' is the saddest line in the poem, because it describes a life in which nothing was added. The stanza's parallelism with the first makes the comparison explicit before the next stanza states the law.",
+  "explanation": "Lines 7-12 explained with attention to the deliberate echo of stanza 1 ('win his share' answering 'got its share') and to the meaning of 'manly'.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex8_q3",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "3",
+  "question": "Explain the following lines: Line No. 13-18 - 'Good timber does not....... good timbers grow.'",
+  "answer": "The third stanza states the law that the first two stanzas have illustrated. 'Good timber does not grow with ease' - the sentence is almost a proverb, and 'ease' is the enemy named in the previous stanzas. The next three lines pile up parallel clauses to show how the opposite of ease works: 'The stronger wind, the stronger trees, / The further sky, the greater length, / The more the storm, the more the strength.' This is anaphora and parallelism at once: each clause has the same shape ('the more ... the more'), and the repetition makes the law sound inevitable rather than arguable. 'The further sky, the greater length' adds the idea of striving upward for room, and 'the more the storm, the more the strength' compresses the whole poem into six words. The stanza closes by joining the two worlds: 'By sun and cold, by rain and snow / In trees and men good timbers grow.' The alliteration of 'sun' and 'snow' and the balanced pairs make the line feel like a conclusion, and 'good timbers' carries the title into the human comparison.",
+  "explanation": "Lines 13-18 explained, with the parallel 'the more ... the more' construction named as anaphora and the final line linked to the title.",
+  "bookPage": 203
+ },
+ {
+  "id": "p4_ex8_q4",
+  "sectionCode": "P4S1",
+  "type": "sq",
+  "number": "4",
+  "question": "Explain the following lines: Line No. 19-24 - 'Where thickest lies.........common law of life.'",
+  "answer": "The last stanza shows the finished product of the law. 'Where thickest lies the forest growth / We find the patriarchs of both' - in the dense part of the forest, where competition for light is hardest, stand the oldest and greatest trees; 'of both' means patriarchs of trees and of men. 'Patriarchs' is a word for the respected elders of a tribe, so the trees are given the dignity of age and authority. 'And they hold counsel with the stars' is the poem's finest image: the tops of the old trees seem to converse with the sky, and the phrase suggests wisdom, wide vision and calm. Then comes the cost: 'Whose broken branches show the scars, / Of many winds and much of strife.' The old trees are not unmarked; their scars are the record of everything they survived, and the scars are worn as proof rather than as shame. The final line, 'This is the common law of life', closes the poem by extending the law from forest to humankind - and to all living things.",
+  "explanation": "Lines 19-24 explained, with 'patriarchs', 'hold counsel with the stars' and the meaning of the scars discussed, and the closing line read as the poem's universal conclusion.",
+  "bookPage": 203
+ }
+]

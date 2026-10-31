@@ -1,0 +1,242 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "In which part of the respiratory system, gaseous exchange takes place?",
+    "options": ["Alveoli", "Pharynx", "Larynx", "Trachea"],
+    "correct": "a",
+    "explanation": "Alveoli are the microscopic, thin-walled, moist air sacs at the ends of the bronchioles. Their walls are only one cell thick and are surrounded by a dense network of capillaries, so oxygen and carbon dioxide can diffuse across the alveolar membrane. The pharynx, larynx and trachea are conducting passages and do not carry out gas exchange.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Which of the following statements is true about involuntary breathing?",
+    "options": [
+      "It is controlled by the bronchioles",
+      "It is controlled by the pulmonary arterioles",
+      "It is controlled by the alveolar-capillary network",
+      "It is controlled by the neurons, located in the medulla and pons"
+    ],
+    "correct": "d",
+    "explanation": "Involuntary (automatic) breathing is controlled by the respiratory centres in the medulla oblongata and pons of the brain stem. These centres send rhythmic impulses to the diaphragm and intercostal muscles. Chemoreceptors in the carotid and aortic bodies and in the medulla monitor CO2 and H+ and adjust the rate and depth of breathing.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "The tiny air sacs present in human lungs is called.",
+    "options": ["Alveoli", "Bronchus", "Bronchioles", "All of the above"],
+    "correct": "a",
+    "explanation": "The tiny air sacs of the lungs are the alveoli. Bronchi are the two main branches of the trachea, and bronchioles are their smaller branches; neither is an air sac. The alveoli provide a very large surface area for gaseous exchange.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The exchange of gases between the external environment and the lungs.",
+    "options": ["Respiration", "External respiration", "Cellular respiration", "None of the above"],
+    "correct": "b",
+    "explanation": "External respiration is the exchange of gases between the external environment and the lungs — that is, ventilation plus diffusion of O2 into the blood and CO2 out of it at the alveoli. Internal respiration is the exchange between blood and tissue cells, while cellular respiration is the oxidation of food inside cells to release ATP.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The maximum volume of air contained in the lung by a full forced inhalation is called.",
+    "options": ["Tidal volume", "Vital capacity", "Ventilation rate", "Total lung capacity"],
+    "correct": "d",
+    "explanation": "Total lung capacity is the maximum volume of air the lungs can contain after a full forced inhalation; in an adult it is about 5000–6000 mL. Tidal volume is the air moved in one normal breath (about 450–500 mL), vital capacity is the maximum volume that can be exhaled after a maximum inhalation, and ventilation rate is the number of breaths per minute.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Which one of the following is correct regarding larynx?",
+    "options": [
+      "It houses the vocal cords",
+      "It prevents the invading pathogens into the trachea",
+      "It is an organ made of cartilage and connects the pharynx to the trachea",
+      "All of the above."
+    ],
+    "correct": "d",
+    "explanation": "The larynx (voice box) is a cartilaginous structure at the entrance of the trachea that connects the pharynx with the trachea and houses the vocal cords, which produce sound when air is expelled. Its epiglottis and protective cough reflex guard the lower airway, and its mucous lining traps particles and pathogens. Hence all the statements are correct.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Which of the following is the function of the trachea?",
+    "options": ["Gaseous Exchange", "Filters the air we breathe", "Exhales the air from the body", "All of the above"],
+    "correct": "b",
+    "explanation": "The trachea is a conducting airway. Its ciliated columnar epithelium and mucus glands trap dust and microorganisms and move them upward to the pharynx, so it filters and cleans the air on its way to the lungs. Gas exchange occurs in the alveoli, and the trachea is not the organ that exhales air.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which of the following organs functions as an air conditioner?",
+    "options": ["Larynx", "Pharynx", "Nasal chambers", "All of the above"],
+    "correct": "c",
+    "explanation": "The nasal chambers warm, moisten and filter the incoming air, so they are called the air conditioner of the respiratory system. Hair and mucus trap dust and microbes, the rich blood supply warms the air, and the moist surface adds water vapour. The larynx and pharynx are conducting passages and do not condition the air in this way.",
+    "pdfPage": 335,
+    "bookPage": 331
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Which of the following statements is true about the entry of air into the lungs?",
+    "options": [
+      "Air enters the body and travels to the lungs through the mouth and the nose",
+      "Air enters the body and travels to the lungs through the esophagus and gullet",
+      "Air enters the body and travels to the lungs through the windpipe and the pores",
+      "Air enters the body and travels to the lungs through the nose and the nervous system."
+    ],
+    "correct": "a",
+    "explanation": "Air normally enters through the nose (or the mouth) and passes through the nasal cavity, pharynx, larynx, trachea, bronchi and bronchioles to the alveoli. The esophagus and gullet carry food to the stomach, pores are openings in the skin, and the nervous system does not carry air.",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "When breathing process develop in animals?",
+    "answer": "Breathing (ventilation) develops in animals when the body becomes too large and too active for oxygen to reach every cell by diffusion through the body surface alone. In small or thin animals, gases can diffuse directly between the environment and the cells. As animals increase in size, their surface-area-to-volume ratio falls and the diffusion distance becomes too great, so specialised respiratory surfaces and a mechanism to move the respiratory medium over them become necessary.\n\nIn mammals, the respiratory system develops from the embryonic foregut; the lungs form as outgrowths of the foregut and become functional before birth. Fetal breathing movements begin in the uterus, and regular, continuous breathing starts at birth with the first breath, when the lungs inflate and the alveolar capillaries are perfused.\n\nEvolutionarily, ventilation appeared with gills in aquatic animals and with lungs in air-breathing vertebrates; both ensure a continuous supply of oxygen and removal of carbon dioxide to match the metabolic rate of the animal.",
+    "explanation": "Textbook section 14.1 (respiration, ventilation and respiratory surfaces); the embryonic and evolutionary context is standard biology.",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "What type of ventilation occur in human?",
+    "answer": "Humans use negative pressure breathing, also called tidal ventilation. Air is not pushed into the lungs; instead, the volume of the thoracic cavity is increased so that the pressure inside the lungs falls below atmospheric pressure, and air is drawn in. Inspiration is an active process: the diaphragm contracts and flattens, and the external intercostal muscles raise the ribs and sternum, increasing the volume of the thorax. Expiration at rest is passive: these muscles relax, the diaphragm returns to its dome shape, the ribs move down and in, the thoracic volume decreases and air is expelled. The lungs are ventilated in both directions through the same conducting airways, and the air moves in and out like a tide, hence the name tidal ventilation.",
+    "explanation": "Textbook section 14.1.7 (ventilation, negative pressure breathing, inspiration and expiration).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Why rate of breathing increases in human beings?",
+    "answer": "The rate of breathing increases whenever the body's demand for oxygen rises and more carbon dioxide is produced. During exercise, the muscles consume oxygen faster and release more CO2, which dissolves in the blood as carbonic acid and releases H+ ions. The rise in CO2 and H+ is detected by chemoreceptors in the carotid bodies (in the carotid arteries), aortic bodies (in the aorta) and the medulla oblongata. These receptors send impulses to the respiratory centre in the medulla oblongata and pons, which increases the rate and depth of breathing.\n\nAs a result, more fresh air reaches the alveoli, oxygen uptake increases, and the extra CO2 is removed. Breathing also increases after climbing stairs, running or heavy work, and in fever, pain, anxiety and low blood oxygen, because all of these conditions increase metabolic rate or stimulate the respiratory centre.",
+    "explanation": "Textbook section 14.1.7.5 (control of breathing: CO2 and H+, carotid and aortic bodies, medulla oblongata).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Why breathing of human being called negative pressure breathing?",
+    "answer": "Human breathing is called negative pressure breathing because air enters the lungs when the pressure inside the lungs is made lower (negative) relative to atmospheric pressure. During inspiration, the diaphragm contracts and flattens and the external intercostal muscles raise the ribs and sternum. The volume of the thoracic cavity increases, and because the lungs are sealed inside the pleural membranes and follow the movements of the chest wall, they expand as well. According to Boyle's law, the pressure inside the expanding lungs falls below atmospheric pressure. Air therefore flows from the higher atmospheric pressure outside into the lower pressure in the alveoli. During expiration, the muscles relax, the thoracic volume decreases, the intrapulmonary pressure rises above atmospheric pressure and air is pushed out. Thus the pressure in the lungs is always lower than atmospheric pressure during inspiration, hence 'negative pressure breathing'.",
+    "explanation": "Textbook section 14.1.7 (mechanism of ventilation: pressure changes, negative pressure breathing).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "How CO2 from cell transport to lungs?",
+    "answer": "Carbon dioxide is produced in the tissues by cellular respiration. It diffuses from the cells into the blood and is carried to the lungs in three ways:\n\n1. As bicarbonate ions — about 70%. CO2 diffuses into red blood cells, where the enzyme carbonic anhydrase catalyses its reaction with water: CO2 + H2O → H2CO3 → H+ + HCO3−. The bicarbonate ions leave the red cells and are carried in the plasma, mainly as sodium bicarbonate (NaHCO3) and potassium bicarbonate (KHCO3), while H+ is buffered by haemoglobin.\n2. As carbaminohaemoglobin — about 20%. CO2 combines with the amino groups of haemoglobin (and other proteins) to form carbaminohaemoglobin: CO2 + Hb ⇌ HbCO2. This occurs more readily when haemoglobin is deoxygenated.\n3. Dissolved in plasma — about 10%. A small amount of CO2 simply dissolves in the water of the plasma.\n\nAt the lungs, the low CO2 concentration and high oxygen partial pressure in the alveolar air reverse these reactions. Bicarbonate is converted back to CO2, carbaminohaemoglobin releases CO2, and dissolved CO2 diffuses out of the plasma. All of it then diffuses from the blood across the alveolar membrane into the alveoli and is removed during expiration.",
+    "explanation": "Textbook section 14.2.2 (transport of CO2: about 70% bicarbonate, 20% carbaminohaemoglobin, 10% dissolved; carbonic anhydrase).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Which of the pigment is called respiratory pigment?",
+    "answer": "The respiratory pigments are coloured, iron-containing proteins that increase the oxygen-carrying capacity of blood and tissues. The main ones are haemoglobin and myoglobin.\n\nHaemoglobin is found in the red blood cells of all vertebrates. It is a conjugated protein made of two pairs of polypeptide chains, each chain carrying an iron-containing heme group. One haemoglobin molecule can bind four molecules of oxygen loosely and reversibly to form oxyhaemoglobin (Hb + 4O2 ⇌ Hb(O2)4). It takes up oxygen in the lungs and releases it in the tissues, and it also helps to carry carbon dioxide back to the lungs.\n\nMyoglobin is a smaller, single-chain globular protein found in muscle. It has one heme group and binds one molecule of oxygen more tightly than haemoglobin, so it stores oxygen in muscle and releases it when the muscle needs it during vigorous activity.",
+    "explanation": "Textbook section 14.2.3 (respiratory pigments: haemoglobin and myoglobin, iron-bound proteins, haemoglobin carries four O2).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Draw a flow chart for the passage of air from external nares to alveoli.",
+    "answer": "Flow chart (described):\n\nExternal nares (nostrils)\n        ↓\nNasal cavity (warmed, moistened and filtered by hairs, mucus and cilia)\n        ↓\nInternal nares\n        ↓\nPharynx (nasopharynx → oropharynx → laryngopharynx)\n        ↓\nLarynx (voice box; vocal cords; epiglottis guards the airway)\n        ↓\nTrachea (windpipe; 16–20 C-shaped cartilage rings)\n        ↓\nPrimary bronchi (right and left)\n        ↓\nSecondary bronchi (one to each lobe)\n        ↓\nTertiary bronchi\n        ↓\nBronchioles\n        ↓\nTerminal bronchioles → respiratory bronchioles\n        ↓\nAlveolar ducts → alveolar sacs\n        ↓\nAlveoli (site of gaseous exchange)\n\nDraw this as a vertical chart with one box for each structure and arrows showing the direction of airflow. Label the nose, nasal cavity, pharynx, larynx, trachea, bronchi, bronchioles and alveoli. The same pathway is followed in reverse during expiration.",
+    "explanation": "Textbook section 14.1.4 (air passage from external nares through pharynx, larynx, trachea, bronchi and bronchioles to alveoli) and the chapter summary.",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "Why hair and mucus glands are present in nostrils and trachea?",
+    "answer": "Hair and mucus glands in the nostrils and trachea protect the respiratory system by filtering, moistening and warming the incoming air.\n\n1. In the nostrils, coarse hairs trap dust particles, insects and other large particles, while mucus secreted by the nasal lining traps smaller particles and microorganisms. The ciliated cells move the contaminated mucus toward the pharynx, where it is swallowed or coughed out. The moist surface also humidifies the air and the rich blood supply warms it.\n2. In the trachea, mucus glands secrete mucus that traps dust and microbes, and the ciliated columnar epithelium beats in a coordinated way to move the mucus upward to the pharynx — the mucociliary escalator. This prevents particles from reaching the alveoli, where they could cause infection or damage.\n\nThe hairs and mucus therefore clean, moisten and warm the air, and they form an important part of the first line of defence of the respiratory tract.",
+    "explanation": "Textbook sections 14.1.4 (nose, trachea and ciliated epithelium) and 13.1 (respiratory-tract first line of defence).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "B",
+    "number": 9,
+    "question": "How exchange of gases occurs at the alveolar level?",
+    "answer": "Gaseous exchange at the alveolar level occurs by simple diffusion across the alveolar-capillary membrane, driven by differences in partial pressure.\n\n1. The alveolar air has a higher partial pressure of oxygen than the deoxygenated blood in the pulmonary capillaries, so oxygen diffuses from the alveoli through the thin, moist alveolar wall and the capillary endothelium into the blood. There it binds to haemoglobin in red blood cells to form oxyhaemoglobin.\n2. The blood arriving at the lungs has a higher partial pressure of carbon dioxide than the alveolar air, so carbon dioxide diffuses in the opposite direction — from the blood into the alveoli — and is removed during expiration.\n3. The alveolar wall is only about one micrometre thick, is moist (so gases dissolve), and is surrounded by a dense capillary network; these features make diffusion rapid and efficient. Ventilation continually replaces alveolar air, and blood flow through the capillaries is matched to it, maintaining the concentration gradients.\n\nThus oxygen moves from the alveoli into the blood and carbon dioxide moves from the blood into the alveoli, and the blood leaving the lungs is oxygenated.",
+    "explanation": "Textbook sections 14.1.1–14.1.3 (alveoli, respiratory surface characters, diffusion gradient) and 14.2 (exchange by simple diffusion).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "What is respiration? Describe human respiratory system?",
+    "answer": "Respiration is the process by which the cells of an organism gain energy-rich ATP molecules by oxidising food molecules. In humans the chief food molecule is glucose, and aerobic respiration oxidises glucose with oxygen, releasing energy along with carbon dioxide and water:\n\nC6H12O6 + 6O2 → 6CO2 + 6H2O + energy (ATP)\n\nRespiration therefore includes breathing (ventilation), the exchange of gases in the lungs and tissues, and the cellular oxidation of food. Ventilation is the movement of air from the atmosphere into the lungs and back; gaseous exchange is the diffusion of oxygen and carbon dioxide across the respiratory surfaces.\n\nThe human respiratory system consists of the respiratory tract and the lungs.\n\n1. External nares and nasal cavity. Air enters through the paired nostrils (external nares) into the nasal chambers, which are separated by the nasal septum. Hairs and cilia trap dust, mucus moistens the air, and the rich blood supply warms it, so the nose acts as an air conditioner. The air then passes through the internal nares into the pharynx.\n2. Pharynx. The pharynx is a muscular tube about 13 cm long behind the mouth and nose. It is a common passage for air and food and is divided into the nasopharynx, oropharynx and laryngopharynx.\n3. Larynx. The larynx (voice box) lies at the entrance of the trachea. It is made of cartilage, contains the vocal cords that produce sound, and is guarded by the epiglottis, which closes during swallowing to prevent food from entering the airway.\n4. Trachea. The windpipe is a fibro-cartilaginous tube about 10–11 cm long. Its wall contains 16–20 C-shaped cartilage rings that keep it open, and its ciliated epithelium and mucus glands trap and move particles upward. At its lower end it divides into the right and left primary bronchi; the right bronchus is wider, shorter and straighter.\n5. Bronchi and bronchioles. Each primary bronchus enters a lung and divides into secondary bronchi (one for each lobe), tertiary bronchi and progressively smaller bronchioles. These form the bronchial tree.\n6. Alveoli. The bronchioles end in alveolar ducts and clusters of alveoli. Each alveolus is a thin-walled, moist air sac surrounded by capillaries; it is here that oxygen and carbon dioxide are exchanged. The alveoli give the lungs a very large surface area.\n7. Lungs. The two lungs are soft, spongy, highly vascular organs in the thoracic cavity. The left lung is smaller because the heart displaces it; the right lung has three lobes (superior, middle, inferior) and the left lung has two (superior, inferior).\n8. Thorax and pleura. The lungs are protected by 12 pairs of ribs and the sternum, with the intercostal muscles between the ribs. Each lung is covered by a visceral pleura and the chest wall is lined by a parietal pleura; the pleural cavity between them contains serous fluid that lubricates the surfaces and allows the lungs to expand and contract smoothly. The diaphragm separates the thoracic cavity from the abdomen and is the chief muscle of inspiration.",
+    "explanation": "Textbook sections 14.1 (respiration), 14.1.2–14.1.3 (respiratory surface and alveoli) and 14.1.4–14.1.5 (human respiratory organs, lungs, thorax and pleura).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What are the 5 main functions of the respiratory system?",
+    "answer": "The respiratory system performs the following five main functions:\n\n1. Supply of oxygen. It provides a continuous supply of oxygen to all tissues. Oxygen diffuses from the alveoli into the blood, binds to haemoglobin and is carried by the circulatory system to every cell for aerobic respiration.\n2. Removal of carbon dioxide. It removes carbon dioxide, the by-product of cellular respiration, from the body. CO2 diffuses from the blood into the alveoli and is expelled during expiration; this also helps to regulate the acid-base balance of the blood.\n3. Exchange (conservation) of gases. The respiratory surfaces regulate the exchange of gases between the internal and external environment of the body. Ventilation brings fresh air to the alveoli and removes stale air, maintaining the concentration gradients for diffusion.\n4. Humidification and warming of air. The respiratory system acts as a humidifier and air conditioner: the nose and airways add water vapour to the inhaled air and warm it to body temperature, protecting the delicate alveoli.\n5. Filtration and defence. Hairs, mucus, cilia and the cough reflex trap and remove dust, microbes and other particles, while lymphoid tissue and alveolar macrophages defend the lungs against infection.\n\nIn addition, the respiratory system participates in sound production (larynx), smell (olfactory receptors in the nasal cavity), and the regulation of blood pH through the control of CO2.",
+    "explanation": "Textbook section 14.1.6.3 (oxygen supplier, withdrawal, exchange of gas, humidifier); filtration/defence is described in the nose and trachea sections, and the additional roles are standard biology.",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Draw labelled diagram of human respiratory system.",
+    "answer": "Diagram (described):\n\nDraw a front view of the head, neck and thorax. In the head, show the nasal cavity opening at the external nares and the mouth below it; both lead back into the pharynx. Continue downward with the larynx (with the epiglottis and vocal cords), then the trachea with its C-shaped cartilage rings. At the base of the neck the trachea divides into the right and left primary bronchi, which enter the two lungs. Inside each lung, show the bronchi dividing into secondary and tertiary bronchi and then into fine bronchioles ending in clusters of alveoli. Draw the right lung with three lobes (superior, middle and inferior) and the left lung with two lobes (superior and inferior), leaving a notch for the heart. Surround each lung with a double line representing the visceral and parietal pleurae. Below the lungs, draw the dome-shaped diaphragm, and across the chest wall show the ribs and sternum with the intercostal muscles. Add arrows showing air entering through the nose and passing down the airway to the alveoli.\n\nLabels required: external nares, nasal cavity, oral cavity, pharynx, epiglottis, larynx, vocal cords, trachea, cartilage rings, right primary bronchus, left primary bronchus, bronchi, bronchioles, alveoli, right lung (superior, middle, inferior lobes), left lung (superior, inferior lobes), pleura, pleural cavity, ribs, sternum, intercostal muscles, diaphragm.\n\nThe alveoli are the actual respiratory surface: each is a thin, moist sac surrounded by blood capillaries, where oxygen diffuses into the blood and carbon dioxide diffuses out.",
+    "explanation": "Textbook section 14.1.4 and Figs. 14.1–14.2 (airway, lungs, lobes, pleura, diaphragm).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Describe the three regions of the pharynx and their functions.",
+    "answer": "The pharynx is a muscular tube about 13 cm long that lies behind the nasal and oral cavities and in front of the cervical vertebrae. It is a common pathway for both air and food. It is divided into three regions:\n\n1. Nasopharynx. This is the uppermost part, lying behind the nasal cavity above the soft palate. It conducts air from the nasal cavity to the oropharynx. Its lining is ciliated columnar epithelium, and its mucous membrane traps dust and microbes. The pharyngeal tonsils (adenoids) are located in its roof and help defend against infection. The two Eustachian tubes open into it, equalising pressure between the middle ear and the atmosphere.\n\n2. Oropharynx. This is the middle part, lying behind the oral cavity, between the soft palate above and the epiglottis below. It is a common passage for air and food. The palatine tonsils are found on its lateral walls and are part of the lymphoid tissue that protects against ingested and inhaled pathogens. During swallowing, the epiglottis folds over the opening of the larynx so that food passes into the esophagus and not into the airway.\n\n3. Laryngopharynx. This is the lowest part, extending from the level of the epiglottis to the beginning of the esophagus. It conducts air into the larynx and food into the esophagus. Its muscles help in swallowing, and its sensory innervation triggers the cough reflex if food or fluid enters the larynx.\n\nThus the pharynx conducts air, conducts food, and provides lymphoid defence; the nasopharynx is for air only, while the oropharynx and laryngopharynx are shared by the respiratory and digestive tracts.",
+    "explanation": "Textbook section 14.1.4 (pharynx about 13 cm, common pathway, nasopharynx and laryngopharynx); the oropharynx is the standard third region required by this exercise.",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "What is the mechanism of inspiration and expiration?",
+    "answer": "Ventilation depends on pressure changes produced by movements of the thoracic cage and diaphragm. Because the lungs are sealed within the pleural membranes, they expand and contract with the thorax, and air flows down the pressure gradient through the conducting airways.\n\nInspiration (inhalation) is an active, energy-consuming process:\n1. The diaphragm contracts and flattens (its dome is pulled downward), and the external intercostal muscles contract, raising the ribs and sternum upward and outward.\n2. The volume of the thoracic cavity increases in all dimensions.\n3. The lungs expand with the thorax, so the pressure inside the alveoli (intrapulmonary pressure) falls below atmospheric pressure.\n4. Air flows from the atmosphere through the nose, pharynx, larynx, trachea, bronchi and bronchioles into the alveoli.\n5. The internal intercostal muscles relax during inspiration.\n\nExpiration (exhalation) at rest is passive:\n1. The diaphragm relaxes and returns to its dome shape, and the external intercostal muscles relax, so the ribs and sternum move downward and inward.\n2. The volume of the thoracic cavity decreases.\n3. The elastic recoil of the lungs compresses the alveolar air, raising its pressure above atmospheric pressure.\n4. Air is expelled through the same airways, carrying water vapour and carbon dioxide.\n5. In forced expiration, the internal intercostal muscles and the abdominal muscles contract to push the ribs down and the diaphragm up more forcefully.\n\nOne complete inspiration plus one expiration makes a breathing cycle. In an adult at rest the breathing rate is about 12–20 breaths per minute, with a tidal volume of about 450–500 mL. Inspiration is initiated and regulated by the respiratory centre in the medulla oblongata and pons, which responds to CO2 and H+ levels detected by central and peripheral chemoreceptors. Because the pressure in the lungs is lowered below atmospheric pressure during inspiration, human breathing is called negative pressure breathing.",
+    "explanation": "Textbook section 14.1.7 (ventilation, inspiration and expiration, negative pressure breathing, breathing rate, control of breathing and lung volumes).",
+    "pdfPage": 336,
+    "bookPage": 332
+  },
+  {
+    "section": "C",
+    "number": 6,
+    "question": "Describe three ways in which carbon dioxide can be transported.",
+    "answer": "Carbon dioxide produced by cellular respiration diffuses from the tissue cells into the blood and is transported to the lungs in three forms.\n\n1. As bicarbonate ions (about 70%). Carbon dioxide diffuses into red blood cells, where the enzyme carbonic anhydrase catalyses its combination with water:\nCO2 + H2O → H2CO3 → H+ + HCO3−\nThe bicarbonate ions pass out of the red cells into the plasma and are carried mainly as sodium bicarbonate (NaHCO3) and potassium bicarbonate (KHCO3). The hydrogen ions are buffered by haemoglobin. At the lungs the reaction reverses: bicarbonate re-enters the red cells, is converted back to CO2 and diffuses into the alveoli. This is the most important form of CO2 transport and also an important buffer system of the blood.\n\n2. As carbaminohaemoglobin (about 20%). Carbon dioxide combines directly with the amino groups of haemoglobin (and other proteins) to form carbaminohaemoglobin:\nCO2 + Hb ⇌ HbCO2\nThis binding is favoured in the tissues, where haemoglobin is deoxygenated, and is reversed in the lungs, where the oxygen concentration is high and CO2 is low.\n\n3. Dissolved in plasma (about 10%). A small proportion of carbon dioxide simply dissolves physically in the water of the blood plasma and is carried in solution. At the lungs it diffuses out along its concentration gradient.\n\nAt the alveolar level, the low partial pressure of CO2 in alveolar air draws CO2 out of the blood from all three forms, and it is removed from the body during expiration.",
+    "explanation": "Textbook section 14.2.2 (transport of CO2 as bicarbonate about 70%, carbaminohaemoglobin about 20%, dissolved about 10%; carbonic anhydrase and the reversible equations).",
+    "pdfPage": 336,
+    "bookPage": 332
+  }
+]

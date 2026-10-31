@@ -1,0 +1,312 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The capacitance of a capacitor is NOT influenced by:",
+    "options": [
+      "(a) Plate thickness",
+      "(b) Plate area",
+      "(c) Plate separation",
+      "(d) Nature of the dielectric"
+    ],
+    "correct": "a",
+    "answer": "(a) Plate thickness",
+    "explanation": "For a parallel-plate capacitor C = ε₀εᵣA/d, so the capacitance depends on the plate area A, the plate separation d and the nature of the dielectric through εᵣ. Plate thickness does not appear in the formula, so changing it does not change C. Options (b), (c) and (d) all change the capacitance, so (a) is the factor with no influence.",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "What is the value of capacitance of a capacitor which has a voltage of 4V and has 16C of charge?",
+    "options": [
+      "(a) 2F",
+      "(b) 4F",
+      "(c) 6F",
+      "(d) 8F"
+    ],
+    "correct": "b",
+    "answer": "(b) 4F",
+    "explanation": "By definition C = Q/V. Substituting Q = 16 C and V = 4 V gives C = 16/4 = 4 F. The distractors correspond to subtracting or mis-dividing the data; only 4 F satisfies Q = CV, since 4 F × 4 V = 16 C.",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Capacitors are used in electric power supply system to:",
+    "options": [
+      "(a) Improve power factor",
+      "(b) Reduce line current",
+      "(c) Provide voltage stability",
+      "(d) switching"
+    ],
+    "correct": "a",
+    "answer": "(a) Improve power factor",
+    "explanation": "Most industrial loads are inductive, so the current lags the voltage and the power factor is low. Capacitors draw a leading current that cancels part of the lagging reactive current, raising the power factor towards unity (power-factor correction). Reduced line current is only a consequence of this correction, and capacitors are not used as switching devices. Hence (a) is the standard purpose.",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "In a variable capacitor, capacitance can be varied by:",
+    "options": [
+      "(a) Turning the rotatable plates in or out",
+      "(b) Changing the plates",
+      "(c) Sliding the rotatable plates",
+      "(d) Changing the material of plates"
+    ],
+    "correct": "a",
+    "answer": "(a) Turning the rotatable plates in or out",
+    "explanation": "A variable (tuning) capacitor has fixed plates and a set of plates that can be rotated between them. Turning the rotor changes the overlapping area A, and since C = ε₀εᵣA/d the capacitance varies continuously. Changing the plates or their material would give only fixed values, and the plates are rotated, not slid. Hence (a).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Energy stored in the capacitor is:",
+    "options": [
+      "(a) E = ¼ CV",
+      "(b) E = ½ CV²",
+      "(c) E = CV²",
+      "(d) E = ½ CV"
+    ],
+    "correct": "b",
+    "answer": "(b) E = ½ CV²",
+    "explanation": "The work done in charging a capacitor is W = ∫v dq = ∫(q/C)dq = Q²/2C, and with Q = CV this becomes E = ½CV². Options (a) and (d) are dimensionally wrong because the voltage is not squared, and (c) is twice the correct value. Hence (b).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The time constant of a series RC circuit consisting of 100μF capacitor in series with a 100Ω resistor is:",
+    "options": [
+      "(a) 0.1 s",
+      "(b) 0.1 ms",
+      "(c) 0.01 s",
+      "(d) 0.01 ms"
+    ],
+    "correct": "c",
+    "answer": "(c) 0.01 s",
+    "explanation": "For a series RC circuit the time constant is τ = RC = (100 Ω)(100 × 10⁻⁶ F) = 1.0 × 10⁻² s = 0.01 s = 10 ms. The value 0.1 s would require R = 1 kΩ, and options (b) and (d) confuse the prefix milli with centi. Hence (c).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The charging of a capacitor through a resistance follows:",
+    "options": [
+      "(a) linear law",
+      "(b) square law",
+      "(c) exponential law",
+      "(d) none of the above"
+    ],
+    "correct": "c",
+    "answer": "(c) exponential law",
+    "explanation": "While charging, q = Q₀(1 − e^(−t/RC)), and while discharging q = Q₀e^(−t/RC); both the charge and the current change exponentially with time, the rate being set by τ = RC. Neither a linear nor a square-law relation describes this curve. Hence (c).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "When the total charge in a capacitor is doubled, the energy stored",
+    "options": [
+      "(a) remains the same",
+      "(b) is doubled",
+      "(c) is halved",
+      "(d) is quadrupled"
+    ],
+    "correct": "d",
+    "answer": "(d) is quadrupled",
+    "explanation": "For a given capacitor the stored energy is E = Q²/2C, so E ∝ Q². Doubling Q therefore multiplies the energy by 2² = 4, i.e. it becomes four times larger. 'Doubled' would be correct only if E were proportional to Q, which is not the case at fixed capacitance. Hence (d).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The capacitance C is charged through a resistor R. The time constant of the charging circuit is given by:",
+    "options": [
+      "(a) C/R",
+      "(b) 1/RC",
+      "(c) RC",
+      "(d) R/C"
+    ],
+    "correct": "c",
+    "answer": "(c) RC",
+    "explanation": "The time constant is the time in which the charge reaches 63% of its final value; putting t = τ in q = Q₀(1 − e^(−t/RC)) gives 0.63Q₀ only when τ = RC. The product RC has the unit of seconds (Ω × F = s). C/R and R/C are not times, and 1/RC is a rate with unit s⁻¹. Hence (c).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Capacitor blocks:",
+    "options": [
+      "(a) alternating current",
+      "(b) direct current",
+      "(c) both alternating and direct current",
+      "(d) neither alternating nor direct current"
+    ],
+    "correct": "b",
+    "answer": "(b) direct current",
+    "explanation": "When a steady d.c. source is connected, the capacitor charges once and then no further current flows, so direct current is blocked after the brief charging transient. With a.c. the capacitor charges and discharges every half cycle, so alternating current passes; its reactance X_C = 1/(2πfC) falls as the frequency rises. Hence (b).",
+    "pdfPage": 199,
+    "bookPage": 195
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "State the factors on which the capacitance of a parallel plate capacitor depends.",
+    "answer": "The capacitance of a parallel-plate capacitor is C = ε₀εᵣA/d, where A is the area of each plate, d is the separation between the plates and εᵣ is the relative permittivity (dielectric constant) of the medium between them. Hence C depends on: (i) the area of the plates — C ∝ A, so larger plates give greater capacitance; (ii) the separation between the plates — C ∝ 1/d, so bringing the plates closer increases C; (iii) the nature of the dielectric — C ∝ εᵣ, so inserting a dielectric of higher permittivity increases C. The thickness or material of the metal plates, and the charge or voltage applied, do not appear in the formula and therefore do not affect the capacitance.",
+    "explanation": "Key relation C = ε₀εᵣA/d; a common mistake is to think that the charge stored or the applied voltage changes the capacitance — it does not, since C is fixed by geometry and dielectric.",
+    "pdfPage": 199,
+    "bookPage": 195,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Explain what is meant by dielectric constant (relative permittivity). State two physical properties desirable in a material to be used as the dielectric in acapacitor.",
+    "answer": "The dielectric constant (relative permittivity) of a dielectric is the ratio of the capacitance of a capacitor with the dielectric between its plates to the capacitance of the same capacitor with vacuum (or air) between them: εᵣ = C/C₀ = ε/ε₀. It is a pure number with no unit and is always greater than 1 (about 1.0006 for air and about 6 for mica). Because C = εᵣC₀, a dielectric multiplies the capacitance by εᵣ. Two desirable properties are: (i) a high dielectric constant, so that a large capacitance is obtained in a small space; (ii) a high dielectric strength, i.e. the material must withstand a strong electric field without breaking down or sparking. Low dielectric loss, good insulation resistance and thermal stability are additional desirable properties.",
+    "explanation": "Key idea: εᵣ = C/C₀, dimensionless; students often wrongly attach units to εᵣ or confuse dielectric constant with dielectric strength.",
+    "pdfPage": 199,
+    "bookPage": 195,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Drive expressions for the combined capacitance of two capacitors (a) connected in series, (b) connected in parallel.",
+    "answer": "(a) Series: the same charge Q is deposited on both capacitors. The potential differences are V₁ = Q/C₁ and V₂ = Q/C₂, and the total is V = V₁ + V₂ = Q(1/C₁ + 1/C₂). Since V = Q/C_s, it follows that 1/C_s = 1/C₁ + 1/C₂, or C_s = C₁C₂/(C₁ + C₂). The series combination is always smaller than the smaller capacitance.\n(b) Parallel: both capacitors have the same potential difference V, so Q₁ = C₁V and Q₂ = C₂V. The total charge is Q = Q₁ + Q₂ = (C₁ + C₂)V. Since Q = C_pV, the combined capacitance is C_p = C₁ + C₂, which is larger than either capacitance.",
+    "explanation": "Key point: series capacitors carry the same charge and their reciprocals add; parallel capacitors share the same voltage and their capacitances add — the opposite of resistors.",
+    "pdfPage": 199,
+    "bookPage": 195,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Derive an expression for the energy stored in a capacitor C when there is a potential difference V between the plates.",
+    "answer": "Let the capacitor be charged to a final charge Q at potential difference V, so that Q = CV. At some instant let the charge be q, when the potential difference is v = q/C. To add a further charge dq, work must be done against the repulsion of the existing charge: dW = v dq = (q/C)dq. The total work done in raising the charge from 0 to Q is W = ∫₀^Q (q/C)dq = (1/C)(Q²/2) = Q²/2C. This work is stored as electric potential energy, so U = Q²/2C. Using Q = CV gives U = ½CV², and using V = Q/C gives the equivalent form U = ½QV. The energy resides in the electric field between the plates.",
+    "explanation": "Key derivation: integrate dW = v dq with v = q/C; the common error is to write W = QV, which ignores that the voltage rises from zero to V during charging.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "A capacitor gets a charge of 50C when it is connected to a battery of emf 5 V. Calculate the capacity of the capacitor.",
+    "answer": "Given: Q = 50 C, V = 5 V.\nFormula: the capacity (capacitance) is the charge stored per unit potential difference, C = Q/V.\nSubstitution: C = 50 C / 5 V.\nCalculation: C = 10 F.\nResult: the capacity of the capacitor is 10 F. This is an extremely large capacitance, since one farad means one coulomb stored per volt; practical capacitors are rated in microfarads, nanofarads or picofarads, so the given data are only of textbook interest.",
+    "explanation": "Key formula C = Q/V; 10 F is an enormous capacitance, so such a value is only of textbook interest, practical capacitors being rated in μF, nF or pF.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Calculate combined capacitance of capacitors in series and in parallel.",
+    "answer": "Capacitors in series:\nConsider two capacitors C₁ and C₂ connected in series across a supply V. The same charge Q is deposited on the facing plates of the series combination, so the potential differences are V₁ = Q/C₁ and V₂ = Q/C₂. By Kirchhoff's loop rule, V = V₁ + V₂ = Q/C₁ + Q/C₂. If C_s is the single capacitance that would store the same charge Q at the same total voltage, V = Q/C_s. Therefore 1/C_s = 1/C₁ + 1/C₂, or C_s = C₁C₂/(C₁ + C₂). For n capacitors, 1/C_s = 1/C₁ + 1/C₂ + … + 1/Cₙ. The equivalent capacitance in series is smaller than the smallest individual capacitance, because the same charge is shared across a larger effective separation.\n\nCapacitors in parallel:\nWhen C₁ and C₂ are connected in parallel, the same potential difference V is applied to each, and the charges are Q₁ = C₁V and Q₂ = C₂V. The total charge supplied by the source is Q = Q₁ + Q₂ = (C₁ + C₂)V. If C_p is the equivalent capacitance, Q = C_pV, hence C_p = C₁ + C₂, and for n capacitors C_p = C₁ + C₂ + … + Cₙ. In parallel the equivalent capacitance is larger than the largest individual capacitance, because the effective plate area is increased.\n\nWorked example: for C₁ = 10 μF and C₂ = 40 μF, the series combination gives C_s = (10 × 40)/(10 + 40) = 8 μF, while in parallel C_p = 50 μF. In a series combination the reciprocal formula must be used, and the smaller capacitance carries the larger share of the voltage.",
+    "explanation": "Key point: series capacitances add as reciprocals while parallel capacitances add directly; the series result must always be smaller than the smallest capacitance, which serves as a quick check.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Prove that energy stored in a capacitor is E = ½ CV²",
+    "answer": "Consider a capacitor of capacitance C being charged from rest to a final potential difference V, so that its final charge is Q = CV. At an intermediate stage let the charge be q, when the potential difference is v = q/C. The work needed to bring an extra charge dq from the negative plate to the positive plate against this potential difference is dW = v dq = (q/C)dq. The total work done in raising the charge from zero to Q is W = ∫₀^Q (q/C)dq = (1/C)[q²/2]₀^Q = Q²/2C. This work is stored in the capacitor as electric potential energy, so U = Q²/2C. Substituting Q = CV gives U = ½CV², which is the required result; substituting V = Q/C gives the alternative form U = ½QV.\nGraphical proof: plotting the potential difference v against the charge q gives a straight line through the origin. The work done is the area under this line from 0 to Q, i.e. area = ½ × base × height = ½QV, which again gives U = ½CV².\nThe energy is stored in the electric field between the plates. For a parallel-plate capacitor the energy density is u = ½ε₀εᵣE², so that U = u × Ad = ½ε₀εᵣE²(Ad).\nExample: a 100 μF capacitor charged to 50 V stores U = ½ × 100 × 10⁻⁶ × (50)² = 0.125 J; if its charge is doubled, the energy becomes four times larger because U ∝ Q².",
+    "explanation": "Key derivation: integrate dW = v dq with v = q/C, or take the area under the v–q graph; the common mistake is to use W = QV, which overestimates the stored energy by a factor of two.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Describe the factors affecting the capacitance of a parallel plate capacitor?",
+    "answer": "For a parallel-plate capacitor the capacitance is C = ε₀εᵣA/d, where A is the area of each plate, d is their separation, ε₀ is the permittivity of free space and εᵣ is the relative permittivity of the dielectric between the plates. Three factors therefore affect the capacitance.\n(1) Area of the plates: C is directly proportional to A. Doubling the area doubles the capacitance, because a larger area can hold more charge at the same potential difference. This is why practical capacitors use long foil strips rolled up or many interleaved plates.\n(2) Separation between the plates: C is inversely proportional to d. Reducing the separation increases the capacitance, because the same charge then produces a stronger field and a smaller potential difference. The separation cannot be made too small, however, or the dielectric will break down.\n(3) Nature of the dielectric: C is directly proportional to εᵣ. Inserting a dielectric multiplies the capacitance by εᵣ, because the polarized dielectric partly cancels the field and lowers the potential difference for the same charge. Mica (εᵣ ≈ 6) or ceramic (εᵣ up to several hundred) therefore gives a much larger capacitance than air (εᵣ ≈ 1).\nThe thickness of the plates and the metal used for them do not appear in the formula, so they do not affect C; temperature and applied voltage influence C only through changes in the dielectric.\nExample: a capacitor with A = 0.01 m² and d = 1 mm in air has C = (8.85 × 10⁻¹²)(0.01)/(10⁻³) ≈ 88.5 pF; with mica (εᵣ = 6) between the plates it becomes about 531 pF.",
+    "explanation": "Key relation C = ε₀εᵣA/d; remember that capacitance is fixed by geometry and dielectric, not by the charge or voltage applied.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "The capacitance of air-filled parallel-plate capacitor is 1.3 pF. If the separation of the plates is doubled and wax is inserted between them. The new capacitance is 2.6 pF. Find the dielectric constant of the wax.",
+    "answer": "Given: C_air = 1.3 pF, new separation d′ = 2d, new capacitance C′ = 2.6 pF, dielectric = wax.\nFormula: C_air = ε₀A/d and C′ = εᵣε₀A/d′ = εᵣε₀A/(2d) = εᵣC_air/2.\nSubstitution: 2.6 pF = εᵣ × 1.3 pF / 2.\nCalculation: εᵣ = 2 × 2.6/1.3 = 4.0.\nResult: the dielectric constant of the wax is 4.0, which agrees exactly with the printed answer (Ans. 4.0).",
+    "explanation": "Key formula C = ε₀εᵣA/d; doubling d alone would halve C to 0.65 pF, so the wax must multiply it by 4 to reach 2.6 pF.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Three capacitors have capacitances 10, 50 and 25 μF respectively as shown in figure. Calculate (i) charge on each when connected in parallel to a 250 V supply (ii) total capacitance and (iii) potential difference across each when connected in series.",
+    "answer": "Given: C₁ = 10 μF, C₂ = 50 μF, C₃ = 25 μF, V = 250 V.\n(i) In parallel each capacitor has the full 250 V: Q = CV.\nQ₁ = 10 × 10⁻⁶ × 250 = 2.5 × 10⁻³ C = 2.5 mC.\nQ₂ = 50 × 10⁻⁶ × 250 = 12.5 × 10⁻³ C = 12.5 mC.\nQ₃ = 25 × 10⁻⁶ × 250 = 6.25 × 10⁻³ C = 6.25 mC.\n(ii) C_p = C₁ + C₂ + C₃ = 10 + 50 + 25 = 85 μF (matches the printed 85 μF).\n(iii) In series: 1/C_s = 1/10 + 1/50 + 1/25 = 0.10 + 0.02 + 0.04 = 0.16 μF⁻¹, so C_s = 6.25 μF. The common charge is Q = C_sV = 6.25 × 10⁻⁶ × 250 = 1562.5 μC = 1.5625 mC.\nV₁ = Q/C₁ = 1562.5/10 = 156.25 V (across 10 μF).\nV₂ = Q/C₂ = 1562.5/50 = 31.25 V (across 50 μF).\nV₃ = Q/C₃ = 1562.5/25 = 62.5 V (across 25 μF).\nCheck: 156.25 + 31.25 + 62.5 = 250 V.\nResult: (i) 2.5 mC, 12.5 mC and 6.25 mC; (ii) 85 μF; (iii) 156.25 V, 31.25 V and 62.5 V (i.e. 156.25 V, 62.5 V, 31.25 V for the 10, 25 and 50 μF capacitors).\nDiscrepancy: the book prints 6.75 mC for the charge on the 25 μF capacitor, but 25 μF × 250 V = 6.25 mC, so 6.75 mC is a printing slip; the other printed answers agree exactly.",
+    "explanation": "Key checks: in parallel Q = CV with the same V for all; in series the charge is common, Q = C_sV, and the voltages must add up to the supply voltage (they do: 250 V).",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": "Fig. 9.9: C₁ = 10 μF, C₂ = 50 μF and C₃ = 25 μF in parallel across a 250 V supply (upper diagram), and the same three capacitors reconnected in series across 250 V with V₁, V₂, V₃ marked (lower diagram)."
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "Three capacitors are connected through a potential difference of 100 volts as shown in figure. Find the charges and potential difference across each capacitor. [C₁ = 2 μF is in series with the parallel combination of C₂ = 1 μF and C₃ = 3 μF; the network is connected across the 100 V supply, with V₁ across C₁ and V₂ across the parallel pair.]",
+    "answer": "Given: C₁ = 2 μF in series with the parallel pair C₂ = 1 μF and C₃ = 3 μF, total potential difference V = 100 V.\nFormula: C_p = C₂ + C₃; C_eq = C₁C_p/(C₁ + C_p); Q = C_eqV; V = Q/C.\nSubstitution: C_p = 1 + 3 = 4 μF; C_eq = (2 × 4)/(2 + 4) = 8/6 = 1.33 μF.\nCalculation: Q₁ = Q_total = 1.33 × 10⁻⁶ × 100 = 1.33 × 10⁻⁴ C = 133 μC.\nV₁ = Q₁/C₁ = 133/2 = 66.7 V.\nV₂ (across the parallel pair) = 100 − 66.7 = 33.3 V.\nQ₂ = C₂V₂ = 1 × 33.3 = 33.3 μC and Q₃ = C₃V₂ = 3 × 33.3 = 100 μC.\nCheck: Q₂ + Q₃ = 133 μC = Q₁.\nResult: Q₁ = 133 μC (V₁ = 66.7 V), Q₂ = 33.3 μC and Q₃ = 100 μC, with V₂ = 33.3 V across each of them.\nDiscrepancy: the printed answers (160 μC, 60 μC, 100 μC, V₁ = 80 V, V₂ = 20 V) correspond exactly to C₂ = 3 μF and C₃ = 5 μF (then C_p = 8 μF, C_eq = 1.6 μF, Q₁ = 160 μC, V₁ = 80 V, V₂ = 20 V, Q₂ = 60 μC, Q₃ = 100 μC). The scanned figure shows 1 μF and 3 μF, so the printed figure values and the printed answer key are inconsistent with each other.",
+    "explanation": "Key method: reduce the parallel pair first, then treat the network as two capacitors in series so that C₁ and the pair carry the same charge; the voltages must add to 100 V.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Capacitor is charged through a large non-reactive resistance by a battery of constant voltage V. For this arrangement, if the capacitor has a capacitance of 10 μ F and the resistance is 1 M Ω, calculate the time taken for the capacitor to receive 90% of its final charge.",
+    "answer": "Given: C = 10 μF = 10 × 10⁻⁶ F, R = 1 MΩ = 1 × 10⁶ Ω, q/Q₀ = 90% = 0.90.\nFormula: q = Q₀(1 − e^(−t/RC)), so t = RC ln[1/(1 − q/Q₀)].\nSubstitution: RC = (1 × 10⁶)(10 × 10⁻⁶) = 10 s; t = 10 ln[1/(1 − 0.90)] = 10 ln 10.\nCalculation: ln 10 = 2.303, so t = 10 × 2.303 = 23.0 s.\nResult: the capacitor takes about 23 s to receive 90% of its final charge, which agrees with the printed answer (Ans. 23s).",
+    "explanation": "Key relation q = Q₀(1 − e^(−t/RC)); note that 90% charge needs 2.3 time constants, while one time constant gives only 63%.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "What capacitance is required to store energy of 10 kWh at a potential difference of 1000 V?",
+    "answer": "Given: E = 10 kWh = 10 × 3.6 × 10⁶ J = 3.6 × 10⁷ J, V = 1000 V.\nFormula: E = ½CV², so C = 2E/V².\nSubstitution: C = 2 × 3.6 × 10⁷ / (1000)².\nCalculation: C = 7.2 × 10⁷ / 1.0 × 10⁶ = 72 F.\nResult: a capacitance of 72 F is required, which agrees with the printed answer (Ans. 72 F).",
+    "explanation": "Key conversion: 1 kWh = 3.6 × 10⁶ J; then C = 2E/V². Such a huge capacitance shows why energy is stored chemically in batteries rather than in capacitors.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A 2.0 μF capacitor and a 4.0 μF capacitor are connected in parallel across a 300 V potential difference. Calculate the total energy stored in the capacitors.",
+    "answer": "Given: C₁ = 2.0 μF, C₂ = 4.0 μF in parallel, V = 300 V.\nFormula: C_p = C₁ + C₂ and E = ½C_pV².\nSubstitution: C_p = 2.0 + 4.0 = 6.0 μF; E = ½ × 6.0 × 10⁻⁶ × (300)².\nCalculation: E = 3.0 × 10⁻⁶ × 9.0 × 10⁴ = 0.27 J.\nResult: the total energy stored is 0.27 J, which agrees with the printed answer (Ans. 0.27J).",
+    "explanation": "Key point: in parallel the capacitances add, and the same 300 V appears across each; the energy could also be found as ½C₁V² + ½C₂V² = 0.09 + 0.18 = 0.27 J.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "A 12.0-V battery is connected to a capacitor, resulting in 54.0 μC of charge stored on the capacitor. How much energy is stored in the capacitor?",
+    "answer": "Given: V = 12.0 V, Q = 54.0 μC = 54.0 × 10⁻⁶ C.\nFormula: E = ½QV (equivalently E = Q²/2C with C = Q/V = 4.5 μF).\nSubstitution: E = ½ × 54.0 × 10⁻⁶ × 12.0.\nCalculation: E = 27.0 × 10⁻⁶ × 12.0 = 3.24 × 10⁻⁴ J.\nResult: the energy stored is 3.24 × 10⁻⁴ J, which agrees with the printed answer (Ans. 3.24 × 10⁻⁴ J).",
+    "explanation": "Key formula E = ½QV, which avoids first calculating C; the equivalent check is C = Q/V = 4.5 μF and E = ½CV² = 3.24 × 10⁻⁴ J.",
+    "pdfPage": 200,
+    "bookPage": 196,
+    "figure": null
+  }
+]

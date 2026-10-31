@@ -1,0 +1,269 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Least entropy found in which of the following state of water:",
+    "options": [
+      "Liquid water at 4°C",
+      "Liquid water at 25°C",
+      "Steam at 100°C",
+      "Ice at 0°C"
+    ],
+    "correct": "d",
+    "explanation": "Entropy measures the degree of disorder or the number of ways energy can be distributed among the particles of a system. For the same substance, S(gas) > S(liquid) > S(solid). Ice at 0°C is a crystalline solid: its molecules are held in an ordered lattice and can only vibrate, so it has the fewest accessible arrangements and the least entropy. Liquid water at 4°C and at 25°C is more disordered than ice, and the liquid at the higher temperature has slightly greater entropy; steam at 100°C is a gas whose molecules move freely through the whole container and therefore has the highest entropy. Hence (d).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The energy corresponds to the given thermochemical process is labeled as:\nLi⁺(g) + Cl⁻(g) → LiCl(s)",
+    "options": [
+      "Ionization energy",
+      "Lattice energy",
+      "Enthalpy of combustion",
+      "Enthalpy of atomization"
+    ],
+    "correct": "b",
+    "explanation": "When gaseous Li⁺ and Cl⁻ ions come together to form the solid ionic compound LiCl, energy is released by the electrostatic attraction between the oppositely charged ions. The enthalpy change for the process in which one mole of an ionic solid is formed from its separated gaseous ions is called the lattice energy, so (b) is correct. Ionization energy (a) is the energy required to remove an electron from a gaseous atom; enthalpy of combustion (c) is the heat evolved when one mole of a substance burns completely in oxygen; enthalpy of atomization (d) is the enthalpy change when one mole of gaseous atoms is formed from the element in its standard state. None of these describes Li⁺(g) + Cl⁻(g) → LiCl(s).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Which of the following change is not an endothermic reaction:",
+    "options": [
+      "Decomposition of lime",
+      "Cracking of alkanes",
+      "Combustion of butane",
+      "Photosynthesis"
+    ],
+    "correct": "c",
+    "explanation": "An endothermic reaction absorbs heat, so its ΔH is positive. Decomposition of lime, CaCO₃(s) → CaO(s) + CO₂(g), requires strong heating (ΔH ≈ +178 kJ mol⁻¹); cracking of alkanes breaks C–C bonds and absorbs energy; photosynthesis stores light energy in carbohydrates. Combustion of butane, C₄H₁₀(g) + 6½O₂(g) → 4CO₂(g) + 5H₂O(l), releases a large amount of heat (ΔH ≈ −2877 kJ mol⁻¹), so it is strongly exothermic and is not an endothermic change. Hence (c).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Heat transfer can not be feasible across the boundary of a:",
+    "options": [
+      "Open system",
+      "Close system",
+      "Isolated system",
+      "Thermo permeable system"
+    ],
+    "correct": "c",
+    "explanation": "An isolated system is one whose boundary allows neither matter nor energy to pass, so heat cannot be transferred across it; it is thermally insulated as well as closed. In an open system both matter and energy can cross the boundary, and in a closed system heat and work can cross although matter cannot, so heat transfer is feasible in (a) and (b). A thermo-permeable (diathermic) boundary, option (d), specifically allows heat to pass. Therefore heat transfer is not feasible across the boundary of an isolated system, (c).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Which of the following enthalpy change is always negative:",
+    "options": [
+      "Enthalpy of formation",
+      "Enthalpy of decomposition",
+      "Enthalpy of combustion",
+      "Enthalpy of reaction"
+    ],
+    "correct": "c",
+    "explanation": "The enthalpy of combustion is the enthalpy change when one mole of a substance burns completely in excess oxygen. Combustion of any combustible substance releases heat, so ΔH°c is always negative; for example, ΔH°c[CH₄(g)] = −890 kJ mol⁻¹. Enthalpy of formation (a) can be negative or positive (the formation of C₂H₂ or NO is endothermic), enthalpy of decomposition (b) is endothermic and therefore positive, and enthalpy of reaction (d) may have either sign. Hence (c).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Standard enthalpy of formation of all of the following elements at 25°C and 1 atm pressure are zero except:",
+    "options": [
+      "C(diamond)",
+      "C(graphite)",
+      "O₂",
+      "N₂"
+    ],
+    "correct": "a",
+    "explanation": "An element in its most stable allotrope at 25°C and 1 atm is assigned a standard enthalpy of formation of zero. Graphite is the standard state of carbon, and O₂(g) and N₂(g) are the standard states of oxygen and nitrogen, so (b), (c) and (d) all have ΔH°f = 0. Diamond is a metastable allotrope of carbon at 25°C and 1 atm, not the standard state, so its standard enthalpy of formation is not zero (ΔH°f ≈ +1.9 kJ mol⁻¹); it is the exception. Hence (a).",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "In the equation of First law of thermodynamics (ΔE = q + w), the property(s) which depends upon initial and final state is (are):",
+    "options": [
+      "ΔE",
+      "q",
+      "W",
+      "Both q and W"
+    ],
+    "correct": "a",
+    "explanation": "Internal energy E is a state function: its change ΔE = E_final − E_initial depends only on the initial and final states and not on the path taken. Heat q and work w are path functions; their individual values depend on how the process is carried out (for example, on whether an expansion is reversible or irreversible), although their sum q + w is fixed by the initial and final states. Therefore only ΔE, option (a), is a property depending only on the initial and final states; (b), (c) and (d) are incorrect because q and w separately are path-dependent.",
+    "pdfPage": 242,
+    "bookPage": 236
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which statement is incorrect:",
+    "options": [
+      "For constant pressure process, ΔH = ΔE + PΔV",
+      "For constant volume process, ΔE = q",
+      "For exothermic reactions, ΔH > 0",
+      "For Hess law ΣΔH°(cycle) = 0"
+    ],
+    "correct": "c",
+    "explanation": "Statement (c) is incorrect. In an exothermic reaction the system releases heat to the surroundings, so the enthalpy of the products is lower than that of the reactants and ΔH = H_products − H_reactants is negative, not greater than zero. Statement (a) is correct: at constant pressure ΔH = ΔE + PΔV. Statement (b) is correct: at constant volume no pressure–volume work is done, so ΔE = q_v. Statement (d) is correct: enthalpy is a state function, so the sum of enthalpy changes around a complete Hess cycle is zero. Hence the incorrect statement is (c).",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "In a thermochemical process, no work is done if the system is kept at:",
+    "options": [
+      "Constant temperature",
+      "Constant pressure",
+      "Constant volume",
+      "Constant mass"
+    ],
+    "correct": "c",
+    "explanation": "Pressure–volume work is w = −PΔV. If the system is kept at constant volume, ΔV = 0, so w = 0 and no work is done; this is the basis of bomb calorimetry, where the heat measured equals ΔE. At constant temperature the volume can still change during an isothermal expansion or compression, so work is done; at constant pressure a volume change produces P–V work; constant mass does not prevent expansion or compression. Hence (c).",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Volume is a:",
+    "options": [
+      "State function",
+      "Path function",
+      "Intensive properties",
+      "Colligative property"
+    ],
+    "correct": "a",
+    "explanation": "Volume is a state function: for a given amount of substance its value is determined by the state variables pressure and temperature, and ΔV depends only on the initial and final states, not on the path. Work and heat are path functions, so (b) is wrong. Intensive properties such as temperature, pressure and density do not depend on the amount of substance, whereas volume is an extensive property proportional to the amount, so (c) is wrong. Colligative properties are properties of solutions that depend on the number of solute particles, not on volume itself, so (d) is wrong. Hence (a).",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "State precisely the meaning of each of the following terms.\n(i) System and surrounding\n(ii) State and state function\n(iii) Internal energy and Enthalpy",
+    "answer": "(i) System and surroundings: The system is the specific part of the universe selected for study, separated from the rest by a real or imaginary boundary. The surroundings are everything outside the system that can exchange energy or matter with it. System + surroundings = universe. A system may be open (both matter and energy cross the boundary), closed (only energy crosses) or isolated (neither matter nor energy crosses).\n(ii) State and state function: The state of a system is its condition at a given moment, completely described by its measurable properties such as composition, pressure, volume and temperature. A state function (state property) is a property whose value depends only on the present state of the system and not on the path by which that state was reached; its change is ΔX = X_final − X_initial. Examples: internal energy E, enthalpy H, entropy S, pressure P, volume V and temperature T. Heat q and work w are not state functions; they are path functions.\n(iii) Internal energy and enthalpy: Internal energy E is the sum of all kinetic and potential energies of the particles of the system (translational, rotational and vibrational motion, electronic energy and intermolecular interactions). It is a state function; its absolute value cannot be measured, but ΔE = q + w can. Enthalpy H is the heat content of a system at constant pressure, defined by H = E + PV. It is also a state function, and its change ΔH = ΔE + PΔV equals the heat exchanged at constant pressure, q_p. For an exothermic reaction ΔH is negative and for an endothermic reaction it is positive.",
+    "explanation": "The system, surroundings and state functions form the basic language of thermodynamics. A clear distinction between system and surroundings is needed to apply the first law, because q and w are defined by energy crossing the boundary. The state-function concept explains why ΔE and ΔH can be tabulated and combined by Hess's law, while q and w cannot: only changes in state functions are path-independent. Internal energy and enthalpy differ by the PV term, which is why ΔH rather than ΔE is measured in constant-pressure experiments.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "What is meant by Internal energy change (ΔE) and Enthalpy change (ΔH)? Under what conditions are ΔE and ΔH equal?",
+    "answer": "Internal energy change ΔE = E₂ − E₁ is the difference between the internal energies of the final and initial states of the system; by the first law, ΔE = q + w. Enthalpy change ΔH = H₂ − H₁ is the corresponding difference in enthalpy, H = E + PV; at constant pressure ΔH = ΔE + PΔV = q_p.\nΔE and ΔH are equal when PΔV = 0, that is:\n(i) at constant volume, where ΔV = 0 and no pressure–volume work is done;\n(ii) when there is no change in the number of moles of gas, Δn_g = 0, so PΔV = Δn_gRT = 0;\n(iii) for reactions involving only solids and liquids, where the volume change is so small that ΔH ≈ ΔE.\nExample: H₂(g) + Cl₂(g) → 2HCl(g) has Δn_g = 0, so ΔH = ΔE. For 2H₂(g) + O₂(g) → 2H₂O(l), Δn_g = −3, so ΔH = ΔE − 3RT and the two quantities are not equal.",
+    "explanation": "ΔE and ΔH describe the same process from two viewpoints: ΔE is the total energy change of the system, whereas ΔH also includes the energy used to push back the atmosphere when the volume changes. At constant volume no expansion work is possible, so all the heat goes into internal energy. At constant pressure the heat absorbed is ΔH, and ΔH = ΔE + PΔV. For ideal gases PΔV = Δn_gRT, so the difference between ΔH and ΔE grows with the change in moles of gas and with temperature; when Δn_g = 0 the two are equal.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "How can you define standard enthalpy of formation and standard enthalpy of reaction.",
+    "answer": "Standard enthalpy of formation (ΔH°f): the enthalpy change when one mole of a compound is formed from its constituent elements in their standard states, that is, in their most stable forms at 298 K and 1 atm. By convention, the standard enthalpy of formation of an element in its standard state is zero, for example ΔH°f[O₂(g)] = 0 and ΔH°f[C(graphite)] = 0. Example: ½H₂(g) + ½Cl₂(g) → HCl(g), ΔH°f = −92.3 kJ mol⁻¹.\nStandard enthalpy of reaction (ΔH°rxn): the enthalpy change when the molar quantities of reactants shown in a balanced chemical equation react completely to form products, with all reactants and products in their standard states at 298 K and 1 atm. It is calculated from standard enthalpies of formation:\nΔH°rxn = Σ n_p ΔH°f(products) − Σ n_r ΔH°f(reactants).\nThe sign is negative for an exothermic reaction and positive for an endothermic reaction.",
+    "explanation": "Standard enthalpies of formation are the building blocks of thermochemistry: because enthalpy is a state function, any reaction can be imagined as the decomposition of its reactants into elements followed by formation of its products. This gives ΔH°rxn = Σn_pΔH°f(products) − Σn_rΔH°f(reactants). Standard conditions (298 K, 1 atm, elements in their most stable forms) make the tabulated values comparable and allow ΔH° of reactions to be calculated without calorimetry. The sign convention is that heat released by the system is negative.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State and explain First law of Thermodynamics. Derive pressure–volume work of a system.",
+    "answer": "First law of thermodynamics (law of conservation of energy): energy can neither be created nor destroyed, but can be converted from one form to another; the total energy of the universe (system + surroundings) remains constant. For a closed system, the change in internal energy equals the heat absorbed by the system plus the work done on the system:\nΔE = q + w,\nwhere q is positive when heat is absorbed by the system and w is positive when work is done on the system; for an infinitesimal change, dE = δq + δw.\nDerivation of pressure–volume work: consider a gas enclosed in a cylinder fitted with a frictionless piston of area A, and let the external pressure be P_ext. The force exerted on the piston is F = P_ext A. If the piston moves outward through a small distance dx, the work done by the system on the surroundings is δw_by = F dx = P_ext A dx = P_ext dV, where dV = A dx is the change in volume. Since work done on the system is negative for an expansion, δw = −P_ext dV.\nFor a finite change at constant external pressure:\nw = −P_ext ∫dV = −P_ext(V₂ − V₁) = −P_ext ΔV.\nFor an expansion ΔV is positive, so w is negative: the system does work on the surroundings and loses energy. For a compression ΔV is negative, so w is positive: work is done on the system. For a reversible isothermal expansion of an ideal gas, P_ext = P = nRT/V, so w = −nRT ln(V₂/V₁). Substituting in the first law gives ΔE = q − PΔV; at constant pressure, q_p = ΔE + PΔV = ΔH. The magnitude of the P–V work is equal to the area under the P–V curve.",
+    "explanation": "The first law is the thermodynamic form of the law of conservation of energy and rules out a perpetual motion machine of the first kind, which would do work without an energy supply. The derivation shows that P–V work is not a stored property but energy transferred when the boundary moves against an opposing pressure; its sign is fixed by the convention that w is positive when work is done on the system. For expansion the system pushes the surroundings, so w is negative and ΔE = q − PΔV; at constant pressure this becomes ΔH = q_p, which is why enthalpy is the natural function for open-vessel chemistry.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Discuss the applications of the First law of thermodynamics at constant pressure and constant volume.",
+    "answer": "At constant volume: ΔV = 0, so the pressure–volume work w = −PΔV = 0 and the first law reduces to ΔE = q_v. The heat supplied to the system at constant volume is therefore a direct measure of its internal energy change. This is the principle of the bomb calorimeter, in which the heat of combustion is measured in a sealed constant-volume vessel; the value obtained is ΔE (q_v), not ΔH.\nAt constant pressure: the system may expand or contract, so w = −PΔV and q_p = ΔE + PΔV. Since H = E + PV, at constant pressure ΔH = ΔE + PΔV, hence q_p = ΔH. The heat absorbed or released at constant pressure therefore measures the enthalpy change. Most laboratory reactions and industrial processes occur in open vessels at atmospheric pressure, so their heats are quoted as ΔH; examples include heats of neutralization, solution and combustion measured in an open calorimeter.\nRelation between ΔE and ΔH: for ideal gases PΔV = Δn_gRT, where Δn_g = moles of gaseous products − moles of gaseous reactants, so ΔH = ΔE + Δn_gRT. For condensed phases ΔV is negligible, so ΔH ≈ ΔE. Example: for 2H₂(g) + O₂(g) → 2H₂O(l), Δn_g = −3, so ΔH = ΔE − 3RT. Thus constant-volume calorimetric data can be converted into the constant-pressure enthalpy changes used in thermochemical equations.",
+    "explanation": "Most laboratory reactions occur in open vessels at constant atmospheric pressure, so the heat measured is q_p = ΔH, whereas bomb calorimeters operate at constant volume and measure q_v = ΔE. The relation ΔH = ΔE + Δn_gRT allows one quantity to be converted into the other. For reactions with no change in gaseous moles, or for solids and liquids where ΔV is negligible, the distinction disappears. These applications make the first law practical: it connects calorimetric measurements to the thermodynamic quantities tabulated for reactions.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "State and explain Hess's Law of enthalpy summation. Discuss its applications.",
+    "answer": "Hess's law of constant heat summation states that if a reaction takes place in several steps, the total enthalpy change of the reaction is the sum of the enthalpy changes of the individual steps, and is independent of the path by which the overall change occurs. This is because enthalpy is a state function: the enthalpy change depends only on the initial and final states, not on the route. For a complete cycle, ΣΔH° = 0.\nConsequences: thermochemical equations can be added, subtracted, reversed and multiplied like algebraic equations. When an equation is reversed, the sign of ΔH is changed; when it is multiplied by a factor, ΔH is multiplied by the same factor.\nApplications:\n(i) Determination of the enthalpy change of reactions that cannot be carried out directly or measured calorimetrically, such as C(s) + ½O₂(g) → CO(g).\n(ii) Calculation of the lattice energy of ionic solids by means of the Born–Haber cycle.\n(iii) Calculation of standard enthalpies of formation from standard enthalpies of combustion, for example for glucose or glycerol.\n(iv) Determination of bond dissociation enthalpies from thermochemical data.\n(v) Calculation of enthalpy changes of isomerization, hydration, hydrogenation and other reactions that are difficult to study directly.\n(vi) Prediction of the relative stability of compounds and allotropes.\nExample: sulphur cannot be oxidized directly to SO₃ in a controlled way, but S(s) + O₂(g) → SO₂(g), ΔH° = −296.8 kJ mol⁻¹, and SO₂(g) + ½O₂(g) → SO₃(g), ΔH° = −99.2 kJ mol⁻¹, so for S(s) + 3/2O₂(g) → SO₃(g), ΔH° = −296.8 − 99.2 = −396.0 kJ mol⁻¹.",
+    "explanation": "Hess's law follows directly from the fact that enthalpy is a state function: the enthalpy change between the same initial and final states is the same whatever route is taken, so a reaction can be broken into hypothetical steps whose ΔH values are known or measurable. Thermochemical equations may therefore be added, reversed (sign changed) and multiplied (coefficient multiplied). This makes it possible to obtain enthalpies of reactions that are too slow, too dangerous or impossible to carry out directly, and it underlies the Born–Haber cycle for ionic solids.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Explain Exothermic and Endothermic reactions with the help of the energy diagram.",
+    "answer": "Exothermic reaction: a reaction in which the system releases heat to the surroundings, so the temperature of the surroundings rises. The enthalpy of the products is lower than that of the reactants, and ΔH = H_products − H_reactants is negative. In the energy diagram, reactants are shown at a higher enthalpy than products, and a downward arrow labelled ΔH (negative) joins the two levels; a hump between them represents the activation energy. Example: CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l), ΔH = −890 kJ mol⁻¹; neutralization and respiration are also exothermic.\nEndothermic reaction: a reaction in which the system absorbs heat from the surroundings, so the temperature of the surroundings falls. The products have higher enthalpy than the reactants, and ΔH is positive. In the energy diagram, products are shown above reactants and an upward arrow labelled ΔH (positive) joins the levels; the activation-energy hump again lies between reactants and products. Example: CaCO₃(s) → CaO(s) + CO₂(g), ΔH = +178 kJ mol⁻¹; photosynthesis, cracking of alkanes and melting or boiling are endothermic.\nIn both cases, bonds in the reactants must be broken (energy absorbed) and new bonds in the products are formed (energy released). The sign of ΔH is the net result of these two processes: if bond formation releases more energy than bond breaking absorbs, the reaction is exothermic, and vice versa. The activation energy is the minimum energy needed to start the reaction and does not determine the sign of ΔH.",
+    "explanation": "An energy diagram plots enthalpy on the vertical axis against reaction progress. The difference between the enthalpies of products and reactants is ΔH, while the height of the hump above the reactants is the activation energy. In an exothermic reaction the products lie lower than the reactants, so the system loses enthalpy to the surroundings; in an endothermic reaction the products lie higher, so the system gains enthalpy. Bond breaking absorbs energy and bond formation releases it; the sign of ΔH is the net result of these two processes, and the activation energy does not change the sign of ΔH.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A thermochemical process is carried out at constant pressure of 8.52 atm. If it absorbs 15.4 kJ energy from the surrounding due to which an expansion in the volume of 4.7 dm³ is occurred. Calculate its change in internal energy. [Ans: 11.34 kJ]",
+    "answer": "Given: P = 8.52 atm (constant), q = +15.4 kJ (heat absorbed by the system), ΔV = +4.7 dm³ (expansion).\nFormula: ΔE = q + w, with w = −PΔV for expansion against a constant external pressure.\nSubstitution: w = −(8.52 atm)(4.7 dm³) = −40.044 atm dm³.\nConversion: 1 atm dm³ = 101.3 J, so w = −40.044 × 101.3 J = −4056.5 J = −4.0565 kJ.\nComputation: ΔE = (+15.4 kJ) + (−4.0565 kJ) = +11.3435 kJ ≈ +11.34 kJ.\n[Ans: 11.34 kJ]",
+    "explanation": "At constant pressure the heat absorbed is q_p = ΔH = +15.4 kJ, but the question asks for ΔE, so the expansion work done by the system must be subtracted. The gas expands (ΔV positive) against the external pressure, so the system does work on the surroundings and w is negative in ΔE = q + w. The product PΔV has units atm dm³; since 1 atm dm³ = 101.3 J, the work is about 4.06 kJ. The internal energy therefore rises by only 11.34 kJ even though 15.4 kJ of heat enters, because 4.06 kJ leaves as work.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Using the data in table 11.2, calculate the standard enthalpy change for each of the following reactions.\n(i) 2H₂S(g) + 3O₂(g) → 2H₂O(l) + 2SO₂(g)\n(ii) Fe₂O₃(s) + 3CO(g) → 2Fe(s) + 3CO₂(g)",
+    "answer": "Data used (standard values substituted because table 11.2 is not printed on the exercise page; all values in kJ mol⁻¹): ΔH°f[H₂O(l)] = −285.8, ΔH°f[SO₂(g)] = −296.8, ΔH°f[Fe₂O₃(s)] = −822.2, ΔH°f[CO(g)] = −110.5, ΔH°f[CO₂(g)] = −393.5, ΔH°f[H₂S(g)] = −20.6, and ΔH°f[O₂(g)] = ΔH°f[Fe(s)] = 0.\nFormula: ΔH°rxn = Σ n_p ΔH°f(products) − Σ n_r ΔH°f(reactants).\n(i) 2H₂S(g) + 3O₂(g) → 2H₂O(l) + 2SO₂(g):\nΔH° = [2(−285.8) + 2(−296.8)] − [2(−20.6) + 3(0)]\n= (−571.6 − 593.6) − (−41.2)\n= −1165.2 + 41.2 = −1124.0 kJ.\n(ii) Fe₂O₃(s) + 3CO(g) → 2Fe(s) + 3CO₂(g):\nΔH° = [2(0) + 3(−393.5)] − [(−822.2) + 3(−110.5)]\n= (−1180.5) − (−822.2 − 331.5)\n= −1180.5 + 1153.7 = −26.8 kJ.\nNo answer is printed on the exercise page for this question; the calculated standard enthalpy changes are −1124.0 kJ for (i) and −26.8 kJ for (ii), per mole of reaction as written.",
+    "explanation": "The standard enthalpy of a reaction is the sum of the standard enthalpies of formation of the products minus that of the reactants, each multiplied by its stoichiometric coefficient; elements in their standard states have ΔH°f = 0. The exercise refers to table 11.2 but does not print it, so standard values are substituted and stated explicitly. Both reactions release heat (negative ΔH), consistent with the combustion of H₂S and the reduction of iron(III) oxide by carbon monoxide. The printed table itself lists H₂S(g) as −20.17 and Fe₂O₃(s) as −824.2 kJ mol⁻¹; using those tabulated values would give −1124.9 kJ and −24.8 kJ respectively, the small differences arising only from the source of the standard data. No printed answer is given for this question, so the calculated values are reported.",
+    "pdfPage": 243,
+    "bookPage": 237
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "In the manufacturing of HNO₃ by the Ostwald process, one of the most important exothermic reactions is the oxidation of ammonia.\n4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(l)\nDetermine standard heat of reaction (ΔH°) from the following given data.\nΔH°f of NH₃(g) = −46.19 kJ mol⁻¹\nΔH°f of NO(g) = 90.25 kJ mol⁻¹\nΔH°f of H₂O(l) = −285.8 kJ mol⁻¹\n[Ans: −1169.04 kJ mol⁻¹]",
+    "answer": "Given: ΔH°f[NH₃(g)] = −46.19 kJ mol⁻¹, ΔH°f[NO(g)] = +90.25 kJ mol⁻¹, ΔH°f[H₂O(l)] = −285.8 kJ mol⁻¹; ΔH°f[O₂(g)] = 0.\nFormula: ΔH°rxn = Σ n_p ΔH°f(products) − Σ n_r ΔH°f(reactants).\nFor 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(l):\nΔH° = [4ΔH°f(NO) + 6ΔH°f(H₂O)] − [4ΔH°f(NH₃) + 5ΔH°f(O₂)]\n= [4(90.25) + 6(−285.8)] − [4(−46.19) + 5(0)]\n= (361.0 − 1714.8) − (−184.76)\n= −1353.8 + 184.76 = −1169.04 kJ mol⁻¹.\n[Ans: −1169.04 kJ mol⁻¹]",
+    "explanation": "The standard heat of reaction is obtained from the standard enthalpies of formation of products minus reactants. Oxygen is an element in its standard state, so its ΔH°f is zero, and the coefficients 4, 6, 4 and 5 must multiply the tabulated values. The large negative result shows that the oxidation of ammonia is strongly exothermic, which is why the Ostwald process must be cooled to control the temperature and protect the catalyst. The printed answer is per mole of reaction as written, that is, per 4 mol of NH₃ oxidized.",
+    "pdfPage": 244,
+    "bookPage": 238
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Iso octane (C₈H₁₈) is an efficient fuel with a high octane rating. The combustion of C₈H₁₈ in an internal combustion engine is represented in the following thermochemical equation. Find its standard heat of combustion.\nC₈H₁₈(l) + 12½O₂(g) → 8CO₂(g) + 9H₂O(l) (ΔH°f = ?)\nGiven that\nΔH°f of CO₂ = −393.5 kJ mol⁻¹\nΔH°f of H₂O = −285.8 kJ mol⁻¹\nΔH°f of C₈H₁₈ = −223.8 kJ mol⁻¹\n[Ans: −5496.4 kJ mol⁻¹]",
+    "answer": "Given: ΔH°f[CO₂(g)] = −393.5 kJ mol⁻¹, ΔH°f[H₂O(l)] = −285.8 kJ mol⁻¹, ΔH°f[C₈H₁₈(l)] = −223.8 kJ mol⁻¹; ΔH°f[O₂(g)] = 0.\nFormula: ΔH°c = Σ n_p ΔH°f(products) − Σ n_r ΔH°f(reactants).\nFor C₈H₁₈(l) + 12½O₂(g) → 8CO₂(g) + 9H₂O(l):\nΔH°c = [8ΔH°f(CO₂) + 9ΔH°f(H₂O)] − [ΔH°f(C₈H₁₈) + 12½ΔH°f(O₂)]\n= [8(−393.5) + 9(−285.8)] − [−223.8 + 0]\n= (−3148.0 − 2572.2) + 223.8\n= −5720.2 + 223.8 = −5496.4 kJ mol⁻¹.\n[Ans: −5496.4 kJ mol⁻¹]",
+    "explanation": "The printed equation labels the unknown as ΔH°f, but the question asks for the standard heat of combustion, so the quantity calculated is ΔH°c for the equation as written. The standard enthalpy of combustion is obtained by subtracting the formation enthalpy of the fuel from the sum of the formation enthalpies of the products; O₂ has ΔH°f = 0. The very large negative value reflects the high energy content of isooctane and explains why it is a good fuel; the value is per mole of C₈H₁₈ burned.",
+    "pdfPage": 244,
+    "bookPage": 238
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "Glycerol (C₃H₈O₃) is a well known organic compound due to its versatile uses. Calculate the standard enthalpy of formation of Glycerol from the data given below.\n3C(s) + 4H₂(g) + 3/2O₂(g) → C₃H₈O₃(l) (ΔH°f = ?)\nC(s) + O₂(g) → CO₂(g) (ΔH° = −393.5 kJ mol⁻¹)\nH₂(g) + ½O₂(g) → H₂O(l) (ΔH° = −285.8 kJ mol⁻¹)\nC₃H₈O₃(l) + 3½O₂(g) → 3CO₂(g) + 4H₂O(l) (ΔH° = −1654.1 kJ mol⁻¹)\n[Ans: −669.6 kJ mol⁻¹]",
+    "answer": "Target equation: 3C(s) + 4H₂(g) + 3/2O₂(g) → C₃H₈O₃(l), ΔH°f = ?\nGiven:\n(1) C(s) + O₂(g) → CO₂(g), ΔH₁ = −393.5 kJ mol⁻¹\n(2) H₂(g) + ½O₂(g) → H₂O(l), ΔH₂ = −285.8 kJ mol⁻¹\n(3) C₃H₈O₃(l) + 3½O₂(g) → 3CO₂(g) + 4H₂O(l), ΔH₃ = −1654.1 kJ mol⁻¹\nReverse equation (3): 3CO₂(g) + 4H₂O(l) → C₃H₈O₃(l) + 3½O₂(g), ΔH = +1654.1 kJ.\nMultiply (1) by 3: 3C(s) + 3O₂(g) → 3CO₂(g), ΔH = 3(−393.5) = −1180.5 kJ.\nMultiply (2) by 4: 4H₂(g) + 2O₂(g) → 4H₂O(l), ΔH = 4(−285.8) = −1143.2 kJ.\nAdd the three modified equations; 3CO₂ and 4H₂O cancel, and the oxygen balance is 3 + 2 − 3.5 = 1.5 mol O₂ on the left:\n3C(s) + 4H₂(g) + 3/2O₂(g) → C₃H₈O₃(l).\nΔH°f = +1654.1 − 1180.5 − 1143.2 = −669.6 kJ mol⁻¹.\n[Ans: −669.6 kJ mol⁻¹]",
+    "explanation": "Hess's law allows the formation reaction of glycerol to be constructed from the three given equations. The combustion of glycerol is reversed (changing the sign of its ΔH), and the formation reactions of CO₂ and H₂O are multiplied by 3 and 4 respectively so that CO₂ and H₂O cancel and the required elements remain. Adding the three modified equations and their enthalpy changes gives the standard enthalpy of formation of glycerol. The negative value shows that glycerol is more stable than its elements in their standard states.",
+    "pdfPage": 244,
+    "bookPage": 238
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "Draw a fully labeled Born Haber cycle for Rubidium chloride (RbCl) and determine the lattice energy by using the following values. (all in kJ mol⁻¹).\nI.P.₁st of Rb = 403\nElectron affinity of Cl = −349 kJ mol⁻¹\nBond energy of Cl₂ = 242 kJ mol⁻¹\nSublimation energy of Rb = 86.5 kJ mol⁻¹\nHeat of formation of RbCl(s) = −430.5 kJ mol⁻¹\n[Ans: −692 kJ mol⁻¹]",
+    "answer": "Born–Haber cycle for RbCl (all values in kJ mol⁻¹):\nStep 1, sublimation: Rb(s) → Rb(g), ΔH_sub = +86.5.\nStep 2, dissociation of chlorine: ½Cl₂(g) → Cl(g), ΔH_diss = ½(242) = +121.\nStep 3, ionization: Rb(g) → Rb⁺(g) + e⁻, I.P. = +403.\nStep 4, electron gain: Cl(g) + e⁻ → Cl⁻(g), E.A. = −349.\nStep 5, lattice formation: Rb⁺(g) + Cl⁻(g) → RbCl(s), ΔH_lattice = U = ?\nOverall formation: Rb(s) + ½Cl₂(g) → RbCl(s), ΔH°f = −430.5.\nBy Hess's law the two routes from Rb(s) + ½Cl₂(g) to RbCl(s) are equal:\nΔH°f = ΔH_sub + ½ΔH_diss + I.P. + E.A. + U.\nSubstitution: −430.5 = 86.5 + 121 + 403 + (−349) + U\n−430.5 = 261.5 + U\nU = −430.5 − 261.5 = −692 kJ mol⁻¹.\n[Ans: −692 kJ mol⁻¹]",
+    "explanation": "The Born–Haber cycle applies Hess's law to the formation of an ionic solid. The elements are first converted to gaseous atoms (sublimation of Rb and dissociation of ½Cl₂), the metal atoms are ionized, the chlorine atoms gain electrons, and finally the gaseous ions condense into the solid lattice. The lattice energy is the enthalpy released in the last step and is therefore negative. Summing the five steps and setting the total equal to the enthalpy of formation gives U = ΔH°f − ΔH_sub − ½D − I.P. − E.A. The negative electron affinity is used with its sign, and the result −692 kJ mol⁻¹ agrees with the printed answer.",
+    "pdfPage": 244,
+    "bookPage": 238
+  }
+]

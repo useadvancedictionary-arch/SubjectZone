@@ -1,0 +1,362 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "If the wavelength of an electromagnetic wave is about the diameter of a cricket ball, what type of radiation is it.",
+    "options": ["a) X-ray", "b) Ultraviolet", "c) Radio waves", "d) Visible light"],
+    "correct": "c",
+    "answer": "(c) Radio waves",
+    "explanation": "A cricket ball is about 7 cm across, so the wavelength in question is of the order of 10 cm. From c = fλ this corresponds to a frequency of a few times 10⁹ Hz, which lies in the radio/microwave part of the electromagnetic spectrum. X-rays (about 10⁻¹⁰ m), ultraviolet (about 10⁻⁸ m) and visible light (about 5 × 10⁻⁷ m) all have wavelengths millions of times shorter, so options (a), (b) and (d) cannot match a 7 cm wavelength.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Electromagnetic waves from an unknown source in space are found to be diffracted when passing through gaps of the order of 10⁻⁵ m, which type of the wave are they most likely to be?",
+    "options": ["a) microwaves", "b) Ultraviolet", "c) Radio waves", "d) infra-red waves"],
+    "correct": "d",
+    "answer": "(d) infra-red waves",
+    "explanation": "Diffraction is pronounced only when the wavelength is comparable with the width of the gap, so here λ ≈ 10⁻⁵ m = 10 μm. The infrared region extends from about 0.7 μm to 1 mm, which contains 10 μm. Microwaves are 1 mm to 30 cm (100 to 10⁴ times longer), ultraviolet is 10 to 400 nm (25 to 1000 times shorter) and radio waves are longer than 30 cm, so none of them would be diffracted appreciably by a 10⁻⁵ m gap.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Huygens's conception of secondary waves",
+    "options": ["a) helps us to find the focal length of a thick lens", "b) is a geometrical method to find a wavefront", "c) is used to determine the velocity of light", "d) is used to explain the polarization of light"],
+    "correct": "b",
+    "answer": "(b) is a geometrical method to find a wavefront",
+    "explanation": "Huygens assumed that every point on a wavefront acts as a source of secondary wavelets and that the common tangent (envelope) of these wavelets after a time t gives the new position of the wavefront. This is a purely geometrical construction for locating successive wavefronts, which is exactly option (b). It does not itself give the focal length of a thick lens (that needs the lens maker formula), it yields the speed of light only when combined with refraction geometry, and polarization requires the transverse-wave model, not Huygens construction alone.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Interference fringes are produced using monochromatic light of same intensity from a double slit screen. If the intensity of light emerging from one of the slit is reduced, the effect on interference pattern will be",
+    "options": ["a) All the dark and bright fringes become brighter.", "b) All the dark and bright fringes become darker.", "c) Bright fringes become brighter and dark fringes become darker.", "d) Bright fringes become darker and dark fringes become brighter."],
+    "correct": "d",
+    "answer": "(d) Bright fringes become darker and dark fringes become brighter.",
+    "explanation": "With equal amplitudes a the maximum intensity is 4a² and the minimum is zero. Reducing the light from one slit makes the two amplitudes unequal (say a₁ and a₂), so the maximum (a₁ + a₂)² becomes smaller than 4a² and the minimum (a₁ − a₂)² becomes greater than zero; the bright fringes therefore darken and the dark fringes are no longer perfectly dark, i.e. they brighten. No fringe can become brighter than before because the total light energy reaching the screen has decreased, which rules out (a) and (c), and (b) is wrong because the minima gain intensity.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "In Young's experiment when the distance between slits and screen is doubled, while separation of slits is halved, then fringe width will be;",
+    "options": ["a) 4 times", "b) ¼ times", "c) doubled", "d) unchanged"],
+    "correct": "a",
+    "answer": "(a) 4 times",
+    "explanation": "The fringe width is Δy = λL/d. Replacing L by 2L doubles the fringe width, and replacing d by d/2 doubles it once more, so the new fringe width is 4λL/d, i.e. 4 times the original. Option (c) accounts for only one of the two changes, (d) ignores both, and (b) inverts the dependence on d.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "A ray of light passes from air into water. Striking the surface of the water with an angle of incidence 45°. Which of these quantities change as the light enters the water.i) Wavelength ii) frequency iii) speed of propagation iv) direction of propagation",
+    "options": ["a) i and ii only.", "b) iii and iv only.", "c) i, iii, and iv only.", "d) all of them."],
+    "correct": "c",
+    "answer": "(c) i, iii, and iv only.",
+    "explanation": "The frequency of a wave is fixed by its source and does not change when the wave crosses a boundary, so (ii) is excluded and (a) and (d) are wrong. The speed falls to v = c/n = c/1.33, and since v = fλ with f constant, the wavelength also shortens by the factor n; the direction changes according to Snell's law (sin i / sin r = n), the ray bending towards the normal. Thus wavelength, speed and direction change but frequency does not, which is option (c); (b) wrongly omits the change of wavelength.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "A hill separates a television (TV) transmitter from a house. The Transmitter cannot be seen from the house but still the TV in the house has good reception. What wave phenomena make it possible?",
+    "options": ["a) Coherence of waves", "b) Diffraction of waves", "c) Interference of waves", "d) Refraction of waves"],
+    "correct": "b",
+    "answer": "(b) Diffraction of waves",
+    "explanation": "Diffraction is the bending or spreading of waves around the edge of an obstacle whose size is comparable with the wavelength. TV signals have wavelengths of the order of metres, so they diffract around the hill and reach the house even though the transmitter is not in the line of sight. Coherence and interference describe fixed phase relationships between waves and cannot carry a wave into a shadow, while refraction alone requires a change of medium along a boundary and cannot explain reception behind a hill.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Monochromatic light is incident on a diffraction grating and a diffraction pattern is observed. Which effects is observed by replacing the grating with one that has more lines per millimeter?",
+    "options": ["a) Number of maxima decreases with decrease in angle between first and second order maxima.", "b) Number of maxima decreases with increase in angle between first and second order maxima.", "c) Number of maxima increases with decrease in angle between first and second order maxima.", "d) Number of maxima increases with increase in angle between first and second order maxima."],
+    "correct": "b",
+    "answer": "(b) Number of maxima decreases with increase in angle between first and second order maxima.",
+    "explanation": "For a grating d sin θ = mλ, where d is the spacing between adjacent lines. More lines per millimetre means a smaller d, so each order appears at a larger angle and the angular gap between the first and second order maxima increases. At the same time sin θ = mλ/d cannot exceed 1, so the highest observable order m_max = d/λ decreases: fewer maxima are seen. Options (a) and (c) wrongly state that the angle decreases, and (d) wrongly says the number of maxima increases.",
+    "pdfPage": 305,
+    "bookPage": 301
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Optically active substances are those substances which",
+    "options": ["a) produce polarized light", "b) rotate the plane of polarization of polarized light", "c) produce double refraction", "d) convert a plane polarized light into circularly polarized light"],
+    "correct": "b",
+    "answer": "(b) rotate the plane of polarization of polarized light",
+    "explanation": "Optically active substances such as quartz, sugar solution, turpentine and sodium chlorate rotate the plane of vibration of plane-polarized light passing through them, the rotation being proportional to the path length and (for solutions) to the concentration. They do not create polarization from unpolarized light (that is the job of a polarizer), double refraction is a separate property of anisotropic crystals such as calcite, and conversion into circularly polarized light is not the defining property of optical activity.",
+    "pdfPage": 306,
+    "bookPage": 302
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Plane polarized light is passed through a Polaroid. On viewing through the Polaroid we find that when Polaroid is given one complete rotation about the direction of light",
+    "options": ["a) The intensity of light gradually decreases to zero and remains at zero.", "b) The intensity of light gradually increases to maximum and remains at maximum.", "c) There is no change in the intensity of light.", "d) The intensity of light varies such that it is twice maximum and twice zero."],
+    "correct": "d",
+    "answer": "(d) The intensity of light varies such that it is twice maximum and twice zero.",
+    "explanation": "A Polaroid transmits only the component of the electric field along its pass axis, so by Malus law I = I₀ cos²θ, where θ is the angle between the incident vibration direction and the pass axis. In one complete rotation θ passes through 0° and 180° (two positions of maximum transmission, I = I₀) and through 90° and 270° (two positions of zero transmission). Hence the intensity goes through two maxima and two zeros per revolution, not a single fall to zero (a), not a constant maximum (b), and not a constant value (c).",
+    "pdfPage": 306,
+    "bookPage": 302
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "In every day experience, visible light seem to travel in straight lines while radio waves do not, Explain.",
+    "answer": "Diffraction becomes appreciable only when the size of the obstacle or opening is comparable with the wavelength, since the angular spread is roughly θ ≈ λ/a. Visible light has λ ≈ 5 × 10⁻⁷ m, which is millions of times smaller than doors, windows, buildings and hills, so λ/a is practically zero and the bending at edges is unnoticeable; light therefore appears to travel in straight lines and casts sharp shadows. Broadcast radio waves have wavelengths from about a millimetre to hundreds of metres, often comparable with or larger than hills, buildings and the gaps between them. Such waves diffract strongly around these obstacles and can be received even when the transmitter is out of sight, and long radio waves also refract in the ionosphere. Hence radio waves do not seem to travel in straight lines.",
+    "explanation": "The key idea is that diffraction depends on the ratio λ/a, not on the wave being light or radio; a common mistake is to say that radio waves are not rectilinear because they are electromagnetic.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Explain why two waves of significantly different frequencies cannot be coherent?",
+    "answer": "Two waves are coherent if their phase difference at a given point remains constant with time. If the waves have frequencies f₁ and f₂, their phase difference at a fixed point changes as Δφ = 2π(f₁ − f₂)t, so the resultant intensity oscillates between maximum and minimum |f₁ − f₂| times every second, which is the beat frequency. When the frequency difference is significant this flickering is far too rapid for the eye or a detector to follow, and what is observed is the time-averaged uniform intensity, so the bright and dark fringes are washed out. A steady interference pattern needs the phase difference to stay constant over the observation time, that is |f₁ − f₂| must be extremely small (within the coherence time of the source). Hence waves of very different frequencies cannot be coherent.",
+    "explanation": "Coherence is about a constant phase difference; different frequencies make the phase difference drift linearly with time, so the pattern sweeps and averages out. The beat frequency |f₁ − f₂| is the rate of that sweeping.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "In a Young's double slit experiment, how the interference phenomenon is affected by changing the slits separation and the distance between the slits and screen?",
+    "answer": "In Young's experiment the fringe width is Δy = λL/d, where d is the slit separation and L the slit-to-screen distance; the angular fringe width is θ = λ/d. Increasing d decreases the fringe width, so the fringes crowd together, become finer and are eventually unresolved, while more fringes appear on a fixed screen. Decreasing d widens the fringes and reduces their number, and if the slits are too close the two diffracted beams overlap so much that the pattern is lost. Increasing L widens the fringes in direct proportion and reduces their number on the screen; decreasing L gives narrower, more closely spaced fringes. Changing d or L does not shift the central maximum, which always lies on the perpendicular bisector of the slits.",
+    "explanation": "Use Δy = λL/d: fringe width is proportional to L and inversely proportional to d. The angular separation λ/d is independent of L, which is a common point of confusion.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Explain how the double-slit experiment provides evidence for the wave nature of light.",
+    "answer": "In the double-slit experiment light from a single source falls on two narrow slits and the light from them overlaps on a screen, giving a pattern of equally spaced bright and dark bands. A particle model predicts only two bright patches, because particles passing through one slit are not affected by the other slit; it cannot produce regions of zero intensity where two beams meet. The dark fringes occur exactly where the path difference is an odd multiple of λ/2, so the waves arrive in opposite phase and cancel, while bright fringes occur where the path difference is nλ and they reinforce. The measured fringe spacing Δy = λL/d agrees with the wave prediction for the known wavelength, and even single photons build up the same pattern, confirming that light propagates as a wave.",
+    "explanation": "The crucial evidence is the existence of dark fringes where two beams overlap, plus the quantitative agreement with Δy = λL/d; energy is redistributed, not destroyed.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Discuss the concept of monochromatic light in the context of Newton's rings.",
+    "answer": "Monochromatic light is light of essentially a single wavelength (strictly, a very narrow band). In Newton's rings the air film between the lens and the flat plate has a thickness that increases outward, and the condition for brightness or darkness depends on that thickness measured in wavelengths. For a given order m the dark ring radius is r = √(mλR) and the bright ring radius is r = √[(m − ½)λR], where R is the radius of curvature of the lens surface, so each wavelength produces its own set of rings of definite radii. With monochromatic light the rings are sharp, their radii can be measured accurately and λ or R can be determined. With white light every wavelength forms rings of different radii which overlap, giving only a few coloured rings near the centre and uniform white light farther out.",
+    "explanation": "Ring radius scales as √(λR); a single wavelength gives one sharp ring system, whereas white light superposes many systems and destroys the contrast.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Explain why monochromatic light is preferred for obtaining clear and well-defined interference patterns in the experiment.",
+    "answer": "Interference fringes are loci of constant path difference, and their position and spacing depend on the wavelength. If the source emits many wavelengths, each wavelength forms its own fringe system with a different spacing: the maxima of one colour fall on the minima of another, the contrast falls and the pattern becomes a blur of colours. A monochromatic source gives a single, sharply defined system in which bright and dark fringes are clearly separated, the contrast is maximum, and the fringe width can be measured precisely. For the same reason the fringes stay visible over a larger range of path difference, because a narrow spectral band has a long coherence length. Hence monochromatic light such as sodium or laser light is used whenever λ or a radius of curvature is to be measured.",
+    "explanation": "Fringe spacing is proportional to λ, so a mixture of wavelengths gives overlapping systems of different spacing; monochromatic light also has a longer coherence length.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Discuss how the interference of light waves leads to the formation of bright and dark rings in the experiment.",
+    "answer": "In Newton's rings the air film between a plano-convex lens and a flat glass plate has a thickness t that increases with distance from the point of contact. Light reflected from the top and bottom surfaces of this film superposes. The ray reflected at the lower surface (air to glass) suffers a phase change of π, so the condition for a bright ring is 2t = (m + ½)λ, with m = 0, 1, 2..., and for a dark ring 2t = mλ. Since t is constant along a circle centred on the point of contact, each order appears as a ring. At the centre t = 0, so the path difference is effectively λ/2 and the centre is dark in reflected light; because t grows faster than the radius, the rings become closer together outward.",
+    "explanation": "The π phase change on reflection at the air-glass boundary plus the path difference 2t gives bright rings at 2t = (m + ½)λ and dark rings at 2t = mλ; equal thickness contours are circles.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Explain the concept of interference in physical optics. Discuss constructive and destructive interference.",
+    "answer": "Interference is the redistribution of light energy produced when two or more coherent waves superpose. According to the principle of superposition, the resultant displacement at any point is the vector sum of the displacements of the individual waves, and the intensity there is proportional to the square of the resultant amplitude.\nConsider two waves of the same frequency and wavelength, with a constant phase difference δ and amplitudes a₁ and a₂. The resultant amplitude satisfies A² = a₁² + a₂² + 2a₁a₂ cos δ, so the intensity is I = I₁ + I₂ + 2√(I₁I₂) cos δ.\nConstructive interference occurs when the waves arrive in phase, that is δ = 0, 2π, 4π... or the path difference is Δ = nλ with n = 0, 1, 2... Then cos δ = +1, A = a₁ + a₂ and I = (a₁ + a₂)² = I_max; if I₁ = I₂ = I₀, then I_max = 4I₀.\nDestructive interference occurs when the waves arrive in opposite phase, that is δ = π, 3π... or Δ = (n + ½)λ. Then cos δ = −1, A = |a₁ − a₂| and I = (a₁ − a₂)² = I_min, which is zero when the amplitudes are equal.\nAlternate bright and dark fringes therefore appear where the path difference from the two sources is nλ and (n + ½)λ respectively. Energy is not destroyed but only transferred from the dark regions to the bright ones, so the average intensity equals the sum of the intensities of the two beams. Interference is observed only with coherent sources, such as the two slits in Young's experiment or the two surfaces of a thin film, and it is direct evidence for the wave nature of light.",
+    "explanation": "The central relation is I = I₁ + I₂ + 2√(I₁I₂) cos δ; constructive means δ = 2nπ (path difference nλ), destructive means δ = (2n + 1)π (path difference (n + ½)λ). Energy is redistributed, not lost.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Discuss the conditions required for interference and provide examples of interference in daily life.",
+    "answer": "Conditions required for interference:\n1. The two sources must be coherent, that is they must maintain a constant phase difference; in practice both waves must be derived from a single source.\n2. The waves must have the same frequency and wavelength; otherwise the phase difference changes with time and the fringes shift and disappear.\n3. The amplitudes of the two waves should be equal or nearly equal, because if they differ greatly I_min = (a₁ − a₂)² is not small, the dark fringes are faint and the contrast is poor.\n4. The waves must be polarized in the same plane; two waves with perpendicular planes of polarization do not interfere.\n5. The path difference at the point of observation must not exceed the coherence length of the source, so that the phase relation is preserved.\n6. The sources should be narrow and close together so that the fringe spacing is large enough to be resolved.\nExamples in daily life:\n(a) The colours of a soap bubble or of a thin oil film on a wet road: white light reflected from the front and back surfaces of the film interferes, some wavelengths giving maxima and others minima, so the film appears coloured and the colours change as the film thickness changes.\n(b) Anti-reflection coatings on spectacle and camera lenses: a film of thickness λ/4 whose refractive index is the square root of that of the glass gives destructive interference in reflected light, so less light is reflected and more is transmitted; the purple-green tint is the residual reflection.\n(c) Newton's rings, seen when a curved glass surface rests on a flat plate.\n(d) The iridescent colours of peacock feathers and of some butterfly wings arise from interference in thin multilayer structures.",
+    "explanation": "Coherence (constant phase difference, same frequency), comparable amplitudes, same plane of polarization and path difference within the coherence length are the essentials; a common mistake is to think any two bright sources will interfere.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Describe the setup and working principle of the Michelson interferometer. Also explain how the Michelson interferometer can be used to measure the wavelength of monochromatic light.",
+    "answer": "Construction. The Michelson interferometer consists of a beam splitter (a glass plate with a thin silvered coating on its back surface) fixed at 45° to the incident beam, a compensating plate of the same material and thickness placed parallel to it, two plane mirrors M₁ and M₂ at right angles to each other and at nearly equal distances from the beam splitter, and a telescope or screen to observe the fringes.\nWorking principle. Light from an extended monochromatic source falls on the beam splitter and is divided into two beams of nearly equal intensity. One beam is reflected to M₁ and back, the other is transmitted to M₂ and back, and the returning beams recombine at the beam splitter and enter the telescope, where they interfere. The compensating plate is placed in the path of the transmitted beam so that both beams pass through the same thickness of glass and the path difference arises only from the distances of the mirrors. The instrument is equivalent to an air film between M₂ and the virtual image of M₁. If the mirrors are exactly perpendicular, circular fringes are seen, each fringe corresponding to a constant value of 2d cos θ, where d is the separation between M₁ and the image of M₂ and θ is the angle a ray makes with the axis. For normal incidence the condition for a bright fringe is 2d = mλ and for a dark fringe 2d = (m + ½)λ.\nMeasurement of wavelength. Mirror M₁ is moved slowly along the beam direction by a micrometer screw. When d changes by λ/2 the path difference changes by λ and one fringe crosses the field of view. If N fringes cross a fixed reference point when the mirror moves a distance x, then 2x = Nλ, so λ = 2x/N.\nExample: if the mirror moves 0.25 mm and 900 fringes cross the field, λ = 2(0.25 × 10⁻³)/900 = 5.56 × 10⁻⁷ m = 556 nm. The method can determine wavelengths to a few parts in 10⁵ and can also measure refractive index and film thickness.",
+    "explanation": "Key relation: a mirror movement of λ/2 changes the path difference by λ and shifts the pattern by one fringe, so λ = 2x/N. The compensating plate equalizes the glass paths; forgetting it is a common error.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Describe the setup and procedure of the diffraction of X-rays through a crystal experiment.",
+    "answer": "Principle. A crystal consists of atoms or ions arranged regularly on planes separated by a distance d of the order of 1 Å. Such a set of parallel planes acts as a three-dimensional grating for X-rays, whose wavelengths (0.01 to 10 nm) are comparable with d, so each plane partially reflects the incident beam and the reflected waves from successive planes interfere.\nSetup. A narrow beam of monochromatic X-rays from an X-ray tube passes through a collimator (a pair of narrow slits) and strikes a single crystal mounted on a table that can be rotated about an axis lying in the reflecting planes. A detector (ionization chamber, Geiger-Muller counter or photographic film) is mounted on an arm that turns through twice the angle turned by the crystal, so that it always receives the reflected beam. The angle between the incident beam and the reflecting planes is θ and the angle between the incident and reflected beams is 2θ.\nTheory. The wave reflected from the second plane travels an extra distance 2d sin θ compared with the wave from the first plane. Constructive interference occurs when this path difference equals a whole number of wavelengths: 2d sin θ = nλ, with n = 1, 2, 3... This is Bragg's law.\nProcedure. The crystal is rotated slowly and the intensity of the reflected beam is recorded as a function of θ. Sharp maxima (Bragg peaks) appear at the angles satisfying Bragg's law, the first-order peak corresponding to n = 1. Knowing λ, the spacing of the reflecting planes is found from d = nλ/(2 sin θ); conversely, if d is known, the wavelength of the X-rays can be measured.\nExample. For rock salt d = 1.98 Å and λ = 0.071 nm, the second-order maximum occurs at sin θ = 2(0.71 Å)/(2 × 1.98 Å) = 0.359, giving θ = 21°. The experiments of Laue (1912) and the Braggs established both the wave nature of X-rays and the periodic structure of crystals.",
+    "explanation": "The whole method rests on Bragg's law 2d sin θ = nλ, obtained from the extra path 2d sin θ travelled by a ray reflected from the next plane. The detector must turn through 2θ when the crystal turns through θ.",
+    "pdfPage": 306,
+    "bookPage": 302,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A monochromatic light of wavelength 6900A° is used to illuminate two parallel slits. On a screen that is 3.30 m away from the slits, interference fringes are observed. The distance between adjacent bright fringes in the centre of the pattern is 1.80 cm. what is the distance between the slits.",
+    "answer": "Given: λ = 6900 Å = 6900 × 10⁻¹⁰ m = 6.90 × 10⁻⁷ m; L = 3.30 m; fringe width Δy = 1.80 cm = 1.80 × 10⁻² m.\nFormula: Δy = λL/d, so d = λL/Δy.\nSubstitution: d = (6.90 × 10⁻⁷ × 3.30)/(1.80 × 10⁻²).\nCalculation: λL = 2.277 × 10⁻⁶ m²; d = 2.277 × 10⁻⁶/1.80 × 10⁻² = 1.265 × 10⁻⁴ m.\nResult: d = 1.265 × 10⁻⁴ m ≈ 0.127 mm, in agreement with the printed answer (1.265 × 10⁻⁴ m).",
+    "explanation": "Key formula Δy = λL/d. Check that the fringe width is converted to metres (1.80 cm = 0.018 m); using cm directly with λ in metres is the usual error.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A Michelson interferometer is adjusted so that a bright fringe is appears on the screen. As one of the mirrors is moved 25.8 micrometer, 92 bright fringes are counted on the screen. What is the wavelength of light used in the interferometer?",
+    "answer": "Given: distance moved by the mirror x = 25.8 μm = 25.8 × 10⁻⁶ m; number of fringes N = 92.\nFormula: each fringe corresponds to a change of λ/2 in the mirror separation, so 2x = Nλ, that is λ = 2x/N.\nSubstitution: λ = 2(25.8 × 10⁻⁶)/92.\nCalculation: 2x = 51.6 × 10⁻⁶ m; λ = 51.6 × 10⁻⁶/92 = 5.61 × 10⁻⁷ m = 561 nm.\nResult: λ = 5.61 × 10⁻⁷ m ≈ 561 nm. The printed answer is 560 nm, which is the same value rounded to two significant figures; the small difference (about 0.2%) arises from rounding 25.8 μm and 92.",
+    "explanation": "Key relation λ = 2x/N: a mirror movement of λ/2 shifts the path difference by λ and moves the pattern through one fringe. Do not divide by N twice or forget the factor 2.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "In section 13.4 we studied interference due to thin films. Why must the film be thin? Why don't we see the interference effect when looking through a window or at a poster covered by a plate of glass, even if the glass is optically flat.",
+    "answer": "Given: a thin film of thickness t and refractive index n gives reflected rays with a path difference of 2nt (plus any phase change on reflection).\nWhy the film must be thin: for a visible interference pattern the path difference must remain within the coherence length of the light, which for white light is only a few wavelengths (a few micrometres). If 2nt is only a few λ, the maxima and minima for a given colour fall at well-separated places and fringes of good contrast are seen; a thin film therefore means t comparable with λ, of the order of a micrometre.\nWhy a window pane shows no fringes: in a glass plate 2 to 3 mm thick, 2nt is several thousand wavelengths. At any point of the plate many orders of all the wavelengths present overlap, so every colour is reinforced at the same place and the reflected light is uniformly white. The two reflected beams are also of very unequal intensity (about 4% is reflected at the first surface), so the fringe contrast is very poor. Further, no plate is flat and parallel to within λ/4 over its whole area, so any fringes would be irregular, extremely fine and far beyond the resolving power of the eye.\nResult: interference from a thick plate is not observable; the film must be thin.",
+    "explanation": "The condition is that the path difference 2nt must not exceed the coherence length, otherwise overlapping orders of all colours wash the pattern out; unequal reflected intensities and surface irregularities further reduce the contrast.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Newton's rings are formed by the light of 400 nm wavelength. Determine the change in air film thickness between the third and sixth bright fringe. If the radius of curvature of the curved surface is 5.0 m what is the radius of third bright fringe?",
+    "answer": "Given: λ = 400 nm = 4.00 × 10⁻⁷ m; R = 5.0 m; bright rings of order m = 3 and m = 6.\nFormula: for bright rings in reflected light, 2t = (m − ½)λ; the radius of the m-th bright ring is r_m = √[(m − ½)λR].\nSubstitution for the thickness: t₃ = (3 − ½)(400 nm)/2 = 2.5 × 400/2 = 500 nm; t₆ = (6 − ½)(400 nm)/2 = 5.5 × 400/2 = 1100 nm.\nCalculation: change in thickness = t₆ − t₃ = 1100 − 500 = 600 nm = 6.00 × 10⁻⁷ m.\nSubstitution for the radius: r₃ = √[(3 − ½)(4.00 × 10⁻⁷)(5.0)] = √(2.5 × 2.00 × 10⁻⁶) = √(5.00 × 10⁻⁶).\nCalculation: r₃ = 2.236 × 10⁻³ m = 2.236 mm.\nResult: change in film thickness = 600 nm and radius of the third bright ring = 2.236 mm, both in agreement with the printed answers (600, 2.236 mm).",
+    "explanation": "Key formulas 2t = (m − ½)λ for bright rings and r = √[(m − ½)λR]. Note the half-order term; using 2t = mλ would give 600 nm only by accident for the difference but a wrong radius.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A soap film has an index of refraction n = 1.50. The film is viewed in reflected light. (a) At a spot where the film thickness is 910.0 nm, which wavelengths are missing in the reflected light? (b) Which wavelengths are strongest in the visible light?",
+    "answer": "Given: n = 1.50; thickness t = 910.0 nm; film in air, so there is a phase change of π on reflection at the front surface only.\n(a) Missing (destructive) wavelengths: 2nt = mλ, so λ = 2nt/m = 2(1.50)(910.0)/m = 2730/m nm.\nFor m = 4: λ = 682.5 nm ≈ 683 nm. For m = 5: λ = 546 nm. For m = 6: λ = 455 nm. These three lie in the visible range; m = 3 gives 910 nm and m = 7 gives 390 nm, outside the visible region.\nResult (a): 683 nm, 546 nm and 455 nm are missing from the reflected light, in agreement with the printed answer.\n(b) Strongest (constructive) wavelengths: 2nt = (m + ½)λ, so λ = 2730/(m + 0.5) nm.\nFor m = 4: λ = 2730/4.5 = 606.7 nm ≈ 607 nm. For m = 5: λ = 2730/5.5 = 496.4 nm ≈ 496 nm. For m = 6: λ = 2730/6.5 = 420.0 nm.\nResult (b): 607 nm, 496 nm and 420 nm are strongest in the reflected light, in agreement with the printed answer.",
+    "explanation": "For a film in air the reflected ray from the front surface is phase-reversed, so destructive reflection needs 2nt = mλ and constructive reflection needs 2nt = (m + ½)λ. Only values of m placing λ in 400–700 nm are quoted.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "What is the difference between deviation and diffraction? What do diffraction and interference have in common?",
+    "answer": "Deviation is the change in the direction of a ray when it is reflected from a surface or refracted on passing from one medium into another. It occurs at a boundary, is described by the laws of reflection and refraction (Snell's law), and can be explained completely by geometrical optics; the angle of deviation is the angle between the incident ray and the emergent ray, and it depends on the angle of incidence and on the refractive index, as in a prism.\nDiffraction is the spreading of light around the edges of an obstacle or through a narrow aperture, so that light appears where geometrical optics predicts shadow. It does not need a change of medium, it becomes noticeable only when the aperture or obstacle is comparable with the wavelength, and it is explained by the interference of the secondary wavelets originating from different parts of the same wavefront (Huygens principle).\nWhat they have in common: both are wave phenomena; both are explained by the principle of superposition of waves; both produce a redistribution of light intensity in space, giving alternate bright and dark regions; and both depend on the phase difference between the superposing waves, so both require coherence and show dependence on wavelength.",
+    "explanation": "Deviation is bending at a boundary by reflection or refraction (geometrical optics), while diffraction is spreading at an edge or aperture by superposition of secondary wavelets; the common feature is superposition of coherent waves.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "Is it possible to increase the orders of maxima for a given energyspectrum from a diffraction grating?",
+    "answer": "Yes, but only by changing the grating or the wavelength, not by changing the angle of observation. The grating equation d sin θ = mλ gives sin θ = mλ/d, and since sin θ cannot exceed 1, the highest order that can be seen is m_max = d/λ (the largest integer not exceeding d/λ).\nFor a given spectrum, that is for a fixed range of wavelengths, m_max can therefore be increased by:\n(i) using a grating of larger spacing d, that is one with fewer lines per centimetre;\n(ii) using light of longer wavelength, since m_max is inversely proportional to λ;\n(iii) immersing the grating in a medium of refractive index n, because the wavelength inside the medium becomes λ/n, so m_max = nd/λ.\nThere is a practical limit. As d is increased the angular dispersion dθ/dλ = m/(d cos θ) decreases, adjacent orders move closer together and eventually overlap, so the higher orders become harder to separate and the spectrum becomes less pure. There is also a limit set by the width of the grating and by the intensity of the higher orders. Hence the number of orders can be increased, but only at the cost of dispersion and resolution.",
+    "explanation": "The controlling relation is m_max = d/λ from sin θ = mλ/d with sin θ ≤ 1; increasing the grating spacing (fewer lines per cm) or the wavelength raises the number of observable orders but lowers the dispersion.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 11,
+    "question": "Describe what happens to a single slit diffraction pattern as the width of the slit is slowly decreased.",
+    "answer": "For a single slit of width a the first minimum occurs at sin θ = λ/a, so the angular half-width of the central maximum is θ ≈ λ/a and the width of the central maximum on a screen at distance L is 2λL/a.\nAs a is slowly decreased:\n(i) the central maximum spreads out, because its width is inversely proportional to a; the first minimum moves to a larger angle;\n(ii) the secondary maxima also move outward and their spacing increases;\n(iii) the intensity of the pattern falls, since less light passes through the narrower slit, and the relative brightness of the secondary maxima compared with the central maximum stays roughly the same (about 4.5% for the first secondary);\n(iv) the number of secondary maxima that can be seen on a screen of fixed size decreases.\nWhen a becomes comparable with λ the central maximum fills almost the whole screen and the pattern becomes a broad, slowly varying distribution. When a is much smaller than λ, θ approaches 90° and the slit behaves almost like a point source, sending out a nearly uniform cylindrical wave with no distinct minima. Thus making the slit narrower makes the light spread more, which is the wave-optical statement that a narrower aperture produces a wider beam.",
+    "explanation": "The key relation is sin θ = λ/a for the first minimum: reducing a widens the central maximum and dims the pattern, and when a is comparable with λ the diffraction pattern becomes very broad.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 12,
+    "question": "The diffraction pattern from a single slit of width 0.020 mm is viewed on a screen. If the screen is 1.20 m from the slit and light of wavelength 430 nm is used. What is the width of the central maximum?",
+    "answer": "Given: slit width a = 0.020 mm = 2.0 × 10⁻⁵ m; distance to screen L = 1.20 m; λ = 430 nm = 4.30 × 10⁻⁷ m.\nFormula: the first minima on either side of the centre occur at sin θ = λ/a, so the width of the central maximum is W = 2λL/a.\nSubstitution: W = 2(4.30 × 10⁻⁷)(1.20)/(2.0 × 10⁻⁵).\nCalculation: numerator = 1.032 × 10⁻⁶ m²; W = 1.032 × 10⁻⁶/2.0 × 10⁻⁵ = 5.16 × 10⁻² m.\nResult: W = 5.16 cm, in agreement with the printed answer (5.16 cm).",
+    "explanation": "Key formula W = 2λL/a, because the central maximum lies between the first minima on both sides. The full width is twice the distance to one minimum.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 13,
+    "question": "A grating has exactly 8000 lines uniformly spaced over 2.54 cm and is illuminated by light from a mercury vapor discharge lamp. What is the expected angle for the third order maximum of the light of wavelength 546 nm.",
+    "answer": "Given: N = 8000 lines in a width of 2.54 cm = 2.54 × 10⁻² m; λ = 546 nm = 5.46 × 10⁻⁷ m; order m = 3.\nFormula: grating spacing d = total width/number of lines, and d sin θ = mλ, so sin θ = mλ/d.\nSubstitution: d = 2.54 × 10⁻²/8000 = 3.175 × 10⁻⁶ m; sin θ = 3(5.46 × 10⁻⁷)/(3.175 × 10⁻⁶).\nCalculation: mλ = 1.638 × 10⁻⁶ m; sin θ = 1.638 × 10⁻⁶/3.175 × 10⁻⁶ = 0.51591; θ = sin⁻¹(0.51591) = 31.058° = 31° 3′ 29″.\nResult: θ = 31° 3′ 29″, in exact agreement with the printed answer (31°3′29″).",
+    "explanation": "Key formula d sin θ = mλ with d = width/number of lines. The spacing must be in metres; 8000 lines over 2.54 cm gives d = 3.175 μm.",
+    "pdfPage": 307,
+    "bookPage": 303,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 14,
+    "question": "How many lines per centimeter are there in a grating which gives 1st order spectra at an angle of 30° when the wavelength of light is 6 × 10⁻⁵ cm?",
+    "answer": "Given: λ = 6 × 10⁻⁵ cm; θ = 30°; m = 1.\nFormula: d sin θ = mλ, so d = mλ/sin θ, and the number of lines per centimetre is N = 1/d.\nSubstitution: d = (1)(6 × 10⁻⁵)/sin 30° = 6 × 10⁻⁵/0.5.\nCalculation: d = 1.2 × 10⁻⁴ cm; N = 1/(1.2 × 10⁻⁴) = 8333.3 lines/cm.\nResult: N ≈ 8333 lines per centimetre, in agreement with the printed answer (8333).",
+    "explanation": "Key formula d = mλ/sin θ followed by N = 1/d; since λ is given in cm the spacing comes out in cm and N is directly in lines per cm.",
+    "pdfPage": 308,
+    "bookPage": 304,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 15,
+    "question": "Light of wavelength 450 nm is incident on a diffraction grating on which 5000 lines/cm have been ruled. Determine (i) How many orders of spectra can be observed on either side of spectra? (ii) Determine the angle corresponding to each order.",
+    "answer": "Given: λ = 450 nm = 4.50 × 10⁻⁷ m; N = 5000 lines/cm, so d = 1/5000 cm = 2.0 × 10⁻⁴ cm = 2.0 × 10⁻⁶ m.\nFormula: d sin θ = mλ, so sin θ = mλ/d = m(4.50 × 10⁻⁷)/(2.0 × 10⁻⁶) = 0.225 m. The maximum order is the largest integer m for which sin θ does not exceed 1.\n(i) 0.225 m ≤ 1 gives m ≤ 4.44, so m_max = 4. Hence 4 orders of spectra are observed on each side of the central maximum.\n(ii) m = 1: sin θ = 0.225, θ = 13.0°.\nm = 2: sin θ = 0.450, θ = 26.7°.\nm = 3: sin θ = 0.675, θ = 42.5°.\nm = 4: sin θ = 0.900, θ = 64.2°.\nResult: (i) 4 orders; (ii) 13°, 26.7°, 42.5° and 64.2°, in agreement with the printed answers (i) = 4, (ii) = 13°, 26.7°, 42.5°, 64.2°.",
+    "explanation": "Key formula sin θ = mλ/d, with d = 10⁻²/5000 m = 2 × 10⁻⁶ m. The fifth order would need sin θ = 1.125, which is impossible, so only four orders exist on each side.",
+    "pdfPage": 308,
+    "bookPage": 304,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 16,
+    "question": "Why does a crystal act as a three dimensional grating for X-rays but not for visible light?",
+    "answer": "A crystal is a regular three-dimensional array of atoms or ions, and the atoms lie on sets of parallel planes whose spacing d is of the order of 1 to 3 Å (about 10⁻¹⁰ m). For diffraction to occur the wavelength must be comparable with this spacing, and the condition for a maximum is Bragg's law, 2d sin θ = nλ.\nX-rays have wavelengths of 0.01 to 10 nm, that is 0.1 to 100 Å, which are of the same order as d. Therefore the waves scattered by successive atomic planes have path differences of a few wavelengths, they interfere constructively at particular angles, and sharp diffraction maxima are observed; the crystal behaves as a three-dimensional grating. Because the planes exist in three directions, the crystal can diffract an X-ray beam in many directions simultaneously (the Laue spots).\nVisible light has a wavelength of about 400 to 700 nm, some 1000 to 10,000 times larger than the atomic spacing. Bragg's law would require sin θ = nλ/(2d) much greater than 1, which has no solution, so no diffraction maximum is possible; the light passes through the crystal as through a continuous medium, and only refraction and reflection at the outer faces are observed. Thus the crystal acts as a grating only for radiation whose wavelength is comparable with the atomic spacing.",
+    "explanation": "The condition is λ comparable with the lattice spacing d. X-ray wavelengths (about 1 Å) match d, while visible wavelengths (about 5000 Å) are 10³ to 10⁴ times larger, so Bragg's law cannot be satisfied.",
+    "pdfPage": 308,
+    "bookPage": 304,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 17,
+    "question": "A beam of X-rays of wavelength 0.071 nm is diffracted by a diffracting plane of rock salt with distance between the atomic planes are 1.98A°. Find the glancing angle for the second-order diffraction.",
+    "answer": "Given: λ = 0.071 nm = 0.71 Å = 7.1 × 10⁻¹¹ m; d = 1.98 Å = 1.98 × 10⁻¹⁰ m; order n = 2.\nFormula: Bragg's law 2d sin θ = nλ, so sin θ = nλ/(2d).\nSubstitution: sin θ = 2(7.1 × 10⁻¹¹)/(2 × 1.98 × 10⁻¹⁰).\nCalculation: nλ = 1.42 × 10⁻¹⁰ m; 2d = 3.96 × 10⁻¹⁰ m; sin θ = 1.42 × 10⁻¹⁰/3.96 × 10⁻¹⁰ = 0.3586.\nθ = sin⁻¹(0.3586) = 21.0°.\nResult: the glancing angle for the second-order diffraction is 21°, in agreement with the printed answer (21°).",
+    "explanation": "Key formula 2d sin θ = nλ, with n = 2 for second order. Both λ and d must be in the same unit; 0.071 nm = 0.71 Å, which gives sin θ = 1.42/3.96.",
+    "pdfPage": 308,
+    "bookPage": 304,
+    "figure": null
+  }
+]

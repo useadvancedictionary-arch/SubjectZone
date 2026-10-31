@@ -1,0 +1,362 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The respective number of significant figures for the numbers 23.023, 0.0003 and 2.1×10⁻³ are:",
+    "options": ["5, 1, 2", "5, 1, 5", "5, 5, 2", "4, 4, 2"],
+    "correct": "a",
+    "answer": "(a) 5, 1, 2",
+    "explanation": "In 23.023 every digit is significant because the zeros lie between non-zero digits, giving 5. In 0.0003 the leading zeros only locate the decimal point, so only the 3 counts, giving 1. In 2.1×10⁻³ the significant figures are those of the mantissa 2.1, giving 2. Hence the respective counts are 5, 1, 2; options b and c wrongly count the leading zeros or the power of ten, and d undercounts 23.023.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Which among the following is the supplementary Quantity:",
+    "options": ["Mass", "Time", "Solid angle", "Luminosity"],
+    "correct": "c",
+    "answer": "(c) Solid angle",
+    "explanation": "The SI has exactly two supplementary quantities, plane angle (radian) and solid angle (steradian), so solid angle is the only supplementary quantity listed. Mass, time and luminosity are base quantities measured in kilogram, second and candela. Hence c.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "The unit of solid angle is",
+    "options": ["Second", "Steradian", "Kilogram", "Candela"],
+    "correct": "b",
+    "answer": "(b) Steradian",
+    "explanation": "Solid angle is a supplementary quantity and its SI unit is the steradian (sr), defined as the angle subtended at the centre of a sphere by an area equal to the square of the radius. Second, kilogram and candela are the units of time, mass and luminous intensity respectively, so they are base units. Hence b.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The quantity having the same unit in all system of unit is:",
+    "options": ["mass", "time", "length", "temperature"],
+    "correct": "b",
+    "answer": "(b) time",
+    "explanation": "The second is the unit of time in the MKS, CGS and FPS systems alike, so time keeps the same unit in every system. Mass is measured in kilogram, gram or pound; length in metre, centimetre or foot; and temperature in kelvin, degree Celsius or degree Fahrenheit. Hence b.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Random errors can be eliminated by:",
+    "options": ["taking number of observations and their mean.", "measuring the quantity with more than one instrument", "eliminating the cause", "careful observations"],
+    "correct": "a",
+    "answer": "(a) taking number of observations and their mean.",
+    "explanation": "Random errors scatter unpredictably above and below the true value, so repeating the measurement many times and taking the mean makes the positive and negative deviations cancel statistically. Eliminating the cause removes a systematic error, not a random one. Using several instruments or being careful may reduce scatter but cannot eliminate it. Hence a.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Systemic error can be:",
+    "options": ["either positive or negative", "negative only", "positive only", "zero error"],
+    "correct": "a",
+    "answer": "(a) either positive or negative",
+    "explanation": "A systematic error shifts every reading in the same sense, and that shift may make readings too large (positive) or too small (negative), as with a zero error of either sign or faulty calibration. It is not restricted to one sign, and zero error is only one cause of it rather than the general description. Hence a.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "[MLT⁻²] is dimensional formula of:",
+    "options": ["strain", "force", "displacement", "pressure"],
+    "correct": "b",
+    "answer": "(b) force",
+    "explanation": "Force is mass times acceleration, so [F] = [M][LT⁻²] = [MLT⁻²]. Strain is a pure ratio and dimensionless, displacement has dimensions [L], and pressure is force per area with dimensions [ML⁻¹T⁻²]. Hence b.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which of the following pair has the same dimension?",
+    "options": ["moment of inertia and torque", "surface tension and force", "impulse and momentum", "specific heat and latent heat"],
+    "correct": "c",
+    "answer": "(c) impulse and momentum",
+    "explanation": "Impulse is force multiplied by time, [MLT⁻²][T] = [MLT⁻¹], which is exactly the dimension of momentum mv. Moment of inertia [ML²] does not match torque [ML²T⁻²]; surface tension [MT⁻²] does not match force [MLT⁻²]; specific heat [L²T⁻²θ⁻¹] does not match latent heat [L²T⁻²]. Hence c.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Dependent variable is:",
+    "options": ["cause", "effect", "cause and effect", "reason"],
+    "correct": "b",
+    "answer": "(b) effect",
+    "explanation": "The dependent variable is the quantity that responds to a change deliberately made in the experiment, so it is the effect and is plotted on the y-axis. The independent variable is the cause that the experimenter varies. Hence b.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Dimensions of kinetic energy is the same as that of :",
+    "options": ["Acceleration", "Velocity", "Work", "Force"],
+    "correct": "c",
+    "answer": "(c) Work",
+    "explanation": "Kinetic energy is ½mv², so [KE] = [M][L²T⁻²] = [ML²T⁻²], the same as work (force × distance). Acceleration is [LT⁻²], velocity [LT⁻¹] and force [MLT⁻²], none of which matches. Hence c.",
+    "pdfPage": 31,
+    "bookPage": 27
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Give an example of (I) a physical quantity which has a unit but no dimensions. (II) a physical quantity which has neither unit not dimensions. (III) a constant which has a unit. (IV) a constant which has no unit.",
+    "answer": "(I) Plane angle (or solid angle): its unit is the radian (steradian), but angle = arc/radius is a ratio of two lengths, so it is dimensionless, [M⁰L⁰T⁰].\n(II) Strain (or refractive index): strain = change in length/original length, a pure ratio, so it has neither unit nor dimensions.\n(III) Gravitational constant G: from G = Fr²/m₁m₂ its unit is N m² kg⁻² and its dimensions are [M⁻¹L³T⁻²], so it is a constant that has a unit.\n(IV) Dielectric constant (relative permittivity) K: it is the ratio of two permittivities, a pure number with no unit and no dimensions.",
+    "explanation": "The key distinction is between a unit and a dimension: angles carry a unit but no dimensions, while ratios of like quantities have neither. Do not confuse a constant such as G, which carries units, with a dimensionless constant such as K or the coefficient of friction.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "When rounding the product or quotient of two measurements, is it necessary to consider significant digit?",
+    "answer": "Yes. When measurements are multiplied or divided, the result can be no more reliable than the least reliable factor, so it must be rounded to the same number of significant figures as the factor having the fewest significant figures. For example, 4.16 cm × 2.0 cm = 8.32 cm² is rounded to 8.3 cm² because 2.0 has only two significant figures. Exact numbers such as the 2 in diameter = 2r, and defined conversion factors, do not limit the significant figures. Rounding should be done only at the final step to avoid accumulated rounding error.",
+    "explanation": "The rule follows from fractional uncertainty: the factor with the fewest significant figures has the largest percentage uncertainty and therefore controls the precision of the product or quotient.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Drive the equation for period of oscillations of a mass suspended on a vertical spring by dimensional analysis. i.e., T = 2π√(m/k)",
+    "answer": "Let T ∝ m^a k^b, where m is the mass and k the spring constant. The spring constant is force per unit extension, so [k] = [MLT⁻²]/[L] = [MT⁻²]. Writing the dimensions,\n[T] = [M]^a [MT⁻²]^b = [M]^(a+b) [T]^(−2b).\nComparing powers: for M, a + b = 0; for T, −2b = 1, so b = −1/2 and a = +1/2.\nHence T = C√(m/k), where C is a dimensionless constant. Dimensional analysis cannot fix C; experiment or theory shows C = 2π, giving T = 2π√(m/k).",
+    "explanation": "The dimensional method gives only the form of the relation; the dimensionless constant 2π must be found experimentally. A common mistake is to take [k] as the dimension of force, [MLT⁻²], instead of force per length, [MT⁻²].",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Find the dimensions of the following.\n(a) work\n(b) energy\n(c) power\n(d) momentum",
+    "answer": "Using the defining equations and the base dimensions [M], [L] and [T] for mass, length and time:\n(a) Work: W = Fd, so [W] = [MLT⁻²][L] = [ML²T⁻²].\n(b) Energy: energy is the capacity to do work, so [E] = [ML²T⁻²], the same as work.\n(c) Power: P = W/t, so [P] = [ML²T⁻²]/[T] = [ML²T⁻³].\n(d) Momentum: p = mv, so [p] = [M][LT⁻¹] = [MLT⁻¹].\nWork and energy are therefore dimensionally identical, which is why both are measured in joules, while momentum is measured in kg m s⁻¹, equivalently N s.",
+    "explanation": "Build each derived dimension from its defining equation. Work and energy share [ML²T⁻²]; power is work per unit time; momentum is mass times velocity, which has the same dimensions as impulse.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "You measure the radius of a wheel to be 4.16 cm. If you multiply by 2 to get diameter, should you write the result as 8 cm or as 8.32 cm? Justify your answer.",
+    "answer": "Write the diameter as 8.32 cm. The factor 2 is an exact counting number in d = 2r, not a measured quantity, so it has unlimited significant figures and does not reduce the precision of the result. The radius 4.16 cm has three significant figures, so the diameter also has three: 8.32 cm. Writing 8 cm would round the result to one significant figure and discard real measured precision. Significant-figure rules apply to measured factors, not to exact multipliers.",
+    "explanation": "Only measured quantities limit significant figures; exact numbers such as 2, or π treated as exact, do not. Rounding 8.32 cm to 8 cm would wrongly imply that the radius was known only to the nearest centimetre.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "If y = a+bt+ct² where y is in meters and t in seconds, what is the unit of c?",
+    "answer": "By the principle of homogeneity, every term of y = a + bt + ct² must have the same unit as y, namely the metre. The term ct² therefore has unit m, so c has unit m/s² (m s⁻²), because t² has unit s². For completeness, a is in m and b is in m/s. Numerically, c is measured in m s⁻², the same as an acceleration.",
+    "explanation": "Additive equations are dimensionally homogeneous: terms with different units cannot be added. Compare the dimensions of each term separately rather than treating the equation as a whole.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Differentiate between accuracy and precision.",
+    "answer": "Accuracy is how close a measured value is to the true value; precision is how close repeated measurements are to one another, or how finely an instrument can read. A stopwatch that is always 2 s fast is precise but inaccurate, because its readings agree with each other yet are shifted from the truth. A set of readings scattered widely about the true value is accurate on average but imprecise. Accuracy is spoiled mainly by systematic errors, precision mainly by random errors. An accurate measurement must also be precise, but a precise measurement need not be accurate.",
+    "explanation": "Remember that accuracy refers to the target (true value) and precision to the grouping of readings. Systematic error shifts the whole group and reduces accuracy; random error spreads the group and reduces precision.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "Define dependent and independent variables.",
+    "answer": "An independent variable is the quantity that the experimenter deliberately changes or controls; it is the cause and is plotted on the x-axis. A dependent variable is the quantity whose value changes in response to the independent variable; it is the effect and is plotted on the y-axis. For example, in studying a simple pendulum, the length L is the independent variable and the period T is the dependent variable, because T is measured for each chosen L. Other quantities kept fixed, such as the mass of the bob, are controlled variables.",
+    "explanation": "Identify the variable you set and the variable you measure as a consequence. Plotting the independent variable on the x-axis makes the slope of the graph physically meaningful.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 9,
+    "question": "Differentiate systematic error and random error.",
+    "answer": "Systematic error is a consistent deviation of readings from the true value in the same direction, caused by faulty calibration, zero error or a biased observer; repeating the measurement does not remove it, but it can be corrected once the cause is found. Random error is an unpredictable scatter of readings above and below the true value, caused by fluctuations in conditions or in the observer; it cannot be corrected individually but is reduced by taking many readings and averaging. Systematic error affects accuracy, whereas random error affects precision.",
+    "explanation": "The signature of systematic error is a repeated shift; the signature of random error is scatter. Averaging cancels random error but not systematic error.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 10,
+    "question": "Enlist the limitations of dimensional analysis?",
+    "answer": "Limitations of dimensional analysis:\n1. It cannot determine dimensionless numerical constants such as 2π or ½; it gives only the form of an equation.\n2. It cannot derive relations containing trigonometric, logarithmic or exponential functions, because their arguments must be dimensionless and their series contain several terms.\n3. It cannot distinguish between quantities having the same dimensions, for example work and torque, or stress and pressure.\n4. It cannot derive an equation involving a sum of terms, such as s = ut + ½at², completely, because each term must be treated separately.\n5. It fails when a quantity depends on more than three mechanical quantities, since only three equations (for M, L and T) are available.",
+    "explanation": "Dimensional analysis checks homogeneity and predicts dependence on variables, but it is blind to pure numbers and to the physical distinction between quantities of identical dimensions.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 11,
+    "question": "Describe least count of Vernier and screw gauge micrometer.",
+    "answer": "Vernier callipers: least count = smallest main-scale division − smallest vernier-scale division. When 10 vernier divisions equal 9 main-scale divisions of 1 mm, LC = 1 mm − 0.9 mm = 0.1 mm = 0.01 cm. Reading = main-scale reading before the vernier zero + (coinciding vernier division × LC).\nScrew gauge: LC = pitch/number of circular-scale divisions. If the screw advances 0.5 mm per revolution and the circular scale has 50 divisions, LC = 0.5/50 = 0.01 mm. Reading = sleeve reading + (circular-scale division × LC), with any zero error corrected.",
+    "explanation": "The least count is the smallest measurement an instrument can read. For the vernier it comes from the difference between one main-scale and one vernier division; for the screw gauge it comes from pitch divided by the number of circular-scale divisions.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 12,
+    "question": "Describe extrapolation methods.",
+    "answer": "Extrapolation is the process of extending a graph or trend line beyond the range of the measured data in order to predict values of the dependent variable outside the observed interval. For example, a straight-line V–I graph obtained for currents up to 2 A may be extrapolated to estimate the voltage at 3 A, or a cooling curve may be extended to predict the temperature after a longer time. Extrapolation is reliable only when the same physical law is expected to hold beyond the data; if the trend changes, for example because a component heats up or saturates, the extrapolated value can be badly wrong. It is therefore less reliable than interpolation.",
+    "explanation": "Extrapolation assumes the established trend continues unchanged, whereas interpolation stays inside the measured range. Always state this assumption when quoting an extrapolated result.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Discuss graphs and its various types by supported an example?",
+    "answer": "A graph is a visual representation of the relationship between two quantities, with the independent variable on the x-axis and the dependent variable on the y-axis. Each axis is labelled with its symbol, unit and a suitable scale, and the graph carries a title.\n1. Line graph: points joined by a straight line or smooth curve. Example: for uniformly accelerated motion the velocity–time graph is the straight line v = u + at; its slope gives the acceleration and its intercept gives u. The distance–time graph for the same motion is a parabola.\n2. Scatter graph with a best-fit line: experimental points are plotted and a smooth line of best fit is drawn, whose slope and intercept are then interpreted. Example: plotting V against I for a metallic conductor gives a straight line through the origin whose slope is the resistance R.\n3. Bar chart: bars of height proportional to the value of a quantity, used when one variable is categorical or discrete. Example: comparing the densities of copper, aluminium and iron, or the energy consumption of different appliances.\n4. Pie chart: a circle divided into sectors whose angles are proportional to the parts of a whole. Example: showing the percentage of total electrical energy used by lighting, heating, motors and other devices in a home.\n5. Histogram: adjacent bars showing the frequency distribution of continuous data, for example the distribution of measured lengths of a batch of screws.\nTo plot correctly, choose a scale that uses most of the graph paper, plot each point accurately, draw a smooth best-fit line rather than joining every point, and state what the slope and intercept mean. A graph reveals trends, maxima and anomalies that a table of numbers can hide.",
+    "explanation": "The key idea is that a graph's slope and intercept carry physical meaning; always label the axes with units and draw a best-fit line instead of a zig-zag through every point.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Elaborate rules of significant figures. State the rules for the determining the number of significant figures in a given measurement.",
+    "answer": "Rules for determining the number of significant figures in a measurement:\n1. All non-zero digits are significant: 23.023 has five.\n2. Zeros between non-zero digits are significant: the zeros in 205 and 1.008 count.\n3. Leading zeros are never significant; they only locate the decimal point: 0.0003 has one significant figure.\n4. Trailing zeros after a decimal point are significant: 2.500 has four.\n5. Trailing zeros in a whole number without a decimal point are ambiguous; write 1500 as 1.5×10³ (two) or 1.500×10³ (four) to be clear.\n6. In scientific notation all digits of the mantissa are significant: 2.1×10⁻³ has two.\n7. Exact numbers (counted objects and defined conversions such as 1 km = 1000 m) have unlimited significant figures and do not restrict the answer.\n8. When rounding, if the first discarded digit is greater than 5 round up, if it is less than 5 leave the digit unchanged, and if it is exactly 5 round to the nearest even digit.\n9. In multiplication and division the result carries the least number of significant figures among the factors; in addition and subtraction it carries the least number of decimal places.\nExamples: 4.16 × 2.0 = 8.32 → 8.3 (two significant figures); 12.11 + 0.3 = 12.41 → 12.4 (one decimal place); 3.67 ± 0.25 has three significant figures, and its percentage uncertainty is (0.25/3.67) × 100 = 6.8%.",
+    "explanation": "The rules exist so that a calculated result does not claim more precision than the measurements allow. The most common mistakes are counting leading zeros and retaining too many digits after multiplying.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What are the uses of dimensional analysis? Explain each of them.",
+    "answer": "Uses of dimensional analysis:\n1. Checking the correctness of an equation. Every term on both sides of a correct equation must have the same dimensions. For s = ut + ½at², [ut] = LT⁻¹·T = L and [at²] = LT⁻²·T² = L, matching [s] = L, so the equation is dimensionally correct.\n2. Deriving relations between physical quantities. If T depends on m and k, write T ∝ m^a k^b, substitute [k] = MT⁻² and solve the power equations to obtain T = C√(m/k). Similarly, the speed of a transverse wave on a string is found to be v ∝ √(F/μ).\n3. Converting units from one system to another. Since 1 N = 1 kg m s⁻², applying the conversion factors gives 1 N = 10⁵ dyne; the dimensional formula guarantees that the conversion is consistent.\n4. Finding the dimensions, and hence the unit, of a physical constant or quantity such as G, h or the gas constant R.\n5. Predicting how one quantity varies with others, for example that the period of a pendulum depends on √(l/g), which guides the design of experiments.\n6. Checking the plausibility of an answer: a result with the wrong dimensions must be wrong.\nLimitations: dimensional analysis cannot supply dimensionless constants, cannot handle trigonometric or exponential relations, and cannot distinguish quantities of the same dimensions. Nevertheless it is a quick and powerful first check in physics.",
+    "explanation": "The strength of the method is homogeneity; its blind spot is pure numbers. Use it to check and predict, not to obtain a complete equation with constants.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "A vernier and micrometer are shown as under. Observe their readings and write correctly. [Vernier: main scale graduated in cm; the vernier zero lies between 3.3 cm and 3.4 cm, the 4th vernier division coincides with a main-scale division, least count = 0.01 cm. Micrometer: sleeve scale reads 5.5 mm, the 28th circular-scale division lies on the datum line, least count = 0.01 mm.]",
+    "answer": "Vernier reading:\nMain-scale reading = 3.3 cm (the last main-scale mark before the vernier zero)\nVernier-division coincidence = 4\nVernier least count = 0.01 cm\nVernier-scale reading = 4 × 0.01 = 0.04 cm\nTotal = 3.3 + 0.04 = 3.34 cm\n\nMicrometer reading:\nSleeve (main-scale) reading = 5.5 mm (the last sleeve mark exposed before the thimble edge)\nCircular-scale division = 28\nLeast count = 0.01 mm\nCircular-scale reading = 28 × 0.01 = 0.28 mm\nTotal = 5.5 + 0.28 = 5.78 mm\n\nBoth readings are internally consistent. The vernier fraction 0.04 cm is smaller than 0.10 cm, the value of ten vernier divisions, and the micrometer fraction 0.28 mm is smaller than 0.50 mm, the value of fifty circular-scale divisions. If either instrument had a zero error, the same amount would be subtracted from the observed reading; here the scales are taken as correctly zeroed. Recording 3.34 cm rather than 3.3 cm preserves the precision of the vernier, and 5.78 mm rather than 5.5 mm preserves the precision of the micrometer. The same procedure applies at any other position of the sliding jaw or thimble: read the main scale first, then the fractional scale, and add the two. The main scale is read in cm for the vernier and in mm for the micrometer, so the final answers are quoted to 0.01 cm and 0.01 mm respectively.",
+    "explanation": "In both instruments the total reading is the main-scale reading plus the fraction read on the secondary scale. For the vernier the fraction is the coinciding vernier division multiplied by the least count (0.01 cm); for the micrometer it is the circular-scale division multiplied by the least count (0.01 mm). A common mistake is to add the number of the coinciding division directly instead of multiplying by the least count.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": "Two scale diagrams: a vernier callipers with a centimetre main scale and a 0–10 vernier scale, and a micrometer screw gauge with a sleeve scale in mm and a 0–50 circular scale."
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "What is the percent uncertainty in the measurement 3.67 ± 0.25 m?",
+    "answer": "Given: measured value x = 3.67 m, absolute uncertainty Δx = 0.25 m\nFormula: percentage uncertainty = (Δx/x) × 100%\nSubstitution: (0.25/3.67) × 100%\nCalculation: 0.06812 × 100% = 6.812%\nResult: percentage uncertainty ≈ 6.8%",
+    "explanation": "Divide the absolute uncertainty by the measured value and multiply by 100. The printed answer 6.8% matches; it is quoted to two significant figures because 0.25 has two.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "What is the area, and its approximate uncertainty, of a circle with radius 3.7 × 10⁴ cm",
+    "answer": "Given: r = 3.7 × 10⁴ cm, so Δr ≈ 0.05 × 10⁴ cm (half a unit in the last place)\nFormula: A = πr²; ΔA/A = 2Δr/r\nSubstitution: A = π(3.7 × 10⁴)² = π(1.369 × 10⁹)\nCalculation: A = 4.30 × 10⁹ cm²\nΔA/A = 2(0.05/3.7) = 0.0270 = 2.7%\nΔA = 0.0270 × 4.30 × 10⁹ = 0.116 × 10⁹ cm² ≈ 0.12 × 10⁹ cm²\nResult: A = (4.3 ± 0.12) × 10⁹ cm²",
+    "explanation": "The area matches the printed 4.3×10⁹ cm². Using the half-unit uncertainty in r gives 0.12×10⁹ cm²; the printed 0.11×10⁹ cm² corresponds to rounding the fractional uncertainty to about 2.5% (0.11/4.3 = 2.6%), so the two agree within rounding.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "An aero plane travels at 850 km/h. How long does it take to travel 1.00 km?",
+    "answer": "Given: v = 850 km/h, s = 1.00 km\nFormula: t = s/v\nSubstitution: t = 1.00/850 h = 1.1765 × 10⁻³ h\nCalculation: t = 1.1765 × 10⁻³ × 3600 s = 4.235 s\nResult: t ≈ 4.24 s",
+    "explanation": "Divide the distance by the speed and then convert hours to seconds. 3600/850 = 4.2353 s, which rounds to 4.24 s (three significant figures); the printed 4.23 s is a truncation, differing by 0.01 s.",
+    "pdfPage": 32,
+    "bookPage": 28,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "A rectangular holding tank 25.0 m in length and 15.0 m in width is used to store water for short period of time in an industrial plant. If 2980 m³ water is pumped into the tank. What is the depth of the water?",
+    "answer": "Given: l = 25.0 m, w = 15.0 m, V = 2980 m³\nFormula: V = l × w × d, so d = V/(l × w)\nSubstitution: d = 2980/(25.0 × 15.0) = 2980/375.0\nCalculation: d = 7.9467 m\nResult: d ≈ 7.95 m",
+    "explanation": "The base area is 375 m², and dividing the volume by it gives 7.95 m. The printed answer 7.95 m matches; three significant figures are kept, consistent with 25.0 and 15.0.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "Find the volume of rectangular underground water tank has storage facility of 1.9 m by 1.2 m by 0.8 m.",
+    "answer": "Given: l = 1.9 m, w = 1.2 m, h = 0.8 m\nFormula: V = l × w × h\nSubstitution: V = 1.9 × 1.2 × 0.8\nCalculation: V = 1.824 m³\nResult: V = 1.824 m³ (1.8 m³ to two significant figures)",
+    "explanation": "Multiply the three dimensions: 1.9 × 1.2 = 2.28 and 2.28 × 0.8 = 1.824. The printed 1.824 m³ matches; strictly, the data have two significant figures, so 1.8 m³ would also be acceptable.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "Two students derive following equations in which x refers to distance traveled, v the speed, the acceleration, and t the time and the subscript (o) means a quantity at time t=0:\n(a) x = vt² + 2at and\n(b) x = v₀ t + 2at², which of these could possibly be correct according to dimensional check?",
+    "answer": "(a) x = vt² + 2at\n[vt²] = LT⁻¹ × T² = LT\n[2at] = LT⁻² × T = LT⁻¹\nNeither term has the dimension of x, [L], and the two terms do not match each other, so (a) is incorrect.\n\n(b) x = v₀t + 2at²\n[v₀t] = LT⁻¹ × T = L\n[2at²] = LT⁻² × T² = L\nBoth terms and x have dimensions [L], so (b) is dimensionally correct.\n\nResult: (a) Incorrect, (b) Correct.",
+    "explanation": "The printed key (a) Incorrect, (b) Correct is confirmed. Dimensional analysis cannot check the dimensionless factor 2; the correct kinematic equation is x = v₀t + ½at², so (b) has the right dimensions but a wrong numerical coefficient.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "One hectare is defined as 10⁴ m². One acre is 4 × 10⁴ ft². How many acres are in one hectare? (Hint: 1 m = 3.28 ft.)",
+    "answer": "Given: 1 hectare = 10⁴ m², 1 acre = 4 × 10⁴ ft², 1 m = 3.28 ft\nFormula: 1 m² = (3.28)² ft²; number of acres = area in ft²/(4 × 10⁴ ft²)\nSubstitution: 1 hectare = 10⁴ × (3.28)² ft² = 10⁴ × 10.7584 ft²\nCalculation: = 1.07584 × 10⁵ ft²\nAcres = 1.07584 × 10⁵/(4 × 10⁴) = 2.6896\nResult: 1 hectare ≈ 2.69 acres",
+    "explanation": "Square the length conversion factor as well as converting the number. The printed 2.69 acres matches; using 3.28 ft/m gives 2.6896, which rounds to 2.69.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "A watch factory claims that its watches gain or lose not more than 10 seconds in a year. How accurate is this watch, express as percentage?",
+    "answer": "Given: maximum error = 10 s, 1 year = 365 × 24 × 3600 s\nFormula: percentage accuracy = (error/total time) × 100%\nSubstitution: t = 365 × 24 × 3600 = 3.1536 × 10⁷ s\nCalculation: (10/3.1536 × 10⁷) × 100% = 3.171 × 10⁻⁷ × 100% = 3.17 × 10⁻⁵ %\nResult: accuracy ≈ 3.2 × 10⁻⁵ %",
+    "explanation": "The fractional error is 10/3.15×10⁷ ≈ 3.2×10⁻⁷, which is 3.2×10⁻⁵ percent. The printed 3.16×10⁻⁵ % differs only in the third digit because of the year length used (365.25 days gives 3.17×10⁻⁵ %); the result is about 3×10⁻⁵ %.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "The diameter of Moon is 3480 km. What is the volume of the Moon? How many Moons would be needed to create a volume equal to that of Earth?\n(Hint: Radius of Earth = 6380 km)",
+    "answer": "Given: d(Moon) = 3480 km, so r(Moon) = 1740 km = 1.74 × 10⁶ m; r(Earth) = 6380 km = 6.38 × 10⁶ m\nFormula: V = (4/3)πr³; N = V(Earth)/V(Moon) = [r(Earth)/r(Moon)]³\nSubstitution: V(Moon) = (4/3)π(1.74 × 10⁶)³\nCalculation: (1.74 × 10⁶)³ = 5.268 × 10¹⁸ m³\nV(Moon) = 4.1888 × 5.268 × 10¹⁸ = 2.207 × 10¹⁹ m³\nN = (6.38 × 10⁶/1.74 × 10⁶)³ = (3.667)³ = 49.3\nResult: V(Moon) ≈ 2.2 × 10¹⁹ m³; about 49.3 Moons would be needed.",
+    "explanation": "Both answers match the printed values (2.2×10¹⁹ m³, 49.3). The ratio of volumes equals the cube of the ratio of radii, so the common factor 4π/3 cancels.",
+    "pdfPage": 33,
+    "bookPage": 29,
+    "figure": null
+  }
+]

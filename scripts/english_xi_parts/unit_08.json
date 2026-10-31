@@ -1,0 +1,752 @@
+[
+  {
+    "id": "u8_r_pre_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "1",
+    "question": "1. Which country you would like to visit and why?",
+    "answer": "I would like to visit Turkey. Turkey is the country where the East and the West meet: in Istanbul alone a visitor can see the Blue Mosque, Hagia Sophia, the Topkapi Palace and the Bosphorus, the strait that separates Asia from Europe. I am equally attracted by the Turkish countryside – the rock valleys of Cappadocia and the white terraces of Pamukkale – and by the warmth and hospitality of the Turkish people, which the reading text itself brings out when Ali says that the Turkish people were ‘so friendly and hospitable’. Above all, I want to see the buildings and calligraphy of the Ottoman period, because they are a living lesson in the history of the Muslim world. I would also like to walk through the Grand Bazaar, where, as in Singapore's Arab Street, goods are sold after bargaining. Such a visit would widen my knowledge of history and of people, and it would give me confidence to speak to strangers in a foreign land.",
+    "explanation": "Open-ended pre-reading question. The model answer is personal but deliberately links prior knowledge to the reading text (Ali's holiday in Turkey, bargaining in Asian markets); any other country with specific reasons is equally acceptable.",
+    "bookPage": 123
+  },
+  {
+    "id": "u8_r_pre_q2",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "2",
+    "question": "2. Have you ever heard about the ‘City of Lions’?",
+    "answer": "Yes, I have. The ‘City of Lions’ is Singapore, the city described in the reading text. Its name is formed from the Malay words singa (lion) and pura (city), and the text tells us that marble statues of lions can be seen everywhere in the city. Modern Singapore also has the Merlion – a statue with the head of a lion and the body of a fish – which has become the symbol of the country and is photographed by almost every tourist. Before reading the text I knew Singapore only as a small, rich island country of South-East Asia; I did not know that its very name means ‘City of Lion’.",
+    "explanation": "Pre-reading question that activates prior knowledge and predicts the text. The reading text (book p. 126) confirms the answer: ‘The word Singapore means City of Lion. One can find the marble statues of lions everywhere.’ A student who has not heard the name may honestly answer ‘No’ and then guess from the title.",
+    "bookPage": 123
+  },
+  {
+    "id": "u8_r_ex1_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Work in pairs and deduce the meaning of words given in column A and write their contextual meaning in column B. Share with your partner once you have completed. (Column A: 1 shimmering, 2 anchored, 3 moth, 4 haggle, 5 hail, 6 causeway, 7 incessantly, 8 transgression, 9 serene, 10 vessel, 11 docked, 12 crew)",
+    "answer": "No. | Word | Contextual meaning (Column B)\n1 | shimmering | shining with a soft, unsteady, quivering light – used for the lights of Singapore's streets and high-rise buildings reflected in the water at night\n2 | anchored | (of a ship) stopped and held in one place in the harbour by dropping its anchor – ‘At night, we anchored in Singapore’\n3 | moth | a small night-flying insect that is drawn to light; in the text the many ships lying around Singapore are compared to moths hovering round an earthen lamp\n4 | haggle | to argue about a price until both sides agree – the fare of the motorboat ‘taxi’ was settled by bargaining\n5 | hail | to call out to and signal a moving vehicle to stop – ‘it was hailed’ means the boat was signalled to come to the shore\n6 | causeway | a raised road or path built across water; here the road, running beside the railway track, that joins Johor (Malaysia) to Singapore\n7 | incessantly | without stopping, continuously – rain falls in Singapore almost all the time\n8 | transgression | the breaking of a rule or law, an offence – spitting and littering are the ‘small transgressions’ for which heavy fines are imposed\n9 | serene | calm, quiet and peaceful – the undisturbed atmosphere of the countryside around Changi Village\n10 | vessel | a ship or large boat – the ships of various countries anchored in Singapore harbour\n11 | docked | (of a ship) brought into a dock or harbour and tied up there; the word itself is not printed in this text, which uses ‘anchored’, ‘jetty’ and ‘port’ for the same idea\n12 | crew | the group of people who work on a ship; also not printed in this text, but implied by ‘ship’, ‘vessel’ and ‘motorboat’",
+    "explanation": "Each meaning is derived from the sentence in which the word stands. Note: the words 'docked' and 'crew' do not actually occur in the reading text (the text uses 'anchored', 'jetty', 'port' and 'motorboat'), so their dictionary meanings are supplied and this is flagged in the table.",
+    "bookPage": 127
+  },
+  {
+    "id": "u8_r_ex2_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Work in groups. Read the text and find out the following information mentioned in the text and note down. (Name of Cities; Name of Communities; Products; Transport Resources; Educational Activities; Famous Places)",
+    "answer": "Name of Cities | Singapore (the ‘City of Lion’); Johor, the Malaysian city just across the bridge; Port Klang in Malaysia, six hours away by sea; Hong Kong, and also Karachi/Kiamari, named only for comparison.\nName of Communities | Muslims, Buddhists, Hindus, Christians and Sikhs (religious communities); Malays, Chinese, Tamils and English-speaking people (the four national language groups); tourists, traders and workers from all over the world.\nProducts | Pineapples (orchards near Changi Village); rubber (forests of the rubber tree); fish and sea trade; imported raw materials and most food products; fuel supplied to ships; goods of every kind sold in Raffles Place, Arab Street and Change Alley.\nTransport Resources | Ocean-going vessels and ships of many countries; barges without engines pulled by a large motorboat; small motorboats used as water taxis; trucks that bring cargo to the river; spacious, air-conditioned public buses; cars; the bridge, causeway and railway track linking Singapore with Johor.\nEducational Activities | Schools with enough provision for every child; teaching of four national languages; debates, speeches and sports; a speech competition which the writer watched and admired; twenty-five per cent of government income spent on education.\nFamous Places | Singapore port and jetty; Change Alley (currency market); Raffles Place, printed in the text as ‘Raffles Pulse’ (the largest market); Arab Street; Masjid Sultan (the biggest and most beautiful mosque); Changi Village and the countryside with its pineapple orchards and rubber forests; the bridge and causeway to Johor.",
+    "explanation": "All entries are taken directly from the reading text (book pp. 123–126); the last column lists only places actually named by the writer.",
+    "bookPage": 127
+  },
+  {
+    "id": "u8_r_ex3_q1",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "Read the statements and encircle the correct option. 1. Singapore is located in ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "South Asia"
+      },
+      {
+        "key": "b",
+        "text": "Africa"
+      },
+      {
+        "key": "c",
+        "text": "Central Asia"
+      },
+      {
+        "key": "d",
+        "text": "Europe"
+      }
+    ],
+    "optionsRaw": "(a) South Asia   (b) Africa   (c) Central Asia   (d) Europe",
+    "correctAnswer": "(a) South Asia",
+    "answer": "(a) South Asia",
+    "explanation": "The text places Singapore at a maritime crossroad between the Pacific and Indian Oceans and the South China Sea, just across a bridge from Malaysia, and the map on p. 123 shows it below Malaysia. Strictly, Singapore lies in South-East Asia, which is not offered; (a) South Asia is the only acceptable printed option, being the nearest region. The stem's options are faulty, but the stem itself is kept verbatim.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q2",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "Read the statements and encircle the correct option. 2. ______ is not a national language of Singapore.",
+    "options": [
+      {
+        "key": "a",
+        "text": "English"
+      },
+      {
+        "key": "b",
+        "text": "French"
+      },
+      {
+        "key": "c",
+        "text": "Chinese"
+      },
+      {
+        "key": "d",
+        "text": "Malay"
+      }
+    ],
+    "optionsRaw": "(a) English   (b) French   (c) Chinese   (d) Malay",
+    "correctAnswer": "(b) French",
+    "answer": "(b) French",
+    "explanation": "The text states: ‘there are four national languages: English, Malay, Chinese, and Tamil.’ French is not among them.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q3",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "Read the statements and encircle the correct option. 3. ______ the population of Singapore is living far away from the port.",
+    "options": [
+      {
+        "key": "a",
+        "text": "20%"
+      },
+      {
+        "key": "b",
+        "text": "30%"
+      },
+      {
+        "key": "c",
+        "text": "50%"
+      },
+      {
+        "key": "d",
+        "text": "80%"
+      }
+    ],
+    "optionsRaw": "(a) 20%   (b) 30%   (c) 50%   (d) 80%",
+    "correctAnswer": "(a) 20%",
+    "answer": "(a) 20%",
+    "explanation": "The text says that ‘Eighty percent of the population lives in just twenty-eight square miles of land around the port.’ The remaining part, i.e. 20 per cent, therefore lives away from the port. The stem is phrased indirectly, but the arithmetic of the text gives 20%.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q4",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "Read the statements and encircle the correct option. 4. One of the largest markets in Singapore is ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Change alley"
+      },
+      {
+        "key": "b",
+        "text": "Changi"
+      },
+      {
+        "key": "c",
+        "text": "Raffles pulse"
+      },
+      {
+        "key": "d",
+        "text": "Barges"
+      }
+    ],
+    "optionsRaw": "(a) Change alley   (b) Changi   (c) Raffles pulse   (d) Barges",
+    "correctAnswer": "(c) Raffles pulse",
+    "answer": "(c) Raffles pulse",
+    "explanation": "The text says: ‘The largest market in Singapore was Raffles Pulse, which was very close to the port’ (the real name is Raffles Place; the printed spelling ‘Pulse’ is retained). Change Alley was a money-changing market, Changi a village, and barges are boats, not markets.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q5",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "Read the statements and encircle the correct option. 5. Singapore is called Mr. Clean because of ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "rows of flowers"
+      },
+      {
+        "key": "b",
+        "text": "greenery"
+      },
+      {
+        "key": "c",
+        "text": "cleanliness"
+      },
+      {
+        "key": "d",
+        "text": "seeing sights"
+      }
+    ],
+    "optionsRaw": "(a) rows of flowers   (b) greenery   (c) cleanliness   (d) seeing sights",
+    "correctAnswer": "(c) cleanliness",
+    "answer": "(c) cleanliness",
+    "explanation": "The text says: ‘Singapore is recognized as the “Mr. Clean” of the world,’ in the paragraph that describes its cleanliness, fines for spitting and littering and bins in every corner. Flowers and greenery are evidence of that cleanliness, not its cause.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q6",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "Read the statements and encircle the correct option. 6. ______ street of Singapore is reasonable for purchase.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Arab"
+      },
+      {
+        "key": "b",
+        "text": "Club"
+      },
+      {
+        "key": "c",
+        "text": "Amoy"
+      },
+      {
+        "key": "d",
+        "text": "Bugis"
+      }
+    ],
+    "optionsRaw": "(a) Arab   (b) Club   (c) Amoy   (d) Bugis",
+    "correctAnswer": "(a) Arab",
+    "answer": "(a) Arab",
+    "explanation": "The text says: ‘One of the markets here is “Arab Street,” known throughout Singapore for reasonable prices.’ The other three streets are not mentioned in the text.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q7",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "Read the statements and encircle the correct option. 7. ______ city is one mile away from Singapore.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Kiamari"
+      },
+      {
+        "key": "b",
+        "text": "Johar"
+      },
+      {
+        "key": "c",
+        "text": "Jatty"
+      },
+      {
+        "key": "d",
+        "text": "Raffles pulse"
+      }
+    ],
+    "optionsRaw": "(a) Kiamari   (b) Johar   (c) Jatty   (d) Raffles pulse",
+    "correctAnswer": "(b) Johar",
+    "answer": "(b) Johar",
+    "explanation": "The text says that ‘the Malaysian city of Johor … lies just a quarter of a mile away from Singapore’, and that a bridge connects Johor with Singapore. The stem's ‘one mile’ conflicts with the text's ‘a quarter of a mile’; the place is Johor (printed ‘Johar’ in the option). Kiamari is a Karachi locality used only as a comparison, not a city near Singapore.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q8",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "Read the statements and encircle the correct option. 8. The land of Singapore consist of ______ area.",
+    "options": [
+      {
+        "key": "a",
+        "text": "225 square miles"
+      },
+      {
+        "key": "b",
+        "text": "2025 square miles"
+      },
+      {
+        "key": "c",
+        "text": "200 square miles"
+      },
+      {
+        "key": "d",
+        "text": "2005square miles"
+      }
+    ],
+    "optionsRaw": "(a) 225 square miles   (b) 2025 square miles   (c) 200 square miles   (d) 2005square miles",
+    "correctAnswer": "(a) 225 square miles",
+    "answer": "(a) 225 square miles",
+    "explanation": "The text says: ‘The area of the whole country is only two hundred and twenty-five square miles.’",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q9",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "Read the statements and encircle the correct option. 9. In Singapore, we can find every currency of the world in ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Change Valley"
+      },
+      {
+        "key": "b",
+        "text": "Raffle Pulse"
+      },
+      {
+        "key": "c",
+        "text": "Mr. Clean"
+      },
+      {
+        "key": "d",
+        "text": "Arab Street"
+      }
+    ],
+    "optionsRaw": "(a) Change Valley   (b) Raffle Pulse   (c) Mr. Clean   (d) Arab Street",
+    "correctAnswer": "(a) Change Valley",
+    "answer": "(a) Change Valley",
+    "explanation": "The text says: ‘Near the port is the Change Alley. You may find every currency of the world being exchanged and traded in this narrow and dark market.’ The printed option ‘Change Valley’ is a misprint of Change Alley; it is still the only option that refers to the money market.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex3_q10",
+    "sectionCode": "U8S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "Read the statements and encircle the correct option. 10. Which one is common in Singapore markets?",
+    "options": [
+      {
+        "key": "a",
+        "text": "fixed prices"
+      },
+      {
+        "key": "b",
+        "text": "bargaining"
+      },
+      {
+        "key": "c",
+        "text": "free discounts"
+      },
+      {
+        "key": "d",
+        "text": "Govt. subsidy"
+      }
+    ],
+    "optionsRaw": "(a) fixed prices   (b) bargaining   (c) free discounts   (d) Govt. subsidy",
+    "correctAnswer": "(b) bargaining",
+    "answer": "(b) bargaining",
+    "explanation": "The text says: ‘Bargaining was common in Singapore as in Hong Kong, Malaysia, and nearly all Asian countries.’ The boat fare was also haggled over.",
+    "bookPage": 128
+  },
+  {
+    "id": "u8_r_ex4_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 4: Read the text and answer the following questions. 1. What is the geographical location of Singapore city?",
+    "answer": "Singapore is a very small island country lying just off the southern tip of the Malay Peninsula, separated from the Malaysian city of Johor by a narrow strip of water which is crossed by a bridge, a causeway and a railway track. The writer calls it ‘a dot on the world map’ and says that, geographically, it stands at a maritime crossroad where almost every ship sailing to or from the Pacific Ocean, the Indian Ocean or the South China Sea anchors. It is only about six hours' sea journey from Port Klang in Malaysia, and its total area is just 225 square miles.",
+    "explanation": "Built from the first three paragraphs: ‘six hours' journey from Port Klang’, ‘maritime crossroad’, ‘a dot on the world map’ and ‘two hundred and twenty-five square miles’.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q2",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 4: Read the text and answer the following questions. 2. What are barged and how are these operated? (Note: the printed word is ‘barged’; the text speaks of barges.)",
+    "answer": "Barges are long, flat, engineless boats used for carrying cargo on the inland river. Cargo from ships was loaded into trucks, the trucks brought it to the river, and from there it was sent onward to the ships in barges. Because a barge has no engine of its own, four or five loaded barges were tied together and pulled by a large motorboat; seen from a distance, these strings of barges looked like camel caravans. In this way goods were moved between the river, the port and the ocean-going ships without any engine in the barges themselves.",
+    "explanation": "The answer follows the second paragraph of the text: ‘These barges did not have any engines. When four to five barges were loaded, a large motorboat pulled them to ships. From afar, they looked like camel caravans.’ The printed question has a typo (‘barged’ for ‘barges’).",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q3",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 4: Read the text and answer the following questions. 3. How is Singapore connected to Malaysia?",
+    "answer": "Singapore is connected to Malaysia by a bridge over the narrow water that separates the island from the Malaysian city of Johor, which lies only about a quarter of a mile away. Along the bridge there is a causeway, that is, a raised road across the water, as well as a railway track. The connection is so short and easy that, as the writer says, ‘just cross the bridge, and you can jump from one country to another.’",
+    "explanation": "Taken from the sentence: ‘There is a bridge that connects Johor with Singapore… There is a causeway as well as a railway track along the bridge.’",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q4",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 4: Read the text and answer the following questions. 4. Describe briefly the significance of Singapore port?",
+    "answer": "The port is the heart of Singapore's life and wealth. It is a free port and a major centre of fuel for ships, and it stands at a maritime crossroad where nearly every vessel sailing between the Pacific and the Indian Oceans or through the South China Sea anchors. Its jetty is very large, and small motorboats work like taxis, carrying people and goods between ship and shore. Eighty per cent of the population lives in the twenty-eight square miles of land around the port, and the Change Alley money market and the great Raffles Place market lie close to it. The port therefore brings trade, shipping, tourists and income to a country that has almost no natural resources of its own.",
+    "explanation": "Synthesises the opening paragraphs (free port, fuel centre, maritime crossroad, jetty, water taxis) with the later detail about population around the port and the markets near it.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q5",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 4: Read the text and answer the following questions. 5. What are reasons for prosperity of Singapore in spite of very little area?",
+    "answer": "Singapore is prosperous in spite of its tiny area (only 225 square miles) for several reasons. First, its geographical position at a maritime crossroad and its status as a free port make it a natural meeting place for the trade of the Pacific and Indian Oceans. Secondly, it earns heavily from ships, trade and the tourists and traders who come for business, shopping and leisure. Thirdly, although like Japan it has to import every raw material and most of its food, it is ‘wise in matters of money and wealth’ and lives by trade and services rather than by agriculture or minerals. Fourthly, its people are educated and skilled – the government spends a quarter of its income on education – and its strict laws, honest police and clean, green environment attract business and visitors. Finally, good transport, cheap public buses and a well-organised port and market system keep its economy moving.",
+    "explanation": "Draws on the paragraphs on p. 125 (‘imports every raw material’, ‘wise in matters of money and wealth’, income from tourists, trade and ships) and p. 126 (education budget, strict laws, honest police).",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q6",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 4: Read the text and answer the following questions. 6. How is Singapore one of the attractive areas for tourists?",
+    "answer": "Singapore attracts tourists because it offers something for every taste in a very small space. It is a ‘shoppers' paradise’ where almost everything can be bought at rates cheaper than in the country of origin, and bargaining is common in Raffles Place, Arab Street and Change Alley, where every currency of the world can be exchanged. Visitors stay in big hotels but eat in small restaurants that serve ‘the cuisine of the East and the West’. The city is remarkably clean and green, with rows of flowers beside every house, so that it is known as ‘Mr. Clean’. Its sights include the marble lions, the huge jetty with ships of all nations, Masjid Sultan, the biggest and most beautiful mosque in Singapore, and the peaceful countryside of Changi Village with its pineapple orchards and rubber forests. The people are friendly and the transport is comfortable, cheap and air-conditioned.",
+    "explanation": "Combines the shopping, food, cleanliness, sightseeing and countryside paragraphs; every point is stated in the text.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q7",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Exercise 4: Read the text and answer the following questions. 7. How does Singapore keep itself clean?",
+    "answer": "Singapore keeps itself clean in two ways: through the spirit of its people and through strict law. The Japanese saying ‘keep your house and the front of the street clean so you see the whole city clean’ is practised there ‘in letter and spirit’ by everyone, from children to elders, so that cleanliness, greenery and rows of flowers are seen beside every house. At the same time the government is severe: large fines are imposed even for small transgressions – fifty dollars for spitting and heavy penalties or even jail terms for littering on roads – garbage bins are placed in every nook and corner, and noise and air pollution are kept to a minimum. Strict laws and an honest police force make these rules work, and the result is that Singapore is recognised as the ‘Mr. Clean’ of the world.",
+    "explanation": "The paragraph on pp. 125–126 gives both the voluntary, people-led side and the legal, government-led side of cleanliness.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q8",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Exercise 4: Read the text and answer the following questions. 8. Describe any four interesting aspects of Singapore.",
+    "answer": "Four interesting aspects of Singapore described in the text are: (i) The City of Lions – the very name Singapore means ‘City of Lion’, and marble statues of lions are found everywhere in the city, a fact that gives the place its identity. (ii) A fusion of the East and the West – modern buildings and modern lifestyles exist side by side with the traditional way of life, and the food, languages and people come from both East and West. (iii) Cleanliness – the city is spotless and green, spitting costs fifty dollars, littering can send a person to jail, bins stand in every nook and corner, and the country is called ‘Mr. Clean’. (iv) A shoppers' paradise with living transport – goods are cheaper than in their country of origin and bargaining is normal, while on the river strings of engineless barges pulled by a motorboat look ‘like camel caravans’, and motorboats act as water taxis whose fare is haggled over. (A fifth could be added: four national languages and many religions living together.)",
+    "explanation": "Open in form: any four well-supported aspects from the text are acceptable. The four given are the most fully described in the passage.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q9",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "9",
+    "question": "Exercise 4: Read the text and answer the following questions. 9. Why is Singapore called the fusion of the East and the West?",
+    "answer": "Singapore is called a fusion of the East and the West because the two worlds meet there in almost every field of life. Its population is made up of Muslims, Buddhists, Hindus, Christians and Sikhs, and four national languages – English, Malay, Chinese and Tamil – are spoken and used on signboards, television and radio. Modern high-rise buildings and modern lifestyles stand side by side with the traditional way of life, and the small restaurants serve ‘the cuisine of the East and the West’. Trade, ships and tourists come from all over the world, and the city combines Western business efficiency and cleanliness with Eastern customs such as bargaining in the markets. The writer himself sees this mixture as the special character of the island.",
+    "explanation": "The text states directly: ‘Singapore is a fusion of the East and the West. One finds modern buildings and lifestyles coexisting with the traditional way of life,’ and supports it with the languages, religions and food.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex4_q10",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Exercise 4: Read the text and answer the following questions. 10. Describe briefly the education in Singapore.",
+    "answer": "Education is given great importance in Singapore. The government spends twenty-five per cent of its income on education, and citizens are encouraged to get education. There is enough provision in the schools to accommodate every child of the country, so that no child is left without schooling. Besides providing quality education, the schools encourage students to take part in debates, speeches and sports, so that they learn confidence and public speaking along with their books. The writer visited one such speech competition and was ‘quite impressed with the students' talent and confidence’, which shows that the system succeeds in producing articulate and self-assured young people.",
+    "explanation": "The last paragraph of the text lists the budget share, universal school provision, and co-curricular activities; the writer's own impression of the speech competition is added as evidence.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex5_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 5: Work individually and read the given idioms and phrasal expressions in the text. Write their meanings and use them in your own sentences. After you have completed, share your work with your class fellows. (1 narrow and dark, 2 every nook and corner, 3 hustle and bustles, 4 fusion of the East and the West, 5 dot on the map, 6 earthen lamp surrounded by moths, 7 in letter and spirit, 8 shopper's paradise)",
+    "answer": "No. | Idiom/Phrasal Expression | Meaning | Sentence\n1 | narrow and dark | (of a lane or market) cramped and poorly lit, with little space and light | The old bazaar of our town is a narrow and dark lane where traders sit with their lamps till midnight.\n2 | every nook and corner | in every small, hidden or distant part of a place; everywhere | The volunteers searched every nook and corner of the school for the lost record file.\n3 | hustle and bustles | the noisy, busy movement and activity of a crowded place (the text uses the singular ‘hustle and bustle’) | We left the hustle and bustle of Karachi and spent a quiet weekend in the hills.\n4 | fusion of the East and the West | a blending of Eastern and Western ideas, culture, food or ways of life | The new campus is a fusion of the East and the West, with a Mughal-style gateway and a modern glass library.\n5 | dot on the map | a very small place that is hardly noticeable on a map | Our village is only a dot on the map, yet it has produced two famous poets.\n6 | earthen lamp surrounded by moths | a bright, attractive centre towards which many people or things are drawn (in the text, Singapore attracts ships as a lamp attracts moths) | The new sports stadium became an earthen lamp surrounded by moths, drawing young players from every part of the city.\n7 | in letter and spirit | exactly as written and also in its true inner meaning; fully and sincerely | The rules of the examination were followed by the invigilators in letter and spirit.\n8 | shopper's paradise | a place where shopping is a great pleasure because of variety and low prices (the text has ‘shoppers' paradise’) | With its endless stalls and bargain prices, Anarkali Bazaar is a shopper's paradise for students.",
+    "explanation": "Meanings are fixed by the sentences in which the expressions occur in the text (Change Alley is ‘narrow and dark’; bins in ‘every nook and corner’; the city's ‘hustle and bustle’; ‘Singapore is a fusion of the East and the West’; ‘a dot on the world map’; ‘like an earthen lamp, surrounded by moths’; the saying practised ‘in letter and spirit’; ‘a shoppers' paradise’). Sentences are original.",
+    "bookPage": 129
+  },
+  {
+    "id": "u8_r_ex6_q1",
+    "sectionCode": "U8S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Exercise 6: Work in pairs and read the text again. Write the names of places that the writer has mentioned and what did he see there? After you have completed, share your work with your partner. (Road-map with blanks 1–7 from Start to End)",
+    "answer": "1. Port Klang (Malaysia) – the starting point of the voyage; the writer set sail from here and reached Singapore in about six hours.\n2. Singapore harbour and jetty – at night the lights of the streets and high-rise buildings were shimmering as if decorated for a wedding; ships of many countries lay anchored, their reflections making each vessel look like a small island; the jetty was very large and small motorboats moved about like taxis, their fare settled by haggling.\n3. Change Alley – a narrow and dark market near the port where every currency of the world was being exchanged and traded.\n4. Raffles Place (printed in the text as ‘Raffles Pulse’) – the largest market in Singapore, close to the port, with big multi-storey shops selling different types of items on each site; the writer did window shopping and found bargaining common.\n5. Arab Street – a market known throughout Singapore for reasonable prices.\n6. Masjid Sultan – the biggest and most beautiful mosque in Singapore, standing among a sizeable Muslim population.\n7. Changi Village – the countryside at the island's end, reached by bus; the writer saw greenery everywhere, a coastline running along the road, orchards of pineapple and forests of the rubber tree, and girls who boarded the bus to sell freshly sliced pineapples.",
+    "explanation": "The seven stops follow the order of the narrative from the arrival at the port to the trip to the countryside; ‘what he saw’ is paraphrased from the text rather than invented.",
+    "bookPage": 130
+  },
+  {
+    "id": "u8_w_ex1_q1",
+    "sectionCode": "U8S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: Work individually and write an informal report on ‘Celebration of Independence Day on 14th August at your college’. Follow the guidelines given above. Once you have completed, edit your work for correct spellings, grammar, and punctuations.",
+    "answer": "INDEPENDENCE DAY CELEBRATED AT OUR COLLEGE\n(Reported by Ayesha Khan, Class XI-B, 15 August)\n\nThe 14th of August was celebrated with great enthusiasm in the premises of our college. The ceremony began at 8:00 a.m. on the college ground, where the national flag was hoisted by the Principal, who was the chief guest of the day. All the students, the teaching staff and a large number of parents were present on the occasion.\n\nAfter the flag-hoisting, the national anthem was sung by the students' choir, and the whole gathering observed a minute's silence to pay homage to the leaders of the Pakistan Movement. In his speech, the Principal reminded the students that freedom had been achieved after long sacrifices, and he advised them to serve the country through hard work and honesty. Later, a student of Class XI read out a short history of the freedom movement, and a milli naghma and a tableau representing the culture of the four provinces were presented.\n\nThe Head of the English Department remarked that the programme had been organised by the Students' Council with the help of the college staff, and that more than six hundred students had taken part. When asked about the best item of the day, a student of Class X said that the tableau had been the most impressive, while a teacher of Pakistan Studies observed that the speech contest held in the college hall had shown the talent and confidence of the students.\n\nThe ceremony came to an end at 11:30 a.m. with a vote of thanks, after which sweets were distributed among the participants. Everyone present felt that such functions keep the spirit of patriotism alive in the younger generation.",
+    "explanation": "Informal report written to the given guidelines: title and reporter's name, place, date and time, information collected from people present, past tense, reported speech and passive forms, ideas developed logically and briefly, and the writer's impression at the end. Open-ended in detail, but the format is fixed.",
+    "bookPage": 132
+  },
+  {
+    "id": "u8_w_ex2_q1",
+    "sectionCode": "U8S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Work individually and write a formal report on the facilities provided by the college administration. The facilities need to be divided into academic (access to library, computer lab, auditorium, etc.) health and hygiene (clean washroom, availability of water, proper food at college canteen etc.) and co-curricular (playground, sports material, gymnasium etc.). Follow the guidelines given above. After you have completed, edit your work for correct spellings, grammar, and punctuations.",
+    "answer": "REPORT ON THE FACILITIES PROVIDED BY THE COLLEGE ADMINISTRATION\n\nTITLE PAGE\nTitle: A Survey of the Academic, Health and Hygiene, and Co-curricular Facilities of Government Degree College, Hyderabad\nPrepared for: The Principal, Government Degree College, Hyderabad\nPrepared by: Academic Committee, Students' Council\nDate of submission: 15 September 20XX\nReference number: SC/AC/20XX/07\n\nABSTRACT\nThis report examines the facilities provided by the college administration in three areas: academic, health and hygiene, and co-curricular. It was written because the Students' Council had received repeated complaints from students about the library timings, drinking water and the playground, and because the administration had asked for an independent review before the annual budget. The study was undertaken between 1 and 20 August 20XX by a committee of six students. A questionnaire was distributed to 150 students of Classes XI and XII, interviews were held with the librarian, the computer-lab in-charge, the medical officer and the canteen manager, and all the relevant areas were inspected. The main findings are that academic facilities are adequate but under-used, that health and hygiene arrangements are satisfactory except for washroom maintenance and water supply in summer, and that co-curricular facilities are the weakest area. These findings are significant because they show where a small amount of spending would improve the life of the whole college.\n\nTABLE OF CONTENTS\n1. Introduction … 1\n2. Body … 2\n2.1 Academic facilities … 2\n2.2 Health and hygiene … 3\n2.3 Co-curricular facilities … 3\n3. Conclusion … 4\n4. Recommendations … 4\nList of tables: Table 1 – Students' rating of academic facilities; Table 2 – Students' rating of health and hygiene facilities; Table 3 – Students' rating of co-curricular facilities.\n\n1. INTRODUCTION\n1.1 Background. The college was upgraded to degree level in 20XX and now has about 1,800 students. Classrooms and a library existed before the upgrade, but the computer laboratory, the auditorium and the gymnasium were added later, and no review of these facilities has so far been carried out.\n1.2 Purpose. The purpose of this report is to describe the facilities at present available, to assess how far they meet the needs of the students, and to place the findings before the Principal.\n1.3 Scope. The report is limited to the three categories named in the terms of reference. It does not deal with teaching quality or examination results, and it covers only the current academic session. The survey was completed in twenty days and at no cost to the college funds.\n\n2. BODY\n2.1 Academic facilities. The library contains about 12,000 books and subscribes to six newspapers and four magazines; 78 per cent of the students questioned said that they found the books they needed. However, it remains open only from 8:00 a.m. to 2:00 p.m., so students of the evening shift cannot use it. The computer laboratory has forty computers, of which thirty-two were in working order on the day of inspection, and it is used by 64 per cent of the respondents at least once a week. The auditorium seats 400 people, is fitted with a projector and a sound system, and is booked for about twelve functions a term.\n2.2 Health and hygiene. Drinking water is supplied through four coolers with filtration plants, but in June the supply failed on nine working days. The washrooms are cleaned twice a day, yet 55 per cent of the students rated them only ‘fair’, mainly because of leaking taps. The college canteen serves fresh food at reasonable prices, and the medical room is attended by a doctor for two hours daily; first-aid boxes are available in the sports room and the laboratory.\n2.3 Co-curricular facilities. The playground is large enough for cricket and football, but its boundary wall is broken at two places and the outfield becomes muddy after rain. Sports material is kept in a small store; the stock of cricket bats, hockey sticks and volleyballs was found to be sufficient for only one team at a time. The gymnasium has eight pieces of equipment, three of which need repair, and no instructor has been appointed.\n\n3. CONCLUSION\nAcademic facilities are the strongest of the three categories, although the library timings reduce their usefulness. Health and hygiene facilities are generally satisfactory, with washroom maintenance and the summer water supply as the two weak points. Co-curricular facilities are the least satisfactory, since the playground is damaged, the sports stock is small and the gymnasium is neither fully equipped nor supervised. Students' satisfaction was found to fall in the same order: academic 78 per cent, health and hygiene 61 per cent, co-curricular 44 per cent.\n\n4. RECOMMENDATIONS\n(i) The library should remain open until 5:00 p.m. so that both shifts can use it. (ii) The eight faulty computers and the leaking taps should be repaired at once, and a standby water tank should be installed. (iii) The playground wall should be rebuilt and the sports store restocked for at least three teams. (iv) A part-time gym instructor should be appointed and the damaged equipment replaced.\n\nAyesha Khan\nSecretary, Academic Committee, Students' Council",
+    "explanation": "Formal report following the six prescribed parts – title page, abstract (100–200 words), table of contents, introduction (background, purpose, scope), body in the three required categories, and a conclusion free of new material, followed by recommendations. The figures are illustrative sample findings of the kind a student survey would produce; the structure and register are what the task tests.",
+    "bookPage": 134
+  },
+  {
+    "id": "u8_o_ex1_q1",
+    "sectionCode": "U8S3",
+    "type": "sq",
+    "number": "1 (i)",
+    "question": "Exercise 1: Now, work individually and prepare a presentation on any of the following topics. Follow the evaluative elements of delivering presentation as it will be evaluated. (i) Tourism and its Impacts",
+    "answer": "PRESENTATION PLAN: ‘TOURISM AND ITS IMPACTS’\n\nOpening (clarity, 30 seconds): ‘Good morning, respected teacher and fellow students. My topic is tourism and its impacts, and my purpose is to show that tourism is a powerful engine of income, but only when it is managed carefully. I shall deal with three points: economic gains, social and cultural effects, and environmental costs, and I shall close with one suggestion.’\n\nPoint 1 – Economic gains (sufficiency): tourism earns foreign exchange, creates jobs in hotels, transport, handicrafts and guiding, and improves roads and airports that local people also use. Example: Pakistan's northern valleys earn much of their income in the summer season from domestic tourists.\n\nPoint 2 – Social and cultural effects (cohesion: ‘firstly … secondly … on the other hand’): visitors bring new ideas and languages, and local crafts and music find new buyers; but unplanned tourism can commercialise festivals and push up prices for residents.\n\nPoint 3 – Environmental costs: traffic, litter and new construction damage fragile mountain and coastal areas; the Galapagos and our own alpine meadows show how quickly this happens.\n\nClosing (30 seconds): ‘To sum up, tourism is like fire – a good servant and a bad master. My suggestion is that every tourist site should have a carrying capacity, a waste-management plan and a share of its income spent on the local community. Thank you. I shall be glad to answer questions.’\n\nDELIVERY NOTES (evaluative elements): speak from cue cards, not from a full script (style: fluency and confidence); use a map slide and one bar chart of tourist arrivals (sufficiency); keep sentences short and signpost with ‘firstly, secondly, finally’ (cohesion); stand upright, use only two or three open-hand gestures, smile, and look at three different parts of the audience in turn (body language and eye contact); wear the college uniform, neat and complete (appearance). Time: 4–5 minutes.",
+    "explanation": "Open-ended oral task. The model supplies a complete structure and delivery guidance mapped to the six evaluative elements on p. 135 (clarity, style, cohesion, sufficiency, appearance, body language), which is what the exercise actually assesses.",
+    "bookPage": 135
+  },
+  {
+    "id": "u8_o_ex1_q2",
+    "sectionCode": "U8S3",
+    "type": "sq",
+    "number": "1 (ii)",
+    "question": "Exercise 1: Now, work individually and prepare a presentation on any of the following topics. Follow the evaluative elements of delivering presentation as it will be evaluated. (ii) Natural Beauty of Pakistan",
+    "answer": "PRESENTATION PLAN: ‘THE NATURAL BEAUTY OF PAKISTAN’\n\nOpening (clarity): ‘Good morning. My topic is the natural beauty of Pakistan, and my purpose is to take you on a short journey from the northern peaks to the southern sea, and to show why this beauty deserves both pride and protection.’\n\nPoint 1 – The mountains: the Karakoram, the Himalaya and the Hindu Kush meet in Pakistan; K-2, Nanga Parbat and the Hunza valley, with its glaciers, cherry blossom and the blue Attabad lake. ‘Here three of the world's greatest mountain ranges meet’ is a single sentence that carries the whole point.\n\nPoint 2 – Valleys, lakes and forests: Swat and Kaghan, Lake Saiful Muluk, the Deosai plains, the pine and deodar forests of Galliyat, and the juniper slopes of Ziarat.\n\nPoint 3 – The south: the Indus delta with its mangroves, the beaches of Balochistan, and the desert of Thar, which blooms after rain.\n\nClosing: ‘Pakistan is not only a country of mountains; it is a country where four seasons live side by side within a day's drive. Let us protect it – the forest, the river and the glacier – because this beauty is also our economy and our identity. Thank you.’\n\nDELIVERY NOTES: use five photographs or a short silent video, but do not read the slides (style); introduce each picture with one sentence and link it to the next with ‘from the mountains we move to the valleys’ (cohesion); give two facts – K-2 is 8,611 metres high, and Pakistan has more than 7,000 glaciers – to add sufficiency; pause after each picture instead of filling the silence; keep both feet planted, gesture towards the screen, and hold eye contact for a full sentence with each section of the audience; dress neatly, with hair combed (appearance). Time: 4 minutes.",
+    "explanation": "Open-ended oral task; a model outline is given with concrete detail and delivery guidance tied to the evaluative elements on p. 135.",
+    "bookPage": 135
+  },
+  {
+    "id": "u8_o_ex1_q3",
+    "sectionCode": "U8S3",
+    "type": "sq",
+    "number": "1 (iii)",
+    "question": "Exercise 1: Now, work individually and prepare a presentation on any of the following topics. Follow the evaluative elements of delivering presentation as it will be evaluated. (iii) Tolerance",
+    "answer": "PRESENTATION PLAN: ‘TOLERANCE: THE QUIET STRENGTH OF A SOCIETY’\n\nOpening (clarity): ‘Respected teacher and dear friends, my topic is tolerance. My purpose is not to praise it in general words, but to show what it means in a classroom, in a street and in a country, and why it is a strength rather than a weakness.’\n\nPoint 1 – What tolerance is: accepting that others may think, worship and live differently, while holding firmly to one's own beliefs. It is not indifference and it is not agreement; the founder of Pakistan's words about the equal rights of all citizens are a clear example.\n\nPoint 2 – Where we see it and where we lose it: in our college, students of different provinces and faiths share desks, teams and canteen tables; on the other hand, a single insulting joke on social media can divide a class for weeks. Small habits – listening to the end, asking before assuming – decide the difference.\n\nPoint 3 – Why it matters: tolerance turns difference into strength (the four provinces give us four cuisines, four literatures and one country), while intolerance costs jobs, friendships and peace.\n\nClosing: ‘To end, tolerance is not silence; it is the courage to let others speak. I invite each of us to practise it once today – in the canteen queue, in the classroom, online. Thank you.’\n\nDELIVERY NOTES: begin with a two-line anecdote rather than a definition to catch attention (style); keep a calm, even tone and slow pace, because the topic invites emotion; use the rule of three – ‘in a classroom, in a street, in a country’ – to make the structure audible (cohesion); support with one example that the audience recognises (sufficiency); stand still at the key sentence, avoid folding the arms, and look directly at listeners who seem to disagree (body language); formal dress and a pleasant expression throughout (appearance). Time: 4 minutes.",
+    "explanation": "Open-ended oral task; the outline models an argumentative presentation with a clear thesis, three developed points and a call to action, plus delivery notes for the evaluative elements on p. 135.",
+    "bookPage": 135
+  },
+  {
+    "id": "u8_o_ex1_q4",
+    "sectionCode": "U8S3",
+    "type": "sq",
+    "number": "1 (iv)",
+    "question": "Exercise 1: Now, work individually and prepare a presentation on any of the following topics. Follow the evaluative elements of delivering presentation as it will be evaluated. (iv) Any other topic of your choice",
+    "answer": "PRESENTATION PLAN (chosen topic): ‘MOHENJO-DARO: A CITY BEFORE ITS TIME’\n\nOpening (clarity): ‘Good morning. My topic is Mohenjo-daro, a city of the Indus Valley Civilisation, and my purpose is to show that five thousand years ago our ancestors planned streets, drains and houses better than many towns are planned today.’\n\nPoint 1 – The discovery: the mounds of Larkana district were excavated in the 1920s; the name means ‘mound of the dead’, and the site is now a World Heritage Site.\n\nPoint 2 – The planning: streets cut each other at right angles, houses were built of baked brick, almost every house had a bathroom, and covered drains ran along the streets with inspection holes – an engineering achievement without any modern machinery.\n\nPoint 3 – The mystery and the danger: the Great Bath, the seals with an undeciphered script, and the slow damage caused by salt, water and neglect, which makes conservation urgent.\n\nClosing: ‘Mohenjo-daro tells us that civilisation is not only about kings and battles; it is about drains, bricks and civic sense. If we lose it, we lose the proof that this land taught the world how to build a city. Thank you.’\n\nDELIVERY NOTES: open with a question to the audience – ‘How old do you think the drains of Mohenjo-daro are?’ – to secure attention (style); use a plan of the city on one slide and one photograph of the Great Bath, and explain each in two sentences (sufficiency); connect the points with ‘what is more’ and ‘but today’ (cohesion); keep the tone informative and slightly proud, not dramatic; point to the plan rather than waving the hand; look at the audience while speaking, not at the screen; wear neat formal clothes and stand without leaning on the desk (appearance and body language). Time: 4–5 minutes.",
+    "explanation": "The fourth option is free, so a topic connected with the unit – a place of historical importance – is chosen and fully planned. The delivery notes again map to the six evaluative elements.",
+    "bookPage": 135
+  },
+  {
+    "id": "u8_o_ex2_q1",
+    "sectionCode": "U8S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Evaluate the presentations of your class fellows. Use following form to evaluate the presentations. (Items: Clear and cohesive main idea; Consistent organization of ideas; Sufficient supporting details; Effective communication style; Appropriate dress and body language; Appropriate interaction with audience and eye contact. Columns: Excellent, Good, Fair, Satisfactory, Unsatisfactory)",
+    "answer": "SAMPLE COMPLETED EVALUATION FORM\nPresenter: Ayesha Khan   Topic: Tourism and its Impacts   Date: 12 September   Duration: 4 min 20 s\n\nItem | Excellent | Good | Fair | Satisfactory | Unsatisfactory | Evidence from the presentation\nClear and cohesive main idea | ✓ | – | – | – | – | The purpose was stated in the first sentence and repeated in the conclusion; every section served the single claim that tourism must be managed.\nConsistent organization of ideas | ✓ | – | – | – | – | Clear opening, three signposted points (economic, social, environmental) and a closing; transitions such as ‘on the other hand’ were used accurately.\nSufficient supporting details | – | ✓ | – | – | – | Two statistics and one local example were given; the environmental section needed one more concrete case.\nEffective communication style | – | ✓ | – | – | – | Clear pronunciation and good pace; two long sentences caused hesitation, and the voice dropped at the end of paragraphs.\nAppropriate dress and body language | ✓ | – | – | – | – | Neat college uniform, upright posture, open-hand gestures only; no fidgeting with the pointer.\nAppropriate interaction with audience and eye contact | – | ✓ | – | – | – | Eye contact moved round the room and a question was invited at the end; the presenter looked at the slide for about ten seconds while explaining the chart.\n\nOverall comment: A well-structured and confident presentation. To reach the highest level, add one more piece of evidence to the environmental section, shorten two sentences, and reduce the time spent facing the screen.\n\nHOW TO USE THE FORM: tick one column only for each item (a pencil is recommended so that the form can be corrected), write a short evidence note in the last column so that the rating can be justified, and give the presenter one strength and one improvement orally after the presentation.",
+    "explanation": "Peer evaluation is necessarily open-ended, so the model shows a completed form for one sample presentation. Ratings are supported by observed evidence rather than left blank, and the note explains how the form is to be filled.",
+    "bookPage": 136
+  },
+  {
+    "id": "u8_g_ex1_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Exercise 1: A conversation between Raza and Ali is given below in direct speech. Orally discuss the conversation in the class. (Raza: What are you doing here, Ali? I haven't seen you since June. Ali: I've just come back from my holiday in Turkey. Raza: Did you enjoy it? Ali: I love Turkey. And the Turkish people were so friendly and hospitable. Raza: Did you visit Istanbul? Ali: It was my first trip. I can show you some pictures. Are you doing anything tomorrow? Raza: I must arrange a couple of things. But I am free tonight. Ali: You might come to my place. What time shall we meet? Raza: I'll be there at eight. Is it all right? Ali: Fine.)",
+    "answer": "Model oral discussion – the conversation reported in indirect speech:\n\nRaza asked Ali what he was doing there and said that he had not seen him since June. Ali replied that he had just come back from his holiday in Turkey. Raza asked him whether he had enjoyed it. Ali said that he loved Turkey and that the Turkish people had been very friendly and hospitable. Raza then asked whether he had visited Istanbul. Ali answered that it had been his first trip and added that he could show him some pictures; then he asked whether Raza was doing anything the next day. Raza said that he had to arrange a couple of things but that he was free that night. Ali suggested that he might come to his place and asked what time they should meet. Raza said that he would be there at eight and asked whether that was all right. Ali replied that it was fine.\n\nPoints to discuss in class:\n1. Reporting verbs: asked, replied, said, wanted to know, added, suggested, answered – each replaces ‘said’ where the sense is a question, a suggestion or a reply.\n2. Tense shift: present continuous → past continuous (are doing → was doing); present perfect → past perfect (have not seen → had not seen, have come → had come); simple past → past perfect (did enjoy → had enjoyed, was → had been); will → would; shall → should; can → could; must → had to.\n3. Pronouns and words of place and time: you → he/I, here → there, tomorrow → the next day, tonight → that night, this → that.\n4. Question word order: in reported questions the auxiliary is dropped and the statement order is used (‘what he was doing’, not ‘what was he doing’).\n5. Yes/No questions take if or whether; commands and requests take to + infinitive; suggestions take ‘that + subject + might/should + verb’.",
+    "explanation": "The printed task is oral, so the model gives the whole conversation in reported speech plus the rules the class is expected to notice; the same conversation supplies the blanks of Exercise 2.",
+    "bookPage": 137
+  },
+  {
+    "id": "u8_g_ex2_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Exercise 2: Now, work in pairs and fill in the following blanks after applying rules of narration. After completing, exchange your work with your class fellows. (i–xi, based on the Raza–Ali conversation)",
+    "answer": "i. Raza asked Ali what he was doing there. He said that he had not seen him since June.\nii. Ali explained that he had just come back from holiday in Turkey.\niii. Raza wondered if he had enjoyed it.\niv. Ali told him that he loved Turkey and that the Turkish people were so friendly.\nv. Raza wanted to know whether he had visited Istanbul. (The printed sentence ends ‘… to Turkey’; the question actually asked was about Istanbul, so ‘whether he had visited Istanbul’ is the accurate completion.)\nvi. Ali said that it was his first trip and that he could show him some pictures.\nvii. And then he further questioned him if he was doing anything the following day.\nviii. Raza elucidated that he had to arrange a couple of things.\nix. But he added that he was free at night.\nx. Ali suggested that he might come to his place and asked him what time they should meet.\nxi. Raza confirmed that he would be there at eight.",
+    "explanation": "Each blank is filled by shifting the tense one step back (present continuous → past continuous, present perfect → past perfect, past → past perfect, will → would, shall → should, can → could, must → had to) and by changing pronouns and time words (tomorrow → the following day). Item (v) in the book reads ‘wanted to know … to Turkey’, which does not match the question actually asked; the accurate completion is given and the discrepancy noted. Item (xi) is corrected here from the typo ‘yi’ in the printed list.",
+    "bookPage": 137
+  },
+  {
+    "id": "u8_g_ex3_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Exercise 3: Work in pairs and change the direct speech of following sentences into indirect speech. Use the words given below. After you have completed, share your work with your partner. (Words: exclaimed with sorrow, advised, exclaimed with joy, warned, requested, wished, exclaimed with disgust, ordered, exclaimed with wonder, allowed)",
+    "answer": "1. The poor man requested me to help him. (‘Please help me’ = a request; said to → requested, inverted commas dropped, to + infinitive.)\n2. Rida exclaimed with sorrow that her cat was dead. (‘Ah!’ expresses grief; said → exclaimed with sorrow, my → her, is → was.)\n3. The teacher advised the students to respect elders. (An imperative giving good counsel; said to → advised, to + verb.)\n4. He allowed the customer to come in. (‘Come in, please’ gives polite permission; said to → allowed … to + verb.)\n5. She exclaimed with disgust that it was very hot that day. (‘Ugh!’ expresses disgust; is → was, today → that day.)\n6. The policeman ordered the prisoner not to fight in the prison. (An imperative from a person in authority; said to → ordered, negative imperative → not to + verb.)\n7. He warned me not to stay there anymore. (A negative instruction given for the listener's good, with a warning tone; said to → warned, here → there.)\n8. Eman exclaimed with wonder that it was a very beautiful house. (‘What a …!’ is an exclamation of wonder; the exclamation mark is replaced by a full stop and ‘a very’ keeps the force of the adjective.)\n9. Ghazala exclaimed with joy that she had passed ultimately. (‘Hurrah!’ expresses joy; have passed → had passed.)\n10. They wished me Eid Mubarak. (A greeting or blessing is reported with wished + object + greeting; no tense change is needed.)",
+    "explanation": "In each case the reporting verb is chosen from the given box to match the feeling or function of the original sentence, and the usual changes of pronoun, tense and punctuation are applied. All ten words in the box are used exactly once.",
+    "bookPage": 138
+  },
+  {
+    "id": "u8_g_ex4_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Exercise 4: Work in pair and insert punctuations where required. After completing, share it with your partner. An example has been done. “What country do you come from,” said Bilal. (1–10)",
+    "answer": "1. “How long have you been here?” said Kinza.\n2. “Are you working as well as studying?” asked Persia.\n3. “Have you got a work permit?” Bilal wanted to know.\n4. “What are you going to study?” asked Anny.\n5. “Have you enrolled for more than one class?” inquired Jamil.\n6. “Do you want to buy any second-hand books?” said Bilal.\n7. “Have you seen the library?” asked Anny.\n8. “Do you play rugby?” said Jamil.\n9. “Will you have time to play regularly?” he said.\n10. “Did you play for your school team?” said Bilal. “Are you interested in acting?” asked Anny.\n\n(Example, for reference: “What country do you come from,” said Bilal. – the comma stands inside the closing quotation mark because the reporting clause follows.)",
+    "explanation": "Each direct question is enclosed in double quotation marks with a question mark before the closing mark, and the reporting clause that follows begins with a small letter and is separated by a comma when it is ‘said/asked + name’. When the reporting clause comes first, a comma follows it. Item 10 contains two separate questions and therefore two pairs of quotation marks.",
+    "bookPage": 139
+  },
+  {
+    "id": "u8_g_ex5_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Exercise 5: Now, work individually. After inserting the appropriate punctuations in Exercise 4, convert them into indirect speech.",
+    "answer": "1. Kinza asked me how long I had been there.\n2. Persia asked me whether I was working as well as studying.\n3. Bilal wanted to know whether I had got a work permit.\n4. Anny asked me what I was going to study.\n5. Jamil inquired whether I had enrolled for more than one class.\n6. Bilal asked me whether I wanted to buy any second-hand books.\n7. Anny asked whether I had seen the library.\n8. Jamil asked whether I played rugby.\n9. He asked whether I would have time to play regularly.\n10. Bilal asked whether I had played for my school team, and Anny asked whether I was interested in acting.\n\n(If the questions are reported in the third person, substitute he/she for I and change the possessives accordingly, e.g. ‘Kinza asked him how long he had been there.’)",
+    "explanation": "Reported questions keep the statement word order (no inversion, no do/does/did), take if or whether when there is no question word, shift the tense back one step, and change you → I/me, your → my, here → there. The question mark is dropped because each sentence is now a statement.",
+    "bookPage": 139
+  },
+  {
+    "id": "u8_g_voc1_q1",
+    "sectionCode": "U8S4",
+    "type": "mcq",
+    "number": "1 (a)",
+    "question": "Vocabulary Exercise 1: Work in pairs and encircle the option of the best meaning for the underlined word as it is used in context. Use thesaurus for your help. (a) My brother said, “I just freed myself from a very loquacious neighbour.” — loquacious",
+    "options": [
+      {
+        "key": "a",
+        "text": "pretentious"
+      },
+      {
+        "key": "b",
+        "text": "grouchy"
+      },
+      {
+        "key": "c",
+        "text": "talkative"
+      },
+      {
+        "key": "d",
+        "text": "worried"
+      }
+    ],
+    "optionsRaw": "(a) pretentious   (b) grouchy   (c) talkative   (d) worried",
+    "correctAnswer": "(c) talkative",
+    "answer": "(c) talkative",
+    "explanation": "Loquacious means ‘very talkative, fond of talking’. The context of ‘freeing oneself’ from such a neighbour suggests someone who talks too much, not someone pretentious, bad-tempered or anxious.",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc1_q2",
+    "sectionCode": "U8S4",
+    "type": "mcq",
+    "number": "1 (b)",
+    "question": "Vocabulary Exercise 1: Work in pairs and encircle the option of the best meaning for the underlined word as it is used in context. Use thesaurus for your help. (b) There is no doubt that the idea of living in such a benign climate was appealing. — benign",
+    "options": [
+      {
+        "key": "a",
+        "text": "tropical"
+      },
+      {
+        "key": "b",
+        "text": "not malignant"
+      },
+      {
+        "key": "c",
+        "text": "kind"
+      },
+      {
+        "key": "d",
+        "text": "favourable"
+      }
+    ],
+    "optionsRaw": "(a) tropical   (b) not malignant   (c) kind   (d) favourable",
+    "correctAnswer": "(d) favourable",
+    "answer": "(d) favourable",
+    "explanation": "A benign climate is a mild, pleasant, favourable one, and that is why the idea of living in it ‘was appealing’. Option (b) ‘not malignant’ is the medical sense of benign (a benign tumour) and does not collocate with ‘climate’; (c) ‘kind’ is close but describes people, not weather conditions. Hence (d).",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc1_q3",
+    "sectionCode": "U8S4",
+    "type": "mcq",
+    "number": "1 (c)",
+    "question": "Vocabulary Exercise 1: Work in pairs and encircle the option of the best meaning for the underlined word as it is used in context. Use thesaurus for your help. (c) It is difficult to imagine a surfeit of talent in one individual. — surfeit",
+    "options": [
+      {
+        "key": "a",
+        "text": "excess"
+      },
+      {
+        "key": "b",
+        "text": "variety"
+      },
+      {
+        "key": "c",
+        "text": "superiority"
+      },
+      {
+        "key": "d",
+        "text": "lack"
+      }
+    ],
+    "optionsRaw": "(a) excess   (b) variety   (c) superiority   (d) lack",
+    "correctAnswer": "(a) excess",
+    "answer": "(a) excess",
+    "explanation": "A surfeit is an amount that is more than enough, i.e. an excess; ‘a surfeit of talent’ means so much talent that it is hard to imagine. ‘Lack’ is the opposite, and variety and superiority do not carry the idea of too much.",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc1_q4",
+    "sectionCode": "U8S4",
+    "type": "mcq",
+    "number": "1 (d)",
+    "question": "Vocabulary Exercise 1: Work in pairs and encircle the option of the best meaning for the underlined word as it is used in context. Use thesaurus for your help. (d) There is a large demand all over the United States for plants indigenous to the desert. — indigenous",
+    "options": [
+      {
+        "key": "a",
+        "text": "native"
+      },
+      {
+        "key": "b",
+        "text": "necessary"
+      },
+      {
+        "key": "c",
+        "text": "foreign"
+      },
+      {
+        "key": "d",
+        "text": "alien"
+      }
+    ],
+    "optionsRaw": "(a) native   (b) necessary   (c) foreign   (d) alien",
+    "correctAnswer": "(a) native",
+    "answer": "(a) native",
+    "explanation": "Indigenous means ‘born or growing naturally in a particular place’, i.e. native. Foreign and alien are antonyms, and necessary does not fit the idea of plants belonging to the desert.",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc1_q5",
+    "sectionCode": "U8S4",
+    "type": "mcq",
+    "number": "1 (e)",
+    "question": "Vocabulary Exercise 1: Work in pairs and encircle the option of the best meaning for the underlined word as it is used in context. Use thesaurus for your help. (e) Increase in racial attacks on immigrants is the result of xenophobia. — xenophobia",
+    "options": [
+      {
+        "key": "a",
+        "text": "honesty"
+      },
+      {
+        "key": "b",
+        "text": "fear of foreigners"
+      },
+      {
+        "key": "c",
+        "text": "kindness"
+      },
+      {
+        "key": "d",
+        "text": "stubbornness"
+      }
+    ],
+    "optionsRaw": "(a) honesty   (b) fear of foreigners   (c) kindness   (d) stubbornness",
+    "correctAnswer": "(b) fear of foreigners",
+    "answer": "(b) fear of foreigners",
+    "explanation": "Xenophobia (Greek xenos, stranger + phobos, fear) is a strong dislike or fear of people from other countries, which explains attacks on immigrants. Kindness is the opposite; honesty and stubbornness are unrelated.",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc2_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Vocabulary Exercise 2: Work individually and use the bold words in Exercise 7, in your own sentences. Write the sentences in your notebook. After you have completed, exchange the work with your class fellows.",
+    "answer": "1. loquacious – Our new class fellow is so loquacious that the teacher has to remind him, politely, to let others speak.\n2. benign – The doctor assured my grandmother that the swelling was benign and needed no operation.\n3. surfeit – After the wedding, we had a surfeit of sweets and nobody wanted to see another ladoo.\n4. indigenous – The olive trees of the Potohar plateau are indigenous to the region, not imported from Europe.\n5. xenophobia – A country that blames every newcomer for its problems is suffering from xenophobia rather than from a real shortage of jobs.\n\n(Note: the book says ‘the bold words in Exercise 7’, but the bold words loquacious, benign, surfeit, indigenous and xenophobia occur in Exercise 1 of this Vocabulary section; the reference is a misprint.)",
+    "explanation": "The task is open-ended, so the model gives one clear, context-rich sentence for each of the five bold words, showing the meaning fixed by the MCQ exercise above.",
+    "bookPage": 140
+  },
+  {
+    "id": "u8_g_voc3_q1",
+    "sectionCode": "U8S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Vocabulary Exercise 3: Work in pairs and use the contextual clues given in the sentences with an appropriate word. Use the required words from the box given below in sentences. You can use one word twice. After completing, share your work with your partner. (Box: cordially, conferred, onerous, unprecedented, cyclonic, revolution, sovereign, dominions, inhabitants, titanic, pronouncement, colossal, grievous, undermine, starvation)",
+    "answer": "1. His successor, Mustafa Pasha, continued the work and cooperated cordially with the English officials. (The clue ‘cooperated … with’ calls for an adverb of friendly manner.)\n2. Two years later, the same prize was conferred on him without competition. (‘Confer a prize/degree on someone’ is the fixed collocation; the passive ‘was conferred on’ fits.)\n3. From 20 to 30 animals perished of starvation, diseases caused by insufficient food. (‘Insufficient food’ points to starvation as the cause of death.)\n4. The University of the Punjab conferred upon him the honorary degree of Ph.D. (Same collocation as item 2, here in the active voice with ‘upon him’.)\n5. Cleaning your coffee pot is not an onerous chore. (The negative ‘not a … chore’ signals something burdensome, i.e. onerous.)\n6. However, during the late 1950s a dramatic and unprecedented increase in public concern for the environment occurred. (‘Dramatic’ and ‘for the first time in the late 1950s’ point to something never known before.)\n7. After the revolution in Russia, western Turkestan became a member of the Federation of Soviet Republics. (The historical clue of Soviet Russia supplies revolution.)\n8. The latest government pronouncement stipulated that a “Line in the Sand” had been drawn at Orakpur. (‘Stipulated’ shows that an official announcement or declaration is meant.)\n9. Some of the figures are of colossal size; one, for instance, is 57 ft. (The clue ‘one, for instance, is 57 ft’ shows enormous size.)\n10. A heavy backpack is destined to undermine your travelling pleasure. (A burden weakens or spoils the pleasure; ‘undermine’ = weaken.)\n11. Ramiz offered a hand to Sana and she accepted it cordially. (The polite offer and acceptance call for the adverb of warmth used in item 1.)\n12. When he hides his face, trouble becomes more grievous. (The context of hidden identity and trouble calls for ‘severe, serious’.)\n\nWords left unused: cyclonic, sovereign, dominions, inhabitants, titanic (the box has fifteen words for twelve blanks, and ‘cordially’ and ‘conferred’ are each needed twice, so the printed instruction ‘use one word twice’ does not fully match the exercise).",
+    "explanation": "Each word is chosen from a contextual clue in the sentence: collocation (confer a degree/prize on), contrast (not an onerous chore), historical reference (revolution in Russia), or explanatory example (57 ft → colossal). The box is inconsistent with the twelve blanks, which is noted rather than hidden.",
+    "bookPage": 141
+  }
+]

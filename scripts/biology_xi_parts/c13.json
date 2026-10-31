@@ -1,0 +1,246 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The study of functioning and disorders of immune system is termed as:",
+    "options": ["Immunity", "Immune response", "Immunology", "all of these"],
+    "correct": "c",
+    "explanation": "Immunology is the branch of biology that deals with the structure and function of the immune system and with its disorders. Immunity is the resistance of the body to infection, while an immune response is the reaction of the immune system to an antigen.",
+    "pdfPage": 319,
+    "bookPage": 315
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "It is responsible for specific immune response:",
+    "options": ["Innate Immune system", "First line of defense", "Second line of defense", "Third line of defense"],
+    "correct": "d",
+    "explanation": "The third line of defence is the specific (adaptive) immune system. It is mediated by T and B lymphocytes, recognises particular antigens and produces a tailored response with immunological memory. The first and second lines are non-specific and act against all pathogens in the same way.",
+    "pdfPage": 319,
+    "bookPage": 315
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Following serves as physical barrier:",
+    "options": ["Macrophage", "Mucous membrane", "HCl", "Saliva"],
+    "correct": "b",
+    "explanation": "A mucous membrane is a physical barrier that lines the respiratory, digestive and reproductive tracts and prevents the entry of pathogens. Macrophages are cellular defenders, while HCl and saliva are biochemical barriers.",
+    "pdfPage": 319,
+    "bookPage": 315
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Our digestive tract consists of what kind of barriers?",
+    "options": ["Physical barriers", "Biochemical barriers", "Both a & b", "None of these"],
+    "correct": "c",
+    "explanation": "The digestive tract has physical barriers (the intact mucosa with its tightly packed epithelial cells and the washing action of peristalsis) and biochemical barriers (HCl and enzymes of gastric juice, mucus containing antimicrobial peptides, and saliva). Together they form the first line of defence.",
+    "pdfPage": 319,
+    "bookPage": 315
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Which of the following is involved in phagocytosis of bacteria?",
+    "options": ["Neutrophil", "Macrophage", "Both a & b", "None of these"],
+    "correct": "c",
+    "explanation": "Both neutrophils and macrophages are professional phagocytes. Neutrophils are the most abundant white blood cells and are specially adapted to engulf bacteria, while macrophages are long-lived tissue phagocytes derived from monocytes. Dendritic cells are also phagocytic.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "It is not involved in antigen presentation:",
+    "options": ["Macrophage", "Dendritic cell", "Neutrophil", "Both a & b"],
+    "correct": "c",
+    "explanation": "Macrophages, dendritic cells and B cells are antigen-presenting cells (APCs) because they display processed antigen on MHC-II to helper T cells. Neutrophils are phagocytes but are not regarded as antigen-presenting cells.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The type of receptor exhibited by all nucleated cells other than macrophages is:",
+    "options": ["MHC-I", "MHC-II", "Both a & b", "TCR"],
+    "correct": "a",
+    "explanation": "MHC-I molecules are expressed on the plasma membrane of almost all nucleated cells and act as a universal 'self' identification card. MHC-II is restricted mainly to antigen-presenting cells such as macrophages, dendritic cells and B cells. TCR is the antigen receptor of T cells.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Any foreign substance that can elicit immune response is called:",
+    "options": ["Antibody", "Antigen", "Both a & c", "Antihistamine"],
+    "correct": "b",
+    "explanation": "An antigen is any foreign macromolecule, usually a protein or polysaccharide, that is recognised as non-self and provokes an immune response. An antibody is a protein produced by plasma cells that binds specifically to an antigen; an antihistamine is a drug used against allergic reactions.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The type of immunity through the transfer of antibodies from mother to her fetus is:",
+    "options": ["Natural Active Immunity", "Natural Passive Immunity", "Artificial Active Immunity", "Artificial Passive Immunity"],
+    "correct": "b",
+    "explanation": "Antibodies (mainly IgG) cross the placenta from mother to fetus, and antibodies are also passed in breast milk. The baby receives ready-made antibodies without producing them, so the immunity is passive, and because it occurs naturally it is called natural passive immunity.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Antibodies are secreted by:",
+    "options": ["T cells", "B cells", "Plasma cells", "Macrophages"],
+    "correct": "c",
+    "explanation": "When a B lymphocyte is activated by antigen and helper T-cell signals, it proliferates and differentiates into antibody-secreting plasma cells and memory B cells. T cells do not secrete antibodies; macrophages are phagocytes.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "List out any six biochemical barriers.",
+    "answer": "The first line of defence includes biochemical barriers in the secretions that bathe the body surfaces. Six examples given in the textbook are:\n\n1. Saliva — contains lysozyme and antibodies that destroy bacteria and washes microbes from the mouth.\n2. Mucus — a sticky secretion that traps microorganisms and contains antimicrobial peptides.\n3. Hydrochloric acid (HCl) — secreted by the gastric glands; its very low pH kills most swallowed pathogens.\n4. Gastric juice — contains HCl and digestive enzymes that together destroy microorganisms in the stomach.\n5. Tears — contain lysozyme and wash microbes away from the surface of the eye.\n6. Spermine — an antimicrobial substance present in semen.\n\nSweat and sebum also contribute: sweat is salty and acidic, and sebum contains fatty acids that inhibit microbial growth.",
+    "explanation": "Textbook section 13.1 and Table 13.1 (biochemical barriers: saliva, mucus, HCl, gastric juice, tears, spermine).",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "How the tumor cells are dealt with by our immune system?",
+    "answer": "Tumour cells arise from the body's own cells but carry altered or abnormal surface molecules, so they are treated as non-self by the immune system — a process called immune surveillance. They are dealt with mainly by cytotoxicity:\n\n1. Natural killer (NK) cells patrol the tissues and recognise cells that have lost or altered their MHC-I molecules ('missing self'), which is common in tumour cells. NK cells release perforin, which punches pores in the tumour cell membrane, and granzymes, which enter and trigger apoptosis.\n2. Cytotoxic T (Tc) cells recognise tumour-specific antigens displayed on MHC-I and kill the target cell by releasing perforin and granzymes and by signals such as Fas ligand. They also secrete cytokines such as interferon-γ and tumour necrosis factor-α.\n3. Macrophages and dendritic cells phagocytose tumour debris and present tumour antigens to helper T cells, which in turn activate Tc cells and B cells.\n4. Antibodies produced by plasma cells can coat tumour cells, activate complement and promote their destruction by phagocytes (opsonisation).\n\nTumours can nevertheless escape by losing antigen expression, secreting immunosuppressive factors or suppressing tumour-infiltrating lymphocytes. This is why immunotherapy (for example monoclonal antibodies and checkpoint inhibitors) is used against cancers such as malignant melanoma.",
+    "explanation": "Textbook sections 13.2.1 (cytotoxicity, NK and Tc cells) and the box on malignant melanoma; standard immunology added for the antibody/complement role.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Differentiate between NK Cell and Tc cell.",
+    "answer": "Both natural killer (NK) cells and cytotoxic T (Tc) cells kill target cells, but they differ in origin of specificity, recognition and mode of action:\n\n1. Specificity. NK cells are non-specific and belong to the innate immune system; they attack any cell that appears abnormal without prior sensitisation. Tc cells are specific and belong to the adaptive immune system; each clone recognises one particular antigen.\n2. Receptor. NK cells have no T-cell receptor (TCR) and are not MHC-restricted. They carry activating and inhibitory receptors and kill when MHC-I is missing or altered ('missing self'). Tc cells carry a TCR and the CD8 marker and recognise antigen only when it is displayed on MHC-I ('MHC restriction').\n3. Activation. NK cells are ready to act immediately and respond within hours. Tc cells must first be activated by antigen presentation and helper-T-cell cytokines, then proliferate and differentiate, so their response takes days.\n4. Mechanism. Both release perforin (which forms pores) and granzymes (which trigger apoptosis). Tc cells also use Fas ligand and secrete IFN-γ and TNF-α. NK cells can additionally kill antibody-coated cells by ADCC.\n5. Memory. Tc cells produce long-lived memory T cells, giving rapid protection on re-exposure. NK cells have little or no immunological memory.\n6. Role. NK cells provide early defence against virus-infected and tumour cells; Tc cells provide specific, long-lasting killing of virus-infected cells, intracellular bacteria and tumour cells and are described as 'serial killers'.",
+    "explanation": "Textbook section 13.2.1 (cytotoxicity: NK cells and Tc cells).",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "List out the ways of second line of defense.",
+    "answer": "The second line of defence is non-specific and comes into play when the first line (skin and mucous membranes) is breached. Its ways are:\n\n1. Phagocytosis — neutrophils, macrophages (derived from monocytes) and dendritic cells engulf and digest pathogens.\n2. Cytotoxicity — natural killer (NK) cells destroy virus-infected and tumour cells by releasing perforin and granzymes.\n3. Inflammation — a localised vascular and cellular response that brings phagocytes and antimicrobial substances to the site of injury or infection.\n4. Fever — a raised body temperature that inhibits microbial growth and enhances phagocytosis and immune activity.\n5. Antimicrobial proteins — complement proteins (which lyse microbes and enhance phagocytosis) and interferons (which make surrounding cells resistant to viral infection).\n\nThese responses are rapid and act in the same way against all pathogens, but they do not provide immunological memory.",
+    "explanation": "Textbook section 13.2 (second line of defence: phagocytosis, cytotoxicity, inflammation, fever and protective proteins).",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Even though the core proteins are the same, how antibodies differ from each other?",
+    "answer": "All antibody molecules share the same basic 'core' or framework: two identical heavy chains and two identical light chains, held together by disulfide bonds and folded into constant and variable regions. They differ from one another in the following ways:\n\n1. Variable regions. The tips of the heavy and light chains form the variable regions (VH and VL). Their amino-acid sequences are different in every antibody clone, and together they make the antigen-binding site. It is this variable part that gives each antibody its specificity for a particular antigen or epitope.\n2. Antigen-binding site. Because the variable regions differ, one antibody may bind a bacterial surface protein, another a viral coat protein and another a pollen allergen. The shape of the binding site must be complementary to the epitope.\n3. Class (isotype). Antibodies also differ in the constant region of their heavy chains, which defines five classes — IgG, IgA, IgM, IgE and IgD. Each class has a different distribution and effector function (for example, IgA is secreted in mucous secretions and milk, IgE binds mast cells in allergy, IgM is a large pentamer).\n4. Membrane versus secreted form. A B-cell receptor (BCR) is a membrane-bound antibody; after activation the same B cell may secrete a soluble form of the antibody.\n\nThus the constant 'core' carries out common effector functions, while variation in the variable regions (and in heavy-chain constant regions) makes antibodies diverse and specific.",
+    "explanation": "Textbook section 13.3.2 and Fig. 13.13 (BCR: light and heavy chains with variable and constant regions); antibody classes are standard immunology.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "What is antipyretic therapy and why it is used?",
+    "answer": "Antipyretic therapy is the use of antipyretic drugs to reduce or control fever. Fever is produced when pyrogens stimulate the hypothalamus to secrete prostaglandins, which raise the body's temperature set point. Antipyretics lower the set point again by inhibiting the synthesis of prostaglandins — most of them inhibit the enzyme cyclooxygenase (COX).\n\nThe three main groups are salicylates (aspirin), acetaminophen (paracetamol) and non-steroidal anti-inflammatory drugs (ibuprofen).\n\nAntipyretic therapy is used because a high fever is uncomfortable and can be harmful. It relieves headache, body ache, fatigue and malaise, reduces fluid loss and dehydration, prevents febrile seizures, especially in children, and avoids damage to enzymes and brain cells when temperature rises above about 105°F. It is a symptomatic treatment: it makes the patient comfortable but does not eradicate the underlying infection, so the cause must still be diagnosed and treated.",
+    "explanation": "Textbook section 13.2.4 and the antipyretic-drugs box.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "List out four autoimmune disorders of man.",
+    "answer": "In autoimmune disorders the immune system fails to recognise the body's own tissues as self and produces antibodies or T cells that attack them. Four examples are:\n\n1. Type-1 diabetes mellitus — autoantibodies and cytotoxic T cells destroy the insulin-secreting β-cells of the islets of Langerhans, so insulin must be injected.\n2. Rheumatoid arthritis — autoimmune inflammation of the synovial membranes of joints, with destruction of cartilage and bone and progressive joint deformity.\n3. Psoriasis — an autoimmune skin disorder in which T cells stimulate rapid proliferation of skin cells, producing thick, scaly, red plaques.\n4. Multiple sclerosis — autoimmune destruction of the myelin sheath of nerve fibres in the central nervous system, causing weakness, numbness and coordination problems.\n\nOther examples include myasthenia gravis and systemic lupus erythematosus. The exact cause is uncertain; infections, drugs, toxins and pollutants are suspected triggers, and treatment usually involves immunosuppressive drugs.",
+    "explanation": "Textbook section 13.3.3 (autoimmune diseases: type-1 diabetes mellitus, rheumatoid arthritis, psoriasis); multiple sclerosis is a standard fourth example.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "What is phagocytosis? Name some WBCs acting as phagocytes.",
+    "answer": "Phagocytosis is the process by which a cell engulfs and digests solid particles such as bacteria, dead cells or cell debris. It is a major non-specific defence of the second line.\n\nThe phagocyte recognises the microbe by surface receptors that bind microbial molecules such as peptidoglycan, lipopolysaccharide, flagellin and lipopeptides. It extends pseudopodia around the particle and encloses it in a vesicle called a phagosome. The phagosome fuses with a lysosome to form a phagolysosome, and hydrolytic enzymes and antimicrobial substances digest the microbe. Fragments may then be displayed on MHC-II as antigen.\n\nThe main white blood cells that act as phagocytes are:\n\n1. Neutrophils — the most abundant leukocytes (50–70%); they migrate rapidly to infected tissues and are specially adapted to phagocytose bacteria.\n2. Monocytes — circulating cells (2–8% of leukocytes) that enter tissues and mature into macrophages.\n3. Macrophages — large, long-lived tissue phagocytes (for example alveolar macrophages, Kupffer cells and microglia).\n4. Dendritic cells — phagocytic cells that capture antigen and present it to T cells.\n\nEosinophils and basophils are also capable of phagocytosis to a limited extent.",
+    "explanation": "Textbook section 13.2.1 (phagocytosis and the killing cells of blood).",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 9,
+    "question": "What is inflammation?",
+    "answer": "Inflammation is a localised, non-specific response of the body to injury or infection. It brings plasma proteins, blood cells and antimicrobial substances to the site of damage, isolates the injurious agent, destroys or removes it, and prepares the tissue for repair.\n\nIt is triggered by tissue injury, infection, burns, chemicals or allergens. Damaged mast cells and basophils release histamine, and prostaglandins are produced; these cause vasodilation and increased capillary permeability. As a result the area becomes red and warm, fluid and cells accumulate (swelling), and chemical mediators stimulate pain receptors. Chemotactic factors attract neutrophils and monocytes, which phagocytose the pathogen and dead tissue. Pus, consisting of dead neutrophils, bacteria and tissue debris, may collect. The classical signs are redness, heat, swelling, pain and loss of function.\n\nInflammation is protective, but if it persists it may become chronic, as in rheumatoid arthritis. It is controlled by removal of the stimulus, by feedback mechanisms and by anti-inflammatory drugs, and the tissue is then repaired.",
+    "explanation": "Textbook section 13.2.3 (inflammation, cardinal signs, histamine and prostaglandins, pus) and the rheumatoid arthritis box.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "B",
+    "number": 10,
+    "question": "Outline the harmful effects of fever.",
+    "answer": "Although fever is a protective defence, a high or prolonged fever is harmful:\n\n1. Energy loss. The body burns extra fuel to maintain a high metabolic rate and to produce heat, causing weakness, tiredness and weight loss.\n2. Discomfort and pain. Fever is accompanied by headache, body ache, chills, shivering and malaise.\n3. Dehydration. Sweating, vomiting and a raised breathing rate increase fluid loss, and a raised metabolic rate increases the need for water.\n4. Increased work for the heart and lungs. Each 1°C rise increases the heart rate and respiratory rate, which is dangerous in patients with heart or lung disease.\n5. Febrile seizures. In infants and young children a rapidly rising temperature may cause convulsions.\n6. Enzyme and protein damage. Body temperature above about 105°F (40.6°C) can denature enzymes and other proteins, damage brain cells and, if not controlled, cause death.\n7. Loss of appetite and dehydration can delay recovery, and prolonged fever may indicate a serious underlying infection.\n\nFor these reasons high fever is controlled with antipyretics, fluids and treatment of the underlying cause.",
+    "explanation": "Textbook section 13.2.4 (harmful effects of fever; temperature above 105°F denatures proteins).",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State and explain how a bacterium is identified as non-self by our immune system.",
+    "answer": "The immune system must distinguish the body's own molecules (self) from those of invading microorganisms (non-self). A bacterium is identified as non-self because it carries molecules that are absent from human cells, and these molecules are recognised by several overlapping mechanisms.\n\n1. Antigens and epitopes. Any foreign macromolecule that can elicit an immune response is called an antigen. Proteins and polysaccharides on the bacterial surface, such as cell-wall peptidoglycan, lipopolysaccharide (LPS) of Gram-negative bacteria, flagellin and lipoproteins, act as antigens. The immune system recognises small parts of these molecules called epitopes.\n\n2. Innate recognition by phagocytes. Neutrophils, macrophages and dendritic cells carry surface receptors for conserved microbial molecules (pathogen-associated molecular patterns). The textbook names peptidoglycan, flagellin, lipopolysaccharides and lipopeptides as the bacterial molecules recognised. Binding of these molecules triggers phagocytosis and the release of cytokines and interferons. Because humans do not make these molecules, their presence signals 'non-self'.\n\n3. Complement and opsonisation. Bacterial surfaces activate the complement system, which coats the bacterium with complement proteins (opsonisation), attracts phagocytes and can lyse the bacterial membrane. Antibodies can also coat bacteria and make them easier to engulf.\n\n4. Antigen presentation and adaptive recognition. After phagocytosis, dendritic cells and macrophages digest the bacterium and display bacterial peptide fragments on MHC-II molecules. They carry the peptide–MHC-II complex to the surface and present it to helper T (TH) cells. The TH cell's T-cell receptor binds the foreign peptide–MHC-II combination, and co-stimulatory signals (for example B7–CD28) confirm that the antigen is foreign. The TH cell is activated and releases cytokines.\n\n5. B cells and antibodies. B lymphocytes carry B-cell receptors (membrane antibodies) that bind native bacterial antigens. With TH help, the selected B cell proliferates (clonal selection), differentiates into plasma cells and secretes antibodies specific to the bacterium. Antibodies neutralise, agglutinate or opsonise the bacterium and activate complement.\n\n6. Cytotoxic T cells. When bacteria multiply inside host cells, bacterial peptides are displayed on MHC-I of the infected cell. CD8 cytotoxic T cells recognise this foreign peptide–MHC-I complex and kill the infected cell, depriving the bacterium of its habitat.\n\n7. Self-recognition and missing self. All nucleated body cells display self-peptides on MHC-I. When MHC-I is normal, NK cells are inhibited; when it is lost or altered, as in infected or tumour cells, NK cells treat the cell as non-self and destroy it. Self-reactive lymphocytes are normally eliminated or suppressed, which prevents attack on the body's own tissues.\n\nIn this way the immune system uses microbial surface molecules as non-self flags, reinforces the signal by antigen presentation to T cells and by antibody production, and finally destroys the bacterium through phagocytosis, complement, antibodies and cytotoxic cells. Memory B and T cells remain so that a second infection by the same bacterium is dealt with more rapidly.",
+    "explanation": "Textbook sections 13.2.1 (phagocyte receptors for bacterial molecules), 13.2.2 (complement), 13.3 (antigen, self/non-self, MHC-I/II) and 13.3.2 (T and B cells); the presentation and clonal-selection steps are amplified from standard immunology.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What is cytotoxicity? Compare and contrast the mechanisms of NK cell and Tc cell.",
+    "answer": "Cytotoxicity is the ability of a cell or substance to damage or kill a target cell. In immunity it refers to the killing of virus-infected cells, tumour cells and other abnormal cells by cytotoxic lymphocytes. The two main cytotoxic cells are natural killer (NK) cells and cytotoxic T (Tc) cells. Both arise from the lymphoid lineage in bone marrow, both kill by inducing apoptosis, and both use perforin and granzymes, but they differ in how they recognise a target and in their specificity.\n\nMechanism of NK cells:\n1. NK cells circulate in blood and patrol tissues as part of the innate immune system. They are not MHC-restricted and have no T-cell receptor.\n2. They carry inhibitory receptors for MHC-I. If a cell displays normal MHC-I, the inhibitory signal stops the NK cell. If MHC-I is missing or altered — 'missing self', as in virus-infected or tumour cells — the inhibition is lost and the NK cell is activated.\n3. Activated NK cells release perforin, which forms pores in the target membrane, and granzymes, which enter through the pores and activate caspases, causing programmed cell death (apoptosis).\n4. NK cells also secrete cytokines such as interferon-γ, and can kill antibody-coated cells by antibody-dependent cell-mediated cytotoxicity (ADCC).\n5. They act within hours, without prior exposure to the antigen, and show little immunological memory.\n\nMechanism of Tc cells:\n1. Tc cells are CD8-bearing T lymphocytes of the adaptive immune system. Each Tc cell carries a TCR that is specific for one antigen.\n2. They recognise antigen only when the peptide is displayed on MHC-I on the surface of a nucleated target cell (MHC restriction). They are activated when an antigen-presenting cell presents the antigen together with co-stimulatory signals and helper-T-cell cytokines.\n3. The activated Tc cell proliferates and differentiates into a clone of effector cells and memory cells.\n4. Effector Tc cells bind the target, release perforin and granzymes, and may also trigger apoptosis through Fas ligand. They secrete IFN-γ and TNF-α and then move on to kill another target — hence they are called 'serial killers'.\n5. They act after a delay of several days, are highly specific, and leave memory T cells that give a rapid response on re-exposure.\n\nComparison:\n- Specificity: NK non-specific; Tc antigen-specific.\n- Recognition: NK detects missing/altered MHC-I; Tc recognises foreign peptide on MHC-I.\n- Receptor: NK has no TCR; Tc has a TCR and CD8.\n- Activation: NK is ready immediately; Tc needs antigen presentation, co-stimulation and helper-T cytokines.\n- Timing: NK acts within hours (innate); Tc takes days (adaptive).\n- Memory: NK has little or none; Tc produces memory cells.\n- Shared features: both are lymphoid in origin, both kill by perforin/granzyme-induced apoptosis, and both defend against viruses and tumours.\n\nThus NK cells provide a rapid first-line cytotoxic defence, while Tc cells provide specific, long-lasting and memory-bearing cytotoxicity.",
+    "explanation": "Textbook section 13.2.1 (cytotoxicity: NK cells, MHC-I 'missing self', perforin/granzyme; Tc cells, CD8, 'serial killers', memory T cells), together with the adaptive-immunity section 13.3.2.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is inflammation? Why it is developed and how it is controlled?",
+    "answer": "Inflammation is a localised, non-specific response to tissue injury or infection. It is one of the four major responses of the second line of defence. The classical signs are redness (rubor), heat (calor), swelling (tumour), pain (dolor) and loss of function (functio laesa).\n\nWhy inflammation develops:\nInflammation is protective. It isolates the site of injury, prevents the spread of pathogens, brings phagocytes and antimicrobial proteins to the area, removes dead cells and debris, and creates conditions for tissue repair. Without it, infection could spread rapidly through the body. It develops when tissue is damaged by infection, cuts, burns, chemicals, radiation or an allergic reaction, or when pathogens breach the first line of defence.\n\nMechanism:\n1. Tissue injury or infection stimulates mast cells and basophils to release histamine, and prostaglandins and other mediators are produced at the site.\n2. Histamine and prostaglandins cause vasodilation of arterioles, so more blood flows to the area and it becomes red and warm.\n3. They increase capillary permeability, so plasma proteins and fluid leak into the tissue, producing swelling and pain. Prostaglandins and bradykinin sensitise pain receptors.\n4. Chemotactic factors attract neutrophils and monocytes from the blood. Neutrophils arrive first and phagocytose bacteria; monocytes become macrophages.\n5. Phagocytes and antimicrobial proteins destroy the pathogen, dead tissue is removed, and pus — dead neutrophils, bacteria and debris — may collect.\n6. Once the stimulus is removed, the response subsides and fibroblasts and endothelial cells repair the tissue.\n\nHow it is controlled:\nInflammation is self-limiting in normal circumstances. Removal and destruction of the pathogen eliminates the trigger. Macrophages clear debris and release anti-inflammatory cytokines; suppressor/regulatory T cells and feedback inhibition reduce the response. Anti-inflammatory drugs (NSAIDs, steroids, antihistamines) inhibit prostaglandins or histamine and relieve the signs. If the cause persists, the response becomes chronic, with continued tissue destruction and scarring; rheumatoid arthritis is an example of chronic autoimmune inflammation of the joints. In such cases immunosuppressive drugs may be needed.",
+    "explanation": "Textbook sections 13.2.3 (inflammation, histamine, prostaglandins, chemotaxis, cardinal signs, pus) and the rheumatoid arthritis box; control mechanisms include standard immunology.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Explain the underlying mechanism of the fever. State and explain its protective role as well as harmful effects.",
+    "answer": "Fever (pyrexia) is an abnormal rise in body temperature above the normal set point of about 98.6°F (37°C). It is a non-specific defence of the second line of immunity.\n\nMechanism:\n1. Fever is triggered by pyrogens. Exogenous pyrogens include bacterial toxins and endotoxins; endogenous pyrogens include cytokines such as interleukin-1 (IL-1), IL-6, tumour necrosis factor (TNF) and interferon-α, released by phagocytes and other cells in response to infection or inflammation.\n2. The pyrogens travel in the blood to the hypothalamus, the temperature-regulating centre of the brain.\n3. The hypothalamus responds by producing prostaglandin (PGE2), which raises the temperature set point.\n4. The body now behaves as if it were too cold: cutaneous blood vessels constrict so less heat is lost, sweating decreases, and shivering and increased metabolism generate more heat. Body temperature rises until it reaches the new set point.\n5. When the pyrogens are removed and prostaglandin production falls, the set point returns to normal. The body then loses heat by sweating and vasodilation, and the temperature falls (the 'crisis').\n\nProtective role:\n- Many bacteria and fungi cannot grow or multiply at a raised temperature.\n- Fever enhances phagocytosis and speeds up the immune response.\n- It increases metabolic activity and the movement of white blood cells to the site of infection.\n- It is a signal that infection is present and helps in the response to it.\n\nHarmful effects:\n- Fever is metabolically expensive and causes fatigue, weakness, headache, body ache and loss of appetite.\n- Perspiration and increased breathing cause dehydration.\n- Each degree of temperature rise increases the heart and respiratory rates, which strains the heart and lungs.\n- In infants and young children, fever may cause febrile seizures.\n- Temperature above about 105°F (40.6°C) denatures enzymes and other proteins, damages brain cells and can cause death if not controlled.\n- Prolonged fever may itself cause tissue damage and delay recovery.\n\nFor these reasons high fever is treated with antipyretics (aspirin, paracetamol, ibuprofen), which inhibit prostaglandin synthesis in the hypothalamus and lower the set point, together with fluids and treatment of the underlying infection.",
+    "explanation": "Textbook section 13.2.4 (pyrogens, hypothalamus and prostaglandin, protective role, harmful effects above 105°F) and the antipyretic box.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Discuss the structural features of antibody? How it is helpful in getting rid of pathogenic organisms.",
+    "answer": "An antibody (immunoglobulin) is a soluble protein produced by plasma cells in response to an antigen. It is Y-shaped and has a highly variable antigen-binding region at the tips of the Y and a constant region that carries out effector functions.\n\nStructural features:\n1. Four polypeptide chains. Each antibody molecule consists of two identical heavy (H) chains and two identical light (L) chains, held together by disulfide bonds.\n2. Variable and constant regions. The amino-terminal part of each chain is the variable region (VH and VL); its amino-acid sequence differs from one antibody to another and forms the antigen-binding site. The rest is the constant region (CH and CL), which is the same within a class and determines how the antibody is handled by the body.\n3. Antigen-binding sites. The paired VH and VL domains at the two tips form two identical antigen-binding sites, so a single IgG molecule can bind two epitopes. The shape of the site is complementary to the epitope.\n4. Fab and Fc portions. The two 'arms' of the Y are the Fab (antigen-binding fragment) portions. The stem is the Fc (crystallisable) portion, made of the constant regions of the heavy chains; it binds complement and Fc receptors on phagocytes.\n5. Hinge region. A flexible hinge between Fab and Fc allows the two arms to move and bind antigens that are spaced apart.\n6. B-cell receptor. A B cell carries a membrane-bound form of the antibody as its B-cell receptor (BCR); the same cell, after activation, secretes the soluble form.\n7. Classes. Differences in the heavy-chain constant region produce five classes: IgG, IgA, IgM, IgE and IgD. IgG is the main circulating antibody and crosses the placenta; IgA is secreted in milk, saliva and mucus; IgM is a pentamer and acts early; IgE binds mast cells in allergy; IgD is mainly a B-cell receptor.\n\nHow antibodies help remove pathogens:\n- Neutralisation: antibodies cover the surface proteins of viruses and the toxins of bacteria, preventing them from binding to host cells.\n- Agglutination: each antibody can link two antigens, so bacteria or viruses clump together and are easier to phagocytose.\n- Precipitation: soluble antigens and antibodies form complexes that are removed by phagocytes.\n- Opsonisation: the Fc portion of the antibody binds Fc receptors on macrophages and neutrophils, greatly enhancing phagocytosis.\n- Complement activation: the Fc portion activates the classical complement pathway, producing pores in the bacterial membrane (membrane attack complex) and promoting inflammation and phagocytosis.\n- Antibody-dependent cell-mediated cytotoxicity (ADCC): NK cells bind antibody-coated target cells through Fc receptors and kill them.\n- Toxin neutralisation and immobilisation: antibodies neutralise bacterial toxins (antitoxins) and immobilise motile organisms.\n\nThus the variable regions give antibodies their specificity, while the constant regions recruit phagocytes, complement and NK cells to destroy the pathogen. Memory B cells ensure a faster and stronger response on re-exposure.",
+    "explanation": "Textbook section 13.3.2 and Fig. 13.13 (BCR made of heavy and light chains with variable and constant regions); the detailed Fab/Fc structure, antibody classes and effector functions are standard immunology required by this exercise.",
+    "pdfPage": 320,
+    "bookPage": 316
+  },
+  {
+    "section": "C",
+    "number": 6,
+    "question": "What do you understand by autoimmune disorder? Explain the role of T cells and B cells in transplant rejection.",
+    "answer": "An autoimmune disorder is a condition in which the immune system fails to recognise the body's own tissues as self and mounts an immune attack against them. Normally, self-reactive lymphocytes are eliminated or kept under control (self-tolerance). If this tolerance breaks down, autoantibodies and cytotoxic T cells destroy the body's own cells. The exact cause is uncertain; genetic predisposition, bacterial or viral infections, drugs, toxins and pollutants are suspected triggers. Commonly affected tissues include muscles, joints, blood vessels and connective tissue, and symptoms include malaise, low fever, fatigue, muscle ache and rashes. Examples are type-1 diabetes mellitus (destruction of pancreatic β-cells), rheumatoid arthritis (inflammation and destruction of joints), psoriasis (skin) and multiple sclerosis (myelin). Treatment aims to reduce the immune attack with immunosuppressive drugs and to replace the missing product, such as insulin.\n\nTransplant rejection:\nA transplant (graft) is tissue or an organ — commonly kidney, liver, heart or skin — taken from a donor and placed in a recipient. Because donor and recipient are genetically different, the donor tissue carries foreign MHC (HLA) molecules and is recognised as non-self. Rejection can be cell-mediated or antibody-mediated.\n\nRole of T cells:\n1. Donor dendritic cells migrate from the graft to the recipient's lymphoid tissue and present donor antigens to recipient helper T (TH) cells. Recipient APCs can also pick up donor antigens and present them on self MHC-II (indirect presentation).\n2. Activated TH cells proliferate and release cytokines such as IL-2 and interferon-γ.\n3. These cytokines activate cytotoxic T (Tc) cells, which recognise donor MHC-I on the graft cells and kill them with perforin and granzymes. They also activate NK cells and macrophages, which attack the graft.\n4. Memory T cells are formed, so a second transplant from the same donor is rejected more rapidly.\n\nRole of B cells:\n1. Activated TH cells stimulate B cells that have bound donor antigens. The B cells differentiate into plasma cells and secrete antibodies against donor MHC and other graft antigens.\n2. Antibodies bind the graft endothelium, activate complement and attract neutrophils and macrophages, causing rapid destruction of the graft (humoral or antibody-mediated rejection).\n3. Some antibodies may also cause hyperacute rejection in a recipient who already has preformed antibodies.\n\nBecause both T and B cells mediate rejection, transplant recipients are given immunosuppressive drugs (for example cyclosporine, tacrolimus, steroids) to inhibit lymphocyte activation and antibody production. Donor–recipient tissue matching (HLA typing) and regular monitoring reduce the risk, but immunosuppression has side effects such as infections, diabetes, hypertension and osteoporosis.",
+    "explanation": "Textbook section 13.3.3 (autoimmune diseases; transplant rejection mediated by T cells and B cells; immunosuppressant box).",
+    "pdfPage": 320,
+    "bookPage": 316
+  }
+]

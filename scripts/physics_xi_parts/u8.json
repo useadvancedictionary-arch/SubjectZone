@@ -1,0 +1,382 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "A 2μC point charge is located a distance “d” away from 6μC point charge, what is the ratio of F₁₂/F₂₁?",
+    "options": [
+      "1/3",
+      "3",
+      "1",
+      "12"
+    ],
+    "correct": "c",
+    "answer": "(c) 1",
+    "explanation": "By Newton's third law the force that the 2 μC charge exerts on the 6 μC charge is equal in magnitude and opposite in direction to the force the 6 μC charge exerts on it. Coulomb's law contains the product q₁q₂, which is the same either way, so F₁₂ = F₂₁ and their ratio is 1. Options 1/3 and 3 come from wrongly taking the ratio of the charges (2/6), and 12 is not a ratio of forces at all.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The minimum charge on an object cannot be less than:",
+    "options": [
+      "1.6 x 10⁻¹⁹C",
+      "3.2 x 10⁻¹⁹C",
+      "9.1 x 10⁹",
+      "No definite value exist"
+    ],
+    "correct": "a",
+    "answer": "(a) 1.6 x 10⁻¹⁹C",
+    "explanation": "Charge is quantized: every charge is an integral multiple of the elementary charge e = 1.6 × 10⁻¹⁹ C, so no object can carry a smaller free charge than this. A charge of 3.2 × 10⁻¹⁹ C (= 2e) is possible but is not the minimum. The value 9.1 × 10⁹ is of the order of Coulomb's constant, not a charge, and charge certainly has a definite smallest value, so (d) is wrong.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Two charges are placed at a certain distance. If the magnitude of each charge is doubled the force will become",
+    "options": [
+      "1/4th of its original value",
+      "4 times of its original value",
+      "1/8th of its original value",
+      "8 times of its original value"
+    ],
+    "correct": "b",
+    "answer": "(b) 4 times of its original value",
+    "explanation": "Coulomb's law gives F = kq₁q₂/r², so the force is proportional to the product of the two charges. Doubling each charge multiplies the product by 2 × 2 = 4 while r is unchanged, so the force becomes four times larger. The options 1/4 and 1/8 would require the charges or the distance to be reduced, and 8 would need the product to increase eightfold.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Which of the following can be deflected while moving in the electric field?",
+    "options": [
+      "neutron",
+      "photon",
+      "electron",
+      "(a) and (b)"
+    ],
+    "correct": "c",
+    "answer": "(c) electron",
+    "explanation": "Only a particle carrying electric charge experiences the force F = qE, so only a charged particle can be deflected by an electric field; the electron is negatively charged and is deflected towards the positive plate. The neutron has no charge and the photon is electrically neutral (and is not a charged particle), so neither is deflected. Option (d) is therefore also wrong, because (a) and (b) are precisely the particles that are not deflected.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The flux through a flat surface of are “A” in a uniform electric field “E” is maximum when the surface area is:",
+    "options": [
+      "Parallel to E",
+      "perpendicular to E",
+      "placed 45° to E",
+      "placed 60° to E"
+    ],
+    "correct": "b",
+    "answer": "(b) perpendicular to E",
+    "explanation": "The flux is Φ = E·A = EA cosθ, where θ is the angle between the field and the normal to the surface. It is maximum when cosθ = 1, i.e. when the normal is parallel to E, which means the surface itself is perpendicular to the field. If the surface is parallel to E the normal is at 90° and the flux is zero, while 45° and 60° give only 0.707 and 0.5 of the maximum.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The product of charge “q” and small separation “d” between two charges of same magnitude and opposite in nature is known as:",
+    "options": [
+      "Electric dipole",
+      "Moment arm",
+      "Electric dipole moment",
+      "Flux of electric field"
+    ],
+    "correct": "c",
+    "answer": "(c) Electric dipole moment",
+    "explanation": "Two equal and opposite charges ±q separated by a small distance d form an electric dipole, and the product p = qd is defined as its electric dipole moment, a vector directed from the negative charge to the positive charge with unit C·m. The electric dipole is the pair of charges itself, not the product, and the moment arm is the perpendicular distance used in calculating torque, not a charge times a distance in this sense. Electric flux is a quite different quantity, E·A.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "12 J of work is to be done against an existence electric field to take a charge of 0.01 C from one-point A to another point B. The potential difference between B and A is",
+    "options": [
+      "120 V",
+      "1200 V",
+      "1.2 V",
+      "12 V"
+    ],
+    "correct": "b",
+    "answer": "(b) 1200 V",
+    "explanation": "The work done by an external agent against the field equals q times the potential difference: W = q(V_B − V_A). Hence V_B − V_A = W/q = 12/0.01 = 1200 V. Because the work is done against the field to move a positive charge, point B is at the higher potential, so the difference is positive 1200 V; 120 V comes from taking q = 0.1 C, and 12 V or 1.2 V from misplacing the decimal point.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "The force between two charges placed in air is F. if air is replaced by a medium of relative permittivity εᵣ then force is reduced to:",
+    "options": [
+      "Fεᵣ",
+      "F/εᵣ",
+      "εᵣ/F",
+      "εεᵣ"
+    ],
+    "correct": "b",
+    "answer": "(b) F/εᵣ",
+    "explanation": "In a medium the force between two charges becomes F′ = q₁q₂/(4πε₀εᵣr²) = F/εᵣ, because the permittivity is ε = εᵣε₀ and the dielectric reduces the field between the charges. Since εᵣ > 1 for any material, the force is always reduced, never increased. Fεᵣ and εᵣ/F have the wrong dependence, and εεᵣ is a permittivity, not a force.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The negative gradient of the potential is:",
+    "options": [
+      "potential energy",
+      "voltage",
+      "electric field intensity",
+      "electric flux"
+    ],
+    "correct": "c",
+    "answer": "(c) electric field intensity",
+    "explanation": "The electric field and the potential are related by E = −dV/dr, so the electric field intensity is the negative gradient of the potential. The minus sign shows that the field points in the direction in which the potential decreases. Potential energy is qV, voltage is a potential difference, and electric flux is E·A, so none of the others is a gradient of the potential.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The electric flux through a plane area will be half of its maximum value when area is held at angle of ____ with electric field",
+    "options": [
+      "30°",
+      "60°",
+      "45°",
+      "90°"
+    ],
+    "correct": "a",
+    "answer": "(a) 30°",
+    "explanation": "If the plane of the area makes an angle φ with the field, the normal makes an angle 90° − φ with it, so Φ = EA cos(90° − φ) = EA sinφ. Half the maximum flux requires sinφ = 0.5, giving φ = 30°. At 45° the flux is 0.707 of the maximum and at 90° it is zero. Note the convention: if the angle were measured between the normal (area vector) and E, the answer would be 60°, but the question specifies the angle of the area itself with the field, so 30° is correct.",
+    "pdfPage": 184,
+    "bookPage": 180
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Why do most objects tend to contain nearly equal numbers of positive and negative charges?",
+    "answer": "Because electric charge is conserved and is created only in equal and opposite pairs, and because the electric force is extremely strong. Every atom contains as many protons as electrons, so an object built from atoms is neutral unless it gains or loses electrons. If a body did acquire an excess of one kind of charge, the resulting repulsion would drive the extra charges to the surface and then into the surrounding air, or would attract charges of the opposite sign from the air, until the body became neutral again. The Earth and the universe as a whole are also electrically neutral on a large scale. Charging a body therefore always means transferring electrons from one body to another, never creating a net amount of charge.",
+    "explanation": "Key principle: conservation of charge and charge quantization, together with the very large magnitude of electric forces, make any large imbalance disappear quickly.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "When measuring an electric field, could we use a negative rather than a positive test charge?",
+    "answer": "Yes. The electric field is defined by E = F/q₀ for a small test charge q₀, and the definition works for a test charge of either sign provided it is small enough not to disturb the charges that produce the field. If a negative test charge is used, the force on it points opposite to E, but dividing that force by the negative value of q₀ reverses the direction again, so the field comes out the same. A positive test charge is chosen only by convention, because then F and E point in the same direction and the field direction is easier to visualise. One practical caution is that a negative test charge released in the field accelerates opposite to E, so it is harder to hold in place while the force is measured.",
+    "explanation": "Key point: E = F/q₀ is valid for either sign of test charge; the direction of the force reverses but so does the sign of q₀, so the field is unchanged.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "During fair weather, the electric field due to the net charge on Earth points downward. Is Earth charged positively or negatively?",
+    "answer": "Earth is charged negatively. The direction of an electric field is defined as the direction of the force that the field would exert on a positive test charge. Since the fair-weather field points downward, towards the Earth's surface, a positive charge placed near the ground is pushed downward, i.e. it is attracted towards the Earth. A body that attracts positive charge must itself carry net negative charge, so the Earth has an excess of electrons. The positively charged atmosphere above it completes the system. The field strength near the surface is about 100 to 150 V/m, corresponding to a negative surface charge density of the order of 10⁻⁹ C/m².",
+    "explanation": "Key rule: the field direction is the direction of the force on a positive charge, so a downward field means positive charge is attracted downwards and Earth must be negative.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "How the electric flux through a closed surface is independent on the size or shape of the surface enclosed the charge.",
+    "answer": "For any closed surface enclosing a net charge q, the total outward electric flux is Φ = q/ε₀, by Gauss's law, and this depends only on the charge inside, not on the size or shape of the surface. The reason is that the field of a point charge falls off as 1/r² while the area of a surface at distance r grows as r²; the product E × A, and therefore the number of field lines crossing the surface, stays the same for every surface that encloses the charge. Field lines begin on positive charges and end on negative charges, so every line leaving an enclosed positive charge must cross the surface exactly once whatever its shape. A line from a charge outside the surface enters and leaves, contributing zero net flux, so only the enclosed charge counts.",
+    "explanation": "Key idea: Gauss's law, Φ = q/ε₀. The 1/r² fall-off of the field exactly compensates the r² growth of area, and field lines from outside charges cross in and out equally.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "What is electric dipole and electric dipole moment?",
+    "answer": "An electric dipole is a pair of equal and opposite point charges, +q and −q, separated by a small distance d (often written 2a). A molecule such as HCl or H₂O, in which the centres of positive and negative charge do not coincide, behaves as a dipole. The electric dipole moment is defined as p = qd, a vector whose magnitude is the product of the charge and the separation and whose direction is from the negative charge towards the positive charge. Its SI unit is the coulomb metre (C·m). The dipole moment measures the strength of the dipole: the torque on it in a uniform field is τ = pE sinθ and its potential energy is U = −pE cosθ, so a dipole tends to align itself with the field.",
+    "explanation": "Key facts: p = qd, directed from −q to +q, unit C·m; the torque in a field is τ = pE sinθ and the potential energy is U = −pE cosθ.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "A charged particle is seen to be moving in an electric field along a straight line. How it effects the path of motion of the particle?",
+    "answer": "If a charged particle moves in a uniform electric field along a straight line parallel or antiparallel to the field, the electric force qE acts along the line of motion. There is then no force perpendicular to the velocity, so the path stays straight and the field only changes the speed: it accelerates a charge moving in the direction of the force and decelerates (then reverses) one moving against it. If, however, the velocity makes an angle with E, the component of velocity perpendicular to E is unchanged while the parallel component changes, so the path becomes a parabola, just like projectile motion under gravity. A straight-line path therefore tells us that the velocity is parallel or antiparallel to E (or that E is zero).",
+    "explanation": "Key idea: only the component of force perpendicular to the velocity bends the path. A straight path means v is parallel or antiparallel to E, so the field changes only the speed.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "An electron has a speed of 10⁶ m/s. Find its energy in electron volt. (Ans. 2.84 eV)",
+    "answer": "Given:\nv = 10⁶ m/s; m = 9.1 × 10⁻³¹ kg; e = 1.6 × 10⁻¹⁹ C.\nFormula:\nK = ½mv²; energy in electron volt = K/e.\nSubstitution:\nK = ½ × 9.1 × 10⁻³¹ × (10⁶)² = 4.55 × 10⁻¹⁹ J;\nK = 4.55 × 10⁻¹⁹/1.6 × 10⁻¹⁹.\nCalculation:\nK = 2.84 eV.\nResult:\nK ≈ 2.84 eV, which agrees with the printed answer (Ans. 2.84 eV). The speed is far below the speed of light, so the non-relativistic formula is valid.",
+    "explanation": "Divide the kinetic energy in joules by e = 1.6 × 10⁻¹⁹ C to convert it to electron volt; remember to square the speed in m/s.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Define electric charge. Discuss the fundamental properties of electric charge, including the principles of conservation of charge and quantization of charge.",
+    "answer": "Electric charge is the intrinsic property of matter that causes it to experience and exert electric forces. There are two kinds, positive (protons) and negative (electrons); like charges repel, unlike charges attract, and charge is measured in coulombs (C).\nFundamental properties:\n1. Two kinds of charge: positive and negative, and the force between two charges depends on the product of their magnitudes and on the distance between them.\n2. Quantization: charge exists only in integral multiples of the elementary charge e = 1.6 × 10⁻¹⁹ C, so q = ±ne where n = 0, 1, 2, ... This was demonstrated by Millikan's oil-drop experiment. One coulomb therefore corresponds to 1/1.6 × 10⁻¹⁹ = 6.25 × 10¹⁸ electrons.\n3. Conservation: the net charge of an isolated system remains constant. Charge is never created or destroyed, only transferred from one body to another. When a glass rod is rubbed with silk, the rod becomes positive and the silk carries an equal negative charge, so the total charge is unchanged.\n4. Additivity: the total charge of a system is the algebraic sum of the individual charges, because charge is a scalar quantity.\n5. Invariance: the charge on a particle is the same in all inertial frames; it does not change with speed, unlike mass.\n6. Distribution: charge resides on the outer surface of a conductor, distributed so that the field inside a conductor at rest is zero.\nThese properties explain why matter is normally neutral: equal numbers of protons and electrons give zero net charge, and any imbalance is quickly removed by transfer of electrons. They also underlie the working of capacitors, conductors and all electrostatic devices.",
+    "explanation": "Key principles: two kinds of charge, quantization q = ne with e = 1.6 × 10⁻¹⁹ C, and conservation of net charge in an isolated system. A common mistake is to say charge can be created by friction rather than transferred.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "State and explain Coulombs law. Apply it to calculate the electric field due to an isolated point charge.",
+    "answer": "Statement: the electrostatic force between two point charges at rest is directly proportional to the product of the charges and inversely proportional to the square of the distance between them, and it acts along the line joining them. In symbols F = k q₁q₂/r², where k = 1/(4πε₀) = 9 × 10⁹ N·m²/C². In a medium of relative permittivity εᵣ the force becomes F = q₁q₂/(4πε₀εᵣr²), so the medium reduces the force by the factor εᵣ.\nExplanation: the force is repulsive for charges of the same sign and attractive for opposite signs; it obeys Newton's third law, since the force on each charge is equal and opposite; and it obeys the inverse-square law with distance. For more than two charges, the principle of superposition applies: the net force on any charge is the vector sum of the forces due to all the others.\nElectric field of an isolated point charge: place a small test charge q₀ at a point P at distance r from a charge q. By Coulomb's law the force on the test charge is F = kqq₀/r², so the electric field at P is\nE = F/q₀ = kq/r² = q/(4πε₀r²).\nThe field is directed radially outward from a positive charge and radially inward towards a negative charge, and its magnitude falls off as 1/r². Because the field of many charges obeys superposition, this result is the building block for finding the field of any charge distribution. Example: at 0.30 m from a 2 μC charge, E = (9 × 10⁹ × 2 × 10⁻⁶)/(0.30)² = 2 × 10⁵ N/C, directed away from the charge.",
+    "explanation": "Combine F = kq₁q₂/r² with the definition E = F/q₀; the test charge cancels, leaving E = kq/r². Remember the direction: outward for positive q, inward for negative q.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Define electric flux and explain its significance in the study of electromagnetism. How does it relate to electric fields and charged particles?",
+    "answer": "Electric flux is a measure of the number of electric field lines crossing a given surface. For a flat surface of area A in a uniform field E, the flux is Φ = E·A = EA cosθ, where θ is the angle between the field and the normal to the surface; the SI unit is N·m²/C. The flux is maximum when the surface is perpendicular to the field (θ = 0) and zero when the surface is parallel to the field (θ = 90°). For a closed surface the outward flux is q/ε₀, where q is the net charge enclosed — this is Gauss's law.\nSignificance in electromagnetism: flux is the quantity that links the electric field to its sources. Gauss's law, one of Maxwell's four equations, states that the flux through any closed surface depends only on the enclosed charge, so it lets us find the field of symmetric distributions — a charged sphere, cylinder or infinite plane — with a simple surface integral instead of a difficult volume integration. Because flux can change with time and a changing electric flux acts like a current (displacement current), flux is also central to electromagnetic induction and to the existence of electromagnetic waves.\nRelation to fields and charges: the field E is the flux per unit area perpendicular to it, and the sources of the flux are charges; field lines start on positive charge and end on negative charge. The flux through a closed surface is positive when it encloses net positive charge, negative for net negative charge, and zero when the enclosed charge is zero, which is why a closed metal shell shields its interior from outside fields.",
+    "explanation": "Key ideas: Φ = EA cosθ and Gauss's law Φ = q/ε₀. Flux counts field lines crossing a surface and depends only on the charge enclosed for a closed surface.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "What is electric potential? Driven expression for potential due to an isolated point charge.",
+    "answer": "Electric potential at a point is the work done per unit positive charge by an external agent in bringing a small positive test charge from infinity to that point without acceleration. If W is the work done in bringing a charge q₀ from infinity to the point, then V = W/q₀. Potential is a scalar quantity and its SI unit is the volt (V), where 1 V = 1 J/C. The potential at infinity is taken as zero. The potential difference between two points is V_B − V_A = W_AB/q₀, and the electric field is the negative gradient of the potential, E = −dV/dr.\nDerivation for an isolated point charge: let a charge Q be at the origin and let the point P be at distance r. At a distance x from Q the field is E = kQ/x², directed radially outward if Q is positive. The external force needed to move a test charge q₀ without acceleration is equal and opposite to the electric force, F = −kQq₀/x². The work done by this external force in moving the test charge from infinity to r is\nW = ∫(from ∞ to r) (−kQq₀/x²) dx = kQq₀ [−1/x]∞^r = kQq₀/r.\nTherefore V = W/q₀ = kQ/r = Q/(4πε₀r).\nFor a positive charge the potential is positive and decreases as 1/r; for a negative charge it is negative. Equipotential surfaces are concentric spheres around the charge, and the potential difference between two points at distances r_A and r_B is V_B − V_A = kQ(1/r_B − 1/r_A). Example: at 0.10 m from a 1 μC charge, V = (9 × 10⁹)(1 × 10⁻⁶)/0.10 = 9 × 10⁴ V.",
+    "explanation": "Key definition V = W/q₀ and result V = kQ/r. Note that the work is done by an external agent against the field, and that potential, unlike field, is a scalar.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Define an electric dipole. Derive formula for the electric field due to an electric dipole at a point “P” placed on its axial line.",
+    "answer": "An electric dipole is a pair of equal and opposite point charges, +q and −q, separated by a small distance 2a. Its electric dipole moment is p = q × 2a, a vector directed from the negative charge towards the positive charge; its SI unit is C·m.\nDerivation for the axial line: let the charges be at A (−q) and B (+q) with the centre O between them, so OB = OA = a. Take a point P on the axis on the side of the positive charge B, at distance r from O, with r much greater than a.\nThe field at P due to +q at B is E₊ = kq/(r − a)², directed away from B, i.e. along OP.\nThe field at P due to −q at A is E₋ = kq/(r + a)², directed towards A, i.e. opposite to OP.\nSince the two fields are along the same line but in opposite directions and E₊ is larger, the net field is\nE = E₊ − E₋ = kq[1/(r − a)² − 1/(r + a)²].\nCombining the fractions,\nE = kq[(r + a)² − (r − a)²]/(r² − a²)² = kq(4ar)/(r² − a²)².\nSince p = q(2a), this can be written E = 2kpr/(r² − a²)².\nFor a short dipole, r is much greater than a, so r² − a² ≈ r² and\nE = 2kp/r³ = p/(2πε₀r³).\nThe field is directed along the dipole moment, from −q towards +q, and falls off as 1/r³, faster than the 1/r² field of a single charge. For the same distance the axial field is twice the equatorial field, which is kp/r³ and points opposite to p. Example: for p = 4 × 10⁻⁹ C·m at r = 0.10 m, E = 2 × 9 × 10⁹ × 4 × 10⁻⁹/(0.10)³ = 7.2 × 10⁴ N/C.",
+    "explanation": "Key steps: E₊ − E₋ along the axis, then the approximation r >> a giving E = 2kp/r³. Remember the axial field is twice the equatorial field kp/r³.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Calculate the value of two equal charges if they repel one another with a force of 0.1 N when situated 50 cm apart in a vacuum. (b) What would be the size of the charges if they were situated in an insulating liquid whose permittivity was ten times that of a vacuum?",
+    "answer": "Given:\nF = 0.1 N; r = 50 cm = 0.50 m; q₁ = q₂ = q; k = 9 × 10⁹ N·m²/C²; for part (b) εᵣ = 10.\nFormula:\nF = kq²/r², so q = √(Fr²/k); in a medium F = kq²/(εᵣr²), so q′ = q√εᵣ.\nSubstitution:\nq = √(0.1 × 0.50²/9 × 10⁹) = √(0.025/9 × 10⁹);\nq′ = 1.67 × 10⁻⁶ × √10.\nCalculation:\nq = √(2.78 × 10⁻¹²) = 1.67 × 10⁻⁶ C;\nq′ = 1.67 × 10⁻⁶ × 3.162 = 5.27 × 10⁻⁶ C.\nResult:\n(a) q ≈ 1.7 × 10⁻⁶ C = 1.7 μC each.\n(b) q′ ≈ 5.3 × 10⁻⁶ C = 5.3 μC each.\nThese agree with the printed answers (1.7 μC, 5.3 μC). In the liquid the force is reduced tenfold, so the charges must be √10 times larger to give the same force.",
+    "explanation": "Key formula F = q²/(4πε₀εᵣr²). In a medium of εᵣ = 10 the charges must be √10 times larger to keep the same force.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "How far apart must two protons be if the magnitude of the electrostatic force acting on either one due to the other is equal to the magnitude of the gravitational force on a proton at Earth’s surface? (mass of proton = 1.67 X 10⁻²⁷ kg, charge of proton = 1.6 × 10⁻¹⁹ C)",
+    "answer": "Given:\nm = 1.67 × 10⁻²⁷ kg; e = 1.6 × 10⁻¹⁹ C; g = 9.8 m/s²; k = 9 × 10⁹ N·m²/C².\nFormula:\nElectrostatic force = weight of one proton: ke²/r² = mg, so r = e√(k/mg).\nSubstitution:\nr = 1.6 × 10⁻¹⁹ × √[9 × 10⁹/(1.67 × 10⁻²⁷ × 9.8)].\nCalculation:\nmg = 1.64 × 10⁻²⁶ N; k/mg = 5.50 × 10³⁵ m²/C²; √(k/mg) = 7.42 × 10¹⁷ m/C;\nr = 1.6 × 10⁻¹⁹ × 7.42 × 10¹⁷ = 0.119 m.\nResult:\nr ≈ 0.119 m, agreeing with the printed (0.119 m). At this separation each force is about 1.6 × 10⁻²⁶ N.",
+    "explanation": "Set ke²/r² = mg and solve for r; the charge and mass of a single proton are used for both particles because the forces are on one proton due to the other.",
+    "pdfPage": 185,
+    "bookPage": 181,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "An electron of charge 1.6 x 10⁻¹⁹ C is situated in a uniform electric field of intensity 1200-volt cm⁻¹. Find the force on it, its acceleration, and the time it takes to travel 2 cm from rest (electronic mass, m = 9.1 x 10⁻³¹ kg).",
+    "answer": "Given:\nq = 1.6 × 10⁻¹⁹ C; E = 1200 V cm⁻¹ = 1200/0.01 = 1.2 × 10⁵ V/m; m = 9.1 × 10⁻³¹ kg; s = 2 cm = 0.02 m; u = 0.\nFormula:\nF = qE; a = F/m; s = ½at², so t = √(2s/a).\nSubstitution:\nF = 1.6 × 10⁻¹⁹ × 1.2 × 10⁵;\na = 1.92 × 10⁻¹⁴/9.1 × 10⁻³¹;\nt = √(2 × 0.02/2.11 × 10¹⁶).\nCalculation:\nF = 1.92 × 10⁻¹⁴ N;\na = 2.11 × 10¹⁶ m/s²;\nt = √(1.90 × 10⁻¹⁸) = 1.38 × 10⁻⁹ s.\nResult:\nF ≈ 1.92 × 10⁻¹⁴ N, a ≈ 2.1 × 10¹⁶ m/s², t ≈ 1.4 × 10⁻⁹ s, agreeing with the printed (1.92 × 10⁻¹⁴ N, 2.12 × 10¹⁶ m s⁻², 1.37 × 10⁻⁹ s). Note: the book prints the acceleration unit as ms², which is a typographical error for m/s².",
+    "explanation": "Convert V/cm to V/m first (multiply by 100), then use F = qE, a = F/m and s = ½at². The book's unit ms² is a misprint for m/s².",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "An alpha particle (the nucleus of a helium atom) has a mass of 6.64 X 10⁻²⁷ kg and a charge of 2e. What are the (a) magnitude and (b) direction of the electric field that will balance the gravitational force on the particle?",
+    "answer": "Given:\nm = 6.64 × 10⁻²⁷ kg; q = 2e = 3.2 × 10⁻¹⁹ C; g = 9.8 m/s².\nFormula:\nFor balance qE = mg, so E = mg/q.\nSubstitution:\nE = (6.64 × 10⁻²⁷ × 9.8)/(3.2 × 10⁻¹⁹).\nCalculation:\nE = 6.51 × 10⁻²⁶/3.2 × 10⁻¹⁹ = 2.03 × 10⁻⁷ N/C.\nResult:\n(a) E ≈ 2.03 × 10⁻⁷ N/C.\n(b) The electric force must act upward to balance the downward weight; since the alpha particle is positive, the field must point upward, i.e. vertically away from the Earth. This agrees with the printed answer (2.03 × 10⁻⁷ N/C, directed upwards).",
+    "explanation": "Balance weight with electric force: qE = mg. For a positive charge the field direction is the same as the force direction, so E points upward.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A proton and an electron form two corners of an equilateral triangle of side length 2.0 X 10⁻⁶ m. What is the magnitude of the net electric field these two particles produce at the third corner?",
+    "answer": "Given:\nProton (+e) and electron (−e) at two corners of an equilateral triangle; side r = 2.0 × 10⁻⁶ m; e = 1.6 × 10⁻¹⁹ C; k = 9 × 10⁹ N·m²/C².\nFormula:\nEach charge produces E = ke/r² at the third corner. The two field vectors make an angle of 120° with each other (one points away from the proton, the other towards the electron), so\nE_net = √(E² + E² + 2E² cos120°) = E.\nSubstitution:\nE = 9 × 10⁹ × 1.6 × 10⁻¹⁹/(2.0 × 10⁻⁶)².\nCalculation:\nE = 1.44 × 10⁻⁹/4.0 × 10⁻¹² = 360 N/C; E_net = 360 N/C.\nResult:\nE_net ≈ 3.6 × 10² N/C, agreeing with the printed (3.6 × 10² N/C). The resultant is parallel to the line joining the proton and the electron, directed away from the proton.",
+    "explanation": "Both fields have equal magnitude ke/r² and are 120° apart, so their vector sum equals either one. A common mistake is to add them as if they were parallel.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "Figure shows two charged particles on an x axis: -q=-3.20 X10⁻¹⁹ C at x = -3.00 m and q =3.20 X10⁻¹⁹ C at x = 3.00 m. What are the (a) magnitude and (b) direction (relative to the positive direction of the x axis) of the net electric field produced at point P at y = 4.00 m? [Charges lie on the x-axis: −q = −3.20 × 10⁻¹⁹ C at x = −3.00 m and q = +3.20 × 10⁻¹⁹ C at x = +3.00 m; point P is on the y-axis at y = 4.00 m.]",
+    "answer": "Given:\nq = 3.20 × 10⁻¹⁹ C at x = +3.00 m; −q at x = −3.00 m; P at y = 4.00 m; k = 9 × 10⁹ N·m²/C².\nFormula:\nEach charge gives E = kq/r² with r = √(3.00² + 4.00²) = 5.00 m. The vertical components cancel and the horizontal components both point in the −x direction, so E_net = 2(kq/r²) × (3.00/5.00).\nSubstitution:\nE = 9 × 10⁹ × 3.20 × 10⁻¹⁹/(5.00)² = 1.15 × 10⁻¹⁰ N/C each;\nE_net = 2 × 1.15 × 10⁻¹⁰ × 0.600.\nCalculation:\nE_net = 1.38 × 10⁻¹⁰ N/C.\nResult:\n(a) E_net ≈ 1.38 × 10⁻¹⁰ N/C.\n(b) The field points in the −x direction, i.e. 180° from the positive x-axis, agreeing with the printed answer (1.38 × 10⁻¹⁰ N/C, in the −x direction).",
+    "explanation": "Use symmetry: the two equal fields have equal and opposite vertical components, which cancel, and equal horizontal components pointing towards −x, which add with cosθ = 3/5.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": "Cartesian axes with −q at x = −3.00 m and +q at x = +3.00 m on the x-axis, and point P at y = 4.00 m on the y-axis."
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "A proton and an electron form two corners of an equilateral triangle of side length 5 μm. What is the magnitude of the net electric field these two particles produce at the third corner?",
+    "answer": "Given:\nProton (+e) and electron (−e); side r = 5 μm = 5.0 × 10⁻⁶ m; e = 1.6 × 10⁻¹⁹ C; k = 9 × 10⁹ N·m²/C².\nFormula:\nE = ke/r² for each charge; as in the previous question the two field vectors are 120° apart, so E_net = E.\nSubstitution:\nE = 9 × 10⁹ × 1.6 × 10⁻¹⁹/(5.0 × 10⁻⁶)².\nCalculation:\nE = 1.44 × 10⁻⁹/2.5 × 10⁻¹¹ = 57.6 N/C.\nResult:\nE_net ≈ 58 N/C (≈ 5.8 × 10¹ N/C), parallel to the line joining the proton and the electron and directed away from the proton. The book prints no answer for this question; the value is smaller than in the 2.0 × 10⁻⁶ m case because the side is 2.5 times longer, so each field falls by 2.5² = 6.25.",
+    "explanation": "Same geometry as the previous numerical, but with a larger side: E scales as 1/r², and the 120° vector sum again equals the magnitude of either field.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "The square surface shown in figure measures 3.2 mm on each side. It is immersed in a uniform electric field with magnitude E =1800 N/C and with field lines at an angle of θ = 35° with a normal to the surface, as shown. Take that normal to be directed “outward”, as though the surface were one face of a box. Calculate the electric flux through the surface. [Square of side 3.2 mm; E = 1800 N/C; the field lines make 35° with the outward normal.]",
+    "answer": "Given:\nSide a = 3.2 mm = 3.2 × 10⁻³ m; E = 1800 N/C; θ = 35° between the field and the outward normal.\nFormula:\nΦ = E·A = EA cosθ.\nSubstitution:\nA = (3.2 × 10⁻³)² = 1.024 × 10⁻⁵ m²;\nΦ = 1800 × 1.024 × 10⁻⁵ × cos35°.\nCalculation:\nΦ = 0.018432 × 0.8192 = 1.51 × 10⁻² N·m²/C.\nThe field lines enter the surface while the normal points outward, so the flux is negative: Φ = −1.5 × 10⁻² N·m²/C.\nResult:\nΦ ≈ −1.5 × 10⁻² N·m²/C, agreeing with the printed (−1.5 × 10⁻² N·m²/C).",
+    "explanation": "Determine the sign from the direction of the field relative to the outward normal: field entering gives negative flux; the magnitude is EA cosθ.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": "Square plate of side 3.2 mm in a uniform field whose lines make 35° with the outward normal drawn on the plate."
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "An electron is liberated from the lower of two large parallel metal plates separated by a distance h = 2 cm. The upper plate has a potential of 2400 volts relative to the lower. How long does the electron take to reach it?",
+    "answer": "Given:\nh = 2 cm = 0.020 m; V = 2400 V; e = 1.6 × 10⁻¹⁹ C; m = 9.1 × 10⁻³¹ kg; the electron starts from rest.\nFormula:\nE = V/h; a = eE/m; h = ½at², so t = √(2h/a).\nSubstitution:\nE = 2400/0.020 = 1.2 × 10⁵ V/m;\na = (1.6 × 10⁻¹⁹)(1.2 × 10⁵)/(9.1 × 10⁻³¹);\nt = √(2 × 0.020/2.11 × 10¹⁶).\nCalculation:\na = 2.11 × 10¹⁶ m/s²;\nt = √(1.90 × 10⁻¹⁸) = 1.38 × 10⁻⁹ s.\nResult:\nt ≈ 1.4 × 10⁻⁹ s (about 1.4 ns). Note: the printed bracket answer 1.2 × 10⁵ V m⁻¹ is the electric field E = V/h, not the time asked for; the time is 1.38 × 10⁻⁹ s. Discrepancy in the printed answer noted.",
+    "explanation": "The printed answer is actually the field E = V/h; to answer the question, use a = eE/m and h = ½at², which gives t = 1.4 × 10⁻⁹ s.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "Two large parallel metal plates are 1.5 cm apart and have charges of equal magnitudes but opposite signs on their facing surfaces. Take the potential of the negative plate to be zero. If the potential halfway between the plates is then 5.0 V, what is the electric field in the region between the plates?",
+    "answer": "Given:\nd = 1.5 cm = 0.015 m; potential of the negative plate = 0; potential at the midpoint (0.75 cm from either plate) = 5.0 V.\nFormula:\nThe field between large parallel plates is uniform, so the potential changes linearly with distance: E = ΔV/d.\nSubstitution:\nThe potential rises from 0 at the negative plate to 5.0 V at the midpoint, so across the whole gap ΔV = 2 × 5.0 = 10 V;\nE = 10/0.015.\nCalculation:\nE = 667 V/m.\nResult:\nE ≈ 6.7 × 10² V/m, agreeing with the printed (6.7 × 10² V/m), directed from the positive plate to the negative plate.",
+    "explanation": "Because E is uniform, V is linear in distance; the full plate separation carries twice the midpoint potential, so E = 2 × 5.0/0.015.",
+    "pdfPage": 186,
+    "bookPage": 182,
+    "figure": null
+  }
+]

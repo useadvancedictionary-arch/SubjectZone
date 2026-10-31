@@ -1,0 +1,11 @@
+{
+  "appId": "com.subjectzone.app",
+  "appName": "SubjectZone",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}

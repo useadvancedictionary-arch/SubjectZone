@@ -1,0 +1,251 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "For a hypothetical reaction x + y → z, if the conc. of x is double, the rate increases by square and if the conc. of y is doubled the rate increases by twice. The experimental rate law of this reaction is:",
+    "options": [
+      "R = K [x]¹ [y]¹",
+      "R = K [x]¹ [y]²",
+      "R = K [x]² [y]¹",
+      "R = K [x]² [y]²"
+    ],
+    "correct": "c",
+    "explanation": "Let the rate law be R = K[x]ᵐ[y]ⁿ. When [x] is doubled at constant [y], the rate increases by a square, that is by the factor 2² = 4, so 2ᵐ = 4 and m = 2. When [y] is doubled at constant [x], the rate increases by twice, that is by the factor 2¹ = 2, so 2ⁿ = 2 and n = 1. The experimental rate law is therefore R = K[x]²[y]¹, with overall order 2 + 1 = 3. Option (a) would give only a doubling of rate when [x] is doubled; option (b) would give a fourfold increase when [y] is doubled; option (d) would give fourfold increases for both changes. Only (c) reproduces both observations, so the answer is (c).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The unit of rate constant (K) for the first order reaction is:",
+    "options": [
+      "s⁻¹",
+      "conc. s⁻¹",
+      "conc⁻¹ s",
+      "conc⁻¹ s⁻¹"
+    ],
+    "correct": "a",
+    "explanation": "For a first-order reaction rate = k[A], so k = rate/[A]. Inserting units, k = (mol dm⁻³ s⁻¹)/(mol dm⁻³) = s⁻¹, which is option (a). Option (b), conc. s⁻¹ = mol dm⁻³ s⁻¹, is the unit of the rate constant of a zero-order reaction, for which rate = k. Option (c), conc⁻¹ s = dm³ mol⁻¹ s⁻¹, is the unit for a second-order reaction, for which k = rate/[A]². Option (d), conc⁻¹ s⁻¹, does not correspond to any simple order. Hence the first-order rate constant is expressed in s⁻¹, answer (a).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Rate constant of a reaction is affected by:",
+    "options": [
+      "Conc. of reactants",
+      "Conc. of products",
+      "Temperature",
+      "Reaction time"
+    ],
+    "correct": "c",
+    "explanation": "The rate constant k is the proportionality constant of the rate law at a given temperature. It does not change when the concentrations of the reactants (a) or of the products (b) change, and it is not affected by the time for which the reaction has proceeded (d). It changes with temperature according to the Arrhenius equation k = A exp(−Ea/RT), and is also changed by a catalyst (which alters the activation energy) and by the nature of the reactants. Concentration and time alter the observed rate, but not the value of k. Hence temperature (c) is the correct answer.",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The purpose of using of catalyst in a chemical reaction is to change:",
+    "options": [
+      "Equilibrium constant",
+      "Enthalpy of reaction",
+      "Activation energy",
+      "Nature of reaction"
+    ],
+    "correct": "c",
+    "explanation": "A catalyst speeds up a reaction by providing an alternative reaction pathway of lower activation energy, so its purpose is to change the activation energy (c). It does not change the equilibrium constant (a), because it accelerates the forward and reverse reactions equally and merely helps the system reach the same equilibrium sooner. It does not change the enthalpy of reaction (b), since the initial and final states remain the same, and it cannot change the nature of the reaction (d). Hence the correct answer is (c), activation energy.",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The overall order of reaction to which the rate law is R = K:",
+    "options": [
+      "Zero order",
+      "First order",
+      "Second order",
+      "Third order"
+    ],
+    "correct": "a",
+    "explanation": "If the rate law is R = K, the rate contains no concentration term, that is R = K[A]⁰[B]⁰, and the sum of the exponents is zero; the reaction is therefore of zero order (a). A first-order reaction requires R = K[A], a second-order reaction R = K[A]² or K[A][B], and a third-order reaction R = K[A]³ or K[A]²[B]; in each of those cases the rate would vary with concentration, which is not the case here. The units of K in R = K are mol dm⁻³ s⁻¹, the units of rate itself, which again identifies a zero-order reaction. Hence (a).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Ionic reactions are classified into:",
+    "options": [
+      "Slow reaction",
+      "Moderate reactions",
+      "Fast reactions",
+      "Reversible reaction"
+    ],
+    "correct": "c",
+    "explanation": "Ionic reactions are reactions between ions already present in solution, for example Ag⁺ + Cl⁻ → AgCl(s) or H⁺ + OH⁻ → H₂O. The reacting species are already formed ions and no covalent bond has to be broken before they combine, so reaction occurs as soon as the ions encounter one another. Such reactions are therefore classified as fast reactions (c), many of them being practically instantaneous. Slow (a) and moderate (b) reactions usually involve the breaking of covalent bonds, while reversibility (d) is a separate characteristic and not a classification of ionic reactions by speed. Hence (c).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "The decomposition of H₂O₂ is inhibited by:",
+    "options": [
+      "2% ethanol",
+      "Glycerin",
+      "MnO₂",
+      "V₂O₅"
+    ],
+    "correct": "b",
+    "explanation": "Hydrogen peroxide decomposes slowly at room temperature: 2H₂O₂ → 2H₂O + O₂. Glycerin acts as a negative catalyst (inhibitor): it slows this decomposition, and a little glycerin is therefore added to commercial H₂O₂ solutions to keep them stable during storage, so (b) is correct. MnO₂ (c) and V₂O₅ (d) are positive catalysts that greatly accelerate the decomposition and are used to prepare oxygen from H₂O₂. Option (a), 2% ethanol, is a distractor and is not the inhibitor named for this decomposition. An inhibitor either raises the energy barrier or removes reactive intermediates, so the rate falls. Hence (b), glycerin.",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "The best alternative term for the velocity of reaction is:",
+    "options": [
+      "Rate of appearance",
+      "Rate of disappearance",
+      "Average rate",
+      "Instantaneous rate"
+    ],
+    "correct": "d",
+    "explanation": "The velocity of reaction at a particular moment is the rate at that instant, obtained as the slope of the tangent drawn to the concentration-time curve, that is dc/dt. Hence the best alternative term is instantaneous rate (d). Average rate (c) is the change in concentration divided by the time interval, Δc/Δt, and refers to a finite interval rather than to an instant. Rate of appearance (a) and rate of disappearance (b) describe the rate with respect to a particular product or reactant and are not general synonyms for the velocity of reaction. Hence (d).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Order of reaction is the power to which concentration of reactant is:",
+    "options": [
+      "Lowered",
+      "Raised",
+      "Stopped",
+      "Constant"
+    ],
+    "correct": "b",
+    "explanation": "In the experimentally determined rate law, the order with respect to a reactant is the power (exponent) to which its concentration is raised; for rate = k[A]²[B], the order with respect to A is 2 and with respect to B is 1. Thus the concentration of the reactant is raised to a power, option (b). The concentration is not lowered (a), stopped (c) or held constant (d); those words describe changes in concentration with time and have nothing to do with the definition of order. The order is found by experiment and is not necessarily equal to the stoichiometric coefficient of the reactant in the balanced equation.",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "In the reaction A → B, the rate of disappearance is written as:",
+    "options": [
+      "dA/dt",
+      "−dA/dt",
+      "dB/dt",
+      "−dB/dt"
+    ],
+    "correct": "b",
+    "explanation": "In A → B, A is consumed, so its concentration decreases with time and d[A]/dt is negative. The rate of disappearance is defined as a positive quantity, the decrease in concentration of A per unit time, hence rate of disappearance = −d[A]/dt, option (b). Option (a), d[A]/dt, is negative and so cannot itself represent a rate. Option (c), d[B]/dt, is the rate of appearance of the product B, not the disappearance of A. Option (d), −d[B]/dt, is the negative of the rate of formation of B. Hence (b).",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following:\n(a) Rate of reaction\n(b) Velocity of reaction\n(c) Order of reaction\n(d) Rate constant",
+    "answer": "(a) Rate of reaction: the change in concentration of a reactant or a product per unit time. If the concentration of a reactant falls by Δx in time Δt, the average rate = −Δ[reactant]/Δt; if a product is formed, rate = +Δ[product]/Δt. It is always positive and is expressed in mol dm⁻³ s⁻¹. It depends on concentration, surface area, temperature, nature of the reactants and the presence of a catalyst.\n(b) Velocity of reaction: the rate of change of concentration of a reactant or product at a given instant, that is the instantaneous rate dc/dt, measured from the slope of the tangent to the concentration-time curve. It is also expressed in mol dm⁻³ s⁻¹ and is always taken as positive; the terms rate of reaction and velocity of reaction are often used interchangeably.\n(c) Order of reaction: the sum of the powers (exponents) to which the concentrations of the reactants are raised in the rate law determined experimentally. For rate = k[A]ᵐ[B]ⁿ, order = m + n; it may be zero, a whole number or a fraction, and it is not obtained from the stoichiometric equation.\n(d) Rate constant: the proportionality constant k in the rate law, rate = k[A]ᵐ[B]ⁿ; it is numerically equal to the rate when the concentration of every reactant is unity (1 mol dm⁻³). Its value is fixed at a given temperature, depends on temperature, activation energy and catalyst but not on concentration, and its units depend on the overall order, e.g. s⁻¹ for first order and dm³ mol⁻¹ s⁻¹ for second order.",
+    "explanation": "The four definitions are linked: rate and velocity both measure concentration change per unit time (rate over an interval, velocity at an instant), while order and rate constant are the two parameters of the rate law. Order is an experimental quantity obtained by adding the exponents of the concentration terms, so it can differ from the stoichiometric coefficients. The rate constant is the specific rate, that is the rate at unit concentrations of all reactants; being a constant at fixed temperature it is independent of concentration, and its units follow from k = rate/(concentration)ⁿ.",
+    "pdfPage": 202,
+    "bookPage": 196
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "The rate law of the reaction 2NO + Br₂ → 2NOBr is given as Rate = K[NO]² [Br₂]. What is the order of reaction?\n(i) With respect to each reactant\n(ii) Overall reaction",
+    "answer": "(i) Order with respect to NO = 2, the exponent of [NO]; order with respect to Br₂ = 1, the exponent of [Br₂].\n(ii) Overall order of reaction = 2 + 1 = 3, so the reaction is third order.",
+    "explanation": "The order with respect to a reactant is the power to which its concentration is raised in the rate law, so Rate = K[NO]²[Br₂] is second order in NO and first order in Br₂. The overall order is the sum of these exponents, 2 + 1 = 3. The coefficients 2 and 1 in the equation 2NO + Br₂ → 2NOBr happen to equal the exponents, but this agreement is coincidental; the order must always be read from the experimental rate law and not from the balanced equation. For this third-order reaction the unit of K is dm⁶ mol⁻² s⁻¹.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "How can you define order of reaction? What are the units for the rate constants of zero order, first order and second order reactions?",
+    "answer": "Order of reaction: the sum of the powers to which the concentration terms of the reactants are raised in the experimentally determined rate law. For rate = k[A]ᵐ[B]ⁿ the order is m + n; it may be zero, fractional or negative and is not deduced from the balanced equation.\nUnits of the rate constant, obtained from k = rate/(concentration)ⁿ:\nZero order (n = 0): rate = k, so k = rate, unit mol dm⁻³ s⁻¹ (mol/dm³.s).\nFirst order (n = 1): k = rate/[A] = (mol dm⁻³ s⁻¹)/(mol dm⁻³), unit s⁻¹.\nSecond order (n = 2): k = rate/[A]² = (mol dm⁻³ s⁻¹)/(mol dm⁻³)², unit dm³ mol⁻¹ s⁻¹ (dm³/mol.s).\nIn general k has the units (mol dm⁻³)¹⁻ⁿ s⁻¹.",
+    "explanation": "The unit of k is found by rearranging the rate law so that k stands alone; rate always has the units mol dm⁻³ s⁻¹, and the concentration term contributes (mol dm⁻³)ⁿ to the denominator. For n = 0 the concentration term disappears, leaving the units of rate itself. For n = 1 one concentration cancels, leaving s⁻¹. For n = 2 the denominator carries mol² dm⁻⁶, which on division leaves dm³ mol⁻¹ s⁻¹. Each successive increase of one in the overall order therefore adds dm³ mol⁻¹ to the unit.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Explains the following:\n(i) Powdered marble (CaCO₃) reacts quickly with hydrochloric acid than solid lump of marble.\n(ii) Milk sour more rapidly in summer than in winter.\n(iii) Reactants in solution reacts faster at high concentration.\n(iv) Raising the temperature causes an increase in the rate of reaction.",
+    "answer": "(i) Powdering divides the marble into very small particles and greatly increases its surface area. The reaction CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂ takes place only at the surface where the solid meets the acid, so a given mass of powdered marble exposes far more surface to the acid than the same mass in one lump. More CaCO₃ particles are in contact with H⁺ ions, collisions per unit time increase, and the rate is therefore greater; the lump has the smallest surface area and reacts slowest.\n(ii) Souring of milk is a chemical change in which lactose is converted into lactic acid by the action of micro-organisms. In summer the temperature is higher, so the molecules have greater average kinetic energy; a much larger fraction of them possesses energy equal to or greater than the activation energy, and collisions are more frequent. The number of effective collisions per second therefore increases and the milk sours more rapidly than in the cold of winter; the rate roughly doubles for every 10 °C rise in temperature.\n(iii) At high concentration there are more reactant molecules or ions per unit volume of solution. The number of collisions between reactant particles per unit time increases, and since the rate depends on the frequency of effective collisions, the reaction proceeds faster in a concentrated solution than in a dilute one. For many reactions the rate is directly proportional to the concentration of the reactant, as expressed in the rate law.\n(iv) Raising the temperature increases the average kinetic energy of the molecules. According to collision theory, the fraction of molecules having energy equal to or greater than the activation energy increases sharply, because the Maxwell-Boltzmann distribution shifts to higher energies, and the frequency of collisions also increases. Consequently more effective collisions occur per unit time and the rate of reaction increases; the rate constant rises with temperature according to k = A exp(−Ea/RT).",
+    "explanation": "All four observations follow from collision theory, since a reaction occurs only when particles collide with energy at least equal to the activation energy. Cases (i) and (iii) increase the number of collisions per unit time, through greater surface area and greater concentration respectively, and neither changes the rate constant. Cases (ii) and (iv) are temperature effects: they increase the fraction of collisions that are effective, and temperature also changes the rate constant itself. Powdering and concentration therefore speed a reaction without altering k, whereas heating changes k.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Differentiate between the following:\n(i) Rate of reaction and rate constant\n(ii) Homogenous and Heterogeneous catalyst\n(iii) Positive catalyst and inhibitor\n(iv) Elementary and overall reaction",
+    "answer": "(i) Rate of reaction and rate constant: the rate of reaction is the change in concentration of a reactant or product per unit time; it varies continuously with concentration and with time and is expressed in mol dm⁻³ s⁻¹. The rate constant k is the proportionality constant of the rate law; it is independent of concentration, has a fixed value at a given temperature and is numerically equal to the rate when all concentrations are 1 mol dm⁻³. Its units depend on the overall order (s⁻¹ for first order, dm³ mol⁻¹ s⁻¹ for second order).\n(ii) Homogenous and Heterogeneous catalyst: a homogeneous catalyst is in the same physical phase as the reactants, e.g. H₂SO₄(aq) in the esterification of an alcohol with an acid, or NO(g) in the oxidation of SO₂. A heterogeneous catalyst is in a different phase from the reactants, usually a solid in contact with gaseous or liquid reactants, e.g. Fe(s) in the Haber process, V₂O₅(s) in the contact process, or MnO₂(s) for the decomposition of H₂O₂ solution.\n(iii) Positive catalyst and inhibitor: a positive catalyst increases the rate of a reaction by providing an alternative path of lower activation energy, e.g. MnO₂ for 2H₂O₂ → 2H₂O + O₂. An inhibitor (negative catalyst) decreases the rate, either by raising the activation energy or by combining with a reactant or intermediate, e.g. glycerin, which retards the decomposition of H₂O₂. A positive catalyst is added to speed a reaction up, an inhibitor to slow it down or to preserve a substance.\n(iv) Elementary and overall reaction: an elementary reaction takes place in a single step, exactly as written, without intermediate species, and its molecularity and order usually coincide. An overall reaction is the sum of two or more elementary steps and may involve intermediates; its order is determined experimentally and need not match the stoichiometric coefficients, e.g. 2NO + Br₂ → 2NOBr with rate = k[NO]²[Br₂].",
+    "explanation": "Each pair is compared on a definite basis. In (i) the basis is dependence on concentration and the units. In (ii) it is the phase relationship between catalyst and reactants. In (iii) it is the effect on the rate, an increase or a decrease. In (iv) it is the number of steps and the relation between stoichiometry and order. Keeping the basis of comparison fixed makes each difference clear rather than merely describing the two terms separately.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Enlist various factors which influence on the rate of chemical reactions and describe the effect of concentration and surface area of reactants on the reaction rate.",
+    "answer": "Factors which influence the rate of a chemical reaction:\n1. Concentration of the reactants.\n2. Surface area of the reactants, for solids.\n3. Temperature.\n4. Nature of the reactants (ionic or covalent, strength of bonds).\n5. Presence of a catalyst, positive or negative.\n6. Pressure or volume, for gaseous reactions.\n7. Light, for photochemical reactions.\n\nEffect of concentration: the rate of a reaction generally increases with the concentration of the reactants, because a higher concentration means more molecules or ions per unit volume, hence more frequent collisions and a greater number of effective collisions per second. For example, dilute HCl attacks marble slowly while concentrated HCl attacks it vigorously, and the rate law expresses this dependence, e.g. rate = k[A][B] for a reaction first order in each reactant. For a zero-order reaction the rate is independent of concentration.\n\nEffect of surface area: in a heterogeneous reaction the reaction occurs at the surface of the solid, so dividing the solid into smaller pieces increases the area exposed to the other reactant. Powdered marble reacts much faster with HCl than a lump of the same mass, and finely divided zinc or iron reacts faster with an acid than the granulated metal. Increasing the surface area increases the number of collisions per unit time and therefore the rate, but it does not change the rate constant.",
+    "explanation": "The listed factors are the standard ones: concentration, surface area, temperature, nature of reactants, catalyst, pressure for gases and light for photochemical changes. Concentration and surface area act by increasing the frequency of collisions between reacting particles, not by changing the activation energy, so they alter the rate without altering k. Temperature and catalyst, by contrast, act on the rate constant, temperature by increasing the fraction of molecules that exceed Ea and a catalyst by lowering Ea.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Explain in terms of collision theory how the reaction rate increases with the rise of temperature.",
+    "answer": "According to collision theory, molecules react only when they collide and the collision has energy at least equal to the activation energy. The rate therefore depends on two things: the frequency of collisions and the fraction of collisions that are effective.\nWhen the temperature is raised:\n1. The molecules move faster, so they collide more frequently.\n2. More importantly, the average kinetic energy of the molecules increases, so the fraction of molecules having energy equal to or greater than the activation energy increases very rapidly. The Maxwell-Boltzmann distribution curve becomes flatter and shifts towards higher energies, and the area under the curve beyond Ea becomes much larger.\nThe number of effective collisions per second therefore increases greatly and the rate of reaction rises. For many reactions near room temperature the rate becomes about two times greater for every 10 °C (10 K) rise in temperature.\nQuantitatively, the rate constant follows the Arrhenius equation k = A exp(−Ea/RT). As T increases, the term Ea/RT decreases, exp(−Ea/RT) increases, and hence k and the rate increase. This is why milk sours faster in summer and food cooks faster at higher temperature.",
+    "explanation": "The key point is that the increase in rate is not mainly due to the small increase in collision frequency, which is only a few per cent for a 10 K rise, but to the large increase in the fraction of molecules whose energy exceeds Ea. Because the Maxwell-Boltzmann distribution has a long high-energy tail, shifting it slightly to higher energy multiplies the number of molecules above the barrier many times over. The Arrhenius equation expresses the same result, with k rising exponentially as T rises.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is meant by energy of activation and activated complex? Explain with the help of potential energy diagram.",
+    "answer": "Energy of activation (Ea) is the minimum extra energy that reacting molecules must possess, over and above their average energy, in order that their collision may lead to reaction. It is the energy barrier which the reacting molecules must cross before they can be converted into products.\nThe activated complex (transition state) is the highly unstable, short-lived arrangement of atoms formed at the top of this barrier, in which old bonds are partly broken and new bonds partly formed. It can either go on to give the products or fall back to the reactants.\nPotential energy diagram: the progress of reaction (reaction coordinate) is plotted along the x-axis and the potential energy along the y-axis. The reactants start at a certain energy level; the curve rises to a maximum, the peak representing the activated complex; and it then descends to the energy level of the products. The energy of activation is the height of the peak above the reactants, Ea = E(activated complex) − E(reactants). The enthalpy change of the reaction is ΔH = E(products) − E(reactants); for an exothermic reaction the product level lies below the reactant level and ΔH is negative, while for an endothermic reaction it lies above and ΔH is positive. For a reaction A + B → C + D the activated complex may be written [A···B···C···D]≠. A catalyst lowers Ea by providing a new path over a lower peak, so more collisions become effective, but it does not change the energies of the reactants or products and hence does not change ΔH.",
+    "explanation": "The diagram separates two quantities that are easily confused: Ea is measured from the reactants to the top of the barrier, whereas ΔH is measured from the reactants to the products. The peak itself is the activated complex, not an intermediate; it is not isolated and has no stability. The shape of the curve shows that the reaction must acquire energy before it can release energy, which is why even exothermic reactions need activation. Lowering the peak with a catalyst increases the fraction of collisions that succeed, so the rate rises for both forward and reverse reactions.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Decomposition of NO₂ into NO and O₂ is of second order reaction.\n2NO₂ → 2NO + O₂\nIf the rate constant at certain temperature is 3.8 × 10⁻⁴ dm³ mol⁻¹ s⁻¹ and the initial concentration of NO₂ is 0.38M, calculate the initial rate of the reaction. [Ans: 5.48 × 10⁻⁵ mol/dm³.s]",
+    "answer": "Given: rate constant k = 3.8 × 10⁻⁴ dm³ mol⁻¹ s⁻¹; initial concentration [NO₂] = 0.38 M = 0.38 mol dm⁻³; the decomposition is second order with respect to NO₂.\nFormula: rate = k[NO₂]².\nSubstitution: rate = (3.8 × 10⁻⁴ dm³ mol⁻¹ s⁻¹)(0.38 mol dm⁻³)²\n= (3.8 × 10⁻⁴ dm³ mol⁻¹ s⁻¹)(0.1444 mol² dm⁻⁶)\n= 5.4872 × 10⁻⁵ mol dm⁻³ s⁻¹\n≈ 5.48 × 10⁻⁵ mol dm⁻³ s⁻¹ (as printed).\nUnit check: dm³ mol⁻¹ s⁻¹ × mol² dm⁻⁶ = mol dm⁻³ s⁻¹, the unit of rate.\nPrinted answer: [Ans: 5.48 × 10⁻⁵ mol/dm³.s].",
+    "explanation": "For a second-order reaction in a single reactant the rate law is rate = k[NO₂]². The order is taken from the experimental rate law, so the coefficient 2 in 2NO₂ → 2NO + O₂ does not change the exponent of NO₂. Substituting, 0.38² = 0.1444 and 3.8 × 10⁻⁴ × 0.1444 = 5.4872 × 10⁻⁵ mol dm⁻³ s⁻¹, which the textbook quotes as 5.48 × 10⁻⁵; strict rounding to three significant figures would give 5.49 × 10⁻⁵, so the printed value differs only in the last digit. This is the initial rate; as NO₂ is consumed its concentration falls, so the rate falls continuously as the reaction proceeds.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "The overall rate law for the reaction\nA + B → C is R = K [A] [B]\nIf in an experiment the initial concentration of A and B was found to be 0.43M and 0.78M respectively while the initial rate was 3.8 × 10⁻³Ms⁻¹. Determine rate constant and mention its unit. [Ans: 1.13 × 10⁻² dm³/mol.s]",
+    "answer": "Given: initial rate R = 3.8 × 10⁻³ mol dm⁻³ s⁻¹; [A] = 0.43 mol dm⁻³; [B] = 0.78 mol dm⁻³; rate law R = K[A][B], first order in A and first order in B, so the overall order is 2.\nFormula: R = K[A][B], therefore K = R/([A][B]).\nSubstitution: K = (3.8 × 10⁻³ mol dm⁻³ s⁻¹)/[(0.43 mol dm⁻³)(0.78 mol dm⁻³)]\n= (3.8 × 10⁻³ mol dm⁻³ s⁻¹)/(0.3354 mol² dm⁻⁶)\n= 1.133 × 10⁻² dm³ mol⁻¹ s⁻¹\n≈ 1.13 × 10⁻² dm³ mol⁻¹ s⁻¹.\nUnit: mol dm⁻³ s⁻¹ ÷ mol² dm⁻⁶ = dm³ mol⁻¹ s⁻¹, the unit of a second-order rate constant.\nPrinted answer: [Ans: 1.13 × 10⁻² dm³/mol.s].",
+    "explanation": "The rate law is second order overall, so the rate constant is obtained by dividing the initial rate by the product of the two initial concentrations. The denominator is 0.43 × 0.78 = 0.3354 mol² dm⁻⁶, and 3.8 × 10⁻³ ÷ 0.3354 = 1.133 × 10⁻². The unit follows from the division of mol dm⁻³ s⁻¹ by mol² dm⁻⁶, giving dm³ mol⁻¹ s⁻¹, which is characteristic of an overall second-order reaction. The concentrations must be in mol dm⁻³ and the rate in mol dm⁻³ s⁻¹, so the molarities quoted may be used directly.",
+    "pdfPage": 203,
+    "bookPage": 197
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "The reaction 2NO + Cl₂ → 2NOCl was studied at 25°C. the following results were obtained\nExperiment No. | Initial concentration (mol/dm³) NO | Initial concentration (mol/dm³) Cl₂ | Initial rate (mol/dm³.s)\n1 | 0.1 | 0.1 | 2.52 × 10⁻³\n2 | 0.1 | 0.2 | 5.04 × 10⁻³\n3 | 0.2 | 0.1 | 10.05 × 10⁻³\nIllustrate the rate law and find the order of reaction. [Ans: Order of reaction = 3]",
+    "answer": "Let the rate law be: rate = k[NO]ᵐ[Cl₂]ⁿ.\n(a) Order with respect to Cl₂: compare experiments 1 and 2, in which [NO] is constant at 0.1 mol dm⁻³ while [Cl₂] doubles from 0.1 to 0.2 mol dm⁻³.\nrate₂/rate₁ = ([Cl₂]₂/[Cl₂]₁)ⁿ\n(5.04 × 10⁻³)/(2.52 × 10⁻³) = (0.2/0.1)ⁿ\n2.0 = 2ⁿ, so n = 1; the reaction is first order with respect to Cl₂.\n(b) Order with respect to NO: compare experiments 1 and 3, in which [Cl₂] is constant at 0.1 mol dm⁻³ while [NO] doubles from 0.1 to 0.2 mol dm⁻³.\nrate₃/rate₁ = ([NO]₃/[NO]₁)ᵐ\n(10.05 × 10⁻³)/(2.52 × 10⁻³) = (0.2/0.1)ᵐ\n3.99 ≈ 4 = 2ᵐ, so m = 2; the reaction is second order with respect to NO.\n(c) Rate law: rate = k[NO]²[Cl₂]. Overall order = m + n = 2 + 1 = 3, so the reaction is third order.\n(d) Rate constant: k = rate/([NO]²[Cl₂]) = (2.52 × 10⁻³)/(0.1)²(0.1) = (2.52 × 10⁻³)/(1.0 × 10⁻³) = 2.52 dm⁶ mol⁻² s⁻¹. Check with experiment 3: (10.05 × 10⁻³)/(0.2)²(0.1) = 2.51 dm⁶ mol⁻² s⁻¹, in agreement within rounding.\nPrinted answer: [Ans: Order of reaction = 3].",
+    "explanation": "The rate-ratio method compares two experiments in which only one concentration changes, so the ratio of the rates equals that concentration ratio raised to the unknown order. For Cl₂ the rate doubles when [Cl₂] doubles, so the order is 1; for NO the rate becomes four times larger when [NO] doubles, so the order is 2. The ratio 10.05/2.52 = 3.99 rather than exactly 4 is due to experimental uncertainty, since 2.52 × 4 = 10.08. Multiplying the two orders gives a third-order rate law, consistent with the quoted answer of order 3 and with the units dm⁶ mol⁻² s⁻¹ found for k.",
+    "pdfPage": 203,
+    "bookPage": 197
+  }
+]

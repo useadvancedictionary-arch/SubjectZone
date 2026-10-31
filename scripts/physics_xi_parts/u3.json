@@ -1,0 +1,302 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "The rate of change of linear momentum of a body is called a:",
+    "options": ["Linear force", "Angular force", "Power", "Impulse"],
+    "correct": "a",
+    "answer": "(a) Linear force",
+    "explanation": "Newton's second law in its general form is F = dp/dt, so the rate of change of linear momentum is the net linear force acting on the body. Power is the rate of doing work (dW/dt); impulse is the change of momentum produced over a time interval (J = FΔt), not its rate; angular force (torque) is the rate of change of angular momentum. Hence (a).",
+    "pdfPage": 74,
+    "bookPage": 70
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The term mass refers to the same physical concept as:",
+    "options": ["weight", "inertia", "force", "acceleration"],
+    "correct": "b",
+    "answer": "(b) inertia",
+    "explanation": "Mass is the quantitative measure of inertia, the resistance of a body to any change in its state of rest or of uniform motion; the larger the mass, the larger the force needed for a given acceleration (m = F/a). Weight is the gravitational pull on that mass (W = mg) and changes with g, while force and acceleration are dynamic quantities, not measures of inertia. Hence (b).",
+    "pdfPage": 74,
+    "bookPage": 70
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Which one of the following force is also called as self adjusting force ?",
+    "options": ["frictional force", "tension", "Weight", "Thrust"],
+    "correct": "a",
+    "answer": "(a) frictional force",
+    "explanation": "Static friction adjusts its own magnitude from zero up to a maximum value μsN so that it exactly balances the applied force and the body does not slip; it is therefore called a self-adjusting force. Tension, weight and thrust are fixed by the load, the mass and the pressure respectively and do not change themselves to match an applied force. Hence (a).",
+    "pdfPage": 74,
+    "bookPage": 70
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The laws of motion shows the relationship between:",
+    "options": ["velocity and acceleration", "mass and velocity", "mass and acceleration", "force and acceleration"],
+    "correct": "d",
+    "answer": "(d) force and acceleration",
+    "explanation": "Newton's second law, F = ma, states that the net force acting on a body determines the acceleration produced, with mass as the constant of proportionality (the inertia). The first law defines force through its effect on motion and the third law relates action and reaction forces, so the laws primarily link force with acceleration. Mass and acceleration are connected only through the force, and the velocity-acceleration relation belongs to kinematics, not to dynamics. Hence (d).",
+    "pdfPage": 74,
+    "bookPage": 70
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The motion of rocket in the space is according to the law of conservation of:",
+    "options": ["Energy", "linear momentum", "mass", "angular momentum"],
+    "correct": "b",
+    "answer": "(b) linear momentum",
+    "explanation": "The rocket expels hot gases backwards; the momentum given to the gases is equal and opposite to the momentum gained by the rocket, so the total linear momentum of the rocket-gases system stays constant when no external force acts. This is Newton's third law applied to an isolated system, that is, conservation of linear momentum. Energy is also conserved but does not determine the thrust, mass is not conserved because fuel is ejected, and no rotation is involved. Hence (b).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "A bomb of mass 12 kg initially at rest explodes into two pieces of masses 4kg and 8kg . The speed of 8kg mass is 6 m/s. The kinetic energy The kinetic energy of 4 kg mass is:",
+    "options": ["32 J", "48 J", "114 J", "288 J"],
+    "correct": "d",
+    "answer": "(d) 288 J",
+    "explanation": "The bomb is initially at rest, so the fragments must carry equal and opposite momentum: 4 × v = 8 × 6 = 48 kg·m/s, giving v = 12 m/s for the 4 kg piece. Its kinetic energy is ½ × 4 × 12² = 288 J. The 8 kg piece carries ½ × 8 × 6² = 144 J, so 32 J, 48 J and 114 J would violate momentum conservation; note also that the printed stem repeats 'The kinetic energy' (typo in the book). Hence (d).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "If momentum is increased by 20% then K.E increases by:",
+    "options": ["44%", "55%", "66%", "77%"],
+    "correct": "a",
+    "answer": "(a) 44%",
+    "explanation": "Kinetic energy and momentum are related by K.E = p²/2m, so for a given mass K.E ∝ p². If p becomes 1.20p, then K.E becomes (1.20)² = 1.44 times its original value, an increase of 44%. A 20% increase in kinetic energy (the common mistaken answer) would require only about a 10% increase in momentum, and 55%, 66%, 77% do not follow from any square of 1.2. Hence (a).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "The kinetic energy of body of mass 2kg and momentum of 2 Ns is:",
+    "options": ["1 J", "2 J", "3 J", "4 J"],
+    "correct": "a",
+    "answer": "(a) 1 J",
+    "explanation": "Using K.E = p²/2m with p = 2 N·s and m = 2 kg gives K.E = (2)²/(2 × 2) = 1 J. This corresponds to a speed v = p/m = 1 m/s, and ½mv² = 1 J confirms it. Options 2 J, 3 J and 4 J would need momenta of 2.83, 3.46 and 4 N·s respectively for the same mass, so they are inconsistent with the data. Hence (a).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "For the same kinetic energy, the momentum is maximum for:",
+    "options": ["an electron", "a proton", "a deuteron", "alpha particle"],
+    "correct": "d",
+    "answer": "(d) alpha particle",
+    "explanation": "From K.E = p²/2m, p = √(2mK); for the same kinetic energy p ∝ √m, so the heaviest particle has the largest momentum. The masses are about 9.1 × 10⁻³¹ kg (electron), 1.67 × 10⁻²⁷ kg (proton), 3.34 × 10⁻²⁷ kg (deuteron) and 6.64 × 10⁻²⁷ kg (alpha particle), so the alpha particle carries the greatest momentum and the electron, being lightest, the least. Hence (d).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "A 3kg bowling ball experiences a net force of 15N. What will be its acceleration.",
+    "options": ["35 m/s²", "7 m/s²", "5 m/s²", "35 m/s²"],
+    "correct": "c",
+    "answer": "(c) 5 m/s²",
+    "explanation": "From Newton's second law a = F/m = 15/3 = 5 m/s². The printed options contain a duplication: (a) and (d) are both 35 m/s², so neither can be a unique answer (35 would come from misreading 15 N as 105 N). 7 m/s² would require a mass of about 2.14 kg, which is not the given mass. Hence (c).",
+    "pdfPage": 75,
+    "bookPage": 71
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "State Newton's second law of motion.",
+    "answer": "Newton's second law states that the rate of change of linear momentum of a body is directly proportional to the net external force acting on it and takes place in the direction of that force. In symbols, F ∝ dp/dt, or F = k dp/dt; with SI units k = 1, so F = dp/dt = d(mv)/dt. For a body of constant mass this becomes F = ma: the acceleration produced is directly proportional to the net force and inversely proportional to the mass, and it is always along the net force. The law is a vector equation, so forces must be added vectorially, and it holds only in an inertial frame. One newton is the force that gives a 1 kg mass an acceleration of 1 m/s².",
+    "explanation": "Key point: the law is about the net (resultant) force and the rate of change of momentum; for constant mass it reduces to F = ma, and both F and a are vectors.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "How does mass affect an object's acceleration?",
+    "answer": "For a given net force the acceleration is inversely proportional to the mass: a = F_net/m. Doubling the mass halves the acceleration produced by the same force, because the same force must change the motion of twice as much inertia; tripling the mass reduces the acceleration to one third. Mass is therefore the measure of a body's inertia, its resistance to a change in velocity. The relation a ∝ 1/m holds only when the force is kept constant; if both change, the two effects combine in the single equation a = F/m. Since force and acceleration are vectors, a is always along F_net, and a graph of a against 1/m for a fixed force is a straight line through the origin.",
+    "explanation": "Key point: a = F/m gives inverse proportionality between acceleration and mass for constant force; mass is inertia, not weight.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "What are the different types of forces that can act on an object?",
+    "answer": "The forces acting on an object are grouped into contact forces and non-contact (field) forces. Contact forces need physical touch: the normal reaction (perpendicular to a surface), friction (static or kinetic, along the surface and opposing relative motion), tension in strings and ropes, applied push or pull forces, thrust (for example from ejected gases), the elastic force of a spring (F = −kx) and air resistance or drag. Non-contact forces act over a distance without touching: gravitational force or weight (W = mg), electric force, magnetic force, and at nuclear dimensions the strong and weak nuclear forces. For a body on a rough inclined plane the usual forces are its weight, the normal reaction and friction; inside a lift they are the weight and the normal reaction or the tension in the cable. The net force is the vector sum of all the forces acting.",
+    "explanation": "Key point: classify forces as contact (normal, friction, tension, thrust, spring, drag) and non-contact (gravitational, electric, magnetic, nuclear); weight is a field force, not a contact force.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "How do you calculate net force?",
+    "answer": "The net force is the vector sum of all the forces acting on a body: F_net = ΣF. Choose convenient x and y axes, resolve every force into components (Fx = F cosθ, Fy = F sinθ, with θ measured from the x-axis), then add the components algebraically: F_net,x = ΣFx and F_net,y = ΣFy. The magnitude is F_net = √(Fx² + Fy²) and its direction is θ = tan⁻¹(Fy/Fx) measured from the x-axis. In a one-dimensional problem a sign convention is enough: take right or up as positive and add with signs. The net force then fixes the acceleration through a = F_net/m; if the sum is zero the body is in equilibrium and moves with constant velocity. For example, 10 N east and 4 N west give a net force of 6 N east.",
+    "explanation": "Key point: add forces as vectors (resolve into components), never as scalars; the net force alone determines acceleration by a = F_net/m.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "State the law of conservation of momentum.",
+    "answer": "In the absence of a net external force, the total linear momentum of an isolated system remains constant in magnitude and direction. For two bodies interacting with each other, m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂. The law follows from Newton's second and third laws: the internal action and reaction forces are equal and opposite and act for the same time, so their impulses cancel and no net momentum is created or destroyed. Momentum is a vector, so the law applies separately to each direction and signs must be used for opposite motions. It holds for elastic and inelastic collisions, for explosions, for the recoil of a gun and for rocket propulsion, and it applies to the system as a whole rather than to the individual bodies, each of which may gain or lose momentum.",
+    "explanation": "Key point: total momentum of an isolated system is constant because internal action-reaction impulses cancel; it is a vector law and applies to the whole system.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "What is the difference between elastic and inelastic collisions?",
+    "answer": "In an elastic collision both momentum and kinetic energy are conserved: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂ and ½m₁u₁² + ½m₂u₂² = ½m₁v₁² + ½m₂v₂². In a perfectly inelastic collision the bodies stick together and move with a common velocity v = (m₁u₁ + m₂u₂)/(m₁ + m₂); momentum is conserved but kinetic energy is not, part of it being converted into heat, sound and permanent deformation. Partly inelastic collisions lie between the two, described by the coefficient of restitution e = (relative speed of separation)/(relative speed of approach), with e = 1 for elastic and e = 0 for perfectly inelastic collisions. Collisions between gas molecules or hard steel balls are nearly elastic, while a bullet embedding in a block, two lumps of clay sticking together, and a car crash are inelastic. Momentum conservation holds in both types.",
+    "explanation": "Key point: momentum is conserved in both types; only elastic collisions conserve kinetic energy, while inelastic ones convert some kinetic energy into heat, sound and deformation.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "How does impulse relate to force and time?",
+    "answer": "Impulse is the product of a force and the time for which it acts: J = FΔt, a vector in the direction of the force and measured in N·s (equivalent to kg·m/s). From Newton's second law F = Δp/Δt we obtain J = Δp = mv − mu, so the impulse equals the change in momentum of the body; this is the impulse-momentum theorem. For a force that varies with time, the impulse is the area under the force-time graph, J = ∫F dt, and the average force is F_av = Δp/Δt. The same change of momentum can be produced by a large force acting for a short time or by a small force acting for a long time, because the product FΔt is fixed. This is why airbags and crumple zones lengthen the collision time to reduce the force.",
+    "explanation": "Key point: J = FΔt = Δp is the impulse-momentum theorem; lengthening the contact time for the same Δp reduces the force.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "How does friction influence the motion of an object?",
+    "answer": "Friction is the resistance force between two surfaces in contact that opposes relative motion or the tendency of relative motion. Kinetic friction f_k = μ_kN acts opposite to the direction of sliding, so it decelerates a moving body and dissipates kinetic energy as heat and sound. Static friction adjusts itself up to a maximum f_s = μ_sN, and it is this friction that lets a body start moving, allows us to walk, enables a car to drive and brake, and supplies the centripetal force for a car on an unbanked curve. Friction also causes wear of machine parts and reduces efficiency, which is why lubricants and ball bearings are used. On a rough incline it opposes the component of weight, and it is the reason a body needs a minimum force before it begins to slide.",
+    "explanation": "Key point: friction opposes relative motion and is self-adjusting up to μsN; it both enables motion (walking, driving, braking) and dissipates energy as heat.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Explain Newton's Second Law of Motion and how it relates force, mass, and acceleration. Provide an example to illustrate the concept.",
+    "answer": "Statement. Newton's second law states that the rate of change of linear momentum of a body is directly proportional to the net external force acting on it and takes place in the direction of the force: F ∝ dp/dt, or F = k dp/dt. In SI units k = 1, so F = dp/dt = d(mv)/dt.\n\nRelation with mass and acceleration. For constant mass, dp/dt = m dv/dt = ma, hence F = ma. This single vector equation contains three ideas. (i) Force and acceleration are directly proportional for a fixed mass, so doubling F doubles a. (ii) Acceleration is inversely proportional to mass for a fixed force, a = F/m, which identifies mass as the measure of inertia. (iii) Acceleration is always along the net force, not along the velocity — in uniform circular motion a points to the centre while v is tangential. The law uses the net force, the vector sum of all forces, so a body with several forces may still have zero acceleration when they cancel. It holds only in inertial (non-accelerating) frames, and if mass itself changes (a rocket) the general form F = dp/dt must be used.\n\nExample. A 1200 kg car at rest is acted on by a constant net force of 2400 N for 5 s. Then a = F/m = 2400/1200 = 2 m/s², so v = at = 10 m/s and s = ½at² = 25 m. If the same car carries a 600 kg load (m = 1800 kg), the same force gives a = 2400/1800 = 1.33 m/s², showing the inverse dependence on mass. If instead the force is doubled to 4800 N with the original mass, the acceleration becomes 4 m/s², showing direct proportionality. Catching a ball with the hands moved back illustrates the same law in the form F = Δp/Δt: increasing the time reduces the force.",
+    "explanation": "Key principle: F = dp/dt reduces to F = ma for constant mass; force and acceleration are parallel vectors and mass measures inertia. Common mistake: using only the applied force instead of the net force, or treating F = ma as valid when mass changes.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "How does the conservation of momentum apply in each type of collision? Give real-life examples of both types of collisions.",
+    "answer": "Law in collision form. When no net external force acts, the total momentum before and after a collision is the same: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂. Momentum is a vector, so velocities to the left are taken negative.\n\nElastic collision. Both momentum and kinetic energy are conserved. For a head-on collision in which mass m₁ moves with u₁ and m₂ is at rest, solving the two conservation equations gives v₁ = [(m₁ − m₂)/(m₁ + m₂)]u₁ and v₂ = [2m₁/(m₁ + m₂)]u₁. If m₁ = m₂, then v₁ = 0 and v₂ = u₁: the first body stops and the second moves off with its speed, as in a Newton's cradle or a head-on hit between equal billiard balls. If m₁ >> m₂, then v₁ ≈ u₁ and v₂ ≈ 2u₁, as when a heavy ball strikes a light one.\n\nInelastic collision. Momentum is conserved but kinetic energy is not; part of it becomes heat, sound and deformation. In a perfectly inelastic collision the bodies stick together and move with the common velocity v = (m₁u₁ + m₂u₂)/(m₁ + m₂), and the kinetic energy lost is ΔK = ½[m₁m₂/(m₁ + m₂)](u₁ − u₂)². A partly inelastic collision is described by the coefficient of restitution e = (relative speed of separation)/(relative speed of approach), with 0 < e < 1.\n\nExamples. Elastic: collisions between gas molecules in a container, hard steel balls striking each other, and alpha particles scattered by nuclei (approximately elastic). Inelastic: a bullet embedding itself in a wooden block (ballistic pendulum), two lumps of clay sticking together, a railway wagon coupling to a stationary one, and a car crash in which the vehicles lock together.\n\nWhy momentum is conserved in both. During contact the forces the bodies exert on each other are equal and opposite (Newton's third law) and act for the same time, so their impulses cancel; only the distribution of momentum between the bodies and the amount of kinetic energy change.",
+    "explanation": "Key principle: momentum is conserved in every collision because internal forces cancel; kinetic energy is conserved only when the collision is elastic. Common mistake: applying kinetic-energy conservation to inelastic collisions, or forgetting the signs of oppositely directed velocities.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Explain how the concept of impulse is related to the change in momentum of an object. Provide an example of an everyday life where impulse plays a significant role.",
+    "answer": "Definition. Impulse is the product of a force and the time interval for which it acts: J = FΔt. It is a vector in the direction of the force and is measured in N·s, which is the same as kg·m/s.\n\nImpulse-momentum theorem. Newton's second law gives F = Δp/Δt, and multiplying by Δt gives FΔt = Δp = mv − mu. The impulse of the net force therefore equals the change in momentum of the body. For a force that varies with time, J = ∫F dt is the area under the force-time graph, and the average force is F_av = Δp/Δt. The theorem is simply Newton's second law integrated over the time of contact, and it holds for any body of constant mass.\n\nMeaning. A required change of momentum fixes the product FΔt. A large force acting for a short time and a small force acting for a long time can produce the same impulse; increasing the contact time reduces the force, and shortening the time increases it.\n\nEveryday example: catching a cricket ball. A 0.16 kg ball moving at 20 m/s has momentum 3.2 kg·m/s, so stopping it requires an impulse of 3.2 N·s. If the hands are held rigid and the ball stops in 0.01 s, the average force is F = Δp/Δt = 3.2/0.01 = 320 N, which hurts. If the hands are moved back so that the ball stops in 0.10 s, the same impulse acts over ten times as long and the force falls to 32 N. Car airbags and crumple zones, landing mats, bending the knees on landing, and the sand pit at a long jump use the same idea. The opposite case is a hammer blow or a karate strike, where a very short contact time gives a very large force for a modest momentum change, and a rubber ball bouncing back reverses momentum and so needs a larger impulse than one that simply stops.",
+    "explanation": "Key principle: J = FΔt = Δp; the impulse equals the area under the force-time graph. Common mistake: forgetting that a bouncing ball undergoes Δp = 2mv, not mv, so the impulse is twice as large.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "State the law of conservation of momentum. Provide an example from everyday life that demonstrates the principle of momentum conservation.",
+    "answer": "Statement. In the absence of a net external force, the total linear momentum of an isolated system remains constant in magnitude and direction: Σp_initial = Σp_final. For two interacting bodies, m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂.\n\nDerivation from Newton's laws. Let bodies A and B collide. By Newton's third law the force of A on B is equal and opposite to the force of B on A: F_AB = −F_BA. Multiplying by the same contact time Δt gives F_ABΔt = −F_BAΔt, so Δp_B = −Δp_A, that is Δp_A + Δp_B = 0. The total momentum does not change. The law also follows at once from Newton's second law, since F_ext = dp/dt = 0 means p is constant.\n\nScope and conditions. Only external forces can change the momentum of a system; internal forces always occur in equal and opposite pairs, so they cancel. Momentum is a vector, so the law applies separately along each direction, and it holds for collisions of any type, for explosions, for recoil and for rocket motion. Unlike energy conservation in collisions, it is not affected by kinetic energy being converted into heat.\n\nEveryday example — firing a gun. Before firing, the gun and bullet are at rest, so the total momentum is zero. When the bullet of mass m leaves with velocity v to the right, the gun of mass M must move with velocity V = −(m/M)v to the left (recoil), so that mv + MV = 0. A 10 kg gun firing a 20 g bullet at 500 m/s recoils at 1 m/s. A rocket works in the same way: the momentum of the ejected gases backwards equals the momentum of the rocket forwards, which is why a rocket can accelerate in empty space where there is nothing to push against. Two skaters pushing off each other, a person throwing a heavy ball while standing on frictionless ice, and the recoil of a cannon are further examples in which the total momentum stays zero although each body moves.",
+    "explanation": "Key principle: internal action-reaction pairs cannot change total momentum, so an isolated system keeps its total momentum; rocket propulsion and recoil are direct consequences. Common mistake: applying momentum conservation when a significant external force (friction, gravity along the motion) acts.",
+    "pdfPage": 75,
+    "bookPage": 71,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A car weighing 9800 N is moving with a speed of 40 Km/h. On the Application of breaks it comes to rest after traveling a distance of 50 meters. Calculate the average retarding force?",
+    "answer": "Given:\nW = 9800 N, u = 40 km/h = 40 × 1000/3600 = 11.11 m/s, v = 0, s = 50 m, g = 9.8 m/s²\nFormula:\nm = W/g; a = (v² − u²)/2s; F = ma\nSubstitution:\nm = 9800/9.8 = 1000 kg\na = (0 − 11.11²)/(2 × 50) = −123.46/100\nCalculation:\na = −1.235 m/s²\nF = 1000 × (−1.235) = −1234.6 N\nThe negative sign shows that the force acts opposite to the motion, i.e. it is a retarding force.\nResult:\nAverage retarding force = 1234.6 N ≈ 1.23 × 10³ N, which agrees with the printed answer 1234.57 N.",
+    "explanation": "Key formula: v² = u² + 2as gives the deceleration, then F = ma. Convert km/h to m/s first and obtain the mass from m = W/g; the retarding force is the magnitude 1234.57 N.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A helicopter weighs 3920 N. Calculate the force on it if it is ascending up at the rate of 2m/s². What will be the force on helicopter if it is moving up with a constant speed of 4 m/s?",
+    "answer": "Given:\nW = 3920 N, a = 2 m/s² (upward), constant speed case a = 0, g = 9.8 m/s²\nFormula:\nm = W/g\nAscending with acceleration: F = m(g + a)\nConstant speed: F = mg\nSubstitution:\nm = 3920/9.8 = 400 kg\nF = 400 × (9.8 + 2) = 400 × 11.8\nCalculation:\nF = 4720 N (upward thrust of the rotor)\nFor constant speed: F = 400 × 9.8 = 3920 N\nResult:\n(a) While ascending at 2 m/s² the force is 4720 N.\n(b) While moving up with a constant speed of 4 m/s the force is 3920 N.\nBoth values agree with the printed answers (4720 N, 3920 N).",
+    "explanation": "Key idea: the rotor must support the weight and also supply the upward acceleration, F − mg = ma, so F = m(g + a); at constant speed the acceleration is zero and F = mg regardless of the speed value.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "A 100 grams bullet s fired from a 10 kg gun with a speed of 1000m/s. What is the speed of recoil of the gun?",
+    "answer": "Given:\nm_b = 100 g = 0.1 kg, m_g = 10 kg, v_b = 1000 m/s, initial total momentum = 0\nFormula:\nm_b v_b + m_g v_g = 0, so v_g = −(m_b v_b)/m_g\nSubstitution:\nv_g = −(0.1 × 1000)/10 = −100/10\nCalculation:\nv_g = −10 m/s\nResult:\nThe recoil speed of the gun is 10 m/s in the direction opposite to the bullet. This agrees with the printed answer 10 m/s.",
+    "explanation": "Key formula: conservation of linear momentum for a system initially at rest, m_bv_b + m_gv_g = 0; the minus sign gives the direction of recoil and the speed is its magnitude.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "A machine gun fires 10 bullets per second into a target. Each bullet weighs 20 gram and had a speed of 1500 m/s. Find the necessary force to hold the gun in position?",
+    "answer": "Given:\nn = 10 bullets/s, m = 20 g = 0.02 kg per bullet, v = 1500 m/s, u = 0\nFormula:\nF = (change in momentum per second) = n m v\nSubstitution:\nF = 10 × 0.02 × 1500\nCalculation:\nF = 10 × 30 = 300 N\nResult:\nThe force needed to hold the gun in position is 300 N, directed along the motion of the bullets (the gun presses back on the holder with 300 N). This agrees with the printed answer 300 N.",
+    "explanation": "Key formula: average force equals the momentum delivered per second, F = n m v; the holding force must equal the recoil force in magnitude and act forward.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A 50 grams bullet is fired into a 10 kg block that is suspended by a long cord so that it can swing as a pendulum. If the block is displaced so that its center of gravity rises by 10cm, what was the speed of bullet?",
+    "answer": "Given:\nm = 50 g = 0.05 kg, M = 10 kg, h = 10 cm = 0.10 m, g = 9.8 m/s²\nFormula:\nAfter the (perfectly inelastic) impact: v = √(2gh) for the block + bullet\nConservation of momentum: m u = (M + m) v, so u = (M + m)v/m\nSubstitution:\nv = √(2 × 9.8 × 0.10) = √1.96 = 1.4 m/s\nu = (10 + 0.05) × 1.4/0.05\nCalculation:\nu = 10.05 × 1.4/0.05 = 14.07/0.05 = 281.4 m/s\nResult:\nThe speed of the bullet was 281.4 m/s, which agrees with the printed answer 281.4 m/s. (If the 10 kg block mass alone is used instead of 10.05 kg, the result is 280 m/s, a difference of about 0.5%.)",
+    "explanation": "Key method: two stages — an inelastic collision in which only momentum is conserved, followed by a rise in which only mechanical energy is conserved, ½(M + m)v² = (M + m)gh. Common mistake: applying energy conservation to the collision itself.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A 70-gram ball collides with another ball of mass 140 gram. The initial velocity of the first ball is 9m/s to right while the second ball is at rest. If the collision were perfectly elastic, what would be the velocity of two balls after the collision?",
+    "answer": "Given:\nm₁ = 70 g = 0.07 kg, m₂ = 140 g = 0.14 kg, u₁ = 9 m/s (to the right), u₂ = 0, perfectly elastic collision\nFormula:\nv₁ = [(m₁ − m₂)/(m₁ + m₂)]u₁\nv₂ = [2m₁/(m₁ + m₂)]u₁\nSubstitution:\nm₁ + m₂ = 0.21 kg\nv₁ = [(0.07 − 0.14)/0.21] × 9 = (−0.07/0.21) × 9\nv₂ = (2 × 0.07/0.21) × 9 = (0.14/0.21) × 9\nCalculation:\nv₁ = −(1/3) × 9 = −3 m/s\nv₂ = (2/3) × 9 = 6 m/s\nCheck:\nMomentum before = 0.07 × 9 = 0.63 kg·m/s; after = 0.07 × (−3) + 0.14 × 6 = −0.21 + 0.84 = 0.63 kg·m/s ✓\nK.E. before = ½ × 0.07 × 81 = 2.835 J; after = ½ × 0.07 × 9 + ½ × 0.14 × 36 = 0.315 + 2.52 = 2.835 J ✓\nResult:\nThe 70 g ball rebounds with 3 m/s to the left (−3 m/s) and the 140 g ball moves with 6 m/s to the right. This agrees with the printed answers (−3 m/s, 6 m/s).",
+    "explanation": "Key formulas: for a head-on elastic collision with the second body at rest, v₁ = (m₁ − m₂)u₁/(m₁ + m₂) and v₂ = 2m₁u₁/(m₁ + m₂); the negative sign of v₁ means rebound. Both momentum and kinetic energy checks confirm the result.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "A truck weighing 2500 kg and moving with a velocity of 21m/s collides with a stationary car weighing 1000 kg. The truck and car move together after the impact. Calculate their common velocity?",
+    "answer": "Given:\nm₁ = 2500 kg, u₁ = 21 m/s, m₂ = 1000 kg, u₂ = 0, perfectly inelastic collision\nFormula:\nm₁u₁ + m₂u₂ = (m₁ + m₂)v, so v = m₁u₁/(m₁ + m₂)\nSubstitution:\nv = (2500 × 21)/(2500 + 1000) = 52500/3500\nCalculation:\nv = 15 m/s\nCheck: momentum before = 52500 kg·m/s; momentum after = 3500 × 15 = 52500 kg·m/s ✓\nResult:\nThe common velocity after the impact is 15 m/s in the original direction of the truck, which agrees with the printed answer 15 m/s.",
+    "explanation": "Key formula: conservation of momentum for a perfectly inelastic collision, v = (m₁u₁ + m₂u₂)/(m₁ + m₂); kinetic energy is not conserved in this collision.",
+    "pdfPage": 76,
+    "bookPage": 72,
+    "figure": null
+  }
+]

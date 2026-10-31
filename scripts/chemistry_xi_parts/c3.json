@@ -1,0 +1,242 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "If the bond angle in AB₂ type molecule is 104.5°, it geometry should be:",
+    "options": [
+      "Linear",
+      "Pyramidal",
+      "Bent",
+      "Planar Trigonal"
+    ],
+    "correct": "c",
+    "explanation": "An AB₂ molecule with a bond angle of 104.5° has two bond pairs and two lone pairs on the central atom (AX₂E₂). The four electron domains adopt a tetrahedral arrangement, but only the two bonding pairs define the molecular shape, so the atoms form a bent (angular) molecule such as H₂O, whose angle is 104.5°. A linear AB₂ molecule (e.g. CO₂) has 180°, a pyramidal molecule is AX₃E (e.g. NH₃, 107°) and a planar trigonal molecule is AX₃ (e.g. BF₃, 120°); therefore (c) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The highest bond energy in the following is:",
+    "options": [
+      "Cl – Cl",
+      "H – F",
+      "H – O",
+      "H – N"
+    ],
+    "correct": "b",
+    "explanation": "Bond energies are approximately H–F 568 kJ mol⁻¹, H–O 463 kJ mol⁻¹, H–N 391 kJ mol⁻¹ and Cl–Cl 242 kJ mol⁻¹. H–F is the strongest bond because fluorine is very small and highly electronegative, so the nuclei are close (92 pm) and the shared pair is attracted strongly by both nuclei. The Cl–Cl bond is unusually weak because of lone-pair repulsion between the large chlorine atoms. Hence the highest bond energy is that of H–F, option (b).",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "The molecule which has zero dipole moment is:",
+    "options": [
+      "NH₃",
+      "HCl",
+      "H₂O",
+      "CCl₄"
+    ],
+    "correct": "d",
+    "explanation": "CCl₄ is tetrahedral (sp³ carbon, 109.5°). Its four C–Cl bond dipoles are equal and symmetrically arranged, so their vector sum is zero and the molecule is nonpolar. NH₃ is trigonal pyramidal (μ = 1.47 D), HCl is a polar diatomic (μ = 1.08 D) and H₂O is bent (μ = 1.85 D), so none of these has zero dipole moment. The correct choice is (d).",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The molecule which has maximum bond angle:",
+    "options": [
+      "CS₂",
+      "H₂O",
+      "NH₃",
+      "BF₃"
+    ],
+    "correct": "a",
+    "explanation": "CS₂ is linear (S=C=S, sp hybridized carbon) with a bond angle of 180°; BF₃ is trigonal planar (120°), NH₃ is trigonal pyramidal (107°) and H₂O is bent (104.5°). The largest angle is therefore 180° in CS₂, option (a).",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "The shape and hybridization of BCl₃ molecule is:",
+    "options": [
+      "Tetrahedral and sp³",
+      "Linear and sp",
+      "Planar trigonal and sp²",
+      "Angular and sp³"
+    ],
+    "correct": "c",
+    "explanation": "Boron (2s²2p¹) has three valence electrons and forms three σ bonds with three chlorine atoms, using all three of its valence orbitals; it has no lone pair. The three electron domains arrange themselves as far apart as possible, giving sp² hybridization and a planar trigonal shape with Cl–B–Cl angles of 120°. Tetrahedral sp³ needs four domains, linear sp needs two, and an angular sp³ shape would require lone pairs, so (c) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Amongst the following molecules which one has trigonal pyramidal shape?",
+    "options": [
+      "SO₂",
+      "CO₂",
+      "NH₃",
+      "C₂H₄"
+    ],
+    "correct": "c",
+    "explanation": "NH₃ has three bond pairs and one lone pair on nitrogen (AX₃E), so its electron-pair geometry is tetrahedral and its molecular shape is trigonal pyramidal, with an H–N–H angle of 107°. SO₂ (two bond pairs + one lone pair) is bent, CO₂ (two bond pairs, no lone pair) is linear, and C₂H₄ is planar. Therefore (c) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "A simple covalent molecule possesses two bond pairs and two lone pairs around the central atom, its shape should be:",
+    "options": [
+      "Linear",
+      "Planar trigonal",
+      "Angular",
+      "Tetrahedral"
+    ],
+    "correct": "c",
+    "explanation": "Two bond pairs plus two lone pairs give four electron domains (AX₂E₂). The electron pairs are arranged tetrahedrally, but the two lone-pair positions are not occupied by atoms, so the molecular shape is angular (bent), as in H₂O (104.5°) and SCl₂. The angle is less than 109.5° because lone pair–lone pair repulsion is stronger than bond pair–bond pair repulsion. Hence (c) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "The correct relation between Debye and coulomb meter is:",
+    "options": [
+      "1 D = 3.33 × 10⁻³⁰ C m",
+      "1 D = 1.6 × 10⁻¹⁹ C m",
+      "1 D = 1.88 × 10⁻¹² C m",
+      "1 D = 1.23 × 10⁻⁸ C m"
+    ],
+    "correct": "a",
+    "explanation": "The debye is defined from the electrostatic unit of charge and length: 1 D = 1 × 10⁻¹⁸ esu cm. Since 1 esu = 3.33564 × 10⁻¹⁰ C and 1 cm = 10⁻² m, 1 D = 1 × 10⁻¹⁸ × 3.33564 × 10⁻¹⁰ × 10⁻² C m = 3.336 × 10⁻³⁰ C m, which rounds to 3.33 × 10⁻³⁰ C m. The value 1.6 × 10⁻¹⁹ C is the elementary charge, not a dipole moment, and the other two values are not conversion factors. Hence (a) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "The bond order of N₂ molecule is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": "d",
+    "explanation": "N₂ has 14 electrons. Its molecular-orbital configuration is σ2s² σ*2s² π2pₓ² π2p_y² σ2p_z² (for N₂ the σ2p_z orbital lies above the π2p orbitals). Bonding electrons = 2 + 2 + 2 + 2 = 8 and antibonding electrons = 2, so bond order = (8 − 2)/2 = 3. The triple bond (one σ + two π) explains the very short N≡N bond (110 pm) and its high dissociation energy (945 kJ mol⁻¹). Therefore (d) is correct.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The number of sigma and pi bonds in C₂H₄ molecule are respectively:",
+    "options": [
+      "3 and 1",
+      "2 and 2",
+      "5 and 1",
+      "4 and 2"
+    ],
+    "correct": "c",
+    "explanation": "Ethene has four C–H bonds and one C=C double bond. Every single bond is a σ bond, so there are 4 C–H σ bonds plus 1 C–C σ bond = 5 σ bonds. The second bond of the C=C is formed by sideways overlap of the unhybridized 2p orbitals and is a π bond, so there is 1 π bond. Thus the numbers are 5 σ and 1 π, option (c); option (d) would incorrectly count two π bonds, and (a) and (b) undercount the σ bonds.",
+    "pdfPage": 79,
+    "bookPage": 73
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Define the following:\n(i) Bond Energy\n(ii) Bond length",
+    "answer": "(i) Bond energy: The bond energy (bond enthalpy) is the average amount of energy required to break one mole of a particular type of covalent bond in gaseous molecules, or the energy released when one mole of such bonds is formed. It is expressed in kJ mol⁻¹. For a diatomic molecule it equals the bond dissociation energy, i.e. the energy needed to separate the two gaseous atoms, e.g. H–H 436 kJ mol⁻¹, Cl–Cl 242 kJ mol⁻¹ and H–Cl 431 kJ mol⁻¹. For a polyatomic molecule an average value is quoted because the successive bonds of the same type have slightly different dissociation energies (e.g. the four C–H bonds of CH₄).\n(ii) Bond length: The bond length is the equilibrium distance between the nuclei of two bonded atoms in a molecule. It is measured in picometres (pm) or ångström (Å) and corresponds to the separation at which the attractive and repulsive forces balance and the potential energy is minimum. It depends on the sizes of the bonded atoms and on the bond order: for the same pair of atoms the length decreases as the bond order increases, e.g. C–C 154 pm > C=C 134 pm > C≡C 120 pm, and H–H is 74 pm while H–Cl is 127 pm.",
+    "explanation": "Bond energy is a measure of bond strength (energy needed to break the bond), whereas bond length is a measure of molecular size (the equilibrium internuclear separation). The two are inversely related: stronger, higher-order bonds are shorter and require more energy to break, which is why bond length and bond energy are both used to compare bond strengths.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "The Dipole moment of water is 1.85D but CO₂ has zero dipole moment why?",
+    "answer": "The dipole moment of a polyatomic molecule is the vector sum of its individual bond dipoles, so both bond polarity and molecular shape matter.\nIn H₂O the O–H bonds are polar (electronegativity difference ≈ 1.4, with the negative end on oxygen). Oxygen also has two lone pairs, so the two bond pairs and two lone pairs (AX₂E₂) give a bent molecule with an H–O–H angle of 104.5°. The two O–H bond dipoles are inclined at 104.5° and their vector sum is not zero; it gives a resultant dipole moment of 1.85 D directed along the bisector of the H–O–H angle (the lone pairs add to this asymmetry). Water is therefore polar.\nIn CO₂ the two C=O bonds are polar (electronegativity difference ≈ 0.9), but carbon is sp hybridized and the molecule is linear, O=C=O, with a bond angle of 180°. The two equal C=O bond dipoles point in exactly opposite directions and cancel completely, so the resultant dipole moment is zero. Thus CO₂ is nonpolar even though each individual bond is polar.",
+    "explanation": "The key is vector addition: equal bond dipoles cancel only when they are opposed at 180° (linear, symmetrical molecule). In the bent water molecule they cannot cancel. This is why the polarity of a molecule cannot be judged from bond polarity alone; geometry (VSEPR) must also be considered, as shown by the nonpolar CO₂, CCl₄ and BF₃ compared with polar H₂O and NH₃.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Differentiate between the following:\n(i) VBT and MOT\n(ii) Sigma bond and pi bond\n(iii) Bonding M.O and Anti bonding M.O",
+    "answer": "(i) VBT and MOT:\nValence bond theory (VBT):\n• A covalent bond is formed by the overlap of half-filled valence atomic orbitals of two atoms, each atom contributing one electron with opposite spin; the shared pair occupies the region of overlap.\n• The bond is localized between the two bonded atoms, and molecular shape follows from the directional nature of the overlapping (or hybridized) orbitals.\n• It explains bond strength (greater overlap means a stronger bond), bond direction, bond angles and the shapes of molecules.\n• It cannot explain the paramagnetism of O₂, delocalized bonding in molecules such as benzene, or electronic spectra, and it gives no direct measure of bond order.\nMolecular orbital theory (MOT):\n• Atomic orbitals of the bonded atoms combine by linear combination (LCAO) to form molecular orbitals that extend over the whole molecule; bonding MOs are lower in energy and antibonding MOs higher than the parent atomic orbitals.\n• Electrons are filled into MOs according to the Aufbau principle, Pauli exclusion principle and Hund's rule; bond order = (number of bonding electrons − number of antibonding electrons)/2.\n• It explains the paramagnetism of O₂, bond order, bond length and magnetic behaviour, delocalization and electronic spectra.\n• It does not describe bonds as localized electron pairs between two atoms.\n\n(ii) Sigma bond and pi bond:\nSigma (σ) bond:\n• Formed by head-on (axial) overlap of s–s, s–p or p–p orbitals, e.g. H₂ (s–s), HCl (s–p), Cl₂ (p–p).\n• The electron density is maximum along the internuclear axis and is cylindrically symmetrical about it.\n• It is stronger and less reactive because the overlap is large.\n• Free rotation about a σ bond is possible, and a σ bond can exist as a single bond on its own.\nPi (π) bond:\n• Formed by sideways (lateral) overlap of two parallel p orbitals (or d orbitals).\n• The electron density lies in two lobes above and below the internuclear axis, with a nodal plane containing the axis.\n• It is weaker and more reactive because the overlap is smaller and the electrons are more exposed.\n• Rotation about a π bond is restricted, and a π bond forms only in addition to a σ bond (double bond = 1σ + 1π, triple bond = 1σ + 2π).\n\n(iii) Bonding M.O and anti bonding M.O:\nBonding molecular orbital:\n• Formed by constructive (in-phase) overlap of atomic orbitals, so the wave functions add.\n• Electron density is increased between the nuclei, which lowers the energy relative to the parent atomic orbitals and stabilizes the molecule.\n• It is denoted σ (or π) and its electrons count as bonding electrons; filling it increases the bond order.\nAnti bonding molecular orbital:\n• Formed by destructive (out-of-phase) overlap of atomic orbitals, so the wave functions subtract.\n• There is a nodal plane between the nuclei where the electron density is zero; the energy is higher than that of the parent atomic orbitals and the orbital destabilizes the molecule.\n• It is denoted σ* (or π*) and its electrons count as antibonding electrons; filling it decreases the bond order.",
+    "explanation": "VBT builds molecules from localized overlapping atomic orbitals, whereas MOT builds them from molecular orbitals spread over the molecule; MOT is needed for O₂ paramagnetism and for bond order. Head-on overlap gives the stronger, cylindrically symmetrical σ bond, while sideways overlap gives the weaker π bond with a nodal plane along the axis. Bonding MOs concentrate electron density between nuclei and lower the energy; antibonding MOs have a node between the nuclei and raise the energy, so their relative occupancy determines the bond order and stability.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Explain the following with scientific reasons.\n(i) Sigma bond is stronger than pi bond.\n(ii) HF has greater ionic character than HCl.\n(iii) Bond energy of molecules possessing multiple bonds is high.",
+    "answer": "(i) Sigma bond is stronger than pi bond: A σ bond is formed by head-on (axial) overlap of orbitals, so the overlap region is concentrated directly between the two nuclei and the electron density is maximum along the internuclear axis. This gives strong electrostatic attraction between the shared electrons and both nuclei. A π bond is formed by sideways overlap of parallel p orbitals; the overlap is much smaller, and the electron density lies above and below the axis rather than between the nuclei. The π electrons are therefore less tightly held and more exposed, so the π bond is weaker. For example, in C=C the σ bond is about 348 kJ mol⁻¹ (C–C) while the π component is only about 266 kJ mol⁻¹, which is why π bonds break more readily in addition reactions.\n(ii) HF has greater ionic character than HCl: Ionic character depends on the electronegativity difference between the bonded atoms and on bond length. Fluorine (3.98) is much more electronegative than chlorine (3.16), so ΔEN for H–F (≈ 1.78) is greater than for H–Cl (≈ 0.96). The H–F bond is also shorter (92 pm) than H–Cl (127 pm), so the charge separation is more pronounced. Consequently the shared pair in HF is drawn much closer to fluorine and the bond has about 43% ionic character, compared with about 17% for HCl; the dipole moment of HF (1.91 D) is also larger than that of HCl (1.08 D).\n(iii) Bond energy of molecules possessing multiple bonds is high: A multiple bond contains a σ bond plus one or two π bonds, i.e. it has a higher bond order and more shared electron pairs. The additional bonding electrons increase the attraction between the nuclei, pull the atoms closer and make the bond shorter and stronger, so more energy is needed to break all the bonds. For carbon: C–C 348, C=C 614 and C≡C 839 kJ mol⁻¹; for nitrogen N≡N is 945 kJ mol⁻¹ and for oxygen O=O is 498 kJ mol⁻¹ (compare O–O 146 kJ mol⁻¹). The total bond energy of the multiple bond is therefore larger than that of the corresponding single bond, even though each individual π bond is weaker than a σ bond.",
+    "explanation": "The strength of a bond depends on the extent of orbital overlap and on bond order. Head-on overlap in a σ bond is more effective than sideways overlap in a π bond. Ionic character is governed by ΔEN and bond length, and F's high electronegativity and small size make H–F much more polar than H–Cl. Multiple bonds have higher bond order, shorter length and greater total bonding electron density, hence higher bond energy.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Oil is insoluble in water but soluble in hexane explain why?",
+    "answer": "Oil is a mixture of nonpolar hydrocarbon molecules containing only C–C and C–H bonds, so its molecules have no significant permanent dipole and interact mainly by weak London dispersion forces. Water is a highly polar molecule and its molecules are held together by strong hydrogen bonds. When oil is mixed with water, the water–water hydrogen bonds must be broken to make room for the oil molecules, but the oil cannot form hydrogen bonds with water and the weak oil–water dispersion interactions do not compensate for that energy cost. The two liquids therefore do not mix; oil is insoluble in water and forms a separate layer (it is also less dense than water).\nHexane (C₆H₁₄) is itself a nonpolar hydrocarbon. Its molecules interact by London dispersion forces of similar strength to those in oil, so oil and hexane can mix freely: the solute–solvent interactions are comparable to the solute–solute and solvent–solvent interactions. This is the general rule \"like dissolves like\": nonpolar solutes dissolve in nonpolar solvents, while polar solutes dissolve in polar solvents.",
+    "explanation": "Dissolution is favoured when the new solute–solvent interactions are similar in strength to the interactions that must be broken. Water's hydrogen-bonded network cannot be replaced by interactions with nonpolar oil, so oil remains separate; hexane, being nonpolar like oil, provides dispersion interactions of comparable strength and dissolves it.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Which hybridization would you expect for the central atom in each of the following?\nBeCl₂, BF₃, CH₄, C₂H₂",
+    "answer": "BeCl₂: sp hybridization. The beryllium atom (2s²) is excited to 2s¹2p¹; its 2s and one 2p orbital mix to give two equivalent sp hybrid orbitals directed at 180°. Each hybrid overlaps with a 2p orbital of a chlorine atom to form a σ bond. There are no lone pairs on Be (two electron domains), so the molecule is linear with Cl–Be–Cl = 180°.\nBF₃: sp² hybridization. Boron (2s²2p¹) promotes one 2s electron to an empty 2p orbital, giving 2s¹2p²; one s and two p orbitals then mix to give three equivalent sp² hybrids at 120°. The three B–F σ bonds and the absence of a lone pair give a trigonal planar molecule with F–B–F = 120°.\nCH₄: sp³ hybridization. Carbon (2s²2p²) promotes one 2s electron to the vacant 2p orbital, giving four half-filled orbitals (2s¹2p³). One 2s and all three 2p orbitals mix to form four equivalent sp³ hybrids pointing to the corners of a tetrahedron at 109.5°. Each hybrid overlaps with the 1s orbital of a hydrogen atom, giving four equivalent C–H σ bonds and a tetrahedral CH₄ molecule.\nC₂H₂: sp hybridization on each carbon. Each carbon uses its 2s and one 2p orbital to form two sp hybrids at 180°; one sp hybrid overlaps with the H 1s orbital (C–H σ bond) and the other overlaps with an sp hybrid of the second carbon (C–C σ bond). The two remaining unhybridized 2p orbitals on each carbon overlap sideways to form two π bonds. The molecule is therefore linear, H–C≡C–H, with 180° bond angles.",
+    "explanation": "The hybridization follows from the number of electron domains (bond pairs + lone pairs) around the central atom: 2 domains → sp (linear), 3 → sp² (trigonal planar), 4 → sp³ (tetrahedral). BeCl₂ has 2 domains, BF₃ has 3, CH₄ has 4, and each carbon of C₂H₂ has 2 domains while retaining two unhybridized p orbitals for the two π bonds of the triple bond.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "(a) Write down the postulate of VSEPR theory\n(b) Predict the shape of following molecules on the basis of VSEPR theory.\nAlCl₃, CCl₄, PH₃, H₂S",
+    "answer": "(a) Postulates of VSEPR theory:\n(i) The shape of a molecule is determined by the number and arrangement of the electron pairs (bond pairs and lone pairs) in the valence shell of the central atom. These electron pairs repel one another and arrange themselves as far apart as possible.\n(ii) The electron pairs around the central atom occupy positions of maximum angular separation: two pairs give a linear arrangement (180°), three give trigonal planar (120°), four give tetrahedral (109.5°), five give trigonal bipyramidal (90° and 120°) and six give octahedral (90°).\n(iii) The repulsion between electron pairs is not equal; it decreases in the order lone pair–lone pair > lone pair–bond pair > bond pair–bond pair. A lone pair occupies more space than a bond pair, so lone pairs compress the bond angles below the ideal values.\n(iv) A multiple bond is counted as a single electron domain, but it occupies more space than a single bond and therefore causes additional repulsion.\n(v) The molecular shape is described by the positions of the atoms only; the lone pairs are not included in the shape. The general formula AXₘEₙ is used, where A is the central atom, X a bonded atom and E a lone pair.\n(vi) The electronegativity of the surrounding atoms also affects the bond angles: more electronegative ligands draw the bonding electrons away from the central atom, reducing bond pair–bond pair repulsion and the angle.\n\n(b) Shapes predicted by VSEPR theory:\nAlCl₃: Al has three valence electrons and forms three σ bonds with chlorine; it has no lone pair. There are three electron domains, so the hybridization is sp² and the shape is trigonal planar with Cl–Al–Cl = 120°. (In the vapour AlCl₃ is a planar monomer; on cooling it dimerizes to Al₂Cl₆.)\nCCl₄: Carbon has four valence electrons and forms four σ bonds with chlorine, with no lone pair. Four electron domains give sp³ hybridization and a tetrahedral shape with Cl–C–Cl = 109.5°. The four equal C–Cl dipoles cancel, so the molecule is nonpolar.\nPH₃: Phosphorus has five valence electrons, forms three P–H bonds and retains one lone pair. The four electron domains are sp³ hybridized, giving a tetrahedral electron-pair arrangement, but only three positions are occupied by atoms, so the molecular shape is trigonal pyramidal. The lone pair–bond pair repulsion compresses the H–P–H angle to about 93.5°, well below 109.5°.\nH₂S: Sulphur has six valence electrons, forms two S–H bonds and retains two lone pairs. The four electron domains are sp³ hybridized, but the two lone pairs leave only two bonding positions, so the shape is bent (angular). The strong lone pair–lone pair and lone pair–bond pair repulsions reduce the H–S–H angle to about 92.1°.",
+    "explanation": "For each molecule, count the bond pairs and lone pairs on the central atom. The total number of electron domains fixes the electron-pair geometry (2 linear, 3 trigonal planar, 4 tetrahedral), while the number of lone pairs determines how many vertices are hidden and hence the observed molecular shape. AlCl₃ (3 domains, 0 lone pairs) and CCl₄ (4, 0) have molecular shapes identical to their electron-pair geometries; PH₃ (3 bond pairs + 1 lone pair) is trigonal pyramidal and H₂S (2 + 2) is bent, with angles compressed by lone-pair repulsion.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "What do you mean by Hybridization? Explain sp³ hybridization in CH₄ molecule and sp² hybridization in C₂H₄ molecule.",
+    "answer": "Hybridization is the mixing of atomic orbitals of nearly equal energy on the same atom to produce an equal number of new hybrid orbitals of identical shape and energy. The hybrid orbitals are oriented in definite directions so that they can overlap to the maximum extent with the orbitals of other atoms and form stronger bonds. The number of hybrid orbitals formed equals the number of atomic orbitals mixed, and the hybrid orbitals are more directional than the original atomic orbitals, so they form stronger bonds.\n\nsp³ hybridization in CH₄:\nThe ground-state carbon atom is 1s²2s²2p². One 2s electron is promoted to the vacant 2p orbital, giving the excited configuration 1s²2s¹2pₓ¹2p_y¹2p_z¹, with four half-filled orbitals. One 2s orbital and the three 2p orbitals then mix to form four equivalent sp³ hybrid orbitals, each with 25% s and 75% p character. These four hybrids point towards the four corners of a regular tetrahedron, so the angle between any two of them is 109.5°. Each sp³ hybrid overlaps head-on with the 1s orbital of a hydrogen atom to form a σ C–H bond. The four C–H bonds are identical (bond length 109 pm) and the CH₄ molecule is tetrahedral, with H–C–H = 109.5°.\n\nsp² hybridization in C₂H₄:\nEach carbon atom is first excited to 2s¹2pₓ¹2p_y¹2p_z¹. One 2s orbital and two 2p orbitals (say 2pₓ and 2p_y) mix to form three equivalent sp² hybrid orbitals, each with 33% s and 67% p character, lying in one plane and directed at 120° to one another. The remaining 2p_z orbital is left unhybridized and is perpendicular to the plane of the hybrids. On each carbon, two sp² hybrids overlap with the 1s orbitals of two hydrogen atoms to form C–H σ bonds, and the third sp² hybrid overlaps with an sp² hybrid of the other carbon to form the C–C σ bond. The two unhybridized 2p_z orbitals, one on each carbon, overlap sideways to form a π bond. Thus C₂H₄ contains one C–C σ bond, four C–H σ bonds and one C–C π bond; all six atoms lie in one plane, the bond angles are about 120°, the C=C bond length is 134 pm, and rotation about the C=C bond is restricted by the π bond.",
+    "explanation": "Hybridization explains why the four C–H bonds of methane are equivalent and tetrahedral and why ethene is planar with 120° angles. The number of hybrid orbitals equals the number of electron domains: four in CH₄ (sp³, 109.5°) and three in each carbon of C₂H₄ (sp², 120°). In ethene the unused p orbital on each carbon remains perpendicular to the molecular plane and provides the π bond, which is why the C=C bond is shorter and stronger than a C–C single bond.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What are the basic postulates of valence bond theory? Explain various type of overlapping lead to sigma and pi bond.",
+    "answer": "Basic postulates of valence bond theory (VBT):\n(i) A covalent bond is formed by the overlap of two half-filled valence atomic orbitals, one from each of the two bonded atoms, each orbital contributing one unpaired electron. The two electrons must have opposite spins (Pauli exclusion principle) and are shared between the nuclei.\n(ii) The greater the extent of overlap between the two orbitals, the stronger is the bond formed and the greater the lowering of energy.\n(iii) For effective overlap the two orbitals must have the same symmetry about the internuclear axis, so that lobes of the same sign (both positive or both negative) overlap.\n(iv) The number of covalent bonds an atom can form is equal to the number of half-filled orbitals available; promotion of electrons and hybridization can increase the number of half-filled orbitals and hence the valency (e.g. carbon forms four bonds).\n(v) The directional nature of the overlapping orbitals determines the shape of the molecule and its bond angles; hybridized orbitals give equivalent, directed bonds.\n(vi) Each bond is localized between the two bonded atoms, and the shared electron pair belongs to both atoms.\n\nTypes of overlapping leading to sigma and pi bonds:\nSigma (σ) bond: A σ bond is formed by head-on (axial) overlap of orbitals along the line joining the nuclei. The overlap may be s–s (as in H₂), s–p (as in HCl, where the H 1s overlaps the Cl 3p_z) or p–p (as in Cl₂, where two 3p_z orbitals overlap end-to-end). In a σ bond the electron density is greatest along the internuclear axis and is cylindrically symmetrical about it. The overlap is large, so the σ bond is strong; free rotation about a σ bond is possible.\nPi (π) bond: A π bond is formed by sideways (lateral) overlap of two parallel p orbitals (or d orbitals) that are perpendicular to the internuclear axis. The overlap occurs in two regions, one above and one below the axis, and there is a nodal plane containing the axis where the electron density is zero. The overlap is smaller than in a σ bond, so a π bond is weaker and more reactive, and rotation about it is restricted. A π bond can form only when the two atoms are already joined by a σ bond: a double bond consists of one σ + one π bond and a triple bond of one σ + two π bonds. For example, C₂H₄ has a C–C σ bond and a C–C π bond, while N₂ has one σ and two π bonds.",
+    "explanation": "VBT regards a covalent bond as a localized shared electron pair created by orbital overlap, with the strength and direction of the bond determined by how effectively the orbitals overlap. Head-on overlap concentrates electron density on the internuclear axis and gives a strong σ bond; sideways overlap of parallel p orbitals puts electron density above and below the axis, with a nodal plane, and gives a weaker π bond that exists only in addition to a σ bond.",
+    "pdfPage": 80,
+    "bookPage": 74
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Draw a molecular orbital diagram of O₂ molecule and\n(i) Write down MO electronic configuration\n(ii) Determine bond order\n(iii) Explain the paramagnetic behavior",
+    "answer": "Molecular orbital diagram: The 2s and 2p atomic orbitals of the two oxygen atoms combine to give the molecular orbitals σ2s, σ*2s, σ2p_z, π2pₓ = π2p_y, π*2pₓ = π*2p_y and σ*2p_z. For O₂ (and F₂) the σ2p_z MO lies below the π2p orbitals, so the energy order is:\nσ2s < σ*2s < σ2p_z < π2pₓ = π2p_y < π*2pₓ = π*2p_y < σ*2p_z.\nThe 16 electrons of O₂ fill these orbitals in order, two at a time, and the last two electrons enter the degenerate π* orbitals singly.\n\n(i) MO electronic configuration:\n(σ2s)² (σ*2s)² (σ2p_z)² (π2pₓ)² (π2p_y)² (π*2pₓ)¹ (π*2p_y)¹, also written as KK (σ2s)² (σ*2s)² (σ2p_z)² (π2pₓ)² (π2p_y)² (π*2pₓ)¹ (π*2p_y)¹, where KK represents the filled inner-shell (1s) orbitals. This accounts for all 16 electrons.\n\n(ii) Bond order:\nBond order = (number of bonding electrons − number of antibonding electrons)/2.\nBonding electrons = 2 (σ2s) + 2 (σ2p_z) + 2 (π2pₓ) + 2 (π2p_y) = 8.\nAntibonding electrons = 2 (σ*2s) + 1 (π*2pₓ) + 1 (π*2p_y) = 4.\nBond order = (8 − 4)/2 = 2. Oxygen therefore has a double bond (one σ + one π), a bond length of 121 pm and a bond energy of 498 kJ mol⁻¹. A simple Lewis structure (O=O with all electrons paired) would predict a diamagnetic molecule, contrary to the observed paramagnetism discussed in (iii).\n\n(iii) Paramagnetic behavior:\nAccording to Hund's rule, the last two electrons occupy the two degenerate π*2p orbitals singly, with parallel spins, rather than pairing in one orbital. These two unpaired electrons give the O₂ molecule a net magnetic moment of about 2.83 Bohr magnetons, so O₂ is paramagnetic: it is attracted into a magnetic field, and liquid oxygen is held between the poles of a magnet. This result is strong evidence for molecular orbital theory, because a simple Lewis structure (O=O with all electrons paired) or a simple valence-bond description predicts diamagnetism. It also explains related species: removing one π* electron (O₂⁺) raises the bond order to 2.5, while adding one (O₂⁻) lowers it to 1.5.",
+    "explanation": "The MO diagram must place the σ2p_z orbital below the π2p pair for O₂ and F₂. Filling 16 electrons leaves two unpaired electrons in the degenerate π* orbitals, which gives a bond order of (8 − 4)/2 = 2 and makes O₂ paramagnetic. This unpaired-electron result is the classic success of MOT over the localized-electron-pair picture of VBT.",
+    "pdfPage": 80,
+    "bookPage": 74
+  }
+]

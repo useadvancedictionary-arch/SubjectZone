@@ -1,0 +1,373 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "One radian is about",
+    "options": ["25°", "37°", "45°", "57°"],
+    "correct": "d",
+    "answer": "(d) 57°",
+    "explanation": "One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius, so 2π rad = 360° and 1 rad = 180°/π = 57.3° ≈ 57°. The value 25° is far too small, 37° belongs to a 3-4-5 triangle often used in problems, and 45° would correspond to π/4 rad. Hence (d).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Wheel turns with constant angular speed then:",
+    "options": [
+      "each point on its rim moves with constant velocity",
+      "each point on its rim moves with constant acceleration",
+      "the wheel turns through equal angles in equal times",
+      "the angle through which the wheel turns in each second increases as time goes on",
+      "the angle through which the wheel turns in each second decreases as time goes on"
+    ],
+    "correct": "c",
+    "answer": "(c) the wheel turns through equal angles in equal times",
+    "explanation": "Constant angular speed means ω = Δθ/Δt is fixed, so equal angles are turned through in equal times, θ = ωt. A point on the rim has constant speed but its velocity direction changes continuously, so its velocity is not constant (a is wrong); its centripetal acceleration also changes direction continuously, so the acceleration vector is not constant (b is wrong). Options (d) and (e) describe angular acceleration and deceleration respectively, which contradict constant ω. Hence (c).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "The rotational inertia of a wheel about its axle does not depend upon its",
+    "options": ["diameter", "mass", "distribution of mass", "speed of rotation"],
+    "correct": "d",
+    "answer": "(d) speed of rotation",
+    "explanation": "Rotational inertia is I = Σmr², which depends on the total mass, on how that mass is distributed about the axis (shape, diameter and thickness, since mass near the rim contributes more than mass near the axle), and on the axis chosen. It does not depend on how fast the wheel happens to spin, because it is a purely inertial-geometric property measured in kg·m². Hence (d).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "A force with at given magnitude is to be applied to a wheel. The torque can be maximized by",
+    "options": [
+      "applying the force near the axle, radially outward from the axle.",
+      "applying the force near the rim, radially outward.",
+      "applying the force near the axle, parallel to a tangent to the wheel.",
+      "applying the force at the rim, tangent to the rim"
+    ],
+    "correct": "d",
+    "answer": "(d) applying the force at the rim, tangent to the rim",
+    "explanation": "Torque is τ = rF sinθ, so for a fixed force magnitude it is largest when the lever arm r is greatest (force at the rim) and when θ = 90° (force perpendicular to the radius, i.e. tangent to the rim). A force near the axle has a small r, and a radial force has sinθ = 0 and therefore produces no torque at all, however large it is. Hence (d).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "An object rotating about a fixed axis, I is its rotational inertia and α is its angular acceleration. Its",
+    "options": [
+      "is the definition of torque",
+      "is the definition of rotational inertia",
+      "is definition of angular acceleration",
+      "follows directly from Newton's second law."
+    ],
+    "correct": "d",
+    "answer": "(d) follows directly from Newton's second law.",
+    "explanation": "The printed stem is incomplete (it ends with 'Its'); the intended statement is 'Its Iα is'. The relation τ = Iα follows directly from Newton's second law in rotational form, τ = dL/dt with L = Iω for a fixed axis and constant I, so τ = I dω/dt = Iα. It is not a definition: torque is defined as τ = rF sinθ, rotational inertia as I = Σmr² and angular acceleration as α = dω/dt. Hence (d).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The angular momentum vector of Earth about its rotation axis, due to its daily rotation is, directed",
+    "options": ["tangent to the equator towards east", "tangent to the equator towards the west", "north", "towards the Sun."],
+    "correct": "c",
+    "answer": "(c) north",
+    "explanation": "Earth spins from west to east, so a point on the equator moves eastward. By the right-hand rule, curling the fingers of the right hand in the sense of rotation makes the thumb point along the axis towards the geographic north pole, which is the direction of L. A vector tangent to the equator would describe the instantaneous velocity of a surface point, not the angular momentum, and the direction of the Sun is unrelated to the rotation axis. Hence (c).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "A stone of 2 kg is tied to a 0.50 m long string and swung around a circle at angular velocity of 12 rad/s . The net torque on the stone about the center of the circle is:",
+    "options": ["0 N.m", "6 N.m", "12 N.m", "72 N.m"],
+    "correct": "a",
+    "answer": "(a) 0 N.m",
+    "explanation": "The stone moves in a circle at constant angular velocity, so its angular momentum about the centre does not change and the net torque must be zero. The only force is the tension, which acts along the string toward the centre, so r and F are antiparallel and τ = rF sin180° = 0. Option (d) 72 N·m comes from wrongly multiplying the centripetal force (mω²r = 2 × 144 × 0.5 = 144 N) by r without the sinθ factor, and 6 and 12 N·m have no basis in the data. Hence (a).",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "A man, with his arms at his sides, is spinning on a light frictionless turntable . When he extends his arms",
+    "options": [
+      "his angular velocity increases",
+      "his angular velocity remains same",
+      "his rotational inertia decreases",
+      "his angular momentum remains the same."
+    ],
+    "correct": "d",
+    "answer": "(d) his angular momentum remains the same.",
+    "explanation": "The turntable is frictionless and light, so no external torque acts about the vertical axis and angular momentum L = Iω is conserved. Extending the arms moves mass away from the axis, so the rotational inertia I increases (not decreases) and the angular velocity ω = L/I decreases (not increases). Hence only (d) is correct.",
+    "pdfPage": 99,
+    "bookPage": 95
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "A space station revolves around the earth as a satellite, 100 km above the Earth's surface. What is the net force on an astronaut at rest inside the space station?",
+    "options": [
+      "equal to her weight on earth",
+      "a little less than her weight on earth",
+      "less than half her weight on earth",
+      "zero (she is weightless)"
+    ],
+    "correct": "b",
+    "answer": "(b) a little less than her weight on earth",
+    "explanation": "At a height of 100 km the gravitational field is g' = g(R/(R + h))² ≈ 9.8 × (6370/6470)² ≈ 9.5 m/s², only about 3% less than at the surface, so the gravitational force on the astronaut is a little less than her weight on Earth. She and the station are in free fall together, so she feels weightless and the normal reaction on her is zero, but the actual net force (gravity) is not zero — it provides the centripetal force for the orbit. It is certainly not less than half her weight. Hence (b).",
+    "pdfPage": 100,
+    "bookPage": 96
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "If the external torque acting on a body is zero, then its",
+    "options": [
+      "angular momentum is zero",
+      "angular momentum is conserved",
+      "angular acceleration is maximum",
+      "rotational motion is maximum"
+    ],
+    "correct": "b",
+    "answer": "(b) angular momentum is conserved",
+    "explanation": "Torque is the rate of change of angular momentum, τ = dL/dt, so zero external torque means dL/dt = 0 and L stays constant — the law of conservation of angular momentum. Angular momentum need not be zero; a body can continue spinning uniformly. Angular acceleration is zero (not maximum), since τ = Iα with τ = 0, and there is no such quantity as 'maximum rotational motion'. Hence (b).",
+    "pdfPage": 100,
+    "bookPage": 96
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "For an isolated rotating body, what is the relation between angular velocity and radius?",
+    "answer": "For a body rotating about a fixed axis, the linear speed of a point at radius r is v = rω, so ω = v/r: for a given linear speed the angular velocity is inversely proportional to the radius, and points farther from the axis move faster. For an isolated (torque-free) body, angular momentum L = Iω is conserved, so ω = L/I and the angular velocity is inversely proportional to the moment of inertia. Since I = Σmr² grows as the mass is moved farther from the axis, increasing the radius of the mass distribution increases I and reduces ω. For a single mass whirled on a string, I = mr², so at constant L, ω ∝ 1/r², and the string tension supplies the centripetal force.",
+    "explanation": "Key point: v = rω links speed and radius, while L = Iω = constant makes ω inversely proportional to I (and hence to r² for a point mass).",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "When the moment of inertia of a rotating body is halved, then what will be the effect on angular velocity?",
+    "answer": "For an isolated rotating body no external torque acts, so angular momentum L = Iω is conserved. If the moment of inertia becomes I' = I/2, then ω' = L/I' = L/(I/2) = 2L/I = 2ω: the angular velocity doubles. The rotational kinetic energy K = L²/2I also doubles, the extra energy being supplied by the work done by the internal forces that pulled the mass closer to the axis, as when a skater pulls in her arms. Note that this conclusion assumes the body is isolated; if an external agency keeps the angular velocity constant or applies a fixed torque, ω need not double.",
+    "explanation": "Key principle: conservation of angular momentum, I₁ω₁ = I₂ω₂; halving I doubles ω for an isolated body.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Compare kinematics equation of linear motion and circular motion",
+    "answer": "Every linear kinematic equation for constant acceleration has a rotational analogue obtained by replacing s by θ, u by ω₀, v by ω and a by α: v = u + at ↔ ω = ω₀ + αt; s = ut + ½at² ↔ θ = ω₀t + ½αt²; v² = u² + 2as ↔ ω² = ω₀² + 2αθ; average velocity (u + v)/2 ↔ average angular velocity (ω₀ + ω)/2; and s = vt for uniform velocity ↔ θ = ωt for uniform angular velocity. The dynamics correspond as well: F ↔ τ, m ↔ I and p ↔ L, so F = ma ↔ τ = Iα, and K = ½mv² ↔ K = ½Iω². The correspondence holds only for constant acceleration or angular acceleration; θ must be in radians, ω in rad/s and α in rad/s².",
+    "explanation": "Key point: the equations map one-to-one by s→θ, u→ω₀, v→ω, a→α; the analogy also extends to F→τ, m→I and p→L.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Can a small force ever exert a greater torque than a larger force? Give reason.",
+    "answer": "Yes. Torque is τ = rF sinθ, so it depends on the lever arm r and on the angle θ as well as on the magnitude of the force. A small force applied far from the axis, perpendicular to the radius (sinθ = 1), can give a larger torque than a large force applied close to the axis or along the radius. For example, a 10 N force at 1.0 m produces 10 N·m, while a 100 N force at 0.05 m produces only 5 N·m; and a force directed through the axis produces no torque however large it is. This is why a long spanner loosens a tight bolt and why door handles are fixed far from the hinges.",
+    "explanation": "Key point: torque is not force; τ = rF sinθ, so the lever arm and direction can more than compensate for a small force.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Give two real world applications of angular momentum",
+    "answer": "Gyroscope: a rapidly spinning rotor has a large angular momentum along its axis, and because no torque acts the direction of L stays fixed in space. This is used for navigation and inertial guidance in aircraft, ships and missiles, and for attitude control (reaction wheels) in satellites and space telescopes. Ice skater and divers: with arms and legs pulled in, the moment of inertia decreases and the angular velocity increases because L = Iω is conserved; extending the limbs again slows the spin before landing. Further examples are the tail rotor of a helicopter, which counteracts the reaction torque of the main rotor, and a spinning cricket or football, whose angular momentum keeps its axis steady in flight.",
+    "explanation": "Key point: conservation of angular momentum, I₁ω₁ = I₂ω₂; the gyroscope keeps its axis direction because L is constant when no external torque acts.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Derive relationship between torque and angular acceleration.",
+    "answer": "Consider a rigid body rotating about a fixed axis and made of particles of masses m₁, m₂ … at distances r₁, r₂ … from the axis. Because the body is rigid, every particle has the same angular acceleration α, and the ith particle has a tangential acceleration a_i = r_iα. The tangential force needed on it is F_i = m_i a_i = m_i r_i α. The torque of this force about the axis is τ_i = r_i F_i = m_i r_i² α. Summing over all particles, the internal torques cancel in pairs by Newton's third law, leaving the net external torque: τ = Σm_i r_i² α = Iα, where I = Σm_i r_i² is the moment of inertia. This is the rotational form of Newton's second law, τ = Iα. If I changes with time, the general form τ = dL/dt must be used.",
+    "explanation": "Key steps: a_t = rα, F = ma_t, τ = rF = mr²α, then sum over all particles to get τ = Iα. Note that internal torques cancel.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "List the moment of inertia dependent factors.",
+    "answer": "The moment of inertia I = Σmr² of a body about a chosen axis depends on: (i) the total mass of the body — doubling the mass doubles I; (ii) the distribution of mass about the axis — the farther the mass lies from the axis, the larger I, so a hoop (MR²) has twice the I of a solid disc (½MR²) of the same mass and radius; (iii) the position of the axis — I about the rim is larger than about the centre, as given by I = I_cm + Md²; (iv) the orientation of the axis relative to the body — a rod about its centre (ML²/12) differs from the same rod about one end (ML²/3); (v) the size and shape of the body. It does not depend on the angular speed of rotation.",
+    "explanation": "Key point: I depends on mass, mass distribution, and the position and orientation of the axis — but not on angular speed or on the torque applied.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State and explain the law of conservation of angular momentum. Give two examples to illustrate it.",
+    "answer": "Statement. If no net external torque acts on a system, its total angular momentum remains constant in magnitude and direction: L = Iω = constant, or I₁ω₁ = I₂ω₂. Since torque is the rate of change of angular momentum, τ = dL/dt, zero torque means dL/dt = 0.\n\nExplanation. For a particle, angular momentum is L = r × p, with magnitude L = mvr sinθ; for a rigid body about a fixed axis, L = Iω. The law follows from Newton's second law in rotational form, just as conservation of linear momentum follows from F = ma with F = 0. Internal torques — for example the forces a skater exerts on herself, or the forces between the parts of an exploding body — always occur in equal and opposite pairs and cancel, so only external torques can change L. Angular momentum is a vector, so the law holds separately for each component; a body may change its shape and its angular velocity, but the product Iω stays fixed. It also explains why a torque-free body keeps the direction of its axis fixed in space, the basis of gyroscopic stability.\n\nExample 1 — the spinning skater. A skater spinning with arms outstretched has a large moment of inertia I₁ and a small angular velocity ω₁. Pulling the arms in reduces the moment of inertia to a fraction of its value, so ω₂ = I₁ω₁/I₂ becomes much larger and she spins rapidly; extending the arms again slows the spin. The rotational kinetic energy ½Iω² increases, and the extra energy comes from the work she does in pulling her arms inward against the tendency of the mass to move outward.\n\nExample 2 — a planet in orbit. The gravitational force on a planet is directed towards the Sun, so it is a central force and its torque about the Sun is zero; hence the planet's angular momentum mvr sinθ is constant. The planet therefore moves fastest at perihelion, where r is smallest, and slowest at aphelion, and its radius vector sweeps out equal areas in equal times (Kepler's second law). Divers tucking to somersault faster, and the large angular momentum of a gyroscope or a bicycle wheel, are further illustrations.",
+    "explanation": "Key principle: τ = dL/dt, so with no external torque Iω is constant; internal forces cannot change total L. Common mistake: thinking angular velocity alone is conserved — it is L, so ω changes when I changes.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Discuss forces action on banked curve and derive relation between curve angle and velocity?",
+    "answer": "Consider a car of mass m moving with speed v along a curve of radius r that is banked at an angle θ to the horizontal. For the design speed the road is taken as frictionless.\n\nForces acting. (i) The weight mg acting vertically downward through the centre of gravity; (ii) the normal reaction N acting perpendicular to the road surface, and therefore tilted from the vertical by the angle θ; (iii) if the speed differs from the design speed, friction along the surface, up or down the slope, which is neglected in the ideal case.\n\nResolution of forces. Take the vertical direction and the horizontal direction towards the centre of the curve. There is no acceleration vertically, so the vertical components balance: N cosθ = mg. The horizontal component of N is the only horizontal force and it provides the centripetal force: N sinθ = mv²/r.\n\nDerivation. Dividing the horizontal equation by the vertical one, (N sinθ)/(N cosθ) = (mv²/r)/(mg), gives tanθ = v²/(rg). Hence the banking angle is θ = tan⁻¹(v²/rg), and the design speed for a given banking angle is v = √(rg tanθ).\n\nThe normal reaction does two jobs: its vertical component N cosθ supports the weight, and its horizontal component N sinθ bends the velocity towards the centre. Because the road is tilted, no friction is needed at the design speed. At a higher speed the car tends to slide outward and friction down the slope is needed (with friction, tanθ = (v²/rg − μ)/(1 + μv²/rg)); at a lower speed it tends to slide inward. Banking is used on highway curves, railway bends (where the outer rail is raised) and velodromes. For example, r = 1.20 km and v = 105 km/h = 29.2 m/s give tanθ = (29.2)²/(1200 × 9.8) = 0.0723, so θ ≈ 4.1°.",
+    "explanation": "Key derivation: N cosθ = mg and N sinθ = mv²/r, so tanθ = v²/(rg). Common mistake: resolving the centripetal force along the slope instead of horizontally toward the centre.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Derive the formula for centripetal acceleration using fundamental principles and equations, illustrating each step of the derivation",
+    "answer": "A body moving on a circle of radius r with constant speed v has a continuously changing velocity direction, so it is accelerated. The acceleration is directed towards the centre and is called centripetal acceleration.\n\nMethod 1 — vector subtraction. Let the body be at A with velocity v₁ and, after a short time Δt, at B with velocity v₂, where |v₁| = |v₂| = v and the radius OA has turned through the angle Δθ. Because v₁ is perpendicular to OA and v₂ is perpendicular to OB, the angle between v₁ and v₂ is also Δθ. Draw v₁ and v₂ from a common point; the change Δv = v₂ − v₁ joins their tips, and the triangle formed by v₁, v₂ and Δv is similar to the triangle OAB, since both are isosceles with the same vertex angle Δθ. Therefore |Δv|/v = AB/r, that is |Δv| = v(AB)/r. Dividing by Δt gives |Δv|/Δt = (v/r)(AB/Δt). For small Δt the chord AB approaches the arc, so AB/Δt → v. Hence a_c = v²/r. As Δt → 0 the vector Δv becomes perpendicular to v, that is, it points towards the centre O.\n\nMethod 2 — calculus. Place the origin at the centre and let the body be at angle θ = ωt, so r = r(cosωt i + sinωt j). Differentiating once, v = dr/dt = rω(−sinωt i + cosωt j), whose magnitude is rω = v. Differentiating again, a = dv/dt = −rω²(cosωt i + sinωt j) = −ω²r. The magnitude is a_c = ω²r, and since v = ωr this is a_c = v²/r; the minus sign shows that a points opposite to r, i.e. towards the centre.\n\nInterpretation. The acceleration is always perpendicular to the velocity, so it changes only the direction of motion and not the speed. The force needed to produce it is F_c = mv²/r = mω²r, directed towards the centre; if this force is removed the body moves along the tangent, in agreement with Newton's first law. A car on a curve, a stone whirled on a string, a satellite in orbit and electrons in a magnetic field all move under such a centripetal force.",
+    "explanation": "Key result: a_c = v²/r = ω²r, directed towards the centre. The similar-triangles step |Δv|/v = AB/r and the limit AB/Δt → v are the essential parts; the direction follows because Δv becomes perpendicular to v.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Derive the formula for the moment of inertia of a uniform rod or a solid sphere. Clearly illustrate each step of the derivation.",
+    "answer": "Definition. The moment of inertia of a body about an axis is I = Σmr², the sum of mr² for all its particles; for a continuous body I = ∫r² dm, where r is the perpendicular distance of the element dm from the axis.\n\nUniform rod of length L and mass M about an axis through its centre, perpendicular to its length. Take the centre O as origin with the x-axis along the rod, and consider an element of length dx at distance x from O. Its mass is dm = (M/L)dx. Then\nI = ∫x² dm = ∫_{−L/2}^{+L/2} x² (M/L) dx = (M/L)[x³/3]_{−L/2}^{+L/2}\n= (M/L)[(L/2)³/3 − (−L/2)³/3] = (M/L)(2/3)(L³/8) = ML²/12.\n\nAbout an axis through one end, perpendicular to the rod. Take the end as origin, so x runs from 0 to L:\nI = ∫₀ᴸ x²(M/L)dx = (M/L)[x³/3]₀ᴸ = ML²/3.\nThe same result follows from the parallel-axis theorem: I = I_cm + Md² = ML²/12 + M(L/2)² = ML²/12 + ML²/4 = ML²/3.\n\nSolid sphere of radius R and mass M about a diameter. Slice the sphere into thin discs perpendicular to the axis. A disc at distance x from the centre has radius y = √(R² − x²), thickness dx and mass dm = ρπy²dx, where ρ = 3M/(4πR³). Its moment of inertia about the diameter is dI = ½(dm)y² = ½ρπy⁴dx. Hence\nI = ∫_{−R}^{+R} ½ρπ(R² − x²)² dx = ½ρπ[R⁴x − (2/3)R²x³ + x⁵/5]_{−R}^{+R} = (8/15)ρπR⁵.\nSubstituting ρ gives I = (2/5)MR².\n\nConclusion. I depends on the mass, on how that mass is distributed relative to the axis, and on the position of the axis: for the same rod, ML²/3 (end) is four times ML²/12 (centre), which is why the point of support matters.",
+    "explanation": "Key method: I = ∫r²dm with dm = (M/L)dx for the rod and dm = ρπ(R² − x²)dx for a disc slice of the sphere. Common mistake: measuring x from one end while using the centre formula, or forgetting the ½ factor for a disc.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Define torque and explain how does it differ from force in linear motion?",
+    "answer": "Definition. Torque (or moment of a force) is the turning effect of a force about a point or axis. If a force F acts at a position r from the axis, then τ = r × F, with magnitude τ = rF sinθ, where θ is the angle between r and F. The SI unit is the newton metre (N·m). Torque is a vector along the axis of rotation, its sense being given by the right-hand rule, and it is taken as positive or negative according to whether it tends to produce anticlockwise or clockwise rotation. The quantity r sinθ is called the lever arm or moment arm.\n\nDifferences from force in linear motion.\n1. Effect produced: a force produces linear acceleration, a = F/m; a torque produces angular acceleration, α = τ/I, i.e. a change in the rate of rotation.\n2. Dependence on point of application: torque depends on where the force is applied (through r) and on its direction relative to r, so the same force gives different torques at different points; a force acting through the axis gives zero torque. A force on a particle is independent of any such choice.\n3. Governing equations: F = ma and p = mv correspond to τ = Iα and L = Iω.\n4. Equilibrium: a body in equilibrium needs both ΣF = 0 and Στ = 0. A body can have zero net force and still rotate, as when a couple acts on it.\n5. Units and nature: N for force against N·m for torque; torque is a vector along the axis, force is a vector along its own line of action.\n\nExample. A 20 N force applied at right angles to a door 0.8 m from the hinge gives τ = 0.8 × 20 = 16 N·m and opens the door easily; the same force applied 0.1 m from the hinge gives only 2 N·m, and applied along the door towards the hinge it gives no torque at all. This is why a long spanner is used to loosen a tight bolt: it increases the lever arm and hence the torque for the same force.",
+    "explanation": "Key point: torque is the rotational analogue of force, τ = rF sinθ, and it depends on the point of application as well as on the force; τ = Iα is the rotational counterpart of F = ma.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "A car mechanic applies a force of 800 N to a wrench for the purpose of loosening a bolt. He applies the force which is perpendicular to the arm of the wrench. The distance from the bolt to the mechanic's hand is 0.40 m. Find out the magnitude of the torque applied?",
+    "answer": "Given:\nF = 800 N, r = 0.40 m, θ = 90° (force perpendicular to the wrench arm)\nFormula:\nτ = rF sinθ\nSubstitution:\nτ = 0.40 × 800 × sin90° = 0.40 × 800 × 1\nCalculation:\nτ = 320 N·m\nResult:\nThe magnitude of the torque applied is 320 N·m, which agrees with the printed answer 320 N·m.",
+    "explanation": "Key formula: τ = rF sinθ; with the force perpendicular to the arm sinθ = 1, so τ is simply the product rF, and the large lever arm is what makes the bolt turn.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A car accelerates uniformly from rest and reaches a speed of 22 m/s in 9 s. If the diameter of a tire is 58 cm, find (a) the number of revolutions the tire makes during this motion, assuming no slipping, and (b) the final rotational speed of the tire in revolutions per second.",
+    "answer": "Given:\nu = 0, v = 22 m/s, t = 9 s, diameter d = 58 cm = 0.58 m, so radius r = 0.29 m\nFormula:\nDistance travelled s = ½(u + v)t\nNumber of revolutions N = s/(2πr)\nFinal angular speed ω = v/r; revolutions per second f = ω/2π\nSubstitution:\ns = ½(0 + 22) × 9 = 99 m\n2πr = 2 × 3.1416 × 0.29 = 1.822 m\nN = 99/1.822 = 54.3\nω = 22/0.29 = 75.86 rad/s\nf = 75.86/(2 × 3.1416) = 12.07 rev/s\nCalculation:\nN = 54.3 revolutions\nf = 12.07 ≈ 12 rev/s\nResult:\n(a) The tire makes about 54.3 revolutions (≈ 54 rev).\n(b) The final rotational speed is 12.07 ≈ 12 rev/s, which agrees with the printed answer 12 rev/s.\nNote: the book prints 55 rev for part (a); the exact value from s = 99 m and circumference 1.822 m is 54.3 rev, so 55 rev is a rounding of about 1% upward and does not affect the physics.",
+    "explanation": "Key steps: distance from average speed × time, revolutions = distance/circumference, and f = v/(2πr). Common mistake: using the diameter as the radius, or using the final speed instead of the average speed to find the distance.",
+    "pdfPage": 100,
+    "bookPage": 96,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "An ordinary workshop grindstone has a radius of 7.5 cm and rotates 6500 rev/min. (a) Calculate the magnitude of centripetal acceleration at its edge in m/s² and convert it into multiples of g. (b) What is the linear speed of a point on its edge?",
+    "answer": "Given:\nr = 7.5 cm = 0.075 m, rotational speed = 6500 rev/min, g = 9.8 m/s²\nFormula:\nω = 2πn/60 (n in rev/min)\na_c = ω²r = v²/r\nv = ωr\nSubstitution:\nω = (2 × 3.1416 × 6500)/60 = 680.7 rad/s\na_c = (680.7)² × 0.075 = 4.634 × 10⁵ × 0.075\nv = 680.7 × 0.075\nCalculation:\na_c = 3.47 × 10⁴ m/s²\na_c/g = (3.47 × 10⁴)/9.8 = 3.55 × 10³ g\nv = 51.05 m/s\nResult:\n(a) Centripetal acceleration = 3.47 × 10⁴ m/s² ≈ 3.55 × 10³ g.\n(b) Linear speed of a point on the edge = 51 m/s.\nBoth values agree with the printed answers ((3.47×10⁴ m/s², 3.55×10³ g, 51 m/s)).",
+    "explanation": "Key formulas: convert rev/min to rad/s with ω = 2πn/60, then a_c = ω²r and v = ωr. Note that a_c is thousands of g, which is why grindstones must be rated for high speed.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "A satellite is orbiting the Earth with an orbital velocity of 3200 m/s. What is the orbital radius?",
+    "answer": "Given:\nv = 3200 m/s, G = 6.67 × 10⁻¹¹ N·m²/kg², M = 5.98 × 10²⁴ kg\nFormula:\nFor a circular orbit v = √(GM/r), so r = GM/v²\nSubstitution:\nGM = 6.67 × 10⁻¹¹ × 5.98 × 10²⁴ = 3.989 × 10¹⁴ m³/s²\nv² = (3200)² = 1.024 × 10⁷ m²/s²\nr = (3.989 × 10¹⁴)/(1.024 × 10⁷)\nCalculation:\nr = 3.895 × 10⁷ m\nResult:\nThe orbital radius is 3.90 × 10⁷ m (about 39,000 km from the Earth's centre), which agrees with the printed answer 3.897 × 10⁷ m within rounding.",
+    "explanation": "Key formula: the orbital speed is set by gravity providing the centripetal force, GMm/r² = mv²/r, giving v = √(GM/r) and r = GM/v².",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A satellite wishes to orbit the earth at a height of 100 km (approximately 60 miles) above the surface of the earth. Determine the speed, acceleration and orbital period of the satellite. (Given: M_earth = 5.98 x 10²⁴ kg, R_earth = 6.37 x 10⁶ m)",
+    "answer": "Given:\nh = 100 km = 1.00 × 10⁵ m, R = 6.37 × 10⁶ m, M = 5.98 × 10²⁴ kg, G = 6.67 × 10⁻¹¹ N·m²/kg²\nFormula:\nr = R + h\nv = √(GM/r)\na = v²/r = GM/r²\nT = 2πr/v\nSubstitution:\nr = 6.37 × 10⁶ + 0.10 × 10⁶ = 6.47 × 10⁶ m\nGM = 3.989 × 10¹⁴ m³/s²\nv = √[(3.989 × 10¹⁴)/(6.47 × 10⁶)] = √(6.165 × 10⁷)\nT = (2 × 3.1416 × 6.47 × 10⁶)/(7.85 × 10³)\nCalculation:\nv = 7.85 × 10³ m/s\na = (6.165 × 10⁷)/(6.47 × 10⁶) = 9.53 m/s²\nT = (4.065 × 10⁷)/(7.85 × 10³) = 5.18 × 10³ s = 5178/3600 = 1.44 h\nResult:\nSpeed = 7.85 × 10³ m/s, acceleration = 9.53 m/s², orbital period = 1.44 hours (about 86 min). All three agree with the printed answers (7.85×10³ m/s, 9.53 m/s², 1.44 hours).",
+    "explanation": "Key formulas: v = √(GM/r), a = GM/r² and T = 2πr/v with r = R + h. Common mistake: using the surface radius R instead of R + h, which is 1.6% larger here.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A thin disk with a 0.3m diameter and a total moment of inertia of 0.45kg·m² is rotating about its center of mass. There are three rocks with masses of 0.2kg on the outer part of the disk. Find the total moment of inertia of the system?",
+    "answer": "Given:\nd = 0.3 m, so r = 0.15 m; I_disk = 0.45 kg·m²; three rocks, each m = 0.2 kg, at the outer edge r = 0.15 m\nFormula:\nI_total = I_disk + 3mr²\nSubstitution:\nI_rocks = 3 × 0.2 × (0.15)² = 0.6 × 0.0225\nI_total = 0.45 + 0.0135\nCalculation:\nI_rocks = 0.0135 kg·m²\nI_total = 0.4635 kg·m²\nResult:\nThe total moment of inertia of the system is 0.464 kg·m², which agrees with the printed answer 0.464 kg·m².",
+    "explanation": "Key idea: moments of inertia about the same axis add, I_total = I_disk + Σmr² for the rocks treated as point masses at the rim. Common mistake: using the diameter 0.3 m as the radius.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "What is the ideal banking angle for a gentle turn of 1.20 km radius on a highway with a 105 km/h speed limit (about 65 mi/h), assuming everyone travels at the limit?",
+    "answer": "Given:\nr = 1.20 km = 1200 m, v = 105 km/h = 105 × 1000/3600 = 29.17 m/s, g = 9.8 m/s²\nFormula:\ntanθ = v²/(rg), θ = tan⁻¹(v²/rg)\nSubstitution:\nv² = (29.17)² = 850.7 m²/s²\nrg = 1200 × 9.8 = 11760 m²/s²\ntanθ = 850.7/11760 = 0.07234\nCalculation:\nθ = tan⁻¹(0.07234) = 4.14°\nResult:\nThe ideal banking angle is 4.14°, which agrees with the printed answer 4.14°.",
+    "explanation": "Key formula: for a frictionless banked curve N sinθ = mv²/r and N cosθ = mg, so tanθ = v²/(rg). Convert km/h to m/s before substituting.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "A 1500-kg car moving on a flat, horizontal road negotiates a curve as shown in Figure. If the radius of the curve is 35 m and the coefficient of static friction between the tires and dry pavement is 0.523, find the maximum speed the car can have and still make the turn successfully.",
+    "answer": "Given:\nm = 1500 kg, r = 35 m, μ_s = 0.523, g = 9.8 m/s², flat (unbanked) curve\nFormula:\nStatic friction supplies the centripetal force: f_s = mv²/r, with f_s(max) = μ_sN = μ_smg\nμ_smg = mv_max²/r, so v_max = √(μ_srg)\nSubstitution:\nv_max = √(0.523 × 35 × 9.8) = √(179.4)\nCalculation:\nv_max = 13.39 m/s (about 48 km/h)\nResult:\nThe maximum speed is 13.4 m/s, which agrees with the printed answer 13.5 m/s within rounding; the printed value corresponds to g = 10 m/s², which gives √(0.523 × 35 × 10) = 13.5 m/s.",
+    "explanation": "Key condition: on a flat curve friction alone provides the centripetal force, and the limiting case is f_s = μ_smg = mv²/r, so v_max = √(μ_srg). The mass cancels. The printed 13.5 m/s uses g ≈ 10 m/s²; with g = 9.8 m/s² the result is 13.4 m/s.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": "Figure on page 97: a 1500 kg car on a flat, horizontal curved road (unbanked) of radius 35 m; the curve is shown from above with the car turning, friction between the tyres and dry pavement providing the centripetal force."
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A system of points shown in figure 4.22. Each particle has same mass of 0.3 kg and they all lie in the same plane. What is the moment of inertia of the system about given axis? (Four particles, one at the axis point, one 40 cm above it, one 20 cm to its right and one 50 cm away to its lower left; the axis is perpendicular to the plane through the particle at the junction.)",
+    "answer": "Given:\nm = 0.3 kg for each of the four particles; distances from the axis (perpendicular to the plane through the particle at the junction): r₁ = 0 (particle on the axis), r₂ = 40 cm = 0.40 m, r₃ = 20 cm = 0.20 m, r₄ = 50 cm = 0.50 m\nFormula:\nI = Σmr² = m(r₁² + r₂² + r₃² + r₄²)\nSubstitution:\nI = 0.3 × (0² + 0.40² + 0.20² + 0.50²)\nI = 0.3 × (0 + 0.16 + 0.04 + 0.25)\nCalculation:\nI = 0.3 × 0.45 = 0.135 kg·m²\nResult:\nThe moment of inertia of the system about the given axis is 0.135 kg·m², which agrees with the printed answer 0.135 kg·m².",
+    "explanation": "Key idea: I = Σmr² about the axis, each distance measured perpendicular to the axis; the particle lying on the axis contributes nothing. Convert cm to m before squaring.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": "Figure 4.22: four equal particles (0.3 kg each) in one plane — one at the junction on the axis, one 40 cm above it, one 20 cm to its right and one 50 cm away to its lower left; the axis is perpendicular to the plane of the particles and passes through the particle at the junction."
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "(a) What is the angular momentum of a 2.9 kg uniform cylindrical grinding wheel of radius 20 cm when rotating 1550 rpm? (b) How much torque is required to stop it in 6 s?",
+    "answer": "Given:\nm = 2.9 kg, r = 20 cm = 0.20 m, n = 1550 rev/min, t = 6 s, final ω = 0\nFormula:\nI = ½mr² (uniform cylinder)\nω = 2πn/60\nL = Iω\nτ = ΔL/Δt = (0 − L)/t\nSubstitution:\nI = ½ × 2.9 × (0.20)² = ½ × 2.9 × 0.04 = 0.058 kg·m²\nω = (2 × 3.1416 × 1550)/60 = 162.3 rad/s\nL = 0.058 × 162.3\nτ = (0 − 9.41)/6\nCalculation:\nL = 9.41 kg·m²/s\nτ = −1.57 N·m\nResult:\n(a) Angular momentum = 9.4 kg·m²/s (the printed answer is 9.5 kg·m²/s, obtained by rounding I to 0.0583 kg·m² before multiplying; the difference is under 1%).\n(b) Torque required to stop it = −1.6 N·m, the minus sign showing that the torque opposes the rotation; this agrees with the printed answer −1.6 N·m.",
+    "explanation": "Key formulas: I = ½mr² for a uniform cylinder, L = Iω and τ = ΔL/Δt. Common mistake: using I = mr² as for a hoop, which would double L and the torque.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 11,
+    "question": "Determine the angular momentum of the Earth (a) about its rotation axis (Assume the Earth as uniform sphere), and (b) in its orbit around the Sun (Take Earth as a particle orbiting the Sun). The Earth has mass 6 × 10²⁴ kg and radius 6.4 × 10⁶m, and is 1.5 × 10⁸ km from the Sun.",
+    "answer": "Given:\nM = 6 × 10²⁴ kg, R = 6.4 × 10⁶ m, orbital radius r = 1.5 × 10⁸ km = 1.5 × 10¹¹ m, one day T_day = 86400 s, one year T_year = 3.156 × 10⁷ s\nFormula:\n(a) I = (2/5)MR², ω = 2π/T_day, L = Iω\n(b) v = 2πr/T_year, L = Mvr\nSubstitution:\n(a) I = 0.4 × 6 × 10²⁴ × (6.4 × 10⁶)² = 0.4 × 6 × 10²⁴ × 4.096 × 10¹³ = 9.83 × 10³⁷ kg·m²\nω = 2π/86400 = 7.27 × 10⁻⁵ rad/s\nL = 9.83 × 10³⁷ × 7.27 × 10⁻⁵\n(b) v = (2 × 3.1416 × 1.5 × 10¹¹)/(3.156 × 10⁷) = 2.99 × 10⁴ m/s\nL = 6 × 10²⁴ × 2.99 × 10⁴ × 1.5 × 10¹¹\nCalculation:\n(a) L = 7.15 × 10³³ kg·m²/s\n(b) L = 2.69 × 10⁴⁰ kg·m²/s\nResult:\n(a) Angular momentum about its rotation axis = 7.2 × 10³³ kg·m²/s (printed 7.3 × 10³³ kg·m²/s; the small difference comes from rounding R and the day length).\n(b) Angular momentum in its orbit = 2.7 × 10⁴⁰ kg·m²/s, which agrees with the printed answer.",
+    "explanation": "Key formulas: for a uniform sphere I = (2/5)MR² and L = Iω with ω = 2π/T; for the orbit L = Mvr with v = 2πr/T. Note the orbital angular momentum is about 10⁷ times larger than the spin angular momentum.",
+    "pdfPage": 101,
+    "bookPage": 97,
+    "figure": null
+  }
+]

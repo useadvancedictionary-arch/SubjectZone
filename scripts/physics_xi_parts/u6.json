@@ -1,0 +1,382 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "A completely submerged object always displaces its own ________",
+    "options": [
+      "weight of fluid",
+      "volume of a fluid",
+      "density of a fluid",
+      "Area of fluid"
+    ],
+    "correct": "b",
+    "answer": "(b) volume of a fluid",
+    "explanation": "A completely submerged body occupies the space where fluid used to be, so the volume of fluid displaced equals its own volume; this is the geometrical basis of Archimedes' principle. It does not generally displace its own weight of fluid (otherwise it would be neutrally buoyant), so (a) is wrong unless the densities happen to be equal. Density and area are properties of the fluid, not quantities displaced, so (c) and (d) are meaningless here.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The pressure exerted on the ground by a man is greatest when:",
+    "options": [
+      "he stands with both feet flat on the ground",
+      "he stands flat on one foot",
+      "he stands on the toes of one foot",
+      "he lies down on the ground"
+    ],
+    "correct": "c",
+    "answer": "(c) he stands on the toes of one foot",
+    "explanation": "Pressure is p = F/A, and the force is the man's weight in every case, so the pressure is greatest when the area of contact is smallest — standing on the toes of one foot. Two feet flat give the largest area and the least pressure, one flat foot is intermediate, and lying down spreads the weight over the whole body, giving the least pressure of all.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "In a stationary homogeneous liquid:",
+    "options": [
+      "pressure is the same at all points",
+      "pressure depends on the direction",
+      "pressure is independent of any atmospheric pressure on the upper surface of the liquid",
+      "pressure is the same at all points at the same level"
+    ],
+    "correct": "d",
+    "answer": "(d) pressure is the same at all points at the same level",
+    "explanation": "In a stationary homogeneous liquid p = p₀ + ρgh, so at a given level (same depth) the pressure is the same everywhere, but it increases with depth — which rules out (a). Pressure in a fluid is a scalar and acts equally in all directions, so (b) is wrong. The atmospheric pressure p₀ is added to the liquid pressure, so the pressure does depend on it, which rules out (c).",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "One piston in a hydraulic lift has an area that is twice the area of the other. When the pressure at the smaller piston is increased by Δp the pressure at the larger piston:",
+    "options": [
+      "increases by 2Δp",
+      "increases by Δp/2",
+      "increases by Δp",
+      "increases by 4Δp"
+    ],
+    "correct": "c",
+    "answer": "(c) increases by Δp",
+    "explanation": "By Pascal's principle a change of pressure applied to an enclosed liquid is transmitted undiminished to every point of the liquid, so the pressure at the larger piston also rises by exactly Δp. It is the force that is multiplied, F₂ = Δp × 2A = 2F₁, not the pressure. Options (a), (b) and (d) wrongly transfer the force ratio (2) to the pressure.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "In a vacuum, an object has",
+    "options": [
+      "No buoyant force",
+      "no mass",
+      "no weight",
+      "none of these"
+    ],
+    "correct": "a",
+    "answer": "(a) No buoyant force",
+    "explanation": "Buoyancy is produced by the pressure of a surrounding fluid, and a vacuum contains no fluid, so no upthrust acts on the object. Mass is an intrinsic property of the body and does not change, so (b) is wrong; the weight mg still exists (the body is merely in free fall, which does not make its weight zero), so (c) is wrong. Since (a) is correct, (d) is also wrong.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "The pressure at the bottom of a pond does NOT depend on",
+    "options": [
+      "Water density",
+      "the depth of the pond",
+      "the surface area of the pond",
+      "None of these"
+    ],
+    "correct": "c",
+    "answer": "(c) the surface area of the pond",
+    "explanation": "The pressure at the bottom is p = p₀ + ρgh, which involves the density of the water and the depth of the pond (as well as the atmospheric pressure), but not the area of the pond's surface. The area changes the total force on the bottom, F = pA, not the pressure. Since option (c) is correct, (d) is excluded.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "A rock suspended by a weighing scale weighs 5N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+    "options": [
+      "3 N",
+      "5 N",
+      "8N",
+      "15 N"
+    ],
+    "correct": "a",
+    "answer": "(a) 3 N — printed option nearest the true value; the physically correct upthrust 2 N is not listed",
+    "explanation": "The buoyant force equals the loss of weight in water: 5 N − 3 N = 2 N. The printed options (3 N, 5 N, 8 N, 15 N) do not contain 2 N, so the item is misprinted: 3 N is the apparent weight in water, 5 N the true weight, and 8 N their sum (a tension plus weight confusion). Option (a) has been keyed only because it is the closest printed value; as printed, the question has no correct option and the physical answer is 2 N.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "“An object completely submerged in a fluid displaces its own volume of fluid”. This is:",
+    "options": [
+      "Pascal's paradox",
+      "Archimedes' principle",
+      "Pascal's principle",
+      "true, but none of the above"
+    ],
+    "correct": "b",
+    "answer": "(b) Archimedes' principle",
+    "explanation": "The statement is the volume part of Archimedes' principle, which goes on to say that the upthrust equals the weight of that displaced fluid. Pascal's principle deals with the transmission of pressure through an enclosed fluid, and Pascal's paradox shows that pressure in a liquid depends only on depth, so neither describes displacement. Since (b) is correct, (d) does not apply.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Salt water has greater density than freshwater. A boat floats in both freshwater and saltwater. The buoyant force on the boat in salt water is ------------ that in freshwater.",
+    "options": [
+      "equal to",
+      "smaller than",
+      "larger than",
+      "same as"
+    ],
+    "correct": "a",
+    "answer": "(a) equal to",
+    "explanation": "The boat floats in both liquids, so in each case the upthrust balances its weight; the buoyant forces are therefore equal. Because salt water is denser, a smaller volume of it is displaced to provide that same weight, so the boat rides higher — the force itself is unchanged. Note that option (d) 'same as' duplicates the meaning of (a), so the printed options are ambiguous; both denote equality, and the key is (a).",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "You fill a tall glass with ice and then add water to the level of the glass's rim, so some fraction of the ice floats above rim. When the ice melts, what's happens to the water level?",
+    "options": [
+      "the water overflows the rim",
+      "the water level drops below the rim",
+      "the water level stays at the rim",
+      "it depends on the difference in density between water and ice"
+    ],
+    "correct": "c",
+    "answer": "(c) the water level stays at the rim",
+    "explanation": "Floating ice displaces water whose weight equals the weight of the ice. When the ice melts it becomes exactly that much water, which occupies exactly the volume previously displaced, so the level is unchanged and nothing overflows. The density difference between ice and water only fixes the fraction of ice above the surface (about 8%), not the final level, so (d) is wrong.",
+    "pdfPage": 142,
+    "bookPage": 138
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "State Pascal's principle. Describe its two applications.",
+    "answer": "Pascal's principle states that when pressure is applied to any part of a fluid enclosed in a vessel, it is transmitted equally in all directions and acts undiminished on every part of the vessel. It holds because a liquid is practically incompressible, so a pressure change at one point is passed on at once throughout the liquid.\nApplications: (i) Hydraulic press or lift — a small force F₁ on a small piston of area A₁ creates a pressure p = F₁/A₁, which acts on a large piston of area A₂ and produces the large force F₂ = pA₂ = (A₂/A₁)F₁, so a heavy car can be raised by hand. (ii) Hydraulic brakes of a car — the pedal applies pressure to the brake fluid, which transmits it equally to the wheel cylinders at all four wheels, so all brakes act together and the braking is uniform.",
+    "explanation": "Pressure is transmitted undiminished (same Δp everywhere at the same level); it is the force, not the pressure, that is multiplied.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "(a) Why must a liquid and not a gas be used as the 'fluid' in a hydraulic machine?\n(b) On what other important property of a liquid do hydraulic machines depend?",
+    "answer": "(a) A liquid is used because it is almost incompressible: its volume changes very little when pressure is applied, so the pressure applied at the pump is transmitted immediately and undiminished to the load, making the machine rigid and efficient. A gas is highly compressible; it would be compressed and store the applied energy as elastic energy, so the piston would move sluggishly and the force would not be transmitted faithfully, and the machine would be much less efficient.\n(b) Hydraulic machines also depend on the liquid being able to flow freely and take the shape of its container, so that it fills every part of the system and reaches every surface, and on its transmitting pressure equally in all directions (Pascal's principle). Its low compressibility and freedom from leakage are the other essential properties.",
+    "explanation": "Incompressibility gives immediate, undiminished transmission; the ability to flow and fill the whole system is the second required property.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Why don't ships made of iron sink?",
+    "answer": "A ship is not a solid block of iron: it is a hollow hull enclosing a large volume of air, so its average density (iron + air + cargo) is much less than the density of water (1000 kg/m³), even though iron itself has a density of about 7800 kg/m³. When the ship floats, it displaces a weight of water equal to its own weight (law of flotation). Because the average density is low, a volume of water smaller than the whole volume of the hull provides this weight, so part of the hull remains above the surface. A solid piece of iron sinks because it cannot displace a volume of water whose weight equals its own weight.",
+    "explanation": "It is the average density of the hollow hull, not the density of iron, that decides floating; a solid iron block of the same mass would sink.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Why do you float higher in salt water than in fresh water?",
+    "answer": "Salt water is denser than fresh water (about 1025 kg/m³ against 1000 kg/m³). A floating body must displace a weight of liquid equal to its own weight, and since a given volume of salt water weighs more than the same volume of fresh water, a smaller volume of salt water is sufficient. Hence less of your body needs to be below the surface in the sea, so you float higher than in a river or lake. For the same reason a ship has a smaller draft in the sea, and ships are marked with load lines (Plimsoll marks) for fresh and salt water.",
+    "explanation": "Equality of upthrust with weight fixes the displaced WEIGHT, not the volume; the denser liquid needs less volume, so the body rides higher.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "What is the difference between being immersed and being submerged in water?",
+    "answer": "A body is immersed in a liquid when it is partly or wholly within the liquid, so immersion includes the case in which only part of the body is under the free surface — for example a floating block or a hydrometer. A body is submerged when it is completely under the surface, i.e. wholly immersed, as a stone at the bottom of a beaker. Every submerged body is therefore immersed, but an immersed body need not be submerged. In the partly immersed case the upthrust equals the weight of the fluid displaced by the immersed part only; in the fully submerged case the displaced volume equals the entire volume of the body, so the upthrust is the maximum possible for that body.",
+    "explanation": "Submerged = completely under the surface; immersed = partly or completely. The displaced volume differs in the two cases.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Define surface tension and give its any two applications.",
+    "answer": "Surface tension is the force per unit length acting along the free surface of a liquid, perpendicular to any line drawn on the surface, which tends to contract the surface to the smallest possible area; it arises from the cohesive forces between liquid molecules, which make the surface behave like a stretched elastic membrane. Its SI unit is N/m, and it is numerically equal to the surface energy per unit area (J/m²).\nApplications: (i) Capillary rise — water rises in a narrow tube (and in soil pores and lamp wicks) because surface tension pulls the liquid up the tube, which supplies water to plant roots. (ii) Small dense objects such as a needle, razor blade or water strider can rest on water because the surface film supports them; detergents lower the surface tension and make such floating impossible, which is also why they help in washing.",
+    "explanation": "T = F/L, caused by cohesion; it decreases when the liquid is heated or a detergent is added.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "A swimmer dives off a raft in a pool. Does the raft rise or sink in the water? What happens to the water level in the pool? Give reasons for your answer.",
+    "answer": "While the swimmer stands on the raft, the raft and swimmer together displace water whose weight equals their combined weight. When he dives off, the raft is relieved of his weight, so it needs to displace less water and it rises a little in the water (it becomes less deeply submerged).\nFor the pool level: before diving, the swimmer's whole weight is supported by buoyancy, so the water displaced on his account weighs as much as he does. After diving, if he is wholly under water he displaces only his own volume of water, and that water weighs less than he does (a swimmer is slightly denser than water), so the total displaced volume decreases and the water level in the pool falls slightly. If he floats at the surface after diving, he still displaces his own weight of water and the level is practically unchanged.",
+    "explanation": "The pool level is decided by the total displaced VOLUME; a floating body displaces its weight, a submerged body only its volume.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "Distinguish between flotation and upthrust.",
+    "answer": "Upthrust (buoyant force) is the net upward force that a fluid exerts on a body immersed in it. By Archimedes' principle it equals the weight of the fluid displaced, F_b = ρ_f V_f g, and it acts on every body in a fluid, whether floating or sinking.\nFlotation is the state in which a body remains at rest at the free surface of a liquid. It occurs only when the upthrust just balances the body's weight, which requires the average density of the body to be equal to or less than that of the liquid.\nThus upthrust is a force (newtons) present whenever a body is in a fluid, while flotation is a condition of equilibrium at the surface. A stone at the bottom of a pond experiences upthrust but does not float; a wooden block floats because its weight is less than the upthrust on it when fully immersed.",
+    "explanation": "Upthrust is a force (always present in a fluid); flotation is the equilibrium state in which upthrust equals weight.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Discuss buoyancy in liquids and gases.",
+    "answer": "Buoyancy is the upward force that a fluid exerts on a body placed in it. It arises because the pressure in a fluid increases with depth, p = p₀ + ρgh. Consider a cylinder of cross-sectional area A and height l, wholly submerged with its axis vertical. The downward force on its top face is p₁A and the upward force on its bottom face is p₂A, where p₂ − p₁ = ρg l. The net upward force is therefore\nF_b = (p₂ − p₁)A = ρg l A = ρV g,\nwhich is exactly the weight of the fluid displaced by the body — Archimedes' principle. The buoyant force acts vertically upward through the centre of buoyancy, the centre of gravity of the displaced fluid.\n\nIn liquids: the upthrust reduces the apparent weight of a body, W_app = W − F_b. If the average density of the body is less than that of the liquid, the upthrust at full immersion exceeds its weight, so the body rises and floats, displacing its own weight of liquid — a ship, an iceberg, a hydrometer. If the density is greater, the body sinks, as a stone does in water. If the densities are equal, the body stays in equilibrium wherever it is placed in the liquid, as a trimmed submarine does.\n\nIn gases: the same principle holds, but because the density of air is small (about 1.29 kg/m³) the upthrust is small and is usually neglected for ordinary objects. It becomes important for light, large-volume bodies. A helium balloon of volume V experiences F_b = ρ_air V g while its weight is only ρ_He V g plus the fabric, so it rises; a hot-air balloon works in the same way because hot air is less dense than the surrounding cool air. The usable lift is (ρ_air − ρ_gas)Vg − W_structure, and the balloon rises until the average density of the whole balloon equals that of the surrounding air.",
+    "explanation": "Buoyancy comes from the pressure difference between the lower and upper faces; the same F_b = ρ_f V g applies in liquids and gases, only the fluid density differs.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Describe law of flotation in liquids and gases.",
+    "answer": "The law of flotation states that the weight of a floating body is equal to the weight of the fluid it displaces, and that a body floats in a fluid when its weight is equal to or less than the upthrust on it when it is completely immersed — that is, when the average density of the body is not greater than the density of the fluid.\n\nReasoning: a floating body is in equilibrium, so the vertical forces on it must balance, giving upthrust = weight. By Archimedes' principle the upthrust equals the weight of the displaced fluid, hence W_body = W_displaced fluid, or mg = ρ_f V_sub g. The immersed fraction of the body is therefore V_sub/V = ρ_body/ρ_fluid.\n\nExamples in liquids: an iceberg of density 917 kg/m³ floats in sea water of density 1025 kg/m³ with about 90% of its volume below the surface; a steel ship floats because its hollow hull gives an average density (steel + air + cargo) below that of water, and it sinks deeper as cargo is loaded until the displaced weight again equals the total weight; a hydrometer floats at a depth that indicates the density of the liquid; a submarine dives by admitting water into its ballast tanks (raising its average density above that of water) and rises by blowing the tanks.\n\nIn gases the same law applies. A balloon floats in air when the weight of the air it displaces equals its own weight, i.e. when (ρ_air − ρ_gas)V = m_structure. A hot-air balloon rises while the air inside is hotter and lighter than outside and settles at the level where its average density equals that of the surrounding air; a helium balloon rises until the fabric and payload make its average density equal to that of air. This explains balloons, airships and the neutral buoyancy of weather balloons.",
+    "explanation": "The law follows from equilibrium (upthrust = weight) plus Archimedes' principle; the fraction submerged equals the ratio of densities.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Discuss surface tension with at least three experiments.",
+    "answer": "Surface tension is the property by which the free surface of a liquid behaves like a stretched elastic membrane. A molecule inside the liquid is pulled equally in all directions by its neighbours, but a molecule at the surface has neighbours only below and at the sides, so there is a net inward pull. The surface therefore tends to contract to the least possible area. Surface tension T is defined as the force per unit length acting along the surface, perpendicular to any line drawn on it: T = F/L, measured in N/m; it equals the surface energy per unit area (J/m²) and decreases as the temperature rises.\n\nExperiment 1 (floating needle). A dry steel needle or razor blade is gently laid on water. Although steel is several times denser than water, the surface film bends and supports it, the needle resting in a small depression. Its weight is balanced by the vertical component of the tension along the deformed surface. If a drop of detergent is added, T falls, the film can no longer support the needle and it sinks.\n\nExperiment 2 (soap film on a wire frame). A rectangular wire frame with a sliding wire of length L is dipped in soap solution. The film has two surfaces, so a force F = 2TL must be applied to hold the slider. If the slider is moved a distance x, the work done is Fx = 2TLx = T × (increase of area), which shows that T is the surface energy per unit area. When released, the film pulls the slider back, proving the contractile nature of the surface.\n\nExperiment 3 (capillary rise). When a clean glass tube of radius r is dipped in water, the water rises to a height h. The upward pull of surface tension round the circumference, 2πrT cos θ, supports the weight of the column πr²hρg, giving T = rhρg/(2 cos θ). The experiment both demonstrates surface tension and provides a method of measuring it; mercury, whose surface is convex, is depressed instead.\n\nEveryday evidence includes the spherical shape of raindrops and soap bubbles (least area for a given volume) and the domed surface of water heaped above the rim of a glass.",
+    "explanation": "Each experiment must be described with what is observed and why; the soap-film experiment also shows T as energy per unit area.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Explain Archimedes principle and find gold purity by using density.",
+    "answer": "Archimedes' principle states that when a body is wholly or partly immersed in a fluid, it experiences an upthrust equal to the weight of the fluid displaced by it. For a body of volume V fully submerged in a fluid of density ρ_f, F_b = ρ_f V g, and the apparent weight is W_app = W_air − F_b. The principle follows from the increase of pressure with depth: the upward force on the lower surface of a submerged body exceeds the downward force on its upper surface by exactly the weight of the displaced fluid.\n\nGold purity by density. Pure gold has a density of 19,300 kg/m³, much greater than that of the usual adulterants (silver 10,500 kg/m³, copper 8900 kg/m³), so an alloy of gold with these metals has a smaller density than pure gold. The density of an ornament is found by weighing it twice:\n(1) Weigh it in air, W_air, and in water, W_water; the loss of weight is the upthrust F_b = W_air − W_water.\n(2) Volume V = F_b/(ρ_w g), with ρ_w = 1000 kg/m³.\n(3) Density ρ = m/V = (W_air/g)/(F_b/ρ_w g) = W_air ρ_w/(W_air − W_water).\nThe ratio ρ/ρ_gold gives the fraction of pure gold, and 24 × that fraction gives the purity in carats.\n\nWorked example: an ornament weighs 25.0 N in air and 23.7 N in water. Then F_b = 1.3 N, V = 1.3/(1000 × 9.8) = 1.33 × 10⁻⁴ m³, m = 25.0/9.8 = 2.55 kg, so ρ = 2.55/1.33 × 10⁻⁴ = 1.92 × 10⁴ kg/m³. Purity = 19,200/19,300 ≈ 0.995, i.e. about 99.5% (nearly 24 carat); an ornament of the same weight containing much silver would show a distinctly smaller density.\n\nThis is the method Archimedes is said to have used to test King Hiero's crown. Its limitation is that it measures the average density, so a hollow ornament can give a false low value.",
+    "explanation": "F_b = W_air − W_water gives the volume, and combined with the weight in air it gives the density; compare with 19,300 kg/m³ for pure gold.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "In a hydraulic press a force of 20 N is applied to a piston of area 0.20 m². The area of the other piston is 2.0 m². What is (a) the pressure transmitted through the fluid; (b) the force on the piston?",
+    "answer": "Given: F₁ = 20 N; A₁ = 0.20 m²; A₂ = 2.0 m².\n(a) Pressure transmitted:\nFormula: p = F₁/A₁.\nSubstitution: p = 20/0.20.\nCalculation: p = 100 Pa.\nResult: p = 100 Pa.\n(b) Force on the large piston:\nFormula: F₂ = pA₂ (Pascal's principle).\nSubstitution: F₂ = 100 × 2.0.\nCalculation: F₂ = 200 N.\nResult: F₂ = 200 N.\nThe printed answer (200 N, 100 Pa) lists the two results in the reverse of the order asked, but the values agree.",
+    "explanation": "The pressure is the same at both pistons; the force ratio equals the area ratio (10), so 20 N becomes 200 N.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "The pressure in a water pipe in the ground floor of a building is 4 × 10⁵ Pa but three floors up it is only 2 × 10⁵ Pa. What is the height between the ground floor and the third floor? The water in the pipe may be assumed to be stationary; density of water = 1 × 10³ Kg/m³",
+    "answer": "Given: p₁ = 4 × 10⁵ Pa; p₂ = 2 × 10⁵ Pa; ρ = 1 × 10³ kg/m³; g = 9.8 m/s².\nFormula: p₁ − p₂ = ρgh, so h = (p₁ − p₂)/(ρg).\nSubstitution: h = (4 × 10⁵ − 2 × 10⁵)/(1 × 10³ × 9.8) = 2 × 10⁵/9800.\nCalculation: h = 20.4 m.\nResult: h ≈ 20 m, which agrees with the printed answer (20 m); the printed value corresponds to taking g = 10 m/s², which gives exactly 20 m.",
+    "explanation": "The fall of pressure with height in a stationary liquid is Δp = ρgh; using g = 10 gives the printed 20 m.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "The small piston of hydraulic press has an area of 10.0 cm². If the applied force is 50.0 N, what must the area of the large piston to exert a pressing force of 4800N?",
+    "answer": "Given: A₁ = 10.0 cm²; F₁ = 50.0 N; F₂ = 4800 N.\nFormula: F₁/A₁ = F₂/A₂, so A₂ = A₁F₂/F₁.\nSubstitution: A₂ = 10.0 × 4800/50.0.\nCalculation: 4800/50.0 = 96; A₂ = 10.0 × 96 = 960 cm².\nResult: A₂ = 960 cm², which agrees with the printed answer (960 cm²).",
+    "explanation": "Pascal's principle gives F₁/A₁ = F₂/A₂; the areas may be left in cm² as long as both are in the same unit.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Mechanical advantage of a hydraulic jack is 420. Find the weight of the heaviest automobile that can be lifted by an applied force of 55 N.",
+    "answer": "Given: MA = 420; effort F = 55 N.\nFormula: MA = load/effort, so load = MA × F.\nSubstitution: load = 420 × 55.\nCalculation: load = 23,100 N.\nResult: load = 2.31 × 10⁴ N. The printed answer (23000 N) is this value rounded to two significant figures; the exact product is 23,100 N.",
+    "explanation": "MA = load/effort, so the load is the effort multiplied by 420; note the printed value is rounded.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "A flat -bottom river barge is 30 ft wide, 85 ft long and 15 ft. deep, (a) how many m³ of water will displace while the top stays 1 m above the water.? (b) What load in tons will the barge contain under these conditions if the empty barge weighs 160 tons in dry dock?",
+    "answer": "Given: width = 30 ft; length = 85 ft; depth = 15 ft; freeboard = 1 m ≈ 3 ft; empty barge = 160 tons; 1 ft³ of fresh water weighs 62.4 lb.\n(a) With 1 m ≈ 3 ft above water, the submerged depth = 15 − 3 = 12 ft.\nFormula: V = width × length × submerged depth.\nSubstitution: V = 30 × 85 × 12 = 30,600 ft³.\nCalculation: 30,600 ft³ = 30,600 × 0.02832 = 866 m³ ≈ 3.1 × 10⁴ ft³.\nResult: the barge displaces about 3.1 × 10⁴ ft³ (≈ 870 m³) of water, agreeing with the printed answer (3.1 × 10⁴ ft³).\n(b) Weight of the displaced water = 30,600 × 62.4 = 1.91 × 10⁶ lb = 955 tons (1 ton = 2000 lb). By the law of flotation this equals the weight of the barge plus its load.\nCalculation: load = 955 − 160 = 795 tons ≈ 800 tons.\nResult: load ≈ 800 tons, agreeing with the printed answer (800 tons).\nNote: taking 1 m = 3.281 ft exactly would give a submerged depth of 11.72 ft, V = 2.99 × 10⁴ ft³ (846 m³) and a load of about 686 metric tonnes (755 short tons); the printed values follow from the 1 m ≈ 3 ft approximation and short tons.",
+    "explanation": "Volume of displaced water = submerged volume; the load is the weight of that water minus the empty weight of the barge, with 1 ton taken as 2000 lb.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "A canal lock gate is 20 m wide and 10 m deep. Calculate the thrust acting on it assuming that the water in the canal is in level with the top of the gate. Density of water is 1000 kg/m³",
+    "answer": "Given: width b = 20 m; depth h = 10 m; ρ = 1000 kg/m³; g = 9.8 m/s². The water surface is level with the top of the gate, so the pressure rises from 0 at the top to ρgh at the bottom.\nFormula: average pressure p_av = ρg(h/2); thrust F = p_av × area = ρg(h/2)(bh) = ½ρgbh².\nSubstitution: F = ½ × 1000 × 9.8 × 20 × (10)².\nCalculation: F = 0.5 × 1000 × 9.8 × 20 × 100 = 9.8 × 10⁶ N.\nResult: F = 9.8 × 10⁶ N (about 1000 tonnes weight). The printed answer (9.8 × 10⁴ N) is too small by a factor of 100 — it corresponds to a gate area of only 2 m². With b = 20 m and h = 10 m the thrust must be 9.8 × 10⁶ N.",
+    "explanation": "The pressure varies linearly with depth, so use the average pressure at mid-depth (½ρgh) multiplied by the gate area bh.",
+    "pdfPage": 143,
+    "bookPage": 139,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "A tank 4 m long, 3 m wide and 2 m deep is filled to the brim with paraffin (density 800 kg /m³). Calculate the pressure on the base? What is the thrust on the base?",
+    "answer": "Given: length = 4 m; width = 3 m; depth h = 2 m; ρ = 800 kg/m³; g = 9.8 m/s².\nPressure on the base:\nFormula: p = ρgh.\nSubstitution: p = 800 × 9.8 × 2.\nCalculation: p = 15,680 Pa ≈ 1.6 × 10⁴ Pa.\nResult: p ≈ 1.6 × 10⁴ Pa, agreeing with the printed answer (16000 Pa), which is obtained with g = 10 m/s².\nThrust on the base:\nFormula: F = pA, with A = 4 × 3 = 12 m².\nSubstitution: F = 15,680 × 12.\nCalculation: F = 1.88 × 10⁵ N ≈ 1.9 × 10⁵ N.\nResult: F ≈ 1.9 × 10⁵ N. The printed thrust (19200 N) is too small by a factor of 10: 16,000 × 12 = 192,000 N = 1.92 × 10⁵ N.",
+    "explanation": "Pressure depends only on depth (ρgh), while the thrust is that pressure multiplied by the base area; check the power of ten in the printed thrust.",
+    "pdfPage": 144,
+    "bookPage": 140,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "A rectangular boat is 4.0 m wide, 8.0 m long, and 3.0 m deep. (a) How much water will it displace if the top stays 1.0 m above the water? (b) What load will the boat contain under these conditions if the empty boat weighs 8.60×10⁴ N in dry dock? (Weight density of water = 9800 N/m³)",
+    "answer": "Given: width 4.0 m; length 8.0 m; depth 3.0 m; freeboard 1.0 m; empty weight 8.60 × 10⁴ N; weight density of water 9800 N/m³.\n(a) Submerged depth = 3.0 − 1.0 = 2.0 m.\nFormula: V = width × length × submerged depth.\nSubstitution: V = 4.0 × 8.0 × 2.0.\nCalculation: V = 64.0 m³.\nResult: V = 64.0 m³, which agrees with the printed answer (64.0 m³).\n(b) Formula: upthrust = weight density × V; load weight = upthrust − empty weight.\nSubstitution: upthrust = 9800 × 64.0 = 6.272 × 10⁵ N; load = 6.272 × 10⁵ − 8.60 × 10⁴.\nCalculation: load = 5.41 × 10⁵ N.\nResult: load = 5.41 × 10⁵ N, which agrees with the printed answer (5.41 × 10⁵ N).",
+    "explanation": "The displaced volume uses only the submerged part of the hull; the load is the upthrust minus the weight of the empty boat.",
+    "pdfPage": 144,
+    "bookPage": 140,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A hot air balloon has a volume of 2200 m³. The density of air at temperature of 20 °C is 1.205 kg/m³. The density of the hot air inside the balloon at a temperature of 100 °C is 0.946 kg / m³. How much weight can the hot air can lift?",
+    "answer": "Given: V = 2200 m³; density of cool air ρ_c = 1.205 kg/m³; density of hot air ρ_h = 0.946 kg/m³; g = 9.8 m/s².\nFormula: upthrust (weight of displaced cool air) = ρ_c V g; weight of the hot air inside = ρ_h V g; lift = (ρ_c − ρ_h)Vg.\nSubstitution: upthrust = 1.205 × 2200 × 9.8; hot-air weight = 0.946 × 2200 × 9.8.\nCalculation: upthrust = 25,980 N; hot-air weight = 20,396 N; lift = 5584 N ≈ 5.59 × 10³ N (a mass of about 570 kg).\nResult: the balloon can lift about 5.59 × 10³ N, agreeing with the printed answer (5590 N); the small difference comes from taking g = 9.81 m/s² in the printed value.",
+    "explanation": "Lift equals the difference between the upthrust on the balloon and the weight of the hot air inside; the payload is not included in this figure.",
+    "pdfPage": 144,
+    "bookPage": 140,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "A spherical balloon has a radius of 7.15 m and is filled with helium. How large a cargo can it lift, assuming that the skin and structure of the balloon have a mass of 930 kg? Neglect the buoyant force on the cargo volume itself.",
+    "answer": "Given: r = 7.15 m; mass of skin and structure m_s = 930 kg; density of air ρ_air = 1.29 kg/m³; density of helium ρ_He = 0.179 kg/m³.\nFormula: V = (4/3)πr³; cargo mass = (ρ_air − ρ_He)V − m_s; cargo weight = cargo mass × g.\nSubstitution: V = (4/3) × π × (7.15)³ = 1531 m³; cargo mass = (1.29 − 0.179) × 1531 − 930 = 1701 − 930.\nCalculation: cargo mass = 771 kg; cargo weight = 771 × 9.8 = 7.56 × 10³ N.\nResult: the balloon can lift about 7.7 × 10² kg, i.e. 7.6 × 10³ N. The printed answer (920 kg, 9 × 10³ N) is about 19% larger; it follows only if the density of helium is taken as about 0.09 kg/m³ instead of 0.179 kg/m³. With the standard densities used above the cargo is ≈ 770 kg.",
+    "explanation": "The net lift is the upthrust on the whole balloon minus the weight of the helium and of the structure; the helium mass must not be omitted.",
+    "pdfPage": 144,
+    "bookPage": 140,
+    "figure": null
+  }
+]

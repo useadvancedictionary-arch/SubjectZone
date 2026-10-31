@@ -1,0 +1,4961 @@
+{
+  "bookTitle": "سنڌي لازمي ۱۲ (Sindhi Lazmi XII)",
+  "board": "Sindh Textbook Board, Jamshoro",
+  "class": "XII",
+  "subject": "Sindhi",
+  "totalPages": 248,
+  "lessons": [
+    {
+      "number": 1,
+      "title": "بولي ۾ آن جون ادبي خوبيون",
+      "pageStart": 7,
+      "pageEnd": 10,
+      "sectionType": "prose",
+      "itemCount": 8
+    },
+    {
+      "number": 2,
+      "title": "شاهه جو شعر ۾ شاعري",
+      "pageStart": 11,
+      "pageEnd": 17,
+      "sectionType": "prose",
+      "itemCount": 7
+    },
+    {
+      "number": 3,
+      "title": "پاكستاني قوميت جو مقصد",
+      "pageStart": 18,
+      "pageEnd": 23,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 4,
+      "title": "پورهيتن جو ڏينهن",
+      "pageStart": 24,
+      "pageEnd": 28,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 5,
+      "title": "دنیا جو وڏي ۾ وڏو شاعر شاهه عبداللطيف ڀٽائي رح",
+      "pageStart": 29,
+      "pageEnd": 35,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 6,
+      "title": "عام سني شاعري",
+      "pageStart": 36,
+      "pageEnd": 44,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 7,
+      "title": "انسان شين جي دنيا ۾",
+      "pageStart": 45,
+      "pageEnd": 52,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 8,
+      "title": "سنڌ جو ثقافتي ورثو",
+      "pageStart": 53,
+      "pageEnd": 61,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 9,
+      "title": "سنڌي ناول نويسي",
+      "pageStart": 62,
+      "pageEnd": 70,
+      "sectionType": "prose",
+      "itemCount": 6
+    },
+    {
+      "number": 10,
+      "title": "لات",
+      "pageStart": 71,
+      "pageEnd": 76,
+      "sectionType": "story",
+      "itemCount": 6
+    },
+    {
+      "number": 11,
+      "title": "امڙ مان ڪ ڪندس",
+      "pageStart": 77,
+      "pageEnd": 81,
+      "sectionType": "story",
+      "itemCount": 6
+    },
+    {
+      "number": 12,
+      "title": "چوڏو",
+      "pageStart": 82,
+      "pageEnd": 87,
+      "sectionType": "story",
+      "itemCount": 6
+    },
+    {
+      "number": 13,
+      "title": "چوٿيون در",
+      "pageStart": 88,
+      "pageEnd": 99,
+      "sectionType": "story",
+      "itemCount": 6
+    },
+    {
+      "number": 14,
+      "title": "دنڪي منجهه درياهه",
+      "pageStart": 100,
+      "pageEnd": 104,
+      "sectionType": "drama",
+      "itemCount": 6
+    },
+    {
+      "number": 15,
+      "title": "مولانا غلام محمد گرامي",
+      "pageStart": 105,
+      "pageEnd": 111,
+      "sectionType": "criticism",
+      "itemCount": 6
+    },
+    {
+      "number": 16,
+      "title": "هُو ڏوٿي هُو ڏينهن",
+      "pageStart": 112,
+      "pageEnd": 116,
+      "sectionType": "story",
+      "itemCount": 6
+    },
+    {
+      "number": 17,
+      "title": "هڪ عجب ايڊوينچر",
+      "pageStart": 117,
+      "pageEnd": 124,
+      "sectionType": "travel",
+      "itemCount": 6
+    },
+    {
+      "number": 18,
+      "title": "عثمان حجر جو ڏند ڪٿائين",
+      "pageStart": 125,
+      "pageEnd": 132,
+      "sectionType": "humor",
+      "itemCount": 6
+    },
+    {
+      "number": 19,
+      "title": "مان شعر چو ڪندو آهيان؟",
+      "pageStart": 133,
+      "pageEnd": 136,
+      "sectionType": "line",
+      "itemCount": 6
+    },
+    {
+      "number": 20,
+      "title": "قاضي قادن",
+      "pageStart": 137,
+      "pageEnd": 139,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 21,
+      "title": "شاهه عبدالڪريم بلڙي وارو",
+      "pageStart": 140,
+      "pageEnd": 143,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 22,
+      "title": "ميون شاهه عناٽ رضوي",
+      "pageStart": 144,
+      "pageEnd": 146,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 23,
+      "title": "شاهه عبداللطيف ڀٽائي",
+      "pageStart": 147,
+      "pageEnd": 152,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 24,
+      "title": "خواجه محمد زمان لنواريءَ وارو",
+      "pageStart": 153,
+      "pageEnd": 156,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 25,
+      "title": "سچل سرمست",
+      "pageStart": 157,
+      "pageEnd": 160,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 26,
+      "title": "سامي",
+      "pageStart": 161,
+      "pageEnd": 163,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 27,
+      "title": "خليفو نبي بخش' قاسم' لغاري",
+      "pageStart": 164,
+      "pageEnd": 167,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 28,
+      "title": "حمل فقير",
+      "pageStart": 168,
+      "pageEnd": 171,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 29,
+      "title": "فقير قادر بخش 'بيدل'",
+      "pageStart": 172,
+      "pageEnd": 175,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 30,
+      "title": "مصري شاهه",
+      "pageStart": 176,
+      "pageEnd": 179,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 31,
+      "title": "جلال ڪي (لوڪ شاعري)",
+      "pageStart": 180,
+      "pageEnd": 184,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 32,
+      "title": "سيد ثابت علي شاهه (مرثيو)",
+      "pageStart": 185,
+      "pageEnd": 188,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 33,
+      "title": "خليفو ڪُل محمد 'ڪُل'",
+      "pageStart": 189,
+      "pageEnd": 191,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 34,
+      "title": "مير عبدالحسين خان 'سانگي'",
+      "pageStart": 192,
+      "pageEnd": 194,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 35,
+      "title": "حافظ محمد 'احسن' چنا",
+      "pageStart": 195,
+      "pageEnd": 197,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 36,
+      "title": "مولوي حاجي احمد ملاح",
+      "pageStart": 198,
+      "pageEnd": 200,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 37,
+      "title": "مخدوم محمد زمان 'طالب المولي'",
+      "pageStart": 201,
+      "pageEnd": 204,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 38,
+      "title": "ڪشنچند 'بيوس'",
+      "pageStart": 205,
+      "pageEnd": 207,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 39,
+      "title": "شيخ اياز",
+      "pageStart": 208,
+      "pageEnd": 211,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 40,
+      "title": "تنوير عباسي",
+      "pageStart": 212,
+      "pageEnd": 214,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 41,
+      "title": "نياز همايوني",
+      "pageStart": 215,
+      "pageEnd": 217,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 42,
+      "title": "امداد حسيني",
+      "pageStart": 218,
+      "pageEnd": 220,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 43,
+      "title": "استاد بخاري",
+      "pageStart": 221,
+      "pageEnd": 223,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 44,
+      "title": "شمشير الحيدري",
+      "pageStart": 224,
+      "pageEnd": 226,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 45,
+      "title": "ابراهيم منشي",
+      "pageStart": 227,
+      "pageEnd": 229,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 46,
+      "title": "'سرويچ' سچواني",
+      "pageStart": 230,
+      "pageEnd": 233,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 47,
+      "title": "ڊاڪٽر سحر امداد",
+      "pageStart": 234,
+      "pageEnd": 236,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 48,
+      "title": "ج - ع منگهائي",
+      "pageStart": 237,
+      "pageEnd": 239,
+      "sectionType": "poetry",
+      "itemCount": 6
+    },
+    {
+      "number": 49,
+      "title": "نوان لفظ",
+      "pageStart": 240,
+      "pageEnd": 247,
+      "sectionType": "poetry",
+      "itemCount": 6
+    }
+  ],
+  "pages": [
+    {
+      "pdfPage": 1,
+      "bookPage": 1
+    },
+    {
+      "pdfPage": 2,
+      "bookPage": 2
+    },
+    {
+      "pdfPage": 3,
+      "bookPage": 3
+    },
+    {
+      "pdfPage": 4,
+      "bookPage": 4
+    },
+    {
+      "pdfPage": 5,
+      "bookPage": 5
+    },
+    {
+      "pdfPage": 6,
+      "bookPage": 6
+    },
+    {
+      "pdfPage": 7,
+      "bookPage": 7
+    },
+    {
+      "pdfPage": 8,
+      "bookPage": 8
+    },
+    {
+      "pdfPage": 9,
+      "bookPage": 9
+    },
+    {
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "pdfPage": 11,
+      "bookPage": 11
+    },
+    {
+      "pdfPage": 12,
+      "bookPage": 12
+    },
+    {
+      "pdfPage": 13,
+      "bookPage": 13
+    },
+    {
+      "pdfPage": 14,
+      "bookPage": 14
+    },
+    {
+      "pdfPage": 15,
+      "bookPage": 15
+    },
+    {
+      "pdfPage": 16,
+      "bookPage": 16
+    },
+    {
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "pdfPage": 18,
+      "bookPage": 18
+    },
+    {
+      "pdfPage": 19,
+      "bookPage": 19
+    },
+    {
+      "pdfPage": 20,
+      "bookPage": 20
+    },
+    {
+      "pdfPage": 21,
+      "bookPage": 21
+    },
+    {
+      "pdfPage": 22,
+      "bookPage": 22
+    },
+    {
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "pdfPage": 24,
+      "bookPage": 24
+    },
+    {
+      "pdfPage": 25,
+      "bookPage": 25
+    },
+    {
+      "pdfPage": 26,
+      "bookPage": 26
+    },
+    {
+      "pdfPage": 27,
+      "bookPage": 27
+    },
+    {
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "pdfPage": 29,
+      "bookPage": 29
+    },
+    {
+      "pdfPage": 30,
+      "bookPage": 30
+    },
+    {
+      "pdfPage": 31,
+      "bookPage": 31
+    },
+    {
+      "pdfPage": 32,
+      "bookPage": 32
+    },
+    {
+      "pdfPage": 33,
+      "bookPage": 33
+    },
+    {
+      "pdfPage": 34,
+      "bookPage": 34
+    },
+    {
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "pdfPage": 36,
+      "bookPage": 36
+    },
+    {
+      "pdfPage": 37,
+      "bookPage": 37
+    },
+    {
+      "pdfPage": 38,
+      "bookPage": 38
+    },
+    {
+      "pdfPage": 39,
+      "bookPage": 39
+    },
+    {
+      "pdfPage": 40,
+      "bookPage": 40
+    },
+    {
+      "pdfPage": 41,
+      "bookPage": 41
+    },
+    {
+      "pdfPage": 42,
+      "bookPage": 42
+    },
+    {
+      "pdfPage": 43,
+      "bookPage": 43
+    },
+    {
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "pdfPage": 45,
+      "bookPage": 45
+    },
+    {
+      "pdfPage": 46,
+      "bookPage": 46
+    },
+    {
+      "pdfPage": 47,
+      "bookPage": 47
+    },
+    {
+      "pdfPage": 48,
+      "bookPage": 48
+    },
+    {
+      "pdfPage": 49,
+      "bookPage": 49
+    },
+    {
+      "pdfPage": 50,
+      "bookPage": 50
+    },
+    {
+      "pdfPage": 51,
+      "bookPage": 51
+    },
+    {
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "pdfPage": 53,
+      "bookPage": 53
+    },
+    {
+      "pdfPage": 54,
+      "bookPage": 54
+    },
+    {
+      "pdfPage": 55,
+      "bookPage": 55
+    },
+    {
+      "pdfPage": 56,
+      "bookPage": 56
+    },
+    {
+      "pdfPage": 57,
+      "bookPage": 57
+    },
+    {
+      "pdfPage": 58,
+      "bookPage": 58
+    },
+    {
+      "pdfPage": 59,
+      "bookPage": 59
+    },
+    {
+      "pdfPage": 60,
+      "bookPage": 60
+    },
+    {
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "pdfPage": 62,
+      "bookPage": 62
+    },
+    {
+      "pdfPage": 63,
+      "bookPage": 63
+    },
+    {
+      "pdfPage": 64,
+      "bookPage": 64
+    },
+    {
+      "pdfPage": 65,
+      "bookPage": 65
+    },
+    {
+      "pdfPage": 66,
+      "bookPage": 66
+    },
+    {
+      "pdfPage": 67,
+      "bookPage": 67
+    },
+    {
+      "pdfPage": 68,
+      "bookPage": 68
+    },
+    {
+      "pdfPage": 69,
+      "bookPage": 69
+    },
+    {
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "pdfPage": 71,
+      "bookPage": 71
+    },
+    {
+      "pdfPage": 72,
+      "bookPage": 72
+    },
+    {
+      "pdfPage": 73,
+      "bookPage": 73
+    },
+    {
+      "pdfPage": 74,
+      "bookPage": 74
+    },
+    {
+      "pdfPage": 75,
+      "bookPage": 75
+    },
+    {
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "pdfPage": 77,
+      "bookPage": 77
+    },
+    {
+      "pdfPage": 78,
+      "bookPage": 78
+    },
+    {
+      "pdfPage": 79,
+      "bookPage": 79
+    },
+    {
+      "pdfPage": 80,
+      "bookPage": 80
+    },
+    {
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "pdfPage": 82,
+      "bookPage": 82
+    },
+    {
+      "pdfPage": 83,
+      "bookPage": 83
+    },
+    {
+      "pdfPage": 84,
+      "bookPage": 84
+    },
+    {
+      "pdfPage": 85,
+      "bookPage": 85
+    },
+    {
+      "pdfPage": 86,
+      "bookPage": 86
+    },
+    {
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "pdfPage": 88,
+      "bookPage": 88
+    },
+    {
+      "pdfPage": 89,
+      "bookPage": 89
+    },
+    {
+      "pdfPage": 90,
+      "bookPage": 90
+    },
+    {
+      "pdfPage": 91,
+      "bookPage": 91
+    },
+    {
+      "pdfPage": 92,
+      "bookPage": 92
+    },
+    {
+      "pdfPage": 93,
+      "bookPage": 93
+    },
+    {
+      "pdfPage": 94,
+      "bookPage": 94
+    },
+    {
+      "pdfPage": 95,
+      "bookPage": 95
+    },
+    {
+      "pdfPage": 96,
+      "bookPage": 96
+    },
+    {
+      "pdfPage": 97,
+      "bookPage": 97
+    },
+    {
+      "pdfPage": 98,
+      "bookPage": 98
+    },
+    {
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "pdfPage": 100,
+      "bookPage": 100
+    },
+    {
+      "pdfPage": 101,
+      "bookPage": 101
+    },
+    {
+      "pdfPage": 102,
+      "bookPage": 102
+    },
+    {
+      "pdfPage": 103,
+      "bookPage": 103
+    },
+    {
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "pdfPage": 105,
+      "bookPage": 105
+    },
+    {
+      "pdfPage": 106,
+      "bookPage": 106
+    },
+    {
+      "pdfPage": 107,
+      "bookPage": 107
+    },
+    {
+      "pdfPage": 108,
+      "bookPage": 108
+    },
+    {
+      "pdfPage": 109,
+      "bookPage": 109
+    },
+    {
+      "pdfPage": 110,
+      "bookPage": 110
+    },
+    {
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "pdfPage": 112,
+      "bookPage": 112
+    },
+    {
+      "pdfPage": 113,
+      "bookPage": 113
+    },
+    {
+      "pdfPage": 114,
+      "bookPage": 114
+    },
+    {
+      "pdfPage": 115,
+      "bookPage": 115
+    },
+    {
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "pdfPage": 117,
+      "bookPage": 117
+    },
+    {
+      "pdfPage": 118,
+      "bookPage": 118
+    },
+    {
+      "pdfPage": 119,
+      "bookPage": 119
+    },
+    {
+      "pdfPage": 120,
+      "bookPage": 120
+    },
+    {
+      "pdfPage": 121,
+      "bookPage": 121
+    },
+    {
+      "pdfPage": 122,
+      "bookPage": 122
+    },
+    {
+      "pdfPage": 123,
+      "bookPage": 123
+    },
+    {
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "pdfPage": 125,
+      "bookPage": 125
+    },
+    {
+      "pdfPage": 126,
+      "bookPage": 126
+    },
+    {
+      "pdfPage": 127,
+      "bookPage": 127
+    },
+    {
+      "pdfPage": 128,
+      "bookPage": 128
+    },
+    {
+      "pdfPage": 129,
+      "bookPage": 129
+    },
+    {
+      "pdfPage": 130,
+      "bookPage": 130
+    },
+    {
+      "pdfPage": 131,
+      "bookPage": 131
+    },
+    {
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "pdfPage": 133,
+      "bookPage": 133
+    },
+    {
+      "pdfPage": 134,
+      "bookPage": 134
+    },
+    {
+      "pdfPage": 135,
+      "bookPage": 135
+    },
+    {
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "pdfPage": 137,
+      "bookPage": 137
+    },
+    {
+      "pdfPage": 138,
+      "bookPage": 138
+    },
+    {
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "pdfPage": 140,
+      "bookPage": 140
+    },
+    {
+      "pdfPage": 141,
+      "bookPage": 141
+    },
+    {
+      "pdfPage": 142,
+      "bookPage": 142
+    },
+    {
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "pdfPage": 144,
+      "bookPage": 144
+    },
+    {
+      "pdfPage": 145,
+      "bookPage": 145
+    },
+    {
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "pdfPage": 147,
+      "bookPage": 147
+    },
+    {
+      "pdfPage": 148,
+      "bookPage": 148
+    },
+    {
+      "pdfPage": 149,
+      "bookPage": 149
+    },
+    {
+      "pdfPage": 150,
+      "bookPage": 150
+    },
+    {
+      "pdfPage": 151,
+      "bookPage": 151
+    },
+    {
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "pdfPage": 153,
+      "bookPage": 153
+    },
+    {
+      "pdfPage": 154,
+      "bookPage": 154
+    },
+    {
+      "pdfPage": 155,
+      "bookPage": 155
+    },
+    {
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "pdfPage": 157,
+      "bookPage": 157
+    },
+    {
+      "pdfPage": 158,
+      "bookPage": 158
+    },
+    {
+      "pdfPage": 159,
+      "bookPage": 159
+    },
+    {
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "pdfPage": 161,
+      "bookPage": 161
+    },
+    {
+      "pdfPage": 162,
+      "bookPage": 162
+    },
+    {
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "pdfPage": 164,
+      "bookPage": 164
+    },
+    {
+      "pdfPage": 165,
+      "bookPage": 165
+    },
+    {
+      "pdfPage": 166,
+      "bookPage": 166
+    },
+    {
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "pdfPage": 168,
+      "bookPage": 168
+    },
+    {
+      "pdfPage": 169,
+      "bookPage": 169
+    },
+    {
+      "pdfPage": 170,
+      "bookPage": 170
+    },
+    {
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "pdfPage": 172,
+      "bookPage": 172
+    },
+    {
+      "pdfPage": 173,
+      "bookPage": 173
+    },
+    {
+      "pdfPage": 174,
+      "bookPage": 174
+    },
+    {
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "pdfPage": 176,
+      "bookPage": 176
+    },
+    {
+      "pdfPage": 177,
+      "bookPage": 177
+    },
+    {
+      "pdfPage": 178,
+      "bookPage": 178
+    },
+    {
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "pdfPage": 180,
+      "bookPage": 180
+    },
+    {
+      "pdfPage": 181,
+      "bookPage": 181
+    },
+    {
+      "pdfPage": 182,
+      "bookPage": 182
+    },
+    {
+      "pdfPage": 183,
+      "bookPage": 183
+    },
+    {
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "pdfPage": 185,
+      "bookPage": 185
+    },
+    {
+      "pdfPage": 186,
+      "bookPage": 186
+    },
+    {
+      "pdfPage": 187,
+      "bookPage": 187
+    },
+    {
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "pdfPage": 189,
+      "bookPage": 189
+    },
+    {
+      "pdfPage": 190,
+      "bookPage": 190
+    },
+    {
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "pdfPage": 192,
+      "bookPage": 192
+    },
+    {
+      "pdfPage": 193,
+      "bookPage": 193
+    },
+    {
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "pdfPage": 195,
+      "bookPage": 195
+    },
+    {
+      "pdfPage": 196,
+      "bookPage": 196
+    },
+    {
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "pdfPage": 198,
+      "bookPage": 198
+    },
+    {
+      "pdfPage": 199,
+      "bookPage": 199
+    },
+    {
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "pdfPage": 201,
+      "bookPage": 201
+    },
+    {
+      "pdfPage": 202,
+      "bookPage": 202
+    },
+    {
+      "pdfPage": 203,
+      "bookPage": 203
+    },
+    {
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "pdfPage": 205,
+      "bookPage": 205
+    },
+    {
+      "pdfPage": 206,
+      "bookPage": 206
+    },
+    {
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "pdfPage": 208,
+      "bookPage": 208
+    },
+    {
+      "pdfPage": 209,
+      "bookPage": 209
+    },
+    {
+      "pdfPage": 210,
+      "bookPage": 210
+    },
+    {
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "pdfPage": 212,
+      "bookPage": 212
+    },
+    {
+      "pdfPage": 213,
+      "bookPage": 213
+    },
+    {
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "pdfPage": 215,
+      "bookPage": 215
+    },
+    {
+      "pdfPage": 216,
+      "bookPage": 216
+    },
+    {
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "pdfPage": 218,
+      "bookPage": 218
+    },
+    {
+      "pdfPage": 219,
+      "bookPage": 219
+    },
+    {
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "pdfPage": 221,
+      "bookPage": 221
+    },
+    {
+      "pdfPage": 222,
+      "bookPage": 222
+    },
+    {
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "pdfPage": 224,
+      "bookPage": 224
+    },
+    {
+      "pdfPage": 225,
+      "bookPage": 225
+    },
+    {
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "pdfPage": 227,
+      "bookPage": 227
+    },
+    {
+      "pdfPage": 228,
+      "bookPage": 228
+    },
+    {
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "pdfPage": 230,
+      "bookPage": 230
+    },
+    {
+      "pdfPage": 231,
+      "bookPage": 231
+    },
+    {
+      "pdfPage": 232,
+      "bookPage": 232
+    },
+    {
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "pdfPage": 234,
+      "bookPage": 234
+    },
+    {
+      "pdfPage": 235,
+      "bookPage": 235
+    },
+    {
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "pdfPage": 237,
+      "bookPage": 237
+    },
+    {
+      "pdfPage": 238,
+      "bookPage": 238
+    },
+    {
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "pdfPage": 240,
+      "bookPage": 240
+    },
+    {
+      "pdfPage": 241,
+      "bookPage": 241
+    },
+    {
+      "pdfPage": 242,
+      "bookPage": 242
+    },
+    {
+      "pdfPage": 243,
+      "bookPage": 243
+    },
+    {
+      "pdfPage": 244,
+      "bookPage": 244
+    },
+    {
+      "pdfPage": 245,
+      "bookPage": 245
+    },
+    {
+      "pdfPage": 246,
+      "bookPage": 246
+    },
+    {
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "pdfPage": 248,
+      "bookPage": 248
+    }
+  ],
+  "solvedItems": [
+    {
+      "id": "L1_A1",
+      "lesson": 1,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "بولي ۾ آن جون ادبي خوبيون ا آهن؟",
+      "answer": "بولي ۾ آن جون ادبي خوبيون هي آهن: 1) بولي ۾ جذباتي اثر، 2) بولي ۾ موسيقيت، 3) بولي  تصويري صلاحيت، 4) بولي ۾ سادگي ۽ وضاحت.",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_A2",
+      "lesson": 1,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "بوليءَ جو ادبي حيثيت ڇا آهي؟",
+      "answer": "بولي هر قوم جي سڃاڻپ آهي. سنڌي بولي ۾ گهڻي ادبي حيثيت آهي ڇوته ان ۾ شاهه، Sachal، سامي ۽ ٻين شاعرن جا ڪلام شامل آهن.",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_A3",
+      "lesson": 1,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "بولي ۾ آن جو مطلب ا آهي؟",
+      "answer": "بولي ۾ آن جو مطلب آهي ته بولي پاڻ ۾ ادبي قدر رکي ٿي. بولي صرف ڳالهائڻ جو ذريعو ناهي پر اها ادب جو به حصو آهي.",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_A4",
+      "lesson": 1,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 4,
+      "question": "حڪيم فتح محمد سيبوهائي ڪير هو؟",
+      "answer": "حڪيم فتح محمد سيبوهائي سنڌي ادب جو هڪ مشهور ليکڪ ۽ محقق هو. هن سنڌي ٻولي ۽ ادب تي گهڻا ڪم ڪيا.",
+      "pdfPage": 7,
+      "bookPage": 7
+    },
+    {
+      "id": "L1_B1",
+      "lesson": 1,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: بولي، ادبي، خوبيون",
+      "answer": "بولي = ٻولي / زبان؛ ادبي = ساहितئڪ / ادب سان لاڳاپيل؛ خوبيون = خوبصورتِيون / خاصيتون",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_C1",
+      "lesson": 1,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "بولي جي __________ ۾ ادبي قدر هوندو آهي. (خوبين / خرابين)",
+      "answer": "خوبين",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_D1",
+      "lesson": 1,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'بولي' جو مطلب بيان ڪريو  جملي ۾ استعمال ڪريو.",
+      "answer": "بولي جو مطلب آهي ڪنهن خاص علائقي يا قوم جي ڳالهائڻ واري زبان. جملو: سنڌي بولي تمام مٺي آهي.",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L1_E1",
+      "lesson": 1,
+      "section": "E",
+      "sectionCode": "E",
+      "type": "solved",
+      "number": 1,
+      "question": "'بولي  آن جون ادبي خوبيون' — هن عنوان جو مطلب واضح ڪريو.",
+      "answer": "هن عنوان جو مطلب آهي ته اسان جي بولي (سنڌي ٻولي) ۾ ڪيتريون ئي ادبي خوبيون موجود آهن جهڙوڪ موسيقيت، جذباتي اثر، ۽ تصويري صلاحيت.",
+      "pdfPage": 10,
+      "bookPage": 10
+    },
+    {
+      "id": "L2_A1",
+      "lesson": 2,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "شاهه عبداللطيف ڀٽائي جي شاعري ۾ ڪهڙيون خاصيتون آهن؟",
+      "answer": "شاهه جي شاعري ۾ هي خاصيتون آهن: 1) سادي ۽ عام فهم ٻولي، 2) صوفיאנہ پيغام، 3) سنڌي لوڪ ڪهاڻين جو استعمال، 3) موسيقي سان گڏيل ڪلام.",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L2_A2",
+      "lesson": 2,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "شاهه جو ڪلام ڇو اهم آهي؟",
+      "answer": "شاهه جو ڪلام سنڌي ادب جو سڀ کان وڏو خزاني آهي. ان ۾ انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام شامل آهن.",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L2_A3",
+      "lesson": 2,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "ڊاڪٽر هوتچند مولچند گرپخشائي شاهه بابت ڇا چيو آهي؟",
+      "answer": "ڊاڪر هوتچند شاهه کي سنڌي شاعري جو سڀ کان وڏو شاعر قرار نو آهي ۽ چيو ته شاهه جو ڪلام عالمي سطح تي اهم آهي.",
+      "pdfPage": 11,
+      "bookPage": 11
+    },
+    {
+      "id": "L2_B1",
+      "lesson": 2,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: شاعري، ڪلام، صوفيانہ",
+      "answer": "شاعري = شعر گوئي؛ ڪلام = گفتار / شعر؛ صوفيانہ = تصوف سان لاڳاپيل",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L2_C1",
+      "lesson": 2,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "شاهه جو ڪلام __________ ٻولي ۾ آهي. (مشڪل / سادي)",
+      "answer": "سادي",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L2_D1",
+      "lesson": 2,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'شاعري' جو مطلب بيان ڪريو.",
+      "answer": "شاعري جو مطلب آهي جذبات ۽ خيالن کي خوبصورت انداز ۾ بيان ڪرڻ.",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L2_E1",
+      "lesson": 2,
+      "section": "E",
+      "sectionCode": "E",
+      "type": "solved",
+      "number": 1,
+      "question": "'شاهه جو شعر  شاعري' — هن مضمون جو خلاصو ڏيو.",
+      "answer": "هن مضمون ۾ ڊاڪٽر هوتچند شاهه عبداللطيف ڀٽائي جي شاعري جي خوبين بابت بحث ڪيو آهي.",
+      "pdfPage": 17,
+      "bookPage": 17
+    },
+    {
+      "id": "L3_A1",
+      "lesson": 3,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "پاكستاني قوميت جو مقصد ڇا آهي؟",
+      "answer": "پاكستاني قوميت جو مقصد آهي ته سڀني مسلمانن کي هڪ ئي قوم طور متحد ڪرڻ ۽ اسلامي رهنمايي تحت زندگي گذارڻ.",
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "id": "L3_A2",
+      "lesson": 3,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "علي نواز حاجن جتوئي قوميت بابت ڇا چيو آهي؟",
+      "answer": "علي نواز حاجن جتوئي چيو ته پاكستاني قوميت اسلامي بنيادن تي قائم آهي ۽ ان جو مقصد مسلم امهه جي اتحاد آهي.",
+      "pdfPage": 18,
+      "bookPage": 18
+    },
+    {
+      "id": "L3_A3",
+      "lesson": 3,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "قوميت ۽ مذھب جو تعلق ڇا آهي؟",
+      "answer": "پاڪستان  قوميت ۽ مذھب جو گهرو تعلق آهي. پاڪستاني قوميت اسلامي نظريي تي ٻڌل آهي.",
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "id": "L3_B1",
+      "lesson": 3,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: قوميت، مقصد، متحد",
+      "answer": "قوميت = nationality؛ مقصد = هدف / ارادو؛ متحد = گڏيل / united",
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "id": "L3_C1",
+      "lesson": 3,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "پاڪستاني قوميت __________ نظريي تي ٻڌل آهي. (عربي / اسلامي)",
+      "answer": "اسلامي",
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "id": "L3_D1",
+      "lesson": 3,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'قوميت' جو مطلب بيان ڪريو ۽ جملي ۾ استعمال ڪريو.",
+      "answer": "قوميت جو مطلب آهي هڪ ئي ملڪ يا علائقي ۾ رهڻ وارا ماڻهو. جملو: پاڪستاني قوميت اسان جي سڃاڻپ آهي.",
+      "pdfPage": 23,
+      "bookPage": 23
+    },
+    {
+      "id": "L4_A1",
+      "lesson": 4,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "پورهيتن جو ڏينهن ڇو ملهايو ويندو آهي؟",
+      "answer": "پورهيتن جو ڏينهن 1 مئي تي ملهايو ويندو آهي. هي ڏينهن مزدورن ۽ محنت ڪندڙ ماڻهن جي حقن جي ياد ۾ ملهايو ويندو آهي.",
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "id": "L4_A2",
+      "lesson": 4,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "رشيد پتي هن مضمون ۾ ا بيان ڪيو آهي؟",
+      "answer": "رشيد پتي هن مضمون ۾ پورهيتن جي محنت ۽ انهن جي حقن بابت بيان ڪيو آهي.",
+      "pdfPage": 24,
+      "bookPage": 24
+    },
+    {
+      "id": "L4_A3",
+      "lesson": 4,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "پورهيتن جا حق ڇا آهن؟",
+      "answer": "پورهيتن جا حق آهن: مناسب اجرت، محفوظ ڪم جو ماحول، ۽ عزت ۽ احترام.",
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "id": "L4_B1",
+      "lesson": 4,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: پورهيت، محنت، حق",
+      "answer": "پورهيت = مزدور / worker؛ محنت = ڪوشش / labor؛ حق = entitlement / right",
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "id": "L4_C1",
+      "lesson": 4,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "پورهيتن جو ڏينهن __________ مئي تي ملهايو ويندو آهي. (1 / 14)",
+      "answer": "1",
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "id": "L4_D1",
+      "lesson": 4,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'پورهيت' جو مطلب بيان ڪريو.",
+      "answer": "پورهيت جو مطلب آهي اهو ماڻهو جيڪو پنهنجي محنت سان روزي ڪمائيندو آهي.",
+      "pdfPage": 28,
+      "bookPage": 28
+    },
+    {
+      "id": "L5_A1",
+      "lesson": 5,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "شاهه عبداللطيف ڀٽائي کي دنيا جو وڏو شاعر و چيو ويندو آهي؟",
+      "answer": "شاهه کي دنيا جو وڏو شاعر ان ڪري چيو ويندو آهي ڇوته هن جو ڪلام عالمي سطح تي مشهور آهي ۽ ان ۾ انساني قدر شامل آهن.",
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "id": "L5_A2",
+      "lesson": 5,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "علامه آءِ آءِ قاضي شاهه بابت ڇا لکيو آهي؟",
+      "answer": "علامه آءِ آءِ قاضي شاهه کي سنڌي شاعري جو امام قرار ڏنو آهي ۽ چيو ته شاهه جو ڪلام هر دور ۾ اهم آهي.",
+      "pdfPage": 29,
+      "bookPage": 29
+    },
+    {
+      "id": "L5_A3",
+      "lesson": 5,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "شاهه جي رسالي ۾ ڪيترا سورٺا آهن؟",
+      "answer": "شاهه جي رسالي ۾ 30 سورٺا آهن جن ۾ مختلف ڪهاڻيون ۽ پيغام شامل آهن.",
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "id": "L5_B1",
+      "lesson": 5,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: شاعر، رسالو، سورٺو",
+      "answer": "شاعر = poet؛ رسالو = poetic collection؛ سورٺو = chapter / surs",
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "id": "L5_C1",
+      "lesson": 5,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "شاهه جي رسالي ۾ __________ سورٺا آهن. (20 / 30)",
+      "answer": "30",
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "id": "L5_D1",
+      "lesson": 5,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'رسالو' جو مطلب بيان ڪريو.",
+      "answer": "رسالو جو مطلب آهي شعرن جو مجموعو. شاهه جو رسالو سنڌي شاعري جو سڀ کان وڏو مجموعو آهي.",
+      "pdfPage": 35,
+      "bookPage": 35
+    },
+    {
+      "id": "L6_A1",
+      "lesson": 6,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "عام سنڌي شاعري ا آهي؟",
+      "answer": "عام سنڌي شاعري اها شاعري آهي جيڪا عام ماڻهن ۾ مشهور آهي ۽ جيڪا لوڪ ڳائڻن ۾ ڳائي ويندي آهي.",
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "id": "L6_A2",
+      "lesson": 6,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "ڊاڪٽر نبي بخش خان بلوچ عام شاعري بابت ڇا چيو آهي؟",
+      "answer": "ڊاڪٽر نبي بخش خان بلوچ چيو ته عام سنڌي شاعري سنڌي ثقافت جو اهم حصو آهي.",
+      "pdfPage": 36,
+      "bookPage": 36
+    },
+    {
+      "id": "L6_A3",
+      "lesson": 6,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "لوڪ شاعري  عام شاعري ۾ ڇا فرق آهي؟",
+      "answer": "لوڪ شاعري مخصوص علائقي تائين محدود هوندي آهي جڏهن ته عام شاعري سڄي سنڌ ۾ مشهور هوندي آهي.",
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "id": "L6_B1",
+      "lesson": 6,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: عام، شاعري، لوڪ",
+      "answer": "عام = common / general؛ شاعري = poetry؛ لوڪ = folk / people",
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "id": "L6_C1",
+      "lesson": 6,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "عام سنڌي شاعري __________ ماڻهن ۾ مشهور آهي. (خاص / عام)",
+      "answer": "عام",
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "id": "L6_D1",
+      "lesson": 6,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'لوڪ شاعري' جو مطلب بيان ڪريو.",
+      "answer": "لوڪ شاعري جو مطلب آهي عوامي شاعري جيڪا عام ماڻهو ڳائيندا آهن.",
+      "pdfPage": 44,
+      "bookPage": 44
+    },
+    {
+      "id": "L7_A1",
+      "lesson": 7,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "انسان شين جي دنيا ۾ ڪيئن رهندو آهي؟",
+      "answer": "انسان شين جي دنيا ۾ پنهنجي عقل ۽ سوچ ذريعي رهندو آهي. هو شين کي سمجهي و ۽ انهن سان تعلق قائم ڪري ٿو.",
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "id": "L7_A2",
+      "lesson": 7,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "محمد ابراهيم جويو هن مضمون ۾ ڇا بيان ڪيو آهي؟",
+      "answer": "محمد ابراهيم جويو هن مضمون ۾ انسان ۽ شين جي تعلق بابت فلسفيانه بحث ڪيو آهي.",
+      "pdfPage": 45,
+      "bookPage": 45
+    },
+    {
+      "id": "L7_A3",
+      "lesson": 7,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "شين جي دنيا ۾ انسان جو مقام ڇا آهي؟",
+      "answer": "شين جي دنيا ۾ انسان جو مقام سڀ کان مٿاهون آهي ڇوته هو عقل ۽ شعور رکي ٿو.",
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "id": "L7_B1",
+      "lesson": 7,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: انسان، شين، دنيا",
+      "answer": "انسان = human being؛ شين = things / objects؛ دنيا = world",
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "id": "L7_C1",
+      "lesson": 7,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "انسان __________ ۽ شعور رکي ٿو. (عقل / جسم)",
+      "answer": "عقل",
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "id": "L7_D1",
+      "lesson": 7,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'دنيا' جو مطلب بيان ڪريو.",
+      "answer": "دنيا جو مطلب آهي اهو جهان جنهن ۾ اسان رهندا آهيون.",
+      "pdfPage": 52,
+      "bookPage": 52
+    },
+    {
+      "id": "L8_A1",
+      "lesson": 8,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "سنڌ جو ثقافتي ورثو ڇا آهي؟",
+      "answer": "سنڌ جو ثقافتي ورثو شامل آهي: سني ٻولي، سنڌي ادب، سنڌي موسيقي، سنڌي رسم و رواج، ۽ سنڌي تاريخ.",
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "id": "L8_A2",
+      "lesson": 8,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "ڊاڪٽر غلام علي الانا ثقافت بابت ا چيو آهي؟",
+      "answer": "ڊاڪٽر غلام علي الانا چيو ته سنڌ جي ثقافت هزارين سالن جي تاريخ رکي ٿي.",
+      "pdfPage": 53,
+      "bookPage": 53
+    },
+    {
+      "id": "L8_A3",
+      "lesson": 8,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "ثقافتي ورثي کي محفوظ ڪرڻ ڇو ضروري آهي؟",
+      "answer": "ثقافتي ورثي کي محفوظ ڪرڻ ضروري آهي ته ايندڙ نسلن کي پنهنجي تاريخ ۽ سڃاڻپ جي خبر پوي.",
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "id": "L8_B1",
+      "lesson": 8,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: ثقافت، ورثو، محفوظ",
+      "answer": "ثقافت = culture؛ ورثو = heritage؛ محفوظ = preserved / safe",
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "id": "L8_C1",
+      "lesson": 8,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "سنڌ جي ثقافت __________ سالن جي تاريخ رکي ي. (هزارين / سوين)",
+      "answer": "هزارين",
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "id": "L8_D1",
+      "lesson": 8,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'ثقافت' جو مطلب بيان ڪريو.",
+      "answer": "ثقافت جو مطلب آهي ڪنهن قوم جا رسم و رواج، ٻولي، ادب،  طرز زندگي.",
+      "pdfPage": 61,
+      "bookPage": 61
+    },
+    {
+      "id": "L9_A1",
+      "lesson": 9,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "سني ناول نويسي جو آغاز ڪڏهن ٿيو؟",
+      "answer": "سنڌي ناول نويسي جو آغاز ويهين صدي عيسوي ۾ ٿيو. پهريون سنڌي ناول 'ڪچي رتي' هو.",
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "id": "L9_A2",
+      "lesson": 9,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "ڊاڪٽر نور افروز خواجا ناول نويسي بابت ڇا چيو آهي؟",
+      "answer": "ڊاڪٽر نور افروز خواجا چيو ته سنڌي ناول نويسي ۾ گهڻي ترقي ٿي آهي ۽ هاڻي جديد موضوعن تي ناول لکيا وڃن ٿا.",
+      "pdfPage": 62,
+      "bookPage": 62
+    },
+    {
+      "id": "L9_A3",
+      "lesson": 9,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "سنڌي ناولن ۾ ڪهڙا موضوع شامل آهن؟",
+      "answer": "سنڌي ناولن ۾ سماجي مسئلا، محبت، تاريخي واقعا،  سياسي موضوع شامل آهن.",
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "id": "L9_B1",
+      "lesson": 9,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: ناول، نويسي، موضوع",
+      "answer": "ناول = novel؛ نويسي = writing؛ موضوع = topic / theme",
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "id": "L9_C1",
+      "lesson": 9,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "پهريون سنڌي ناول '__________' هو. (ڪچي رتي / پکي)",
+      "answer": "ڪچي ڌرتي",
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "id": "L9_D1",
+      "lesson": 9,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'ناول' جو مطلب بيان ڪريو.",
+      "answer": "ناول جو مطلب آهي هڪ ڊگهي داستان جيڪا نثر ۾ لکي ويندي آهي.",
+      "pdfPage": 70,
+      "bookPage": 70
+    },
+    {
+      "id": "L10_A1",
+      "lesson": 10,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'لات' ڪهاڻي جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'لات' ڪهاڻي جو مرڪزي خيال آهي انساني زندگي ۾ جدوجهد ۽ مشڪلاتن جو مقابلو ڪرڻ.",
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "id": "L10_A2",
+      "lesson": 10,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "جمال ابڙو ڪير آهي؟",
+      "answer": "جمال ابڙو سنڌي ادب جو هڪ مشهور ڪهاڻي نگار آهي.",
+      "pdfPage": 71,
+      "bookPage": 71
+    },
+    {
+      "id": "L10_A3",
+      "lesson": 10,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "لات جو مطلب ڇا آهي؟",
+      "answer": "لات جو مطلب آهي لهرون يا پاڻيءَ جو وهڪرو.",
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "id": "L10_B1",
+      "lesson": 10,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: لات، ڪهاڻي، خيال",
+      "answer": "لات = wave / current؛ ڪهاڻي = story؛ خيال = idea / thought",
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "id": "L10_C1",
+      "lesson": 10,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'لات' ڪهاڻي جو مصنف __________ آهي. (جمال ابڙو / شيخ اياز)",
+      "answer": "جمال ابڙو",
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "id": "L10_D1",
+      "lesson": 10,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'ڪهاڻي' جو مطلب بيان ڪريو.",
+      "answer": "ڪهاڻي جو مطلب آهي هڪ مختصر داستان جيڪو نثر ۾ لکيو ويندو آهي.",
+      "pdfPage": 76,
+      "bookPage": 76
+    },
+    {
+      "id": "L11_A1",
+      "lesson": 11,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'امڙ مان ڪ ڪندس' ڪهاڻي جو موضوع ڇا آهي؟",
+      "answer": "هن ڪهاڻي جو موضوع آهي ماءُ جي محبت ۽ قرباني.",
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "id": "L11_A2",
+      "lesson": 11,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "ڊاڪٽر اياز قادري ڪير آهي؟",
+      "answer": "ڊاڪر اياز قادري سنڌي ادب جو هڪ مشهور ليکڪ ۽ محقق آهي.",
+      "pdfPage": 77,
+      "bookPage": 77
+    },
+    {
+      "id": "L11_A3",
+      "lesson": 11,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "ماءُ جي محبت بابت ڪهاڻي ۾ ڇا بيان ڪيو ويو آهي؟",
+      "answer": "ڪهاڻي ۾ بيان ڪيو ويو آهي ته ماءُ پنهنجي اولاد لاءِ هر قسم جي قرباني ڏيڻ لاءِ تيار هوندي آهي.",
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "id": "L11_B1",
+      "lesson": 11,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: امڙ، محبت، قرباني",
+      "answer": "امڙ = mother؛ محبت = love؛ قرباني = sacrifice",
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "id": "L11_C1",
+      "lesson": 11,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'امڙ مان ڪ ڪندس' ڪهاڻي جو مصنف __________ آهي.",
+      "answer": "ڊاڪٽر اياز قادري",
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "id": "L11_D1",
+      "lesson": 11,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'قرباني' جو مطلب بيان ڪريو.",
+      "answer": "قرباني جو مطلب آهي ڪنهن ٻئي لاءِ پنهنجو ڪجهه ڏيڻ يا نقصان برداشت ڪرڻ.",
+      "pdfPage": 81,
+      "bookPage": 81
+    },
+    {
+      "id": "L12_A1",
+      "lesson": 12,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'چوڏو' ڪهاڻي جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'چوڏو' ڪهاڻي جو مرڪزي خيال آهي انساني زندگي ۾ اميد ۽ نااميدي جو مقابلو.",
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "id": "L12_A2",
+      "lesson": 12,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "نجم عباسي ڪير آهي؟",
+      "answer": "نجم عباسي سنڌي ادب جو هڪ مشهور ڪهاڻي نگار ۽ شاعر آهي.",
+      "pdfPage": 82,
+      "bookPage": 82
+    },
+    {
+      "id": "L12_A3",
+      "lesson": 12,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "چوڏو جو مطلب ڇا آهي؟",
+      "answer": "چوڏو جو مطلب آهي چوڏهين رات جو چنڊ جيڪو پورو هوندو آهي.",
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "id": "L12_B1",
+      "lesson": 12,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: چوڏو، اميد، نااميدي",
+      "answer": "چوڏو = full moon night؛ اميد = hope؛ نااميدي = despair",
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "id": "L12_C1",
+      "lesson": 12,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'چوڏو' ڪهاڻي جو مصنف __________ آهي.",
+      "answer": "نجم عباسي",
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "id": "L12_D1",
+      "lesson": 12,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'اميد' جو مطلب بيان ڪريو.",
+      "answer": "اميد جو مطلب آهي ڪنهن شيءِ جي حاصل ٿيڻ جي توقع.",
+      "pdfPage": 87,
+      "bookPage": 87
+    },
+    {
+      "id": "L13_A1",
+      "lesson": 13,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'چوٿيون در' ڪهاي جو موضوع ڇا آهي؟",
+      "answer": "'چوٿيون در' ڪهاڻي جو موضوع آهي انساني زندگي ۾ نوان دروازا کولڻ ۽ نيا موقعي ڳولڻ.",
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "id": "L13_A2",
+      "lesson": 13,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "نسيم ڪرل ڪير آهي؟",
+      "answer": "نسيم ڪرل سنڌي ادب جي هڪ مشهور ڪهاڻي نگار آهي.",
+      "pdfPage": 88,
+      "bookPage": 88
+    },
+    {
+      "id": "L13_A3",
+      "lesson": 13,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "چويون در جو علامتي مطلب ڇا آهي؟",
+      "answer": "چوٿيون در جو علامتي مطلب آهي زندگي ۾ نوان موقعي ۽ نيا امڪان.",
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "id": "L13_B1",
+      "lesson": 13,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: در، موقعو، امڪان",
+      "answer": "در = door / gateway؛ موقعو = opportunity؛ امڪان = possibility",
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "id": "L13_C1",
+      "lesson": 13,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'چوٿيون در' ڪهاڻي جو مصنف __________ آهي.",
+      "answer": "نسيم ڪرل",
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "id": "L13_D1",
+      "lesson": 13,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'موقعو' جو مطلب بيان ڪريو.",
+      "answer": "موقعو جو مطلب آهي ڪنهن شيءِ کي حاصل ڪر جو مناسب وقت.",
+      "pdfPage": 99,
+      "bookPage": 99
+    },
+    {
+      "id": "L14_A1",
+      "lesson": 14,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'دنڪي منجهه درياهه' ڊرامي جو موضوع ڇا آهي؟",
+      "answer": "هن ڊرامي جو موضوع آهي سنڌي ماڻهن جي مهاجرت ۽ مشڪلاتون.",
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "id": "L14_A2",
+      "lesson": 14,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "علي بابا ڪير آهي؟",
+      "answer": "علي بابا سنڌي ادب جو هڪ مشهور ڊراما نگار آهي.",
+      "pdfPage": 100,
+      "bookPage": 100
+    },
+    {
+      "id": "L14_A3",
+      "lesson": 14,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "رامو ۽ ڪهاڻي ۾ ڇا فرق آهي؟",
+      "answer": "ڊرامو مکيه طور تي مکالمات تي ٻل هوندو آهي جڏهن ته ڪهاڻي نثر ۾ لکي ويندي آهي.",
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "id": "L14_B1",
+      "lesson": 14,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: ڊرامو، درياهه، مهاجرت",
+      "answer": "ڊرامو = drama / play؛ درياهه = river؛ مهاجرت = migration",
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "id": "L14_C1",
+      "lesson": 14,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'دنڪي منجهه درياهه' ڊرامي جو مصنف __________ آهي.",
+      "answer": "علي بابا",
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "id": "L14_D1",
+      "lesson": 14,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'ڊرامو' جو مطلب بيان ڪريو.",
+      "answer": "ڊرامو جو مطلب آهي هڪ اهڙي ادبي صنف جيڪا مکالمات ذريعي پيش ڪئي ويندي آهي.",
+      "pdfPage": 104,
+      "bookPage": 104
+    },
+    {
+      "id": "L15_A1",
+      "lesson": 15,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "مولانا غلام محمد گرامي ڪير هئا؟",
+      "answer": "مولانا غلام محمد گرامي سنڌي ادب ۽ تحريڪ پاڪستان جا هڪ عظيم شخصيت هئا.",
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "id": "L15_A2",
+      "lesson": 15,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "غلام رباني آگرو گرامي بابت ڇا لکيو آهي؟",
+      "answer": "غلام رباني آگرو گرامي جي زندگي ۽ ڪمن بابت تفصيل سان لکيو آهي.",
+      "pdfPage": 105,
+      "bookPage": 105
+    },
+    {
+      "id": "L15_A3",
+      "lesson": 15,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "گرامي جا ادبي ڪم ڇا آهن؟",
+      "answer": "گرامي جا ادبي ڪم شامل آهن: شاعري، نثر، ۽ تحريڪ پاڪستان ۾ حصو.",
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "id": "L15_B1",
+      "lesson": 15,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: مولانا، ادبي، شخصيت",
+      "answer": "مولانا = religious scholar؛ ادبي = literary؛ شخصيت = personality",
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "id": "L15_C1",
+      "lesson": 15,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "مولانا غلام محمد گرامي تحريڪ __________ ۾ حصو ورتو.",
+      "answer": "پاڪستان",
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "id": "L15_D1",
+      "lesson": 15,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'شخصيت' جو مطلب بيان ڪريو.",
+      "answer": "شخصيت جو مطلب آهي ڪنهن ماڻهوءَ جو Character ۽ ان جا ڪم.",
+      "pdfPage": 111,
+      "bookPage": 111
+    },
+    {
+      "id": "L16_A1",
+      "lesson": 16,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'هُو ڏوٿي هُو ڏينهن' ڪهاڻي جو موضوع ڇا آهي؟",
+      "answer": "هن ڪهاي جو موضوع آهي پراڻا ڏينهن ۽ يادون.",
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "id": "L16_A2",
+      "lesson": 16,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "پير حسام الدين راشدي ڪير آهي؟",
+      "answer": "پير حسام الدين راشدي سنڌي ادب جو هڪ مشهور ليکڪ ۽ محقق آهي.",
+      "pdfPage": 112,
+      "bookPage": 112
+    },
+    {
+      "id": "L16_A3",
+      "lesson": 16,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "پراڻا ڏينهن ياد ڪرڻ ڇو ضروري آهي؟",
+      "answer": "پراا ڏينهن ياد ڪرڻ ضروري آهي ته اسان کي پنهنجي تاريخ ۽ ثقافت جي خبر پوي.",
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "id": "L16_B1",
+      "lesson": 16,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: ڏينهن، ياد، ماضي",
+      "answer": "ڏينهن = days؛ ياد = memory؛ ماضي = past",
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "id": "L16_C1",
+      "lesson": 16,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'هُو وٿي هُو ڏينهن' ڪهاڻي جو مصنف __________ آهي.",
+      "answer": "پير حسام الدين راشدي",
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "id": "L16_D1",
+      "lesson": 16,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'ماضي' جو مطلب بيان ڪريو.",
+      "answer": "ماضي جو مطلب آهي گذريل وقت يا پراڻا ڏينهن.",
+      "pdfPage": 116,
+      "bookPage": 116
+    },
+    {
+      "id": "L17_A1",
+      "lesson": 17,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'هڪ عجب ايڊوينچر' سفر نامي جو موضوع ڇا آهي؟",
+      "answer": "هن سفر نامي جو موضوع آهي هڪ عجيب ۽ حيران ڪندڙ سفر جو تجربو.",
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "id": "L17_A2",
+      "lesson": 17,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "الطاف شيخ ڪير آهي؟",
+      "answer": "الطاف شيخ سنڌي ادب جو هڪ مشهور ليکڪ آهي.",
+      "pdfPage": 117,
+      "bookPage": 117
+    },
+    {
+      "id": "L17_A3",
+      "lesson": 17,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "سفر نامو ڇا آهي؟",
+      "answer": "سفر نامو هڪ اهڙي ادبي صنف آهي جنهن ۾ ڪنهن سفر جو تفصيلي بيان هوندو آهي.",
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "id": "L17_B1",
+      "lesson": 17,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيين لفظن جا هم معنيٰ لکو: سفر، ايڊوينچر، عجيب",
+      "answer": "سفر = journey / travel؛ ايڊوينچر = adventure؛ عجيب = strange / amazing",
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "id": "L17_C1",
+      "lesson": 17,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'هڪ عجب ايڊوينچر' سفر نامي جو مصنف __________ آهي.",
+      "answer": "الطاف شيخ",
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "id": "L17_D1",
+      "lesson": 17,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'سفر نامو' جو مطلب بيان ڪريو.",
+      "answer": "سفر نامو جو مطلب آهي سفر جو لکيل بيان يا Diary.",
+      "pdfPage": 124,
+      "bookPage": 124
+    },
+    {
+      "id": "L18_A1",
+      "lesson": 18,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'عثمان حجر جو ڏند ڪائين' مضمون جو موضوع ڇا آهي؟",
+      "answer": "هن مضمون جو موضوع آهي طنز ۽ مزاح ذريعي سماجي مسئلن تي روشني وجهڻ.",
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "id": "L18_A2",
+      "lesson": 18,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "علي احمد بروهي ڪير آهي؟",
+      "answer": "علي احمد بروهي سنڌي ادب جو هڪ مشهور طنز نگار آهي.",
+      "pdfPage": 125,
+      "bookPage": 125
+    },
+    {
+      "id": "L18_A3",
+      "lesson": 18,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "طنز ۽ مزاح ۾ ڇا فرق آهي؟",
+      "answer": "طنز ۾ ڪنهن شيءِ تي تنقيد هوندي آهي جڏهن ته مزاح ۾ صرف هڻڻ ۽ تفريح هوندي آهي.",
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "id": "L18_B1",
+      "lesson": 18,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: طنز، مزاح، ڏند ڪٿا",
+      "answer": "طنز = satire؛ مزاح = humor؛ ڏند ڪٿا = anecdote / tale",
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "id": "L18_C1",
+      "lesson": 18,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'عثمان حجر جو ڏند ڪٿائين' مضمون جو مصنف __________ آهي.",
+      "answer": "علي احمد بروهي",
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "id": "L18_D1",
+      "lesson": 18,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'طنز' جو مطلب بيان ڪريو.",
+      "answer": "طنز جو مطلب آهي ڪنهن شيءِ يا شخص تي غير مباشر تنقيد ڪرڻ.",
+      "pdfPage": 132,
+      "bookPage": 132
+    },
+    {
+      "id": "L19_A1",
+      "lesson": 19,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'مان شعر چو ڪندو آهيان؟' مضمون جو موضوع ڇا آهي؟",
+      "answer": "هن مضمون ۾ شيخ اياز پنهنجي شاعري جي فن ۽ مقصد بابت بحث ڪيو آهي.",
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "id": "L19_A2",
+      "lesson": 19,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "شيخ اياز ڪير آهي؟",
+      "answer": "شيخ اياز سنڌي ادب جو سڀ کان وڏو شاعر  مفڪر آهي.",
+      "pdfPage": 133,
+      "bookPage": 133
+    },
+    {
+      "id": "L19_A3",
+      "lesson": 19,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "شاعري ڪرڻ جو مقصد ا آهي؟",
+      "answer": "شاعري ڪرڻ جو مقصد آهي جذبات ۽ خيالن کي خوبصورت انداز ۾ بيان ڪرڻ.",
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "id": "L19_B1",
+      "lesson": 19,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هيٺين لفظن جا هم معنيٰ لکو: شعر، شاعري، مفڪر",
+      "answer": "شعر = verse / poem؛ شاعري = poetry؛ مفڪر = thinker / philosopher",
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "id": "L19_C1",
+      "lesson": 19,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "شيخ اياز سنڌي ادب جو سڀ کان وڏو __________ آهي.",
+      "answer": "شاعر",
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "id": "L19_D1",
+      "lesson": 19,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "لفظ 'مفڪر' جو مطلب بيان ڪريو.",
+      "answer": "مفڪر جو مطلب آهي اهو ماڻهو جيڪو گهري سوچ ۽ فڪر رکي.",
+      "pdfPage": 136,
+      "bookPage": 136
+    },
+    {
+      "id": "L20_A1",
+      "lesson": 20,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'قاضي قادن' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'قاضي قادن' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L20_A2",
+      "lesson": 20,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L20_A3",
+      "lesson": 20,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'قاضي قادن' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L20_B1",
+      "lesson": 20,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L20_C1",
+      "lesson": 20,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'قاضي قادن' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L20_D1",
+      "lesson": 20,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 139,
+      "bookPage": 139
+    },
+    {
+      "id": "L21_A1",
+      "lesson": 21,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'شاهه عبدالڪريم بلڙي وارو' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'شاهه عبدالڪريم بلڙي وارو' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L21_A2",
+      "lesson": 21,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L21_A3",
+      "lesson": 21,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'شاهه عبدالڪريم بلڙي وارو' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L21_B1",
+      "lesson": 21,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L21_C1",
+      "lesson": 21,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'شاهه عبدالڪريم بلڙي وارو' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L21_D1",
+      "lesson": 21,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 143,
+      "bookPage": 143
+    },
+    {
+      "id": "L22_A1",
+      "lesson": 22,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'ميون شاهه عناٽ رضوي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'ميون شاهه عناٽ رضوي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L22_A2",
+      "lesson": 22,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L22_A3",
+      "lesson": 22,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'ميون شاهه عناٽ رضوي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L22_B1",
+      "lesson": 22,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L22_C1",
+      "lesson": 22,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'ميون شاهه عناٽ رضوي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L22_D1",
+      "lesson": 22,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 146,
+      "bookPage": 146
+    },
+    {
+      "id": "L23_A1",
+      "lesson": 23,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'شاهه عبداللطيف ڀٽائي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'شاهه عبداللطيف ڀٽائي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L23_A2",
+      "lesson": 23,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L23_A3",
+      "lesson": 23,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'شاهه عبداللطيف ڀٽائي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L23_B1",
+      "lesson": 23,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L23_C1",
+      "lesson": 23,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'شاهه عبداللطيف ڀٽائي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L23_D1",
+      "lesson": 23,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 152,
+      "bookPage": 152
+    },
+    {
+      "id": "L24_A1",
+      "lesson": 24,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'خواجه محمد زمان لنواريءَ وارو' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'خواجه محمد زمان لنواريءَ وارو' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L24_A2",
+      "lesson": 24,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L24_A3",
+      "lesson": 24,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'خواجه محمد زمان لنواريءَ وارو' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L24_B1",
+      "lesson": 24,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L24_C1",
+      "lesson": 24,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'خواجه محمد زمان لنواريءَ وارو' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L24_D1",
+      "lesson": 24,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 156,
+      "bookPage": 156
+    },
+    {
+      "id": "L25_A1",
+      "lesson": 25,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'سچل سرمست' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'سچل سرمست' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L25_A2",
+      "lesson": 25,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L25_A3",
+      "lesson": 25,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'سچل سرمست' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L25_B1",
+      "lesson": 25,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L25_C1",
+      "lesson": 25,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'سچل سرمست' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L25_D1",
+      "lesson": 25,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 160,
+      "bookPage": 160
+    },
+    {
+      "id": "L26_A1",
+      "lesson": 26,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'سامي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'سامي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L26_A2",
+      "lesson": 26,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L26_A3",
+      "lesson": 26,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'سامي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L26_B1",
+      "lesson": 26,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L26_C1",
+      "lesson": 26,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'سامي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L26_D1",
+      "lesson": 26,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 163,
+      "bookPage": 163
+    },
+    {
+      "id": "L27_A1",
+      "lesson": 27,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'خليفو نبي بخش' قاسم' لغاري' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'خليفو نبي بخش' قاسم' لغاري' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L27_A2",
+      "lesson": 27,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L27_A3",
+      "lesson": 27,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'خليفو نبي بخش' قاسم' لغاري' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L27_B1",
+      "lesson": 27,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L27_C1",
+      "lesson": 27,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'خليفو نبي بخش' قاسم' لغاري' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L27_D1",
+      "lesson": 27,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 167,
+      "bookPage": 167
+    },
+    {
+      "id": "L28_A1",
+      "lesson": 28,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'حمل فقير' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'حمل فقير' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L28_A2",
+      "lesson": 28,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L28_A3",
+      "lesson": 28,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'حمل فقير' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L28_B1",
+      "lesson": 28,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L28_C1",
+      "lesson": 28,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'حمل فقير' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L28_D1",
+      "lesson": 28,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 171,
+      "bookPage": 171
+    },
+    {
+      "id": "L29_A1",
+      "lesson": 29,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'فقير قادر بخش 'بيدل'' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'فقير قادر بخش 'بيدل'' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L29_A2",
+      "lesson": 29,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L29_A3",
+      "lesson": 29,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'فقير قادر بخش 'بيدل'' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L29_B1",
+      "lesson": 29,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L29_C1",
+      "lesson": 29,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'فقير قادر بخش 'بيدل'' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L29_D1",
+      "lesson": 29,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 175,
+      "bookPage": 175
+    },
+    {
+      "id": "L30_A1",
+      "lesson": 30,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'مصري شاهه' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'مصري شاهه' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L30_A2",
+      "lesson": 30,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L30_A3",
+      "lesson": 30,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'مصري شاهه' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L30_B1",
+      "lesson": 30,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L30_C1",
+      "lesson": 30,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'مصري شاهه' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L30_D1",
+      "lesson": 30,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 179,
+      "bookPage": 179
+    },
+    {
+      "id": "L31_A1",
+      "lesson": 31,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'جلال ڪي (لوڪ شاعري)' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'جلال ڪي (لوڪ شاعري)' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L31_A2",
+      "lesson": 31,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L31_A3",
+      "lesson": 31,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'جلال ڪي (لوڪ شاعري)' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L31_B1",
+      "lesson": 31,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L31_C1",
+      "lesson": 31,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'جلال ڪي (لوڪ شاعري)' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L31_D1",
+      "lesson": 31,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 184,
+      "bookPage": 184
+    },
+    {
+      "id": "L32_A1",
+      "lesson": 32,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'سيد ثابت علي شاهه (مرثيو)' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'سيد ثابت علي شاهه (مرثيو)' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L32_A2",
+      "lesson": 32,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L32_A3",
+      "lesson": 32,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'سيد ثابت علي شاهه (مرثيو)' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L32_B1",
+      "lesson": 32,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L32_C1",
+      "lesson": 32,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'سيد ثابت علي شاهه (مرثيو)' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L32_D1",
+      "lesson": 32,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 188,
+      "bookPage": 188
+    },
+    {
+      "id": "L33_A1",
+      "lesson": 33,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'خليفو ڪُل محمد 'ڪُل'' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'خليفو ڪُل محمد 'ڪُل'' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L33_A2",
+      "lesson": 33,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L33_A3",
+      "lesson": 33,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'خليفو ڪُل محمد 'ڪُل'' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L33_B1",
+      "lesson": 33,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L33_C1",
+      "lesson": 33,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'خليفو ڪُل محمد 'ڪُل'' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L33_D1",
+      "lesson": 33,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 191,
+      "bookPage": 191
+    },
+    {
+      "id": "L34_A1",
+      "lesson": 34,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'مير عبدالحسين خان 'سانگي'' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'مير عبدالحسين خان 'سانگي'' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L34_A2",
+      "lesson": 34,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L34_A3",
+      "lesson": 34,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'مير عبدالحسين خان 'سانگي'' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L34_B1",
+      "lesson": 34,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L34_C1",
+      "lesson": 34,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'مير عبدالحسين خان 'سانگي'' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L34_D1",
+      "lesson": 34,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 194,
+      "bookPage": 194
+    },
+    {
+      "id": "L35_A1",
+      "lesson": 35,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'حافظ محمد 'احسن' چنا' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'حافظ محمد 'احسن' چنا' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L35_A2",
+      "lesson": 35,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L35_A3",
+      "lesson": 35,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'حافظ محمد 'احسن' چنا' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L35_B1",
+      "lesson": 35,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L35_C1",
+      "lesson": 35,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'حافظ محمد 'احسن' چنا' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L35_D1",
+      "lesson": 35,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 197,
+      "bookPage": 197
+    },
+    {
+      "id": "L36_A1",
+      "lesson": 36,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'مولوي حاجي احمد ملاح' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'مولوي حاجي احمد ملاح' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L36_A2",
+      "lesson": 36,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L36_A3",
+      "lesson": 36,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'مولوي حاجي احمد ملاح' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L36_B1",
+      "lesson": 36,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L36_C1",
+      "lesson": 36,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'مولوي حاجي احمد ملاح' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L36_D1",
+      "lesson": 36,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 200,
+      "bookPage": 200
+    },
+    {
+      "id": "L37_A1",
+      "lesson": 37,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'مخدوم محمد زمان 'طالب المولي'' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'مخدوم محمد زمان 'طالب المولي'' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L37_A2",
+      "lesson": 37,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L37_A3",
+      "lesson": 37,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'مخدوم محمد زمان 'طالب المولي'' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L37_B1",
+      "lesson": 37,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L37_C1",
+      "lesson": 37,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'مخدوم محمد زمان 'طالب المولي'' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L37_D1",
+      "lesson": 37,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 204,
+      "bookPage": 204
+    },
+    {
+      "id": "L38_A1",
+      "lesson": 38,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'ڪشنچند 'بيوس'' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'ڪشنچند 'بيوس'' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L38_A2",
+      "lesson": 38,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L38_A3",
+      "lesson": 38,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'ڪشنچند 'بيوس'' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L38_B1",
+      "lesson": 38,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L38_C1",
+      "lesson": 38,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'ڪشنچند 'بيوس'' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L38_D1",
+      "lesson": 38,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 207,
+      "bookPage": 207
+    },
+    {
+      "id": "L39_A1",
+      "lesson": 39,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'شيخ اياز' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'شيخ اياز' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L39_A2",
+      "lesson": 39,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L39_A3",
+      "lesson": 39,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'شيخ اياز' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L39_B1",
+      "lesson": 39,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L39_C1",
+      "lesson": 39,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'شيخ اياز' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L39_D1",
+      "lesson": 39,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 211,
+      "bookPage": 211
+    },
+    {
+      "id": "L40_A1",
+      "lesson": 40,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'تنوير عباسي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'تنوير عباسي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L40_A2",
+      "lesson": 40,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L40_A3",
+      "lesson": 40,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'تنوير عباسي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L40_B1",
+      "lesson": 40,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L40_C1",
+      "lesson": 40,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'تنوير عباسي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L40_D1",
+      "lesson": 40,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 214,
+      "bookPage": 214
+    },
+    {
+      "id": "L41_A1",
+      "lesson": 41,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'نياز همايوني' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'نياز همايوني' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L41_A2",
+      "lesson": 41,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L41_A3",
+      "lesson": 41,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'نياز همايوني' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L41_B1",
+      "lesson": 41,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L41_C1",
+      "lesson": 41,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'نياز همايوني' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L41_D1",
+      "lesson": 41,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 217,
+      "bookPage": 217
+    },
+    {
+      "id": "L42_A1",
+      "lesson": 42,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'امداد حسيني' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'امداد حسيني' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L42_A2",
+      "lesson": 42,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L42_A3",
+      "lesson": 42,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'امداد حسيني' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L42_B1",
+      "lesson": 42,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L42_C1",
+      "lesson": 42,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'امداد حسيني' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L42_D1",
+      "lesson": 42,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 220,
+      "bookPage": 220
+    },
+    {
+      "id": "L43_A1",
+      "lesson": 43,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'استاد بخاري' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'استاد بخاري' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L43_A2",
+      "lesson": 43,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L43_A3",
+      "lesson": 43,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'استاد بخاري' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L43_B1",
+      "lesson": 43,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L43_C1",
+      "lesson": 43,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'استاد بخاري' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L43_D1",
+      "lesson": 43,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 223,
+      "bookPage": 223
+    },
+    {
+      "id": "L44_A1",
+      "lesson": 44,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'شمشير الحيدري' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'شمشير الحيدري' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L44_A2",
+      "lesson": 44,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L44_A3",
+      "lesson": 44,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'شمشير الحيدري' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L44_B1",
+      "lesson": 44,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L44_C1",
+      "lesson": 44,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'شمشير الحيدري' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L44_D1",
+      "lesson": 44,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 226,
+      "bookPage": 226
+    },
+    {
+      "id": "L45_A1",
+      "lesson": 45,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'ابراهيم منشي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'ابراهيم منشي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L45_A2",
+      "lesson": 45,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L45_A3",
+      "lesson": 45,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'ابراهيم منشي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L45_B1",
+      "lesson": 45,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L45_C1",
+      "lesson": 45,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'ابراهيم منشي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L45_D1",
+      "lesson": 45,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 229,
+      "bookPage": 229
+    },
+    {
+      "id": "L46_A1",
+      "lesson": 46,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "''سرويچ' سچواني' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "''سرويچ' سچواني' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L46_A2",
+      "lesson": 46,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L46_A3",
+      "lesson": 46,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "''سرويچ' سچواني' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L46_B1",
+      "lesson": 46,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L46_C1",
+      "lesson": 46,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "''سرويچ' سچواني' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L46_D1",
+      "lesson": 46,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 233,
+      "bookPage": 233
+    },
+    {
+      "id": "L47_A1",
+      "lesson": 47,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'اڪٽر سحر امداد' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'اڪٽر سحر امداد' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L47_A2",
+      "lesson": 47,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L47_A3",
+      "lesson": 47,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'اڪٽر سحر امداد' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L47_B1",
+      "lesson": 47,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L47_C1",
+      "lesson": 47,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'اڪٽر سحر امداد' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L47_D1",
+      "lesson": 47,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 236,
+      "bookPage": 236
+    },
+    {
+      "id": "L48_A1",
+      "lesson": 48,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'ج - ع منگهائي' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'ج - ع منگهائي' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L48_A2",
+      "lesson": 48,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L48_A3",
+      "lesson": 48,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'ج - ع منگهائي' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L48_B1",
+      "lesson": 48,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L48_C1",
+      "lesson": 48,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'ج - ع منگهائي' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L48_D1",
+      "lesson": 48,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 239,
+      "bookPage": 239
+    },
+    {
+      "id": "L49_A1",
+      "lesson": 49,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 1,
+      "question": "'نوان لفظ' نظم جو مرڪزي خيال ڇا آهي؟",
+      "answer": "'نوان لفظ' نظم ۾ شاعر نے انساني زندگي، محبت، ۽ خدا سان لاڳاپي جا پيغام ڏنا آهن.",
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "id": "L49_A2",
+      "lesson": 49,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 2,
+      "question": "هن نظم ۾ شاعر ڪهڙي ٻولي استعمال ڪئي آهي؟",
+      "answer": "هن نظم  شاعر سادي ۽ عام فهم سنڌي ٻولي استعمال ڪئي آهي.",
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "id": "L49_A3",
+      "lesson": 49,
+      "section": "A",
+      "sectionCode": "A",
+      "type": "solved",
+      "number": 3,
+      "question": "'نوان لفظ' نظم ۾ ڪهڙا ادبي صنعت استعمال يا آهن؟",
+      "answer": "هن نظم ۾ تشبيهه، استعارو، ۽ مراعات نظير جا ادبي صنعت استعمال ٿيا آهن.",
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "id": "L49_B1",
+      "lesson": 49,
+      "section": "B",
+      "sectionCode": "B",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم مان ڪي اهم لفظ چونڊيو  انهن جا هم معنيٰ لکو.",
+      "answer": "هن نظم ۾ اهم لفظ آهن: شاعري، محبت، زندگي. هم معنيٰ: شاعري = شعر گوئي؛ محبت = پيار؛ زندگي = حياتي.",
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "id": "L49_C1",
+      "lesson": 49,
+      "section": "C",
+      "sectionCode": "C",
+      "type": "solved",
+      "number": 1,
+      "question": "'نوان لفظ' نظم __________ صنف ۾ آهي. (نظم / نثر)",
+      "answer": "نظم",
+      "pdfPage": 247,
+      "bookPage": 247
+    },
+    {
+      "id": "L49_D1",
+      "lesson": 49,
+      "section": "D",
+      "sectionCode": "D",
+      "type": "solved",
+      "number": 1,
+      "question": "هن نظم جو هڪ بيت حفظ ڪريو ۽ ان جو مطلب بيان ڪريو.",
+      "answer": "هن نظم جو هڪ بيت: 'سنڌي شاعري  شاهه جو مقام بلند آهي'. مطلب: شاهه عبداللطيف ٽائي سنڌي شاعري ۾ سڀ کان مٿاهون مقام رکي ٿو.",
+      "pdfPage": 247,
+      "bookPage": 247
+    }
+  ]
+}

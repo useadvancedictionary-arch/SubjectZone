@@ -1,0 +1,312 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Kirchhoff's laws are useful in determining:",
+    "options": ["a) current flowing in a circuit", "b) emf and voltage drops in a circuit", "c) power in a circuit", "d) only emf in a circuit"],
+    "correct": "a",
+    "answer": "(a) current flowing in a circuit",
+    "explanation": "Kirchhoff's junction rule and loop rule give a set of simultaneous equations from which the unknown currents in a network are determined, and the voltage drops then follow from V = IR. Power follows once the currents are known (P = I²R), but the laws are not a power principle, and they determine far more than emf alone. Hence the standard answer is (a).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The resistance of a superconductor is:",
+    "options": ["a) finite", "b) infinite", "c) changes with every conductor", "d) zero"],
+    "correct": "d",
+    "answer": "(d) zero",
+    "explanation": "Below its critical temperature a superconductor suffers an abrupt transition to a state of exactly zero electrical resistance, so a current once started persists without any applied voltage. Zero resistance is not infinite resistance, and the property does not change from one conductor to another. Hence (d).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Reciprocal of resistance is called:",
+    "options": ["a) conductance", "b) resistivity", "c) resonance", "d) capacitance"],
+    "correct": "a",
+    "answer": "(a) conductance",
+    "explanation": "Conductance is defined as G = 1/R and is measured in siemens (S), so a large conductance means a small resistance. Resistivity is a material property given by ρ = RA/L, resonance is a condition of a tuned circuit, and capacitance is charge per unit potential difference. Hence (a).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The graphical representation of Ohms law is:",
+    "options": ["a) parabola", "b) hyperbola", "c) ellipse", "d) straight line"],
+    "correct": "d",
+    "answer": "(d) straight line",
+    "explanation": "Ohm's law states V = IR, so at constant temperature V is directly proportional to I; a graph of V against I is a straight line through the origin whose slope equals R (and a graph of I against V has slope 1/R). A parabola, hyperbola or ellipse would imply a non-linear relation between V and I. Hence (d).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "A potential difference is applied across the ends of a wire. If the potential difference is doubled, then the drift velocity of free electrons will:",
+    "options": ["a) be quadrupled", "b) be doubled", "c) be halved", "d) remain unchanged"],
+    "correct": "b",
+    "answer": "(b) be doubled",
+    "explanation": "The drift velocity is v_d = eEτ/m, and the field inside a wire of length L is E = V/L, so v_d ∝ V. Doubling the potential difference doubles the field and therefore doubles the drift velocity, since τ and the number of free electrons per unit volume are unchanged. Quadrupling would need four times the voltage. Hence (b).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Internal resistance is the resistance offered by:",
+    "options": ["a) Capacitor", "b) resistor", "c) Conductor", "d) source of emf"],
+    "correct": "d",
+    "answer": "(d) source of emf",
+    "explanation": "Internal resistance is the resistance of the source of emf itself — the electrolyte and electrodes of a cell, or the windings of a generator — to the current it supplies. It causes the terminal voltage to fall below the emf according to V = ε − Ir. A capacitor, a resistor or a connecting conductor is an external component. Hence (d).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Power dissipation in a resistor can be calculated using which formula:",
+    "options": ["a) P = V² / R", "b) P = I² × R", "c) P = V × I", "d) P = R / (V × I)"],
+    "correct": "b",
+    "answer": "(b) P = I² × R",
+    "explanation": "For a resistor P = I²R = V²/R = VI, so options (a), (b) and (c) are all correct expressions and the question is imperfectly set with three valid answers. Option (b) is the form that follows directly from Joule's law of heating for a resistor. Option (d), P = R/(V × I), has the wrong dimensions and can never be valid. Since a single key must be given, (b) is marked.",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "What is a potentiometer primarily used for?",
+    "options": ["a) Measuring electric current", "b) Measuring electric charge", "c) Measuring potential difference (voltage)", "d) Measuring electric resistance"],
+    "correct": "c",
+    "answer": "(c) Measuring potential difference (voltage)",
+    "explanation": "A potentiometer compares an unknown potential difference (or the emf of a cell) with the potential drop across a known length of a uniform wire, using the null method so that no current is drawn from the source under test. It is not an ammeter, a charge meter or a resistance meter, although it can be used indirectly to compare emfs and to find an internal resistance. Hence (c).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "A heat-sensitive device whose resistivity changes with the change in temperature is called:",
+    "options": ["a) conductor", "b) resistor", "c) thermistor", "d) thermometer"],
+    "correct": "c",
+    "answer": "(c) thermistor",
+    "explanation": "A thermistor is a semiconductor device (usually a metal-oxide) whose resistance changes markedly with temperature, falling in the NTC type and rising in the PTC type; it is used as a temperature sensor. An ordinary conductor or resistor shows only a slight temperature dependence, and a thermometer is the measuring instrument, not the sensing element. Hence (c).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "A wire of uniform area of cross-section A length L and resistance R is cut into two parts. The resistivity of each part:",
+    "options": ["a) Becomes zero", "b) is halved", "c) Is doubled", "d) remains same"],
+    "correct": "d",
+    "answer": "(d) remains same",
+    "explanation": "Resistivity ρ = RA/L is a property of the material and depends on its nature and temperature, not on the size or shape of the specimen. Cutting the wire changes L and A of each piece (and hence its resistance), but the material is unchanged, so ρ stays the same. Hence (d).",
+    "pdfPage": 226,
+    "bookPage": 222
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Why is the terminal voltage of a cell less than its emf?",
+    "answer": "The emf ε of a cell is the energy converted per unit charge by the source, i.e. the potential difference across its terminals when no current is drawn. Every real cell also has an internal resistance r. When the cell supplies a current I to an external circuit, that same current passes through r and produces a potential drop Ir inside the cell, which appears as heat. The terminal voltage is therefore V = ε − Ir, which is less than ε whenever I is not zero, and the deficit ε − V = Ir is called the lost volts. Only on open circuit (I = 0) does the terminal voltage equal the emf. Example: a 12 V battery of internal resistance 0.5 Ω delivering 4 A gives V = 12 − (4)(0.5) = 10 V.",
+    "explanation": "Key relation V = ε − Ir; the internal drop exists only while current flows, so an open-circuit voltmeter reads the emf.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Why is a potentiometer preferred over a voltmeter for determining the emf of a cell?",
+    "answer": "A potentiometer uses the null method: at the balance point no current is drawn from the cell under test, so there is no potential drop Ir across its internal resistance and the balancing length gives the true emf, ε = kl (k is the potential gradient). A voltmeter, by contrast, must draw some current to deflect; because its resistance is finite it measures the terminal voltage V = ε − Ir, which is always less than the emf. The potentiometer also behaves as an ideal voltmeter of infinite resistance at balance, is very sensitive (it can detect a few microvolts), and compares the unknown emf directly with the potential drop along a uniform wire, so it needs no calibration against another meter. A voltmeter is only portable and quicker to read.",
+    "explanation": "Key idea: null method draws no current, so the reading is the emf and not the terminal voltage; a voltmeter always draws current.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Nichrome and copper wires of same length and same radius are connected in series. Current I is passed through them. Which wire gets heated up more? Justify your answer.",
+    "answer": "The nichrome wire gets heated up much more. In series the same current I flows through both wires, so the rate of heat production is P = I²R, and R = ρL/A. Since L and the radius (hence A) are the same, R ∝ ρ, so the wire of greater resistivity has the greater resistance and dissipates more power. The resistivity of nichrome (about 1.0–1.5 × 10⁻⁶ Ω m) is roughly 60–100 times that of copper (1.7 × 10⁻⁸ Ω m), so for the same current the nichrome wire produces far more heat. Nichrome also resists oxidation and keeps its strength when red hot, which is why it is used in heating elements, whereas copper is used for connecting wires where heating is undesirable.",
+    "explanation": "Key point: in series the current is common, so P = I²R makes the higher-resistivity material the hotter one; a common error is to compare voltages instead.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Explain why the terminal potential of a battery decreases when the current drawn from it in increased?",
+    "answer": "Every cell has an internal resistance r in series with its emf ε, so when a current I is drawn the terminal potential difference is V = ε − Ir. As the current drawn increases, the product Ir increases and the terminal voltage therefore falls; the lost volts Ir appear as heat inside the cell, at the rate I²r. The fall may be slightly greater than a straight line suggests, because the internal resistance rises as the cell warms up and the emf itself falls slowly as the active material is used up. The graph of V against I is consequently a straight line of slope −r with intercept ε. Example: a cell of emf 2.0 V and internal resistance 0.5 Ω gives 2.0 V on open circuit but only 1.5 V when it supplies 1 A.",
+    "explanation": "Key relation V = ε − Ir; the internal drop grows with current, so terminal voltage falls while the emf stays (nearly) constant.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "What are thermistors? Write their importance.",
+    "answer": "A thermistor is a temperature-sensitive resistor made from a semiconducting metal oxide (such as a sintered mixture of manganese, nickel and cobalt oxides) whose resistance changes greatly with temperature. In the common negative temperature coefficient (NTC) type the resistance falls as the temperature rises, often almost exponentially; in the positive temperature coefficient (PTC) type it rises. Because the change is large (several per cent per kelvin) and the response is fast, thermistors are important as temperature sensors and are used in thermometers, fire alarms, oven and refrigerator thermostats, air-conditioning control, liquid-level detection, protection of motors against overheating, and as inrush-current limiters in power supplies. They are small, cheap, rugged and need only simple circuits.",
+    "explanation": "Key idea: a semiconductor whose resistance is strongly temperature dependent (NTC resistance falls with heating); do not confuse it with an ordinary resistor, whose variation is small.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "State Kirchhoff's Laws.",
+    "answer": "Kirchhoff's laws are two rules that follow from the conservation of charge and of energy and are used to solve electrical networks.\n(1) Kirchhoff's current law (junction rule): the sum of the currents entering a junction equals the sum of the currents leaving it, ΣI_in = ΣI_out, because charge cannot accumulate at a point; equivalently, the algebraic sum of the currents at a junction is zero.\n(2) Kirchhoff's voltage law (loop rule): the algebraic sum of the potential differences around any closed loop is zero, or the sum of the emfs in a loop equals the sum of the potential drops, Σε = ΣIR. This follows from conservation of energy, since a charge taken round a closed loop returns to the same potential.\nThese laws are used to find unknown currents and potential differences in circuits that cannot be reduced by simple series and parallel combinations.",
+    "explanation": "Key point: the junction rule expresses conservation of charge and the loop rule conservation of energy; signs of emf and IR terms must be taken consistently round the loop.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "If Copper and Aluminum wires of the same length have same resistance, which has the larger diameter? And why?",
+    "answer": "The aluminium wire has the larger diameter. The resistance of a wire is R = ρL/A, so for the same length L and the same resistance R the required area is A = ρL/R, i.e. A ∝ ρ. The resistivity of aluminium (about 2.8 × 10⁻⁸ Ω m) is greater than that of copper (about 1.7 × 10⁻⁸ Ω m), so an aluminium wire must have a larger cross-sectional area, and since A = πd²/4, a larger diameter, to offer the same resistance. Quantitatively d_Al/d_Cu = √(2.8/1.7) ≈ 1.28, so the aluminium wire must be about 28% thicker than the copper wire. This is why aluminium power lines are made thicker (often with a steel core) than the equivalent copper conductors.",
+    "explanation": "Key relation R = ρL/A with R and L fixed gives A ∝ ρ; higher resistivity means a thicker wire for the same resistance.",
+    "pdfPage": 226,
+    "bookPage": 222,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "What is the difference between potential difference and emf?",
+    "answer": "Potential difference between two points is the work done per unit charge in moving a charge between them through a component, V = W/Q; it represents electrical energy converted into other forms per coulomb. Emf of a source is the work done per unit charge by the source in driving charge round the complete circuit, ε = W/Q; it is the energy supplied per coulomb. Emf is a property of the source itself, whereas potential difference is measured across a component and depends on the current flowing. On open circuit the terminal potential difference equals the emf, but when current flows V = ε − Ir, so the potential difference is always less than the emf. Both are measured in volts (J C⁻¹), but the emf is the cause and the potential difference the effect.",
+    "explanation": "Key distinction: emf is energy given to each coulomb by the source, potential difference is energy taken from each coulomb by a component; both have the unit volt.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "State the principle of working of a meter bridge. Explain how it is used to find an unknown resistance.",
+    "answer": "Principle: A metre bridge works on the principle of the Wheatstone bridge, which is balanced (zero current through the galvanometer) when the ratio of the resistances of two adjacent arms equals the ratio of the other two: P/Q = R/S. In the bridge a uniform resistance wire one metre long is stretched along a scale; the unknown resistance R is placed in the left gap and a standard resistance S in the right gap, with a cell and a galvanometer connected between the midpoints.\nWorking: A jockey is pressed on the wire and moved until the galvanometer shows no deflection. If the balancing length measured from the left end is l (in cm), the resistance of the left part of the wire is proportional to l and that of the right part to (100 − l). Since the two parts of the wire form the other two arms, balance gives R/S = l/(100 − l), so R = S l/(100 − l). As S and l are known, R is calculated.\nProcedure and precautions: Make tight connections; press the jockey gently and locate the null point accurately; measure l from the end to which the unknown resistance is connected; interchange the resistances in the gaps and repeat so that the two results can be averaged and end errors eliminated; choose S of the same order as R so that the balance point lies near the middle of the wire.\nExample: with S = 15 Ω in the right gap and balance at l = 62.5 cm, R = 15 × 62.5/37.5 = 25 Ω.",
+    "explanation": "Key relation R/S = l/(100 − l); the balance point should lie near the middle of the wire for greatest accuracy, and interchanging the gaps removes end corrections.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Define thermoelectricity. Explain the working of a Fire Alarm system using thermistor.",
+    "answer": "Thermoelectricity: When two wires of different metals are joined to form a closed circuit with the two junctions kept at different temperatures, a small emf is set up and a current flows round the circuit. This production of emf (and hence current) by a temperature difference between the junctions of two dissimilar metals is called thermoelectricity, and the emf is called the thermoelectric emf (Seebeck effect). The emf depends on the pair of metals and on the temperature difference between the junctions.\nFire alarm using a thermistor: A thermistor is a semiconductor device whose resistance changes strongly with temperature; in the NTC type the resistance falls as the temperature rises. In a fire alarm the thermistor is connected in series with a relay coil (and a buzzer or bell) across a supply, usually as one arm of a potential divider. At normal room temperature the thermistor is cool and its resistance is high, so only a small current flows and the relay is not energised. When a fire raises the temperature, the resistance of the thermistor falls sharply, the current in the circuit increases, the relay operates and closes the contacts of the alarm bell or buzzer, giving the warning. A variable resistor is included to set the temperature at which the alarm operates.\nAdvantages: the thermistor is very sensitive (a few per cent change of resistance per kelvin), responds quickly, has no moving parts and is cheap and reliable. Example: a thermistor whose resistance falls from 10 kΩ at 25 °C to 1 kΩ at 80 °C can easily switch a relay set to operate at a few milliamperes.",
+    "explanation": "Key idea: an NTC thermistor loses resistance on heating, so the current through the relay rises and the alarm operates; the variable resistor sets the threshold.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Define resistivity. Explain dependence of resistivity on temperature.",
+    "answer": "Resistivity: The resistivity ρ of a material is the resistance of a conductor of that material having unit length and unit area of cross-section. From R = ρL/A, ρ = RA/L. Its SI unit is the ohm metre (Ω m). Resistivity depends on the nature of the material and on its temperature, but not on the dimensions of the specimen.\nMetals: Current is carried by free electrons, and resistance arises from their collisions with the vibrating lattice ions. As the temperature rises the ions vibrate more vigorously, the relaxation time τ between collisions decreases, and since ρ = m/(ne²τ) the resistivity increases. Over a moderate range the increase is nearly linear: ρ = ρ₀(1 + αΔT), where α is the temperature coefficient of resistivity (about 4 × 10⁻³ K⁻¹ for copper). In a superconductor ρ falls abruptly to zero below the critical temperature.\nSemiconductors: Here the number density n of charge carriers increases very rapidly with temperature (more carriers are freed across the energy gap), and this effect outweighs the decrease in τ, so the resistivity decreases as the temperature rises; α is negative. This is the basis of the thermistor.\nAlloys: In alloys such as manganin and constantan the resistivity is high and almost independent of temperature, so they are used for standard resistors and shunts.\nExample: a 10 K rise in temperature increases the resistivity of copper by about 4%, whereas a thermistor may change by several per cent for each kelvin.",
+    "explanation": "Key relation ρ = m/(ne²τ): in metals n is fixed and τ falls with temperature (ρ rises), while in semiconductors n rises faster than τ falls (ρ decreases).",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "What is a rheostat? How can we use a rheostat as a potential divider?",
+    "answer": "A rheostat is a variable resistor consisting of a long coil of resistance wire (nichrome or constantan) wound on an insulating cylinder, with a sliding contact or wiper that can be moved along the coil. Moving the slider changes the length of wire included in the circuit and hence the resistance, so a rheostat is used to control the current in a circuit or to obtain a variable potential difference. It has three terminals: the two ends of the coil and the slider.\nAs a potential divider: the two ends of the rheostat are connected across a fixed supply V, so that a steady current I flows through the whole coil. The output is taken between one end of the coil and the slider. If the resistance between that end and the slider is R₁ and the remaining part is R₂, with R₁ + R₂ = R, the output potential difference is V_out = IR₁ = V R₁/(R₁ + R₂). As the slider is moved, R₁ varies continuously from 0 to R, so V_out varies smoothly from 0 to V. This arrangement is called a potential divider, and it is used to apply any desired fraction of the supply voltage to a load, as in volume controls, lamp dimmers and the setting of bias voltages.\nPractical note: for good control the rheostat resistance should be much smaller than the resistance of the load; otherwise the load current itself changes the division of voltage.",
+    "explanation": "Key relation V_out = V R₁/(R₁ + R₂); the rheostat is connected across the supply, not in series with the load, when used as a potential divider.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "State the underlying principle of a potentiometer. Describe briefly, giving the necessary circuit diagram, how a potentiometer is used to measure the internal resistance of a given cell?",
+    "answer": "Principle: When a steady current I flows through a uniform wire of resistance per unit length λ, the potential difference across a length l is V = Iλl, so V ∝ l. The potential difference between any two points of the wire is therefore proportional to the length between them, and the wire behaves as a continuously variable source of known potential difference. A cell connected in opposition to this potential difference gives no galvanometer deflection when the two are exactly equal (null method).\nCircuit: A driver cell E with a key K is connected across the potentiometer wire AB. The cell of unknown internal resistance r is connected with its positive terminal to A, and its negative terminal through a galvanometer G to the jockey; a resistance box R and a key K₂ are connected in parallel with this cell (so that R can be switched across it).\nProcedure: (1) With K₂ open, no current is drawn from the cell, so its terminal potential difference equals its emf ε. The jockey is moved until the galvanometer shows no deflection at a length l₁; then ε = k l₁. (2) K₂ is closed, so the cell now sends a current through R; its terminal potential difference becomes V = ε − Ir, and the new balance length l₂ gives V = k l₂. Dividing, ε/V = l₁/l₂.\nDerivation: With the key closed the current in the cell is I = ε/(R + r), so V = IR = εR/(R + r). Hence ε/V = (R + r)/R = 1 + r/R = l₁/l₂, which gives r = R(l₁ − l₂)/l₂.\nThus, knowing R and the two balance lengths, the internal resistance of the cell is calculated.",
+    "explanation": "Key relations ε = kl₁ (open key) and V = kl₂ (with shunt R), leading to r = R(l₁ − l₂)/l₂; the cell must be connected with the same polarity as the driver cell.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "The storage battery of a car has an emf of 12 V. If the internal resistance of the battery is 0.5Ω, what is the maximum current that can be drawn from the battery?",
+    "answer": "Given: emf ε = 12 V, internal resistance r = 0.5 Ω.\nFormula: I = ε/(R + r); the current is maximum when the external resistance R = 0 (short circuit), i.e. I_max = ε/r.\nSubstitution: I_max = 12 V / 0.5 Ω.\nCalculation: I_max = 24 A.\nResult: the maximum (short-circuit) current is 24 A, which agrees with the printed answer (Ans: 24A). In practice such a current would damage the battery and is limited by the small resistance of the connecting cables.",
+    "explanation": "Key formula I = ε/(R + r); maximum current occurs at zero external resistance.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "A negligibly small current is passed through a wire of length 12m and uniform cross-section 4.0 × 10⁻⁷ m², and its resistance is measured to be 6.0 Ω. What is the resistivity of the material at the temperature of the experiment?",
+    "answer": "Given: L = 12 m, A = 4.0 × 10⁻⁷ m², R = 6.0 Ω.\nFormula: R = ρL/A, so ρ = RA/L.\nSubstitution: ρ = (6.0 Ω)(4.0 × 10⁻⁷ m²) / 12 m.\nCalculation: ρ = 24 × 10⁻⁷ / 12 = 2.0 × 10⁻⁷ Ω m.\nResult: the resistivity is 2.0 × 10⁻⁷ Ω m, which agrees with the printed answer (Ans: 2 × 10⁻⁷ Ω m).",
+    "explanation": "Key rearrangement ρ = RA/L; the measured value is typical of an alloy such as nichrome rather than a pure metal.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "In a potentiometer arrangement, a cell of emf 1.20 V gives a balance point at 40.0 cm length of the wire. If the cell is replaced by another cell and the balance point shifts to 74.0 cm, what is the emf of the second cell?",
+    "answer": "Given: ε₁ = 1.20 V at l₁ = 40.0 cm; l₂ = 74.0 cm for the second cell.\nFormula: for the same potential gradient k, ε = kl, so ε₂/ε₁ = l₂/l₁.\nSubstitution: ε₂ = 1.20 V × 74.0 cm / 40.0 cm.\nCalculation: ε₂ = 1.20 × 1.85 = 2.22 V.\nResult: the emf of the second cell is 2.22 V, which agrees with the printed answer (Ans: 2.22 V).",
+    "explanation": "Key relation ε ∝ balance length because the potential gradient along the wire is constant; the driver cell and its rheostat setting must not be disturbed between the two readings.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "(a) Three resistors 1 Ω, 2 Ω, and 3 Ω are combined in series. What is the total resistance of the combination?\n(b) If the combination is connected to a battery of emf 24 V and negligible internal resistance, obtain the potential drop across each resistor.",
+    "answer": "(a) Given: R₁ = 1 Ω, R₂ = 2 Ω, R₃ = 3 Ω in series.\nFormula: R_s = R₁ + R₂ + R₃.\nSubstitution: R_s = 1 + 2 + 3.\nCalculation: R_s = 6 Ω.\nResult: the total resistance is 6 Ω, which agrees with the printed answer (Ans: 6 Ω).\n(b) Given: emf = 24 V, internal resistance negligible, R_s = 6 Ω.\nFormula: I = V/R_s and V = IR for each resistor.\nSubstitution: I = 24 V / 6 Ω = 4 A.\nCalculation: V₁ = (4 A)(1 Ω) = 4 V; V₂ = (4 A)(2 Ω) = 8 V; V₃ = (4 A)(3 Ω) = 12 V.\nResult: the potential drops are 4 V, 8 V and 12 V, which agree with the printed answers (Ans: V₁ = 4 V, V₂ = 8V, V₃ = 12V); the three add up to the supply voltage, 24 V.",
+    "explanation": "Key checks: resistances add in series; the current is common, so the p.d. across each resistor is proportional to its resistance and the drops must sum to 24 V.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "From the given circuit find the value of I.\nSix wires meet at one common junction. The labelled currents and their directions relative to the junction are: top branch 0.4 A directed away from the junction; upper-left branch 0.2 A directed towards the junction; upper-right branch 0.6 A directed towards the junction; lower-right branch 0.5 A directed away from the junction; bottom branch 0.7 A directed towards the junction; lower-left branch carries the unknown current I, the arrow being drawn towards the junction.",
+    "answer": "Given (currents towards the junction taken as positive): 0.2 A, 0.6 A and 0.7 A enter; 0.4 A and 0.5 A leave; the unknown I is drawn entering.\nFormula: Kirchhoff's junction rule, ΣI_in = ΣI_out.\nSubstitution: 0.2 + 0.6 + 0.7 + I = 0.4 + 0.5.\nCalculation: 1.5 + I = 0.9, so I = −0.6 A.\nResult: the magnitude is I = 0.6 A, which agrees with the printed answer (Ans: I = 0.6A). The negative sign means the current actually flows away from the junction along the lower-left branch, opposite to the direction of the arrow drawn in the figure.",
+    "explanation": "Key rule: total current into a junction equals total current out; the 1.5 A entering must be balanced by 0.9 A plus the unknown, giving 0.6 A leaving.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": "Six-resistor star network meeting at a single junction: 0.4 A (top branch, arrow away from junction), 0.2 A (upper-left, arrow towards junction), 0.6 A (upper-right, arrow towards junction), 0.5 A (lower-right, arrow away), 0.7 A (bottom, arrow towards junction), and I on the lower-left branch with its arrow drawn towards the junction."
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "In a meter bridge with a standard resistance of 15 Ω in the right gap, the ratio of balancing length is 5:3. Find the value of the other resistance.",
+    "answer": "Given: standard resistance S = 15 Ω in the right gap; ratio of the balancing lengths l₁ : l₂ = 5 : 3, where l₁ is adjacent to the unknown resistance P and l₂ adjacent to S.\nFormula: at balance P/S = l₁/l₂, so P = S l₁/l₂.\nSubstitution: P = 15 Ω × 5/3.\nCalculation: P = 75/3 = 25 Ω.\nResult: the unknown resistance is 25 Ω, which agrees with the printed answer (Ans: P = 25 Ω). The balancing lengths are 62.5 cm and 37.5 cm, which add up to the full metre of the wire as they should.",
+    "explanation": "Key relation P/S = l₁/l₂; the ratio 5:3 corresponds to balance lengths 62.5 cm and 37.5 cm, whose sum must be 100 cm.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "By using KVL find Current flowing through 10 Ω resistance.\nCircuit: three loops side by side. Top wire carries, from left to right, 5 Ω, 10 Ω and 12 Ω. The vertical branch between loop 1 and loop 2 contains 15 Ω; the vertical branch between loop 2 and loop 3 contains 8 Ω. The left branch contains a 4 V battery with its positive (long) terminal upwards; the right branch contains a 6 V battery with its positive (long) terminal upwards. The loop currents I₁, I₂ and I₃ are drawn clockwise.",
+    "answer": "Assumed loop directions: I₁, I₂ and I₃ are all taken clockwise, as drawn in the figure.\nGiven: R_top = 5 Ω, 10 Ω, 12 Ω; vertical branches 15 Ω and 8 Ω; emfs 4 V (left) and 6 V (right), both with the positive terminal upwards.\nFormulae (KVL, sum of drops = sum of emfs):\nLoop 1: 5I₁ + 15(I₁ − I₂) = 4, i.e. 20I₁ − 15I₂ = 4.\nLoop 2: 10I₂ + 8(I₂ − I₃) + 15(I₂ − I₁) = 0, i.e. −15I₁ + 33I₂ − 8I₃ = 0.\nLoop 3: 12I₃ + 6 + 8(I₃ − I₂) = 0, i.e. −8I₂ + 20I₃ = −6 (the 6 V battery is traversed from + to − in the clockwise sense, so it is a drop).\nSubstitution and calculation: from loop 1, I₁ = (4 + 15I₂)/20 = 0.2 + 0.75I₂; from loop 3, I₃ = (8I₂ − 6)/20 = 0.4I₂ − 0.3. Substituting in loop 2: −15(0.2 + 0.75I₂) + 33I₂ − 8(0.4I₂ − 0.3) = 0, that is −3 − 11.25I₂ + 33I₂ − 3.2I₂ + 2.4 = 0, so 18.55I₂ = 0.6 and I₂ = 0.0323 A. The other currents are I₁ = 0.224 A and I₃ = −0.287 A (the negative sign means I₃ actually flows anticlockwise).\nResult: the current through the 10 Ω resistor is I₂ = 0.0323 A ≈ 3.2 × 10⁻² A, flowing from left to right along the top wire, i.e. clockwise round the middle loop.\nDiscrepancy: the book prints 0.0341 A (clockwise). With the printed values (15 Ω, 8 Ω, 5 Ω, 10 Ω, 12 Ω, 4 V and 6 V) the solution is 0.0323 A, so the printed value is about 5% high, probably through rounding or an answer-key slip; the direction (clockwise) agrees. Check: 20(0.2243) − 15(0.0323) = 4.0 V and −8(0.0323) + 20(−0.2871) = −6.0 V, so both outer loops are satisfied.",
+    "explanation": "Key method: assign clockwise mesh currents, write KVL for each loop with the shared-branch currents (I₁ − I₂) and (I₂ − I₃), and solve the three simultaneous equations; the 10 Ω current is simply I₂.",
+    "pdfPage": 227,
+    "bookPage": 223,
+    "figure": "Three-loop network: top wire has 5 Ω (left), 10 Ω (middle) and 12 Ω (right); the vertical branch between loops 1 and 2 has 15 Ω; the vertical branch between loops 2 and 3 has 8 Ω; the left branch has a 4 V battery (positive terminal up) and the right branch a 6 V battery (positive terminal up); loop currents I₁, I₂, I₃ are marked clockwise."
+  }
+]

@@ -1,0 +1,156 @@
+[
+    {"id":"u14_A_q1","unit":14,"letter":"الف","type":"sq","number":1,
+     "question":"فاري ڪنهن رسالي ۾ ڪهڙي چوڻي پڙهي هئي؟",
+     "answer":"فاري هڪ رسالي ۾ هيءَ چوڻي پڙهي هئي: ”هڪ ويسو انسان، سو ويسو لباس.“ يعني انسان جو ويس ۽ لباس سندس شخصيت جي سڃاڻپ هوندو آهي.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q2","unit":14,"letter":"الف","type":"sq","number":2,
+     "question":"فاري پنهنجي شخصيت کي اجاگر ڪرڻ لاءِ ڪهڙو فيصلو ڪيو؟",
+     "answer":"فاري فيصلو ڪيو ته هوءَ پنهنجي شخصيت کي نت نون ۽ مهانگن لباسن سان اجاگر ڪندي.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q3","unit":14,"letter":"الف","type":"sq","number":3,
+     "question":"هن سسئي جي جنم ڏينهن تي بازار مان ڇا خريد ڪيو؟",
+     "answer":"هن بازار مان هڪ نهيل ٺڪيل، ٻڪيدار ۽ مهانگو وڳو خريد ڪيو ۽ هڪ قيمتي تحفو به ورتو.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q4","unit":14,"letter":"الف","type":"sq","number":4,
+     "question":"فاري کي مارئيءَ جي ڪهڙي ڳالهه متاثر ڪيو؟",
+     "answer":"مارئيءَ جو بنا ميڪ اپ سادو چهره، ڳالهائڻ جو ڍنگ ۽ لباس جي سادگي فاري کي گهڻو متاثر ڪيو.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q5","unit":14,"letter":"الف","type":"sq","number":5,
+     "question":"مارئيءَ جي ماءُ پاڙي جي نينگرين کي ڇا جي سکيا ڏئي رهي هئي؟",
+     "answer":"مارئيءَ جي ماءُ پاڙي جي نينگرين کي ڀرت ڀرڻ (ڪڙهائي ڪرڻ) جي سکيا ڏئي رهي هئي.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q6","unit":14,"letter":"الف","type":"sq","number":6,
+     "question":"لباس جي معاملي ۾ ڪهڙيون ڳالهيون آڏو رکڻ گهرجن؟",
+     "answer":"لباس اهڙو هئڻ گهرجي جيڪو انسان جي شخصيت کي اجاگر ڪري، نه ته لڪائي. ٻيو ته گهٽ خرچ ۾ سُهڻو لباس ٺاهي سگهجي، ۽ ان سان گڏ عمر، موقعو، مهل ۽ موسم جو به خيال رکڻ گهرجي.",
+     "explanation":"","image":75,"figure":"مشق (الف) ـ سوال 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_A_q7","unit":14,"letter":"الف","type":"sq","number":7,
+     "question":"مارئيءَ جي ماءُ، فاري ۽ سسئي کي جيڪي روا اوڍايا، انهن تي ڪهڙو ڀرت ڀريل هو؟",
+     "answer":"مارئيءَ جي ماءُ فاري ۽ سسئي کي جيڪي روا اوڍايا، انهن تي هرمُچ سان ڀرت ڀريل هو.",
+     "explanation":"","image":76,"figure":"مشق (الف) ـ سوال 7","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q1","unit":14,"letter":"ب","type":"sq","number":1,
+     "question":"لفظ: وڏ گهراڻِي — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: وڏي گهراڻي جو، مٿاهين ۽ عزت واري خاندان سان تعلق رکندڙ. جملو: فاري هڪ وڏ گهراڻي ڇوڪري هئي.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q2","unit":14,"letter":"ب","type":"sq","number":2,
+     "question":"لفظ: سِڪيلڌي — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: پياري، لاڏلي، سڪ سان پاليو ويو. جملو: فاري مائٽن جي اڪيلي ۽ سڪيلڌي ڌيءَ هئي.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q3","unit":14,"letter":"ب","type":"sq","number":3,
+     "question":"لفظ: ٻَڪيدار — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: سينگاريل، ڪڙهائي يا ڀرت وارو (لباس). جملو: هن بازار مان هڪ ٻڪيدار ۽ مهانگو وڳو خريد ڪيو.",
+     "explanation":"سبق جي حوالي سان ’ٻڪيدار‘ جو مطلب سينگاريل ۽ ڪڙهائيءَ وارو وڳو ورتو ويو آهي.","image":76,"figure":"مشق (ب) ـ لفظ 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q4","unit":14,"letter":"ب","type":"sq","number":4,
+     "question":"لفظ: تعارف — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: سڃاڻپ، هڪٻئي کي متعارف ڪرائڻ. جملو: سسئي ٻنهي ڇوڪرين جو پاڻ ۾ تعارف ڪرايو.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q5","unit":14,"letter":"ب","type":"sq","number":5,
+     "question":"لفظ: آجيان — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: آڌرڀاءُ، خوش آمديد چوڻ، ميزباني. جملو: مارئيءَ وڏي دل سان سندن آجيان ڪئي.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q6","unit":14,"letter":"ب","type":"sq","number":6,
+     "question":"لفظ: سِکيا — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: سبق، سيکاريون، تربيت. جملو: مارئيءَ جي ماءُ پاڙي جي نينگرين کي ڀرت جي سکيا ڏني.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q7","unit":14,"letter":"ب","type":"sq","number":7,
+     "question":"لفظ: نفاست — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: نزاڪت، سهڻائي، سٺائي ۽ نفعو. جملو: بازار جي مهانگن ڪپڙن ۾ اها سونهن ۽ نفاست نه هوندي آهي.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 7","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q8","unit":14,"letter":"ب","type":"sq","number":8,
+     "question":"لفظ: اجاگر — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: نمايان، روشن، سامهون آڻڻ. جملو: هر انسان پنهنجي شخصيت کي اجاگر ڪرڻ چاهي ٿو.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 8","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_B_q9","unit":14,"letter":"ب","type":"sq","number":9,
+     "question":"لفظ: کانئن — معنيٰ لکو ۽ جملن ۾ ڪم آڻيو.",
+     "answer":"معنيٰ: انهن کان، کان (گهڻو ڪري ضميري صورت). جملو: فاري ۽ سسئيءَ مارئيءَ جي ماءُ کانئن موڪلايو.",
+     "explanation":"","image":76,"figure":"مشق (ب) ـ لفظ 9","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_C_q1","unit":14,"letter":"ج","type":"sq","number":1,
+     "question":"”نَهيل ٺُڪيل“ ٻٽو لفظ آهي، توهين هن سبق مان ٻيا اهڙا ٻٽا لفظ لکي ڏيکاريو.",
+     "answer":"هن سبق مان ٻيا ٻٽا لفظ: صاف سٿرو، ٽڪن ٽاڪيل، حال احوال، ڏيڻ وٺڻ، اُچا مهانگا.",
+     "explanation":"","image":76,"figure":"مشق (ج) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_D_q1","unit":14,"letter":"د","type":"sq","number":1,
+     "question":"خال ڀريو: هڪ ويسو انسان ۽ سو ويسو ................ .",
+     "answer":"لباس",
+     "explanation":"","image":76,"figure":"مشق (د) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_D_q2","unit":14,"letter":"د","type":"sq","number":2,
+     "question":"خال ڀريو: اڄ فاري جي ساهيڙيءَ جو ................ هو.",
+     "answer":"جنم ڏينهن",
+     "explanation":"","image":76,"figure":"مشق (د) ـ سوال 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_D_q3","unit":14,"letter":"د","type":"sq","number":3,
+     "question":"خال ڀريو: مارئي سندن وڏيءَ دل سان ................ ڪئي.",
+     "answer":"آجيان",
+     "explanation":"","image":76,"figure":"مشق (د) ـ سوال 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_D_q4","unit":14,"letter":"د","type":"sq","number":4,
+     "question":"خال ڀريو: مارئيءَ جو گهر ننڍو پر ................ هو.",
+     "answer":"صاف سٿرو",
+     "explanation":"","image":76,"figure":"مشق (د) ـ سوال 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_D_q5","unit":14,"letter":"د","type":"sq","number":5,
+     "question":"خال ڀريو: کٽ تي رليءَ جو ................ وڇايل هو.",
+     "answer":"پُڙ",
+     "explanation":"","image":76,"figure":"مشق (د) ـ سوال 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q1","unit":14,"letter":"هـ","type":"sq","number":1,
+     "question":"لفظن جا ضد لکو: وڏو",
+     "answer":"وڏو × ننڍو",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q2","unit":14,"letter":"هـ","type":"sq","number":2,
+     "question":"لفظن جا ضد لکو: جنم",
+     "answer":"جنم × موت (وفات)",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 2","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q3","unit":14,"letter":"هـ","type":"sq","number":3,
+     "question":"لفظن جا ضد لکو: اُچن",
+     "answer":"اُچن × هيٺاهن (گهٽ)",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 3","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q4","unit":14,"letter":"هـ","type":"sq","number":4,
+     "question":"لفظن جا ضد لکو: سوڙهو",
+     "answer":"سوڙهو × ڪشادو (ويڪرو)",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 4","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q5","unit":14,"letter":"هـ","type":"sq","number":5,
+     "question":"لفظن جا ضد لکو: سادو",
+     "answer":"سادو × سينگاريل (آرائشي)",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 5","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_E_q6","unit":14,"letter":"هـ","type":"sq","number":6,
+     "question":"لفظن جا ضد لکو: مهانگو",
+     "answer":"مهانگو × سستو",
+     "explanation":"","image":76,"figure":"مشق (هـ) ـ سوال 6","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_F_q1","unit":14,"letter":"و","type":"sq","number":1,
+     "question":"هيٺين سٽن مان ’ضمير استفهام‘ چونڊيو: (1) گلاب کي ٻاهر ڪير پيو سڏي؟ (2) توکي ڇا کپي؟ (3) هنن رانديڪن مان توکي ڪهڙو ٿو وڻي؟",
+     "answer":"(1) ڪير — ضمير استفهام. (2) ڇا — ضمير استفهام. (3) ڪهڙو — ضمير استفهام.",
+     "explanation":"ضمير استفهام اهو ضمير هوندو آهي جيڪو سوال پڇڻ لاءِ ڪم اچي، جهڙوڪ ڪير، ڇا، ڪهڙو، ڪٿي، ڪيئن.","image":76,"figure":"مشق (و) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_G_q1","unit":14,"letter":"ز","type":"sq","number":1,
+     "question":"پنهنجي دوست / ساهيڙيءَ ڏانهن سنڌيءَ ۾ ڪمپيوٽر تان اي ميل ذريعي رابطو ڪريو، جنهن ۾ اوهان کيس پنهنجي سالگرهه جي دعوت ڏيو.",
+     "answer":"نمونو اي ميل:\nموضوع: سالگرهه جي دعوت\nپياري ساهيڙي سلميٰ،\nاسلام عليڪم!\nاميد اٿم ته تون خيريت سان هوندين. مون کي خوشيءَ سان ٻڌائڻو آهي ته منهنجي سالگرهه جو جشن آئينده هفتي جي آچر ڏينهن شام 6 وڳي اسان جي گهر ۾ ٿيندو. تون منهنجي ويجهي ساهيڙي آهين، ان ڪري تنهنجي اچڻ سان جشن ۾ وڌيڪ رونق ٿي پوندي. مهرباني ڪري وقت تي اچجانءِ ۽ پنهنجي گهر وارن کي به منهنجا سلام چئجانءِ.\nتنهنجي دوست: [نالو]",
+     "explanation":"اي ميل ۾ مخاطب، سلام، دعوت جو مقصد، وقت ۽ هنڌ ۽ آخر ۾ نالو ضرور لکيو وڃي.","image":76,"figure":"مشق (ز) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null},
+
+    {"id":"u14_H_q1","unit":14,"letter":"ح","type":"sq","number":1,
+     "question":"ارهان ڪنهن رسالي مان لباس جي نئين ڊزائين بابت ڪنهن فيملي مئگزين يا رسالي جي چونڊ ڪريو ۽ ان تي بحث مباحثو ڪريو.",
+     "answer":"رهنمائي: ڪنهن فيملي مئگزين يا رسالي مان لباس جي نئين ڊزائين بابت مضمون چونڊيو. ان ۾ ڏنل ڊزائن، ڪپڙي جي قسمن، رنگن ۽ قيمتن کي غور سان پڙهو. پوءِ جماعت ۾ هيٺين نقطن تي بحث ڪريو: (1) نئين ڊزائين ڇو پسند آئي؟ (2) اها اسان جي ماحول ۽ موسم لاءِ موزون آهي يا نه؟ (3) ان جو خرچ ڪيترو آهي؟ (4) سادگي ۽ نفاست ۾ ڪهڙو توازن هجڻ گهرجي؟ آخر ۾ پنهنجو نتيجو لکو.",
+     "explanation":"","image":76,"figure":"مشق (ح) ـ سوال 1","options":null,"optionsRaw":null,"correctAnswer":null}
+]

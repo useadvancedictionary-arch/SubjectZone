@@ -1,0 +1,272 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Viruses evolve by using the",
+    "options": [
+      "Cellular organelles",
+      "Cellular enzymes",
+      "Cellular energy",
+      "All of them"
+    ],
+    "correct": "d",
+    "explanation": "Viruses have no metabolism of their own. For replication and evolution they use the host cell's organelles (ribosomes, membranes), enzymes (polymerases) and energy (ATP), so all of them are used.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "The pathogenicity of a virus depends upon",
+    "options": [
+      "the immunity of the host body",
+      "the effective penetration of its genome",
+      "the overall environment inside the body",
+      "the overall environment outside the body"
+    ],
+    "correct": "b",
+    "explanation": "A virus causes disease only if its genome successfully penetrates the host cell and is expressed there. Host immunity and environment modify the outcome, but the primary determinant of pathogenicity is effective genome penetration and replication.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Bacteriophages escape from host cell by the activity of",
+    "options": [
+      "Lysozyme",
+      "Ribozyme",
+      "Peroxisomes",
+      "Glyoxysomes"
+    ],
+    "correct": "a",
+    "explanation": "Phage-infected bacteria produce lysozyme (endolysin) which digests the peptidoglycan of the bacterial cell wall, causing the cell to burst and release new phages.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "The smaller proteins are cut down and forms a new virus structure by the process called",
+    "options": [
+      "Integration",
+      "Transcription",
+      "Budding",
+      "Assembly"
+    ],
+    "correct": "d",
+    "explanation": "During assembly (maturation) viral proteins are cut into functional units and packaged with the nucleic acid into complete new virions. Integration and transcription concern the genome, while budding is a mode of release.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Virus that severely damage motor neurons and causes paralysis called",
+    "options": [
+      "HIV",
+      "Dengue",
+      "Polio",
+      "Herpes"
+    ],
+    "correct": "c",
+    "explanation": "Poliovirus invades the central nervous system and destroys motor neurons in the spinal cord, producing flaccid paralysis.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Proteins that cause pathogenicity in humans and animals called",
+    "options": [
+      "Prions",
+      "Viroids",
+      "Antigen",
+      "Antibodies"
+    ],
+    "correct": "a",
+    "explanation": "Prions are infectious misfolded proteins (e.g. PrP^Sc) that cause degenerative brain diseases such as Creutzfeldt–Jakob disease and mad cow disease. They contain no nucleic acid.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Smaller than viruses having single stranded RNA with some double stranded regions are called",
+    "options": [
+      "Prions",
+      "Viroids",
+      "Minus strand viruses",
+      "Double stranded DNA viruses"
+    ],
+    "correct": "b",
+    "explanation": "Viroids are naked, circular, single-stranded RNA molecules smaller than viruses, with some double-stranded regions formed by base pairing. They cause plant diseases such as potato spindle tuber disease.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Dengue fever, encephalitis and yellow fever are caused by which group of viruses?",
+    "options": [
+      "Arbo-viruses",
+      "Retro-viruses",
+      "Rhabdo-viruses",
+      "Rhino-viruses"
+    ],
+    "correct": "a",
+    "explanation": "Arboviruses (arthropod-borne viruses) are transmitted by mosquitoes or ticks and include the dengue, yellow fever and encephalitis viruses.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Aedes mosquito is the vector of",
+    "options": [
+      "Dengue virus",
+      "Ebola virus",
+      "Hepatitis virus",
+      "Measles virus"
+    ],
+    "correct": "a",
+    "explanation": "Dengue virus is transmitted by Aedes aegypti and Aedes albopictus mosquitoes, which bite mainly during the day.",
+    "pdfPage": 121,
+    "bookPage": 115
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Discuss the living and nonliving status of virus.",
+    "answer": "Viruses show features of both living and non-living things.\n\nLiving features: they possess genetic material (DNA or RNA), can replicate inside a host cell, mutate and evolve, transmit hereditary information and show host specificity.\n\nNon-living features: they are acellular, have no cytoplasm, organelles, ribosomes or metabolism, cannot generate energy or synthesize proteins, can be crystallized and stored like chemicals, and cannot reproduce outside a living host.\n\nBecause they are inert outside the host but reproduce and evolve inside it, viruses are best described as obligate intracellular parasites at the boundary between living and non-living.",
+    "explanation": "This dual nature is why viruses are placed in a separate kingdom-level category rather than among true cells.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "What do we mean by positive and negative sense virus?",
+    "answer": "Positive-sense virus: its genome is single-stranded RNA with the same polarity as mRNA, so it can be translated directly by host ribosomes to make viral proteins. Examples: poliovirus, dengue virus, coronavirus.\n\nNegative-sense virus: its ssRNA is complementary to mRNA, so it cannot be translated directly. It must first be transcribed into positive-sense mRNA by an RNA-dependent RNA polymerase carried in the virion. Examples: influenza virus, rabies virus, Ebola virus.",
+    "explanation": "The terms refer to the polarity of the viral RNA relative to messenger RNA.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Name the groups of viruses from Baltimore classification.",
+    "answer": "The Baltimore classification divides viruses into seven groups according to genome type and replication strategy:\nI. Double-stranded DNA viruses (e.g. herpesviruses, poxviruses).\nII. Single-stranded DNA viruses (e.g. parvoviruses).\nIII. Double-stranded RNA viruses (e.g. reoviruses).\nIV. Positive-sense single-stranded RNA viruses (e.g. poliovirus, dengue virus).\nV. Negative-sense single-stranded RNA viruses (e.g. influenza, rabies).\nVI. Single-stranded RNA viruses with a DNA intermediate, using reverse transcriptase (e.g. HIV, retroviruses).\nVII. Double-stranded DNA viruses with an RNA intermediate, using reverse transcriptase (e.g. hepatitis B virus).",
+    "explanation": "The classification is based on how each genome is transcribed into mRNA and replicated.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "How does bacteriophage virus infect bacteria?",
+    "answer": "A bacteriophage infects bacteria in five steps:\n1. Adsorption — the phage tail fibres recognize and attach to specific receptors on the bacterial cell wall.\n2. Penetration — the tail sheath contracts and injects the phage DNA through the wall into the bacterial cytoplasm; the capsid stays outside.\n3. Biosynthesis — the phage DNA uses bacterial ribosomes, enzymes, ATP and nucleotides to make viral DNA and proteins; bacterial DNA is degraded.\n4. Assembly — new capsids and tails are assembled and packed with phage DNA.\n5. Lysis and release — phage lysozyme digests the bacterial wall, the cell bursts and releases hundreds of new phages.",
+    "explanation": "This is the lytic cycle; some phages instead integrate into the bacterial chromosome as prophage (lysogenic cycle).",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Differentiate lytic and lysogenic life cycle of bacteriophage.",
+    "answer": "Lytic cycle:\n- The phage DNA exists free in the bacterial cytoplasm.\n- It immediately directs synthesis of viral DNA and proteins, shutting down host metabolism.\n- The bacterial cell is lysed (burst) and dies, releasing new virions.\n- Example: T4 phage.\n\nLysogenic cycle:\n- The phage DNA integrates into the bacterial chromosome as a prophage.\n- It is replicated along with the host DNA and passed to daughter cells without killing them.\n- The bacterium can survive and multiply; under stress (UV light, chemicals) the prophage may excise and enter the lytic cycle.\n- Example: lambda phage.\n\nMain difference: the lytic cycle kills the host immediately, whereas the lysogenic cycle keeps the host alive with the viral genome integrated.",
+    "explanation": "The choice between cycles depends on phage type and host conditions.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "What is reverse transcription? How it performs by HIV in human?",
+    "answer": "Reverse transcription is the synthesis of DNA from an RNA template, catalysed by reverse transcriptase. It reverses the usual flow of genetic information (DNA → RNA).\n\nIn HIV: the virion carries two copies of positive-sense ssRNA and reverse transcriptase. After the virus fuses with a CD4⁺ T-helper cell and enters it, reverse transcriptase copies the viral RNA into a single-stranded DNA (cDNA), then into double-stranded DNA. The dsDNA enters the nucleus and is integrated into the host chromosome by integrase, forming a provirus. When activated, the provirus is transcribed into viral mRNA and genomic RNA, which are translated and packaged into new virions that bud from the cell.",
+    "explanation": "Because reverse transcriptase lacks proofreading, HIV mutates rapidly, which complicates vaccine and drug design.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "List down any five animal and plant viruses with their vector transmission and symptom",
+    "answer": "Animal viruses:\n1. Dengue virus — vector Aedes aegypti mosquito — high fever, headache, joint pain, skin rash.\n2. Yellow fever virus — Aedes mosquito — fever, jaundice, liver and kidney damage.\n3. Poliovirus — faecal–oral route (contaminated water/food) — paralysis due to motor neuron damage.\n4. Rabies virus — bite of infected dog/bat — encephalitis, hydrophobia, paralysis.\n5. Influenza virus — airborne droplets — fever, cough, body ache.\n\nPlant viruses:\n1. Tobacco mosaic virus — mechanical contact/sap — mosaic mottling and distortion of leaves.\n2. Potato leaf roll virus — aphid vector — upward rolling of leaves, stunted growth.\n3. Cucumber mosaic virus — aphid vector — mosaic pattern, leaf curling, stunting.\n4. Tomato yellow leaf curl virus — whitefly vector — yellow, curled leaves and reduced fruit.\n5. Sugarcane mosaic virus — aphid vector — chlorotic mosaic streaks and poor yield.",
+    "explanation": "Most plant viruses are spread by insect vectors such as aphids and whiteflies; animal viruses spread by arthropods, droplets or contact.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "List down the sequences involved in the lytic and lysogenic life cycle of bacteriophage?",
+    "answer": "Lytic cycle sequence: adsorption → penetration (injection of DNA) → biosynthesis of viral DNA and proteins → assembly/maturation → lysis of the host cell and release of progeny phages.\n\nLysogenic cycle sequence: adsorption → penetration → integration of phage DNA into the bacterial chromosome (prophage) → replication of prophage along with host DNA and transmission to daughter cells → induction under stress (UV light, chemicals) → excision → entry into the lytic cycle → lysis and release.",
+    "explanation": "Both cycles share the same first two steps and differ after penetration.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 9,
+    "question": "How a virus survives without host discuss.",
+    "answer": "Outside a host cell a virus survives as an inert particle called a virion. It has no metabolism and does not perform any life activities; it merely persists in a crystalline or dehydrated state. The protein capsid and lipid envelope protect the nucleic acid from environmental damage, and the virus can remain infectious for varying periods on surfaces, in water, air or dried blood. It is reactivated only when it contacts a suitable host cell with matching receptors.",
+    "explanation": "Survival time depends on the virus, temperature, humidity and UV exposure.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 10,
+    "question": "What are the symptoms of AIDS?",
+    "answer": "AIDS (acquired immunodeficiency syndrome) appears after a long latent period of HIV infection. Symptoms include persistent fever, night sweats, fatigue, weight loss, swollen lymph nodes, chronic diarrhoea, oral thrush, skin rashes and recurrent infections. Because CD4⁺ helper T cells are destroyed, the patient suffers from opportunistic infections such as tuberculosis, pneumonia, candidiasis and certain cancers (Kaposi's sarcoma), and may develop dementia or wasting syndrome.",
+    "explanation": "AIDS is diagnosed by a fall in CD4⁺ T-cell count and the appearance of opportunistic infections.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 11,
+    "question": "What is the prevention and control of AIDS?",
+    "answer": "AIDS is prevented and controlled by:\n1. Safe sex — use of condoms and avoiding unprotected or multiple sexual partners.\n2. Screening of blood and blood products before transfusion.\n3. Sterilized/disposable syringes and needles; never sharing them.\n4. Prevention of mother-to-child transmission by screening pregnant women and giving antiretroviral therapy.\n5. Avoid sharing razors, blades and other instruments that may carry blood.\n6. Health education about HIV transmission and avoidance of stigma.\n7. Antiretroviral therapy (ART) for infected persons to control viral load and prolong life.\n8. Proper disposal of infected waste and use of gloves by health workers.\n\nThere is no effective vaccine, so prevention and early diagnosis are essential.",
+    "explanation": "HIV spreads through infected blood, semen, vaginal fluid and breast milk — not by casual contact.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "B",
+    "number": 12,
+    "question": "Differentiate Prions and Viroids.",
+    "answer": "Prions: infectious agents made only of misfolded protein (PrP^Sc), with no nucleic acid. They are extremely resistant to heat, radiation and proteases, and cause degenerative brain diseases such as Creutzfeldt–Jakob disease in humans and mad cow disease in cattle. They propagate by converting normal proteins into the misfolded form.\n\nViroids: infectious agents made of naked, circular, single-stranded RNA of only 250–400 nucleotides, with no protein coat. They infect plants and cause diseases such as potato spindle tuber disease and chrysanthemum stunt. They replicate by using host RNA polymerase and do not encode proteins.",
+    "explanation": "Prions are protein-only infectious agents, whereas viroids are RNA-only infectious agents.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Explain the lytic life cycle of Bacteriophage with labelled diagram.",
+    "answer": "The lytic cycle of a bacteriophage (e.g. T4 phage) has five stages:\n\n1. Adsorption — the tail fibres recognize and bind specific receptors on the bacterial cell wall.\n2. Penetration — the tail sheath contracts and the tail tube injects phage DNA into the bacterial cytoplasm; the empty capsid remains outside.\n3. Biosynthesis — phage DNA takes over the host machinery. Host DNA is degraded, and phage DNA and proteins are synthesized using bacterial ribosomes, nucleotides, enzymes and ATP.\n4. Assembly (maturation) — phage heads, tails and DNA are assembled into complete virions.\n5. Lysis and release — phage lysozyme digests the bacterial wall; the cell bursts and releases about 100–200 new phages, which infect new bacteria.\n\nDiagram outline: draw a phage with head (capsid containing DNA), collar, tail sheath, tail tube and tail fibres. Show the sequence: attachment to bacterial wall → injection of DNA → bacterial chromosome degraded → synthesis of phage parts → assembly → burst of host with new phages. Label the bacterial wall, plasma membrane, phage DNA, capsid, tail and progeny phages.",
+    "explanation": "The cycle is called lytic because it ends with lysis (bursting) of the host cell.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Explain the life cycle of HIV with labelled diagram.",
+    "answer": "HIV is a retrovirus with two copies of positive-sense ssRNA, reverse transcriptase, integrase and protease, enclosed in a protein capsid and a lipid envelope with gp120/gp41 spikes.\n\nLife cycle:\n1. Attachment — gp120 binds the CD4 receptor and a co-receptor (CCR5/CXCR4) on helper T cells and macrophages.\n2. Fusion and entry — the envelope fuses with the cell membrane and the capsid enters the cytoplasm.\n3. Reverse transcription — reverse transcriptase copies viral RNA into single-stranded cDNA and then double-stranded DNA.\n4. Integration — the dsDNA enters the nucleus and integrase inserts it into host DNA as a provirus.\n5. Transcription and translation — under activation, host enzymes transcribe the provirus into viral mRNA and genomic RNA, which are translated into viral proteins.\n6. Assembly — capsids enclose genomic RNA and enzymes; envelope proteins are inserted into the host membrane.\n7. Budding and maturation — new virions bud from the membrane, and protease cleaves polyproteins to make them infectious.\n\nDiagram outline: label envelope, gp120, gp41, capsid, RNA, reverse transcriptase; show HIV → CD4⁺ T cell → reverse transcription → integration into nucleus → mRNA → assembly → budding.",
+    "explanation": "Destruction of CD4⁺ T cells progressively weakens the immune system, leading to AIDS.",
+    "pdfPage": 122,
+    "bookPage": 116
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Explain the pathogenicity and economic losses caused by viruses to the humans.",
+    "answer": "Pathogenicity: viruses cause disease by entering host cells, using the cell machinery to replicate, and damaging or lysing the cells. They may also trigger immune responses that injure tissues. Human diseases include influenza, measles, mumps, polio, rabies, dengue, yellow fever, hepatitis B and C, AIDS, herpes and certain cancers (e.g. cervical cancer by HPV, liver cancer by HBV). Some viruses suppress immunity (HIV) and open the way for opportunistic infections; prions and viroids cause neurological and plant diseases respectively.\n\nEconomic losses:\n1. Human health costs — hospitalization, medicines, vaccination programmes and loss of working days.\n2. Reduced productivity and premature death of workers.\n3. Agricultural losses — plant viruses (tobacco mosaic, potato leaf roll, sugarcane mosaic) reduce crop yield and quality, requiring vector control and certified seed.\n4. Livestock losses — foot-and-mouth disease, bird flu and other viral epizootics reduce meat, milk and egg production and disrupt trade.\n5. Trade and tourism — outbreaks (COVID-19, Ebola) close borders, reduce travel and disrupt supply chains.\n6. Quarantine, surveillance and research costs borne by governments.\n\nControl relies on vaccination, vector control, sanitation, screening, antiviral drugs and public health education.",
+    "explanation": "Viral diseases affect both public health and agriculture, so their economic impact extends well beyond medical costs.",
+    "pdfPage": 122,
+    "bookPage": 116
+  }
+]

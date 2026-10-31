@@ -1,0 +1,255 @@
+[
+ {
+  "section": "A",
+  "number": 1,
+  "question": "According to Graham's Law of diffusion, the ratio of diffusion of H₂ and O₂ are respectively:",
+  "options": ["1:2", "2:1", "1:4", "4:1"],
+  "correct": "d",
+  "explanation": "Graham's law states that at constant temperature and pressure the rate of diffusion is inversely proportional to the square root of the molar mass, r ∝ 1/√M. With M(H₂) = 2 g mol⁻¹ and M(O₂) = 32 g mol⁻¹, r(H₂)/r(O₂) = √(M(O₂)/M(H₂)) = √(32/2) = √16 = 4. Hydrogen therefore diffuses four times as fast as oxygen, so the ratio is 4:1, option (d). Choosing 1:2 or 2:1 usually comes from using the molar masses directly or from inverting the ratio, and 1:4 from inverting the correct ratio.",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 2,
+  "question": "Collection of gas over water is an example of:",
+  "options": ["Graham's law", "Dalton's law", "Avogadro's law", "Gaylussac law"],
+  "correct": "b",
+  "explanation": "A gas collected over water is always saturated with water vapour, so the total pressure inside the collecting jar is the sum of the pressure of the gas and the vapour pressure of water at that temperature: P(total) = P(gas) + P(H₂O vapour). This addition of the partial pressures of two non-reacting gases is Dalton's law of partial pressures, hence (b). Graham's law deals with rates of diffusion, Avogadro's law with the relation between volume and number of moles, and Gay-Lussac's law with combining volumes of reacting gases.",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 3,
+  "question": "The molar volume of oxygen gas is maximum at:",
+  "options": ["0°C and 1 atm", "0°C and 2 atm", "25°C and 1 atm", "25°C and 2 atm"],
+  "correct": "c",
+  "explanation": "The molar volume of a gas is Vₘ = RT/P, so it increases with temperature and decreases with pressure. Among the four choices the highest temperature (25°C) together with the lowest pressure (1 atm) gives the largest value: Vₘ = 0.0821 × 298/1 = 24.5 dm³ mol⁻¹, compared with 22.4 dm³ mol⁻¹ at 0°C and 1 atm, 11.2 dm³ mol⁻¹ at 0°C and 2 atm and 12.2 dm³ mol⁻¹ at 25°C and 2 atm. Hence (c).",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 4,
+  "question": "The diffusion rate of C₃H₈ and CO₂ are same because:",
+  "options": ["Both are poly atomic gases", "Both are denser than air", "Both have same molar mass", "Both contains carbon atoms"],
+  "correct": "c",
+  "explanation": "M(C₃H₈) = 3 × 12 + 8 × 1 = 44 g mol⁻¹ and M(CO₂) = 12 + 2 × 16 = 44 g mol⁻¹. According to Graham's law the rate of diffusion at a given temperature and pressure depends only on the molar mass (density) of the gas, so two gases of equal molar mass diffuse at the same rate. Being polyatomic, being denser than air, or containing carbon atoms does not by itself make the rates equal. Hence (c).",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 5,
+  "question": "The volume of gas would be theoretically zero at:",
+  "options": ["0°C", "0 K", "273 K", "273°C"],
+  "correct": "b",
+  "explanation": "Charles's law may be written V = V₀(1 + t/273). The extrapolated volume becomes zero when t = −273°C, which is the zero of the Kelvin scale, 0 K (absolute zero). At 0°C = 273 K the gas still has its full volume V₀, and at 273°C = 546 K the volume is already twice V₀, so none of these gives zero. The zero volume is only a theoretical limit for an ideal gas and is never reached in practice, because every real gas liquefies or solidifies before that temperature. Hence (b).",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 6,
+  "question": "Real gas reaches the ideal behavior at:",
+  "options": ["Low temperature and low pressure", "High temperature and high pressure", "Low temperature and high pressure", "High temperature and low pressure"],
+  "correct": "d",
+  "explanation": "A real gas behaves ideally when the volume of its molecules is negligible compared with the volume of the container and when intermolecular attractions are negligible compared with the kinetic energy of the molecules. High temperature gives the molecules large kinetic energy so that attractions matter little, and low pressure keeps the molecules far apart so that their own volume is a very small fraction of the total volume. At low temperature and high pressure both corrections become large and the gas deviates most from ideality. Hence (d).",
+  "pdfPage": 107,
+  "bookPage": 101
+ },
+ {
+  "section": "A",
+  "number": 7,
+  "question": "Which one of the following statement is incorrect about the gas molecules?",
+  "options": ["They have large spaces", "They possess kinetic energy", "Their collision is elastic", "Their molar mass depends upon temperature"],
+  "correct": "d",
+  "explanation": "The molar mass of a gas is a fixed property of its molecules (for example, CH₄ is always 16 g mol⁻¹) and does not change with temperature; only the average speed and the average kinetic energy of the molecules change with temperature. The other three statements are correct postulates of the kinetic molecular theory: gas molecules are separated by large empty spaces, they possess kinetic energy, and their collisions are perfectly elastic. Hence the incorrect statement is (d).",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "A",
+  "number": 8,
+  "question": "If the Kelvin temperature of ideal gas is increase to double and pressure is reduce to one half, the volume of gas will:",
+  "options": ["Remains same", "Double", "Reduced to half", "Four time"],
+  "correct": "d",
+  "explanation": "From PV = nRT, the volume of a fixed amount of gas is V = nRT/P, so V ∝ T/P. Doubling the Kelvin temperature multiplies the volume by 2, and halving the pressure multiplies it by a further factor of 2, giving 2 × 2 = 4 times the original volume. Hence (d), four times (printed as Four time). Answering double takes account of the temperature change only, and reduced to half would require the opposite changes.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "A",
+  "number": 9,
+  "question": "The molar volume of oxygen gas is 22.4 dm³ at:",
+  "options": ["0°C and 1 atm", "25°C and 0.5 atm", "0 K and 1 atm", "25 K and 0.5 atm"],
+  "correct": "a",
+  "explanation": "22.4 dm³ mol⁻¹ is the molar volume of any ideal gas at standard temperature and pressure, that is at 0°C (273 K) and 1 atm. At 25°C and 0.5 atm the molar volume would be 0.0821 × 298/0.5 = 48.9 dm³ mol⁻¹, and 0 K is unattainable and would in any case give zero volume. Hence (a).",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "A",
+  "number": 10,
+  "question": "Under similar condition CH₄ gas diffuses........ times faster than SO₂ gas:",
+  "options": ["1.5 time", "2 times", "4 times", "16 times"],
+  "correct": "c",
+  "explanation": "The book's printed answer key gives (c) 4 times, and that printed key is followed here. There is, however, a clear discrepancy: a strict Graham's-law calculation gives r(CH₄)/r(SO₂) = √(M(SO₂)/M(CH₄)) = √(64/16) = √4 = 2, that is 2 times, which is option (b). The value 4 is obtained if the molar masses themselves are divided (64/16) instead of their square roots, and 16 comes from using the ratio of masses squared; 1.5 has no basis for this pair. Students should note that by correct calculation the answer is (b) 2 times, while the book's printed key states (c) 4 times; option (c) is retained only to match the printed key.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "B",
+  "number": 1,
+  "question": "State the following gas laws.\n(i) Avogadro's law\n(ii) Charles law",
+  "answer": "(i) Avogadro's law: Equal volumes of all gases, measured at the same temperature and pressure, contain an equal number of molecules (equal number of moles). Mathematically, at constant temperature and pressure, V ∝ n, so V/n = constant and V₁/n₁ = V₂/n₂. One mole of any gas at STP occupies 22.4 dm³ and contains 6.02 × 10²³ molecules.\n(ii) Charles law: At constant pressure, the volume of a fixed mass of a gas is directly proportional to its absolute (Kelvin) temperature, V ∝ T at constant P and n, so V/T = constant and V₁/T₁ = V₂/T₂. Since the volume at 0°C is V₀, the volume at t°C is V = V₀(1 + t/273); a graph of V against T (in kelvin) is a straight line through the origin, and the graph of V against t meets the temperature axis at −273°C.",
+  "explanation": "Avogadro's law connects the amount of gas with its volume and leads to the molar volume of 22.4 dm³ at STP; Charles's law connects volume with absolute temperature at constant pressure. In both laws the temperature must be expressed in kelvin, because only then is volume directly proportional to temperature. Charles's law holds for an ideal gas and breaks down at low temperature, where a real gas liquefies; its extrapolated zero volume nevertheless defines absolute zero.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "B",
+  "number": 2,
+  "question": "State main postulates of kinetic molecular theory of gas.",
+  "answer": "The main postulates of the kinetic molecular theory of gases are:\n(i) A gas consists of a very large number of tiny particles (molecules or atoms) moving randomly in all directions at high speed.\n(ii) The actual volume of the molecules is negligible compared with the total volume of the container, so most of the space in a gas is empty.\n(iii) There are no appreciable attractive or repulsive forces between the molecules except during a collision, so the molecules move independently of one another.\n(iv) Collisions of the molecules with one another and with the walls of the container are perfectly elastic, so no kinetic energy is lost.\n(v) The molecules travel in straight lines between collisions, and the pressure of the gas is produced by their collisions with the walls of the container.\n(vi) The average kinetic energy of the molecules is directly proportional to the absolute temperature (KE per molecule = 3/2 kT and per mole = 3/2 RT) and is the same for all gases at the same temperature.\n(vii) The effect of gravity on the molecular motion is negligible.",
+  "explanation": "These postulates form an idealised model: molecular volume and intermolecular forces are deliberately ignored so that the simple relation PV = nRT can be derived from them. Real gases approach this model at high temperature and low pressure and depart from it when the molecules are close and slow. The postulate that average kinetic energy is proportional to absolute temperature is the link between the macroscopic temperature and molecular motion, and it explains why equal volumes of different gases at the same temperature have the same molar kinetic energy.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "B",
+  "number": 3,
+  "question": "Explain the following.\n(i) Pressure and its various units\n(ii) Absolute zero",
+  "answer": "(i) Pressure: Pressure is the force exerted normally per unit area, P = F/A. In a gas it is produced by the continuous collisions of the molecules with the walls of the container. The SI unit is the pascal (Pa = N m⁻²). Other units are the atmosphere (atm), the torr, the millimetre of mercury (mm Hg), the bar, the pound per square inch (psi) and the dyne cm⁻². Conversions: 1 atm = 760 mm Hg = 760 torr = 101,325 Pa = 101.325 kPa = 1.01325 bar = 14.7 psi = 1.013 × 10⁶ dyne cm⁻²; 1 torr = 1 mm Hg.\n(ii) Absolute zero: Absolute zero is the temperature at which the volume (and the pressure) of an ideal gas would theoretically become zero, that is −273.15°C. It is the zero of the Kelvin scale (0 K), so K = °C + 273. At absolute zero the translational kinetic energy of the molecules would be minimum. It is a limiting temperature that cannot be reached in practice, although temperatures within a small fraction of a kelvin above it have been produced in laboratories.",
+  "explanation": "Pressure is measured with a barometer when it is atmospheric pressure and with a manometer when it is the pressure of an enclosed gas; the height of the mercury column is the origin of the units mm Hg and torr. Since 1 atm = 760 torr = 101.325 kPa, any of these units can be converted into another. Absolute zero is the lower limit of the Kelvin scale; gas-law calculations must measure temperature from it, which is why Celsius values are converted by adding 273.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "B",
+  "number": 4,
+  "question": "What is liquid air? Mention its three uses.",
+  "answer": "Liquid air: When ordinary air is compressed and cooled to a very low temperature (about −196°C to −200°C) it condenses to a pale bluish liquid called liquid air. It is a mixture of liquid nitrogen (b.p. −196°C), liquid oxygen (b.p. −183°C) and liquid argon, and its components are separated by fractional distillation.\nThree uses:\n(i) As a coolant: liquid air is used as a refrigerant for the rapid freezing and preservation of food, blood, tissues and vaccines, and for producing very low temperatures in laboratories.\n(ii) As a source of oxygen: the oxygen obtained from liquid air is used in hospitals, in oxy-acetylene welding and cutting, in steel making and as an oxidant in rocket fuel.\n(iii) As a source of nitrogen and rare gases: nitrogen from liquid air is used in the manufacture of ammonia and fertilizers and as an inert atmosphere in industry, while argon, neon and other rare gases are used in lamps and discharge tubes.",
+  "explanation": "Liquid air is a physical mixture and not a compound, so its components keep their own boiling points and can be separated by fractional distillation. Its very low temperature is the basis of its use as a coolant, while the oxygen and nitrogen it supplies make it an important industrial raw material. Because liquid oxygen strongly supports combustion, liquid air must be handled carefully and kept away from organic materials.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "B",
+  "number": 5,
+  "question": "What is plasma? Give its significance in daily life.",
+  "answer": "Plasma: Plasma is the fourth state of matter. It is an ionized gas, a mixture of positive ions, free electrons and un-ionized atoms and molecules, produced when a gas is heated to a very high temperature or subjected to a strong electric field so that its atoms lose electrons. It is electrically conducting and is affected by electric and magnetic fields. Examples are the matter of the sun and stars, lightning, the glowing gas in fluorescent tubes and neon signs, and the flame of an electric arc.\nSignificance in daily life:\n(i) Fluorescent tube lights, neon signs and plasma display screens glow because of plasma.\n(ii) Lightning and the aurora are natural plasma phenomena, and plasma arcs are used in welding and cutting metals and in energy-saving lamps.\n(iii) Plasma technology is used for sterilizing medical equipment and for etching and coating in the electronics industry, and controlled nuclear fusion, a future energy source, depends on plasma.",
+  "explanation": "Plasma differs from an ordinary gas because a significant fraction of its atoms are ionized, so it contains free charges and conducts electricity. It is the most abundant state of matter in the universe, since stars are made of plasma, although on Earth it occurs naturally only in lightning and the upper atmosphere. Its practical importance comes from its ability to conduct current, emit light and carry very high energy, which is used in lighting, displays, welding, sterilization and fusion research.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "C",
+  "number": 1,
+  "question": "State and explain Dalton's law of partial pressure. Give practical applications of Dalton's law.",
+  "answer": "Statement: Dalton's law of partial pressure states that the total pressure exerted by a mixture of two or more non-reacting gases in a fixed volume at a given temperature is equal to the sum of the partial pressures of the individual gases. P(total) = P₁ + P₂ + P₃ + ...\nExplanation: The partial pressure of a gas in a mixture is the pressure that gas would exert if it alone occupied the same volume at the same temperature. In a mixture the molecules of each gas fill the whole container and strike the walls independently of the molecules of the other gases, since the gases do not react and the volume available to each is the same. Each gas therefore contributes its own pressure and the contributions simply add. For ideal gases Pᵢ = nᵢRT/V, so P(total) = (n₁ + n₂ + ...)RT/V = n(total)RT/V, and the partial pressure of a component is Pᵢ = xᵢP(total), where xᵢ is its mole fraction.\nPractical applications:\n(i) Collection of a gas over water: the pressure of the wet gas is the sum of the pressure of the gas and the vapour pressure of water, so P(gas) = P(total) − P(H₂O vapour).\n(ii) Respiration: in the lungs, oxygen passes into the blood and carbon dioxide passes out, and this exchange depends on the partial pressures of the gases in the alveolar air and in the blood, not on the total pressure.\n(iii) Diving and mountaineering: the physiological effect of each component of air (O₂, N₂, CO₂) depends on its partial pressure, which is why gas mixtures for divers are adjusted with depth.\n(iv) In hospitals the composition of oxygen and of anaesthetic gas mixtures is controlled by partial pressures; the law is also used in the preparation and analysis of gas mixtures and in the storage and transport of gases.",
+  "explanation": "The law follows directly from the kinetic model: in a mixture every gas occupies the whole container and its molecules collide with the walls independently, so the pressures add. It is exact only for non-reacting ideal gases; for real gases at high pressure the components interact slightly, so the law is only approximate. The mole-fraction form Pᵢ = xᵢP(total) is the most convenient in calculations. Collection over water, respiration and diving are the standard applications, and each of them requires subtracting or allowing for the partial pressure of a component rather than using the total pressure.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "C",
+  "number": 2,
+  "question": "Derive general gas equation. Also deduce the value of R in atm dm³/mol.K and J/mol.K.",
+  "answer": "Derivation: Consider a fixed amount (n moles) of a gas and combine the three gas laws.\nBoyle's law: at constant T, V ∝ 1/P.\nCharles's law: at constant P, V ∝ T.\nAvogadro's law: at constant T and P, V ∝ n.\nCombining the three proportionalities, V ∝ nT/P, therefore V = R(nT/P), where R is a constant of proportionality. Rearranging gives PV = nRT, the general (ideal) gas equation.\nFor a fixed mass of gas, nR is constant, so PV/T = constant and P₁V₁/T₁ = P₂V₂/T₂.\nValue of R in atm dm³ mol⁻¹ K⁻¹: at STP, P = 1 atm, V = 22.4 dm³, n = 1 mol and T = 273 K.\nR = PV/(nT) = (1 atm × 22.4 dm³)/(1 mol × 273 K) = 0.0821 atm dm³ mol⁻¹ K⁻¹.\nValue of R in J mol⁻¹ K⁻¹: 1 atm = 101,325 N m⁻² and 22.4 dm³ = 22.4 × 10⁻³ m³.\nR = (101,325 N m⁻² × 22.4 × 10⁻³ m³)/(1 mol × 273 K) = 2270 N m mol⁻¹ K⁻¹/273 = 8.314 J mol⁻¹ K⁻¹.\nAnswer: R = 0.0821 atm dm³ mol⁻¹ K⁻¹ = 8.314 J mol⁻¹ K⁻¹ (equivalently 8.314 × 10⁷ erg mol⁻¹ K⁻¹, about 2 cal mol⁻¹ K⁻¹).",
+  "explanation": "Each gas law describes the behaviour of a fixed amount of gas when one variable is held constant; combining them gives the general gas equation for a fixed mass, and adding Avogadro's law makes it valid for any amount, PV = nRT. R is a universal constant because one mole of every gas contains the same number of molecules and occupies 22.4 dm³ at STP. The value 0.0821 is used with atm and dm³, while 8.314 is used with pascals and m³ (joules); mixing these two sets of units is the usual source of error. The equation reduces to each individual gas law when the appropriate variables are held constant.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "C",
+  "number": 3,
+  "question": "How an ideal gas is differentiated from real gas? What are the causes of deviation of real gas from ideal behavior? Explain this deviation at low temperature and high pressure.",
+  "answer": "Difference between ideal and real gas:\nIdeal gas: it obeys PV = nRT at all temperatures and pressures; the volume of its molecules is negligible; there are no intermolecular forces; collisions are perfectly elastic; it cannot be liquefied; and its compressibility factor Z = PV/nRT is always exactly 1.\nReal gas: it obeys PV = nRT only approximately, at high temperature and low pressure; its molecules have a finite volume; intermolecular attractive forces exist; it can be liquefied by cooling and compression; and Z departs from 1 (Z is less than 1 at moderate pressure and greater than 1 at high pressure). Real gases obey the van der Waals equation (P + an²/V²)(V − nb) = nRT.\nCauses of deviation:\n(i) Finite volume of the molecules: the free space available to the molecules is less than the volume of the container, so the volume is corrected to (V − nb). This makes the observed pressure greater than that of an ideal gas, a positive deviation.\n(ii) Intermolecular attractive forces: the molecules attract one another, so they strike the walls with less force than they would in the absence of attractions, and the pressure is corrected to (P + an²/V²). This gives a negative deviation.\nDeviation at low temperature and high pressure: at low temperature the molecules have little kinetic energy, so the attractive forces become significant in comparison; at high pressure the molecules are forced close together, so their own volume is no longer negligible and the attractions are strong. Under these conditions Z falls below 1 (attractions dominate) and at very high pressure rises above 1 (the volume effect dominates), so the gas deviates most from ideal behaviour and may liquefy. Conversely, at high temperature and low pressure the molecules are far apart and fast, the correction terms become negligible and the gas approaches ideal behaviour.",
+  "explanation": "The ideal gas equation assumes point molecules with no forces between them; real molecules have a finite size (represented by the constant b) and attract one another (represented by the constant a), and these are exactly the two corrections in the van der Waals equation. At ordinary temperature and pressure the corrections are small, which is why real gases obey PV = nRT approximately. At low temperature and high pressure both corrections become large and the deviation is greatest, which is also the condition under which a gas can be liquefied. The compressibility factor Z = PV/nRT is a convenient measure: it equals 1 for an ideal gas and differs from 1 for a real gas.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "C",
+  "number": 4,
+  "question": "What is meant by diffusion and effusion? Explain Graham's law of diffusion.",
+  "answer": "Diffusion: Diffusion is the spontaneous spreading of the molecules of a gas through another gas (or through the same gas) from a region of higher concentration to a region of lower concentration, caused by their random molecular motion. For example, the smell of ammonia spreads through a room, and bromine vapour gradually fills a closed jar.\nEffusion: Effusion is the escape of gas molecules through a very small hole (a pinhole or a porous plug) into a region of lower pressure, molecule by molecule, without collisions between molecules in the hole. For example, gas escapes through a tiny hole in a balloon.\nGraham's law of diffusion: At constant temperature and pressure, the rate of diffusion (or effusion) of a gas is inversely proportional to the square root of its density or molar mass:\nr ∝ 1/√d and r ∝ 1/√M.\nFor two gases at the same temperature and pressure:\nr₁/r₂ = √(d₂/d₁) = √(M₂/M₁).\nExplanation: At a given temperature all gases have the same average kinetic energy, so ½m₁v₁² = ½m₂v₂², which gives v₁/v₂ = √(m₂/m₁) = √(M₂/M₁). The lighter gas therefore moves faster and diffuses or effuses faster. For example, r(H₂)/r(O₂) = √(32/2) = 4, so hydrogen diffuses four times as fast as oxygen. The law is used in the separation of isotopes (for example ²³⁵UF₆ from ²³⁸UF₆) and in the detection of leaks.",
+  "explanation": "Diffusion and effusion are both consequences of the random motion of gas molecules and both are described by Graham's law, but they differ in geometry: diffusion is spreading through a bulk gas, whereas effusion is escape through a hole whose diameter is smaller than the mean free path of the molecules. Graham's law follows from the equipartition of kinetic energy at a given temperature, which gives the inverse square-root dependence on molar mass. It is exact only for ideal gases at low pressure; at high pressure the molecules collide with one another in the hole and the simple law fails.",
+  "pdfPage": 108,
+  "bookPage": 102
+ },
+ {
+  "section": "D",
+  "number": 1,
+  "question": "Gorakh hill station is coldest area of Sindh province and has 83 kPa barometer pressure. What will be the pressure of this area in psi and atm units?",
+  "answer": "Given: P = 83 kPa.\nConversion factors: 1 atm = 101.325 kPa; 1 atm = 14.696 psi (≈ 14.7 psi).\n(i) Pressure in atm: P = 83 kPa × (1 atm/101.325 kPa) = 0.819 atm ≈ 0.82 atm.\n(ii) Pressure in psi: P = 0.819 atm × 14.696 psi atm⁻¹ = 12.04 psi. Directly, 83 kPa × 0.14504 psi kPa⁻¹ = 12.04 psi.\nAnswer: the barometric pressure at Gorakh hill station is 0.819 atm (≈ 0.82 atm) and 12.04 psi (≈ 12 psi). No printed [Ans] is given for this question.",
+  "explanation": "Pressure is force per unit area, so the same pressure may be expressed in any unit of force per unit area. Here kPa is converted to atm through the exact relation 1 atm = 101.325 kPa, and atm is converted to psi through 1 atm = 14.696 psi. Since the atmosphere is about 101 kPa, a pressure of 83 kPa must be a little less than 1 atm, namely 0.82 atm; and since 1 atm is about 14.7 psi, the answer near 12 psi is reasonable. The same pressure is 0.819 × 760 = 622 torr.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 2,
+  "question": "Calculate the volume occupied by 8 g of methane gas at 40°C and 842 torr pressure? [Ans: V = 11.58 dm³]",
+  "answer": "Given: mass of CH₄ = 8 g; T = 40°C = 40 + 273 = 313 K; P = 842 torr = 842/760 atm = 1.108 atm; R = 0.0821 atm dm³ mol⁻¹ K⁻¹; M(CH₄) = 16 g mol⁻¹.\nNumber of moles: n = 8 g/16 g mol⁻¹ = 0.5 mol.\nFormula: PV = nRT, so V = nRT/P.\nSubstitution: V = (0.5 mol × 0.0821 atm dm³ mol⁻¹ K⁻¹ × 313 K)/1.108 atm = 12.85 atm dm³/1.108 atm = 11.59 dm³.\nAnswer: V ≈ 11.58 dm³, in agreement with the printed [Ans: V = 11.58 dm³].",
+  "explanation": "The ideal gas equation requires the amount in moles, the pressure in the same units as R and the temperature in kelvin, so 842 torr is divided by 760 and 40°C is changed to 313 K. With R = 0.0821 atm dm³ mol⁻¹ K⁻¹ the volume comes out directly in dm³. Common errors are to use 40 K or to forget converting torr into atm, both of which give a wrong volume. As a check, 0.5 mol at 313 K and about 1.1 atm should occupy roughly half of 22.4 × (313/273) × (760/842) ≈ 11.6 dm³, which agrees with the printed answer.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 3,
+  "question": "At 35°C, oxygen gas in a cylinder has 456 cm³ volume and 0.85 atm pressure. Calculate the pressure when this oxygen gas is transferred to 10 dm³ cylinder and cooled to 20°C. [Ans: 0.037 atm]",
+  "answer": "Given: P₁ = 0.85 atm; V₁ = 456 cm³ = 456/1000 dm³ = 0.456 dm³; T₁ = 35 + 273 = 308 K; V₂ = 10 dm³; T₂ = 20 + 273 = 293 K; the amount of gas is constant.\nFormula (combined gas law): P₁V₁/T₁ = P₂V₂/T₂, so P₂ = P₁V₁T₂/(V₂T₁).\nSubstitution: P₂ = (0.85 atm × 0.456 dm³ × 293 K)/(10 dm³ × 308 K) = (113.57 atm dm³ K)/(3080 dm³ K) = 0.0369 atm.\nAnswer: P₂ ≈ 0.037 atm, matching the printed [Ans: 0.037 atm].",
+  "explanation": "Because the mass and therefore the number of moles of oxygen do not change, the combined gas law P₁V₁/T₁ = P₂V₂/T₂ applies. The volume is increased from 0.456 dm³ to 10 dm³, about 22 times, which lowers the pressure by that factor, while cooling from 308 K to 293 K lowers it a little further; starting from 0.85 atm the result must therefore be a few hundredths of an atmosphere. Both temperatures must be in kelvin, and volumes must be in the same unit (cm³ would cancel as well). The small value 0.037 atm is consistent with the printed answer.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 4,
+  "question": "Compare the rates of diffusion of the following pairs of gases:\n(1) H₂ and D₂\n(2) He and SO₂\n(3) SF₆ and SO₂",
+  "answer": "Formula (Graham's law at the same temperature and pressure): r₁/r₂ = √(M₂/M₁), where M is the molar mass.\n(1) H₂ (M = 2 g mol⁻¹) and D₂ (M = 4 g mol⁻¹): r(H₂)/r(D₂) = √(4/2) = √2 = 1.41. Hydrogen diffuses 1.41 times as fast as deuterium; the ratio is 1.41 : 1.\n(2) He (M = 4 g mol⁻¹) and SO₂ (M = 64 g mol⁻¹): r(He)/r(SO₂) = √(64/4) = √16 = 4. Helium diffuses 4 times as fast as sulphur dioxide; the ratio is 4 : 1.\n(3) SF₆ (M = 32 + 6 × 19 = 146 g mol⁻¹) and SO₂ (M = 64 g mol⁻¹): r(SO₂)/r(SF₆) = √(146/64) = √2.28 = 1.51, equivalently r(SF₆)/r(SO₂) = 1/1.51 = 0.66. Sulphur dioxide diffuses 1.51 times as fast as sulphur hexafluoride.\nAnswer as printed: [Ans: 1.41/1, 4/1, 1.51/1]; the third value is quoted with the lighter gas, SO₂, in the numerator, that is SO₂ : SF₆ = 1.51 : 1.",
+  "explanation": "Graham's law compares rates through the inverse square root of the molar mass, so the lighter gas is always the faster one and each ratio is written here with the lighter gas first. D₂ (deuterium, ²H₂) has molar mass 4 because each deuterium atom has mass 2, so hydrogen is faster than deuterium by only √2, not by 2. In pair (3) the printed value 1.51/1 places SO₂ (M = 64) over SF₆ (M = 146), meaning that SO₂ diffuses 1.51 times faster; the reverse ratio is 0.66. The molar masses of the molecular gases must be used, not those of the individual atoms.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 5,
+  "question": "Four containers of equal volume are filled as follows:\n(i) 2.0 g of H₂ at 0°C\n(ii) 1.0 g of H₂ at 273°C\n(iii) 24 g of O₂ at 0°C\n(iv) 16 g of CH₄ at 273°C\n(a) Which container is at the greatest pressure?\n(b) Which container is at the lowest pressure?",
+  "answer": "Reasoning: for equal volumes, PV = nRT gives P ∝ nT, so the pressure is proportional to the product of the number of moles and the absolute temperature.\n(i) n = 2.0/2 = 1.0 mol, T = 273 K, so nT = 1.0 × 273 = 273 mol K.\n(ii) n = 1.0/2 = 0.5 mol, T = 273 + 273 = 546 K, so nT = 0.5 × 546 = 273 mol K.\n(iii) n = 24/32 = 0.75 mol, T = 273 K, so nT = 0.75 × 273 = 205 mol K.\n(iv) n = 16/16 = 1.0 mol, T = 273 + 273 = 546 K, so nT = 1.0 × 546 = 546 mol K.\n(a) Container (iv) has the greatest value of nT (546 mol K), so it is at the greatest pressure. Taking V = 1 dm³ for comparison, P = nRT/V = 1.0 × 0.0821 × 546 = 44.8 atm.\n(b) Container (iii) has the smallest value of nT (205 mol K), so it is at the lowest pressure. P = 0.75 × 0.0821 × 273 = 16.8 atm.\nFor comparison, containers (i) and (ii) both give P = 1.0 × 0.0821 × 273 = 22.4 atm.\nAnswer as printed: [Ans: a = iv and b = iii], that is (a) container (iv), 16 g of CH₄ at 273°C, and (b) container (iii), 24 g of O₂ at 0°C.",
+  "explanation": "The pressure in a fixed volume depends on both the number of moles and the absolute temperature, so the containers must be compared on the product nT, not on mass or on temperature alone. This is why container (ii), with only 1.0 g of hydrogen, has the same pressure as container (i) with 2.0 g: its amount is halved but its absolute temperature is doubled. Container (iv) has both the largest amount (1 mol) and the higher temperature (546 K), hence the highest pressure, while container (iii) has the fewest moles and the lower temperature, hence the lowest. Note that 273°C is 546 K, not 273 K.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 6,
+  "question": "A 500 cm³ vessel contains H₂ gas at 400 torr pressure and another 1 dm³ vessel contains O₂ gas at 600 torr pressure. If under the similar condition of temperature these gases are transferred to 2 dm³ empty vessel, calculate the pressure of the mixture of gases in new vessel.",
+  "answer": "Given (temperature constant): for H₂, P₁ = 400 torr and V₁ = 500 cm³ = 0.5 dm³; for O₂, P₁ = 600 torr and V₁ = 1 dm³; the final volume of each gas is V₂ = 2 dm³.\nStep 1, new partial pressure of H₂ (Boyle's law, P₁V₁ = P₂V₂): P(H₂) = 400 torr × 0.5 dm³/2 dm³ = 100 torr.\nStep 2, new partial pressure of O₂: P(O₂) = 600 torr × 1 dm³/2 dm³ = 300 torr.\nStep 3, Dalton's law of partial pressures: P(total) = P(H₂) + P(O₂) = 100 torr + 300 torr = 400 torr.\nAnswer: the pressure of the mixture in the new vessel is 400 torr, which is 400/760 = 0.526 atm ≈ 53.3 kPa. No printed [Ans] is given for this question.",
+  "explanation": "When the two gases are transferred to the common vessel, each gas fills the whole 2 dm³, so its partial pressure falls in proportion to the increase in the volume available to it (Boyle's law at constant temperature). The partial pressures are then added according to Dalton's law because the gases do not react. The total is not obtained by simply adding 400 torr and 600 torr, since the original vessels had different volumes and each gas expands by a different factor. The result, 400 torr, is less than atmospheric pressure.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 7,
+  "question": "If 16 cm³ of hydrogen effuses in 30 sec, from a porous material, what volume of SO₂ will effuse in the same time (30 sec.) under similar conditions?",
+  "answer": "Given: V(H₂) = 16 cm³ in t = 30 s; M(H₂) = 2 g mol⁻¹; M(SO₂) = 64 g mol⁻¹; the time and all conditions are the same for both gases.\nFormula (Graham's law of effusion): for equal times, V₁/V₂ = r₁/r₂ = √(M₂/M₁).\nRearranged: V(SO₂) = V(H₂) × √(M(H₂)/M(SO₂)).\nSubstitution: V(SO₂) = 16 cm³ × √(2/64) = 16 cm³ × √0.03125 = 16 × 0.1768 cm³ = 2.83 cm³.\nAnswer: about 2.83 cm³ of SO₂ will effuse in 30 seconds. This is consistent with the rate ratio: SO₂ effuses √(64/2) = 5.66 times more slowly than H₂, and 16/5.66 = 2.83. No printed [Ans] is given for this question.",
+  "explanation": "For effusion through the same porous material in the same time, the volume escaping is proportional to the rate of effusion, so Graham's law can be applied directly to the volumes. SO₂ (M = 64) is 32 times as heavy as H₂ (M = 2), so it effuses √32 = 5.66 times more slowly, giving 16/5.66 ≈ 2.83 cm³. The time of 30 s is the same for both gases, so it cancels and does not enter the calculation; it would matter only if the two times were different.",
+  "pdfPage": 109,
+  "bookPage": 103
+ },
+ {
+  "section": "D",
+  "number": 8,
+  "question": "40 dm³ of hydrogen gas was collected over water at 831 torr pressure at 23°C. What would be the volume of dry hydrogen gas at standard conditions? The vapour pressure of water at 23°C is 21 torr of Hg.",
+  "answer": "Given: V₁ = 40 dm³ of wet hydrogen; P(total) = 831 torr; P(H₂O vapour) = 21 torr at 23°C; T₁ = 23 + 273 = 296 K; at STP, P₂ = 760 torr and T₂ = 273 K.\nStep 1, pressure of dry hydrogen (Dalton's law): P₁(H₂) = P(total) − P(H₂O) = 831 − 21 = 810 torr.\nStep 2, combined gas law: P₁V₁/T₁ = P₂V₂/T₂, so V₂ = P₁V₁T₂/(P₂T₁).\nSubstitution: V₂ = (810 torr × 40 dm³ × 273 K)/(760 torr × 296 K) = 8,845,200 torr dm³ K/224,960 torr K = 39.3 dm³.\nAnswer: the volume of the dry hydrogen at STP would be 39.3 dm³ (about 39.32 dm³). No printed [Ans] is given for this question.",
+  "explanation": "Hydrogen collected over water is saturated with water vapour, so the measured 831 torr is the total pressure of the mixture and Dalton's law must be used to obtain the pressure of the dry gas, 810 torr. The combined gas law then corrects this dry volume from 296 K and 810 torr to 273 K and 760 torr. Cooling contracts the gas by the factor 273/296, while the fall in pressure from 810 torr to 760 torr expands it slightly, so the final volume is a little below 40 dm³. Using 831 torr without subtracting the vapour pressure is the common mistake and would give about 40.3 dm³.",
+  "pdfPage": 109,
+  "bookPage": 103
+ }
+]

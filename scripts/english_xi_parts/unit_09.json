@@ -1,0 +1,632 @@
+[
+  {
+    "id": "u9_r_pre_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What comes to your mind after seeing the above pictures?",
+    "answer": "The pictures bring to mind the enormous variety of work that people do. Every figure is dressed for a different job - a carpenter with a plank of wood, a doctor in a white coat, a farmer with a pitchfork, a pilot in uniform, a musician with a guitar - and each one is doing something useful for society. The first thought that comes to my mind is that no single occupation is more important than another, because the carpenter's table, the farmer's wheat and the doctor's medicine are all needed by the same family. The second thought is that this variety is also a challenge: since there are so many roads open to us, choosing the one that suits our interest, personality and ability is one of the most important decisions of our lives. That is exactly the question the unit takes up - what do you want to be?",
+    "explanation": "Open-ended pre-reading task based on the picture strip; the answer names what the pictures show and leads into the theme of the unit.",
+    "bookPage": 143
+  },
+  {
+    "id": "u9_r_pre_q2",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "2",
+    "question": "List down the occupations according to the above picture.",
+    "answer": "The occupations shown in the picture, read from left to right, are:\n1. Carpenter (man carrying a plank of wood, wearing overalls and a tool belt)\n2. Soldier / security guard (man in a green uniform and cap)\n3. Teacher (woman in a blue uniform suit holding a pointer)\n4. Construction worker / builder (man in a yellow hard hat and orange overalls with a shovel)\n5. Mechanic (woman in blue overalls with a red scarf)\n6. Firefighter (person in an orange protective suit and helmet)\n7. Pilot (man in a dark navy uniform with a peaked cap)\n8. Doctor (man in a long white coat with a stethoscope)\n9. Farmer (bearded man in a straw hat and overalls holding a pitchfork)\n10. Engineer / technician (man in a white shirt and a yellow hard hat)\n11. Office worker / call-centre agent (woman in a green headscarf holding a phone)\n12. Businessman (man in a black suit carrying a briefcase)\n13. Shopkeeper / clerk (man in a shirt, tie and red waistcoat)\n14. Manager (woman in a dark skirt suit holding a file)\n15. Radio jockey / DJ (person wearing headphones)\n16. Musician (man playing a guitar)",
+    "explanation": "Each occupation is identified from the uniform, tool or equipment the figure carries; some figures can be named in more than one way, so closely related job titles are given.",
+    "bookPage": 143
+  },
+  {
+    "id": "u9_r_pre_q3",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Which of these professions you would like to have for your career?",
+    "answer": "Of all the professions in the picture, I would like to be a doctor. The reason is not the white coat or the respect the profession carries, but the work itself: a doctor meets people on the worst day of their lives and is able to do something about it. I have always been good at biology and chemistry, I can stay calm when others are frightened, and I do not mind studying for many years if the studying has a purpose. I also like the fact that medicine is a career and not merely a job: a doctor keeps learning, keeps growing and never becomes useless. I know the road is hard - high marks in FSc pre-medical, a difficult MDCAT, then five years of MBBS and a house job - but that is exactly the kind of long-term path the reading text describes as a career.",
+    "explanation": "Open-ended personal-response question; the model answer gives a choice and links it to interest, ability and the job-versus-career distinction made in the text.",
+    "bookPage": 143
+  },
+  {
+    "id": "u9_r_ex1_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and deduce the meaning of words given in column A and write their contextual meaning in column B. Share with your partner once you have completed.",
+    "answer": "No. | Column A | Column B (contextual meaning)\n1 | speculative | based on guesswork or imagination rather than on facts; the text contrasts an 'idealistic or speculative musing' with a decision that must be thought through seriously.\n2 | peers | people of the same age, status or group as oneself; 'peer pressure' is the influence such friends and classmates put on a student's choice.\n3 | interchangeable | able to be used in place of each other because they seem equal; the text says jobs and careers are treated as 'synonymous and interchangeable' although they are not the same.\n4 | embarking | setting out, beginning a long course of action; 'before embarking on a journey to choose a career' means before starting that journey.\n5 | prevailing | existing or dominant at a particular time; 'prevailing social trends' are the fashions and fads that most people are following at present.\n6 | extroverted | outgoing and sociable, enjoying the company of other people; such a person 'finds a social, customer-oriented workplace more appealing'.\n7 | introverted | inward-looking and reserved, comfortable with one's own company; such a person prefers work with 'less social interaction and more independent analytical tasks'.\n8 | aptitude | a natural ability or talent for learning a particular kind of work; an aptitude test measures whether one's abilities suit a chosen field.\n9 | veteran | a person who has long experience in a particular field; 'a veteran of the field' can explain its real expectations, difficulties and rewards.\n10 | retrospection | the act of looking back and thinking about what has happened; the text asks for 'a serious retrospection' before redesigning one's goals.",
+    "explanation": "Each meaning is deduced from the sentence in which the word is used in the reading text, not from a dictionary list.",
+    "bookPage": 146
+  },
+  {
+    "id": "u9_r_ex2_q1",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "Job is a ________ term strategy.",
+    "options": [
+      {"key": "a", "text": "long"},
+      {"key": "b", "text": "short"},
+      {"key": "c", "text": "medium"},
+      {"key": "d", "text": "none of these"}
+    ],
+    "optionsRaw": "(a) long   (b) short   (c) medium   (d) none of these",
+    "answer": "(b) short - the text says that a job 'is a short-term strategy and does not necessarily require a professional degree or future planning'.",
+    "correctAnswer": "(b) short",
+    "explanation": "The second paragraph of the reading text states this directly; long-term planning belongs to a career, not to a job.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q2",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "Many students choose a particular field because of ________.",
+    "options": [
+      {"key": "a", "text": "prevailing social trends"},
+      {"key": "b", "text": "insistence of family"},
+      {"key": "c", "text": "peer pressure"},
+      {"key": "d", "text": "all of these"}
+    ],
+    "optionsRaw": "(a) prevailing social trends   (b) insistence of family   (c) peer pressure   (d) all of these",
+    "answer": "(d) all of these - the text says many students choose 'based on prevailing social trends, the insistence of family, peer pressure, or lack of information about other choices, not because of their genuine interest in that field'.",
+    "correctAnswer": "(d) all of these",
+    "explanation": "The text lists the first three reasons together, so (a), (b) and (c) are all correct and (d) is the complete answer.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q3",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "An introverted person requires ________ interaction.",
+    "options": [
+      {"key": "a", "text": "much"},
+      {"key": "b", "text": "less"},
+      {"key": "c", "text": "no"},
+      {"key": "d", "text": "constant"}
+    ],
+    "optionsRaw": "(a) much   (b) less   (c) no   (d) constant",
+    "answer": "(b) less - 'an introverted person may be more at ease in a career that requires less social interaction and more independent analytical tasks'.",
+    "correctAnswer": "(b) less",
+    "explanation": "The text says 'less', not 'no': an introvert does work with people, but is happier with less social contact than an extrovert.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q4",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "Engineering may be a good field for someone who likes to do ________ work.",
+    "options": [
+      {"key": "a", "text": "practical"},
+      {"key": "b", "text": "theoretical"},
+      {"key": "c", "text": "analytical"},
+      {"key": "d", "text": "creative"}
+    ],
+    "optionsRaw": "(a) practical   (b) theoretical   (c) analytical   (d) creative",
+    "answer": "(a) practical - the text says 'Engineering may be a good field for someone who likes to do practical work in the field'.",
+    "correctAnswer": "(a) practical",
+    "explanation": "The sentence is quoted almost word for word from the paragraph on personality type and values.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q5",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "Study of computer science requires ________ skills.",
+    "options": [
+      {"key": "a", "text": "accounting"},
+      {"key": "b", "text": "chemistry"},
+      {"key": "c", "text": "logical"},
+      {"key": "d", "text": "imagination"}
+    ],
+    "optionsRaw": "(a) accounting   (b) chemistry   (c) logical   (d) imagination",
+    "answer": "(c) logical - 'the study of computational algorithms necessitates solid and logical skills'.",
+    "correctAnswer": "(c) logical",
+    "explanation": "Accounting is given in the text as the requirement for a chartered accountant, not for computer science.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q6",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "Choosing career requires ________.",
+    "options": [
+      {"key": "a", "text": "interest"},
+      {"key": "b", "text": "personality"},
+      {"key": "c", "text": "skills"},
+      {"key": "d", "text": "all of these"}
+    ],
+    "optionsRaw": "(a) interest   (b) personality   (c) skills   (d) all of these",
+    "answer": "(d) all of these - the text deals with interest ('the first thing ... is to make sure it interests you'), personality and values ('your personality type and your values also determine the choice of career') and skills ('identify your strengths and weaknesses ... the required skills').",
+    "correctAnswer": "(d) all of these",
+    "explanation": "The whole reading text builds its advice on these three requirements, so no single option is complete.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q7",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "Professional career counsellor may ________.",
+    "options": [
+      {"key": "a", "text": "give you a job"},
+      {"key": "b", "text": "decide your career"},
+      {"key": "c", "text": "guide you"},
+      {"key": "d", "text": "give you scholarship"}
+    ],
+    "optionsRaw": "(a) give you a job   (b) decide your career   (c) guide you   (d) give you scholarship",
+    "answer": "(c) guide you - the counsellor 'may not only be able to help you to choose your career but may also guide you through the admission process with suggestions for suitable institutions, methods to obtain scholarships or inform you of the eligibility criteria of financial aid if need be'.",
+    "correctAnswer": "(c) guide you",
+    "explanation": "A counsellor advises; he does not hand out jobs, take the decision for you, or award a scholarship himself - he only tells you how one may be obtained.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q8",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "SAT stands for ________.",
+    "options": [
+      {"key": "a", "text": "Scholastic Assessment Test"},
+      {"key": "b", "text": "School Aptitude Test"},
+      {"key": "c", "text": "Scholarship Achievement Test"},
+      {"key": "d", "text": "Selection & Admission Test"}
+    ],
+    "optionsRaw": "(a) Scholastic Assessment Test   (b) School Aptitude Test   (c) Scholarship Achievement Test   (d) Selection & Admission Test",
+    "answer": "(a) Scholastic Assessment Test - the text mentions that 'some also accept the SAT score' when admitting students, and SAT is the standard American Scholastic Assessment Test used for university admission.",
+    "correctAnswer": "(a) Scholastic Assessment Test",
+    "explanation": "The reading text names the SAT but does not expand the abbreviation, so the expansion is supplied from general knowledge; option (b) confuses the SAT with the aptitude tests mentioned in an earlier paragraph.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q9",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "To get information about admission one should ________.",
+    "options": [
+      {"key": "a", "text": "ask other students"},
+      {"key": "b", "text": "visit university websites"},
+      {"key": "c", "text": "read books"},
+      {"key": "d", "text": "consult parents"}
+    ],
+    "optionsRaw": "(a) ask other students   (b) visit university websites   (c) read books   (d) consult parents",
+    "answer": "(b) visit university websites - 'almost every university has a functional website where detailed admission-related information is available ... Visit the websites of different universities to familiarize yourself with the format and content of the test'.",
+    "correctAnswer": "(b) visit university websites",
+    "explanation": "The text recommends the official website as the source of detailed admission information; other students and parents may not have accurate or current details.",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex2_q10",
+    "sectionCode": "U9S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "If you don't succeed you should ________.",
+    "options": [
+      {"key": "a", "text": "give up"},
+      {"key": "b", "text": "try with same method"},
+      {"key": "c", "text": "rethink strategy"},
+      {"key": "d", "text": "sit idle"}
+    ],
+    "optionsRaw": "(a) give up   (b) try with same method   (c) rethink strategy   (d) sit idle",
+    "answer": "(c) rethink strategy - the text says failure 'simply means to have a serious retrospection, and if required, redesign your goals. It also means reviewing your strategy and making an effort with new vigour'.",
+    "correctAnswer": "(c) rethink strategy",
+    "explanation": "Repeating the same method is not recommended, and giving up is expressly rejected ('This does not mean giving up on your dreams').",
+    "bookPage": 147
+  },
+  {
+    "id": "u9_r_ex3_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Here are some exciting careers. Work in pairs and match the profession with the description. After you have completed, share your work with your partner.",
+    "answer": "No. | Column A: Profession | Column B: Description | Column C: Answer\n1 | Actuary | calculates insurance risks and premiums | e\n2 | Astronaut | travels in a spacecraft | j\n3 | Veterinarian | cures sick animals | a\n4 | Chef | cooks food | i\n5 | Ecologist | studies environment | b\n6 | Ornithologist | studies birds | h\n7 | Programmer | makes computer software | c\n8 | Editor | corrects texts of films | d\n9 | Palaeontologist | studies fossils | f\n10 | Pharmacist | makes medicines | g",
+    "explanation": "Each match follows the meaning of the word: 'ornitho-' means bird, 'paleo-' means ancient, 'eco-' means environment, while an actuary works with insurance statistics.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What are the differences between a job and a career?",
+    "answer": "A job is the work one does to earn money. It may be full-time, 'to make a living', or part-time, 'to support a student during the academic term'; it is 'a short-term strategy' and 'does not necessarily require a professional degree or future planning'. A career, on the other hand, is 'a long-term journey based on one's passions, future growth, and personal advancement'; for a career one needs 'a certain level of education, a professional degree, or, at least, a definite skill set'. So a job answers the question 'how will I earn this month?', while a career answers the question 'what am I building my whole life towards?'",
+    "explanation": "Taken from the second paragraph of the reading text, which sets out the distinction point by point.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q2",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Why should you choose a career that interests you?",
+    "answer": "Because interest is what keeps a person working when the work becomes difficult. The text says that a career should be 'something which brings you satisfaction and happiness', and that 'you will be more successful, fulfilled, and productive if you are enthusiastic about your chosen path'. A student who chooses a field for other reasons - social trends, family pressure, peers - soon 'finds no motivation to continue', and this lack of motivation 'leads to dissatisfaction and negative emotional experience'. The text adds that 'every field offers potential growth, success, and satisfaction if you excel in it by putting your heart and soul into it', and nobody can put his heart into work that bores him.",
+    "explanation": "Built from the paragraph beginning 'The first thing you should do while choosing a career ...'.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q3",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "3",
+    "question": "What causes de-motivation in career?",
+    "answer": "De-motivation comes from choosing a field for the wrong reason. The text says that 'many students choose a particular field based on prevailing social trends, the insistence of family, peer pressure, or lack of information about other choices, not because of their genuine interest in that field'. In the beginning such a choice seems safe, but after some time the student 'finds no motivation to continue', and 'this lack of motivation leads to dissatisfaction and negative emotional experience'. In other words, the cause is not laziness but a mismatch between the work and the student's own interest, values and abilities.",
+    "explanation": "The third paragraph of the text gives the causes and the result of choosing a field without genuine interest.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q4",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "4",
+    "question": "What are the examples of personal values given in the text?",
+    "answer": "The text says that 'for some, it is independence, and for others, it is recognition or leadership. Some wish to help humanity, and others desire intellectual, scientific, or artistic achievements.' These five values - independence, recognition, leadership, service to humanity, and intellectual, scientific or artistic achievement - are the examples given. The text explains that one's career decision 'should correspond and complement your values, suiting and matching your personality type'.",
+    "explanation": "Quoted from the paragraph on personality type and values.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q5",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "5",
+    "question": "What is the difference between an extroverted person and an introverted person?",
+    "answer": "An extroverted person is outgoing and likes people, so he 'finds a social, customer-oriented workplace more appealing'. An introverted person is reserved and inward-looking, so he 'may be more at ease in a career that requires less social interaction and more independent analytical tasks'. The difference, therefore, lies in how much contact with people each type of person can handle comfortably, and this is why the text advises matching the career to the personality type - for example, engineering for someone who 'likes to do practical work in the field'.",
+    "explanation": "Direct comparison drawn from the paragraph on personality type and values.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q6",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "6",
+    "question": "What are the core skills required for a charted accountant and a visual artist?",
+    "answer": "For a chartered accountant the core requirement is 'good knowledge of accounting', because the work depends on accurate figures, records and rules. For a visual artist the requirement is to be 'creative and artistic - attributes that can be displayed through your work'. The text makes the general point behind both examples: 'You may choose a career only when you are sure that you possess the required skill or you will be able to master the needed skills.' (The printed question has 'charted'; the profession meant is chartered accountant.)",
+    "explanation": "Taken from the paragraph on identifying strengths and weaknesses; the stem is reproduced verbatim with the printed spelling 'charted'.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q7",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "7",
+    "question": "What is an aptitude test? How does it help in choosing a career?",
+    "answer": "An aptitude test is a test that measures a person's natural ability for a particular kind of work - for example, reasoning, numerical or spatial ability - rather than the facts he has memorized. The text says that 'there are many aptitude tests available online that can help you to reach a suitable decision', and that they help you 'make sure that your abilities and interests are compatible with your intended career path'. In other words, the test tells a student whether he actually has, or can develop, the skills his chosen field demands, so that he does not spend years preparing for work he is unsuited to.",
+    "explanation": "Definition combines the meaning of 'aptitude' with the text's sentence about online aptitude tests in the strengths-and-weaknesses paragraph.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q8",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Why is it necessary to consult a veteran of the field before choosing a career?",
+    "answer": "Because 'sometimes, we have a very idealistic and unattainable perception of our dream career'. An experienced person corrects that picture: 'By consulting a veteran of the field, you may gain valuable insight into the particular field's expectations, procedures, difficulties, and rewards.' The text gives practical examples - a student interested in academia should approach his teacher, and one who dreams of the army should talk to an army officer or visit a recruitment centre to learn about 'the demanding selection criteria'. Such first-hand information saves a young person from disappointment later.",
+    "explanation": "The answer follows the paragraph that opens 'Sometimes, we have a very idealistic and unattainable perception ...'.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q9",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "9",
+    "question": "How can a professional career counsellor help you?",
+    "answer": "A professional career counsellor 'may not only be able to help you to choose your career but may also guide you through the admission process with suggestions for suitable institutions, methods to obtain scholarships or inform you of the eligibility criteria of financial aid if need be'. He can also advise on entrance tests, since the text recommends attending 'career counselling seminars' and taking mock tests to identify weak areas. In short, a counsellor turns a vague ambition into a practical plan of institutions, tests, dates and funding.",
+    "explanation": "Quoted from the paragraph on consulting experienced people and counsellors.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex4_q10",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Why is it wiser to have a backup plan?",
+    "answer": "Because 'sometimes, despite our genuine efforts, we are unable to achieve our goals', and a person without an alternative is left with nothing. The text explains that having a backup plan 'does not mean giving up on your dreams. Instead, it simply means to have a serious retrospection, and if required, redesign your goals. It also means reviewing your strategy and making an effort with new vigour, more experienced, and first-hand insight.' A backup plan therefore keeps the candidate realistic and confident: he knows that even if one door closes, 'life is a sea of opportunities' and he can explore another.",
+    "explanation": "The last two paragraphs of the reading text give both the reason and the correct attitude towards a backup plan.",
+    "bookPage": 148
+  },
+  {
+    "id": "u9_r_ex5_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually and match the personality type with their corresponding description. After you have completed, share your work with your class fellows.",
+    "answer": "No. | Personality type | Correct description (No.) | Description matched\n1 | Realistic | 4 | likes to work with their bodies and do practical work\n2 | Investigative | 5 | likes to work with ideas and problems\n3 | Artistic | 3 | likes to create new things and express their ideas\n4 | Social | 6 | likes to work with and help other people\n5 | Enterprising | 1 | likes to lead and influence other people\n6 | Conventional | 2 | likes to organize things and check details",
+    "explanation": "The descriptions in the printed table are deliberately jumbled, so the row-by-row pairing must not be copied: 'realistic' people work with their hands, 'investigative' with ideas, 'artistic' with creation, 'social' with helping, 'enterprising' with leading, and 'conventional' with organizing and checking details.",
+    "bookPage": 149
+  },
+  {
+    "id": "u9_r_ex6_q1",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "a",
+    "question": "Exercise 6, step a: Make a list of your career-related interests and values.",
+    "answer": "My career-related interests:\n- Biology, especially the working of the human body, and chemistry.\n- Helping people who are ill or worried; first aid and hospital volunteering.\n- Reading about medical research and new treatments.\n- Explaining difficult things to classmates in simple words.\n\nMy career-related values:\n- Service to humanity - being useful to people in pain.\n- Respect and trust in the community.\n- Intellectual achievement - I enjoy understanding how things work.\n- Security - a profession in which hard work and honesty are rewarded.\n- Continuous learning - a field in which one never stops studying.",
+    "explanation": "Open-ended self-assessment task; the model list follows the reading text's advice that interest and values should guide the choice of career.",
+    "bookPage": 149
+  },
+  {
+    "id": "u9_r_ex6_q2",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "b",
+    "question": "Exercise 6, step b: Write down your natural skills and abilities.",
+    "answer": "My natural skills and abilities:\n1. Good memory and the ability to learn a large amount of factual material (biology, chemistry, anatomy).\n2. Patience and a calm manner - I do not panic when somebody is hurt or crying.\n3. Clear communication: I can explain an idea in Urdu or English so that a weak student understands it.\n4. Careful observation and attention to small details (I notice changes in a patient's condition or in an experiment).\n5. Steady hands and neat work in the biology laboratory.\n6. Good time management - I keep a study timetable and follow it.\n7. Teamwork: I have worked in group projects and in a first-aid camp at school.",
+    "explanation": "Open-ended self-assessment; the skills listed are the 'strengths' the text asks students to identify before choosing a career.",
+    "bookPage": 149
+  },
+  {
+    "id": "u9_r_ex6_q3",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "c",
+    "question": "Exercise 6, step c: Consider your personality type and career-related values.",
+    "answer": "On the personality types listed in Exercise 5, I am mainly 'Social' (like number 6: I like to work with and help other people) with a strong second element of 'Investigative' (like number 5: I like to work with ideas and problems). I am not strongly 'Enterprising', so a career built only on selling, leading or competing would not suit me, and I am not purely 'Conventional', so a desk job of routine checking would bore me. My leading values are service, respect and intellectual achievement. A career in medicine fits all three: it is social because the doctor works with and for people, investigative because diagnosis is a problem-solving activity, and it satisfies my wish to be of use and to keep learning.",
+    "explanation": "The answer applies the Exercise 5 personality types and the values listed in step a to the career decision, as the text recommends matching career to personality and values.",
+    "bookPage": 149
+  },
+  {
+    "id": "u9_r_ex6_q4",
+    "sectionCode": "U9S1",
+    "type": "sq",
+    "number": "d",
+    "question": "Exercise 6, step d: Make a preliminary career decision and create a plan of action.",
+    "answer": "Preliminary career decision: I have decided to become a doctor (MBBS), and later to specialize in paediatrics.\n\nPlan of action:\n1. This year: complete FSc (Pre-Medical) with at least 85 per cent marks, with special attention to Biology and Chemistry.\n2. Join a good academy and start MDCAT preparation six months before the test; solve one past paper every week.\n3. Take at least four online mock tests to find my weak topics, and revise those topics first.\n4. Consult two practising doctors and one medical student about the demands of the profession and about the best colleges.\n5. Visit the websites of the medical universities to learn the admission criteria, test pattern and closing merits.\n6. Keep a backup plan: if I do not get an MBBS seat, I shall apply for BDS, Doctor of Pharmacy or BS Medical Laboratory Technology, all of which use the same subjects and serve the same value of helping patients.\n7. Review this plan after every result and redesign it if necessary, as the text advises.",
+    "explanation": "Open-ended planning task; the model plan follows the steps of the reading text - interest, skills, personality, realistic back-up and constant review.",
+    "bookPage": 149
+  },
+  {
+    "id": "u9_w_ex1_q1",
+    "sectionCode": "U9S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Look at the advertisement and identify its components.",
+    "answer": "No. | Component | How it appears in the advertisement\n1 | Job title | The post is announced in bold at the very top of the notice, under the company's name and logo: the advertisement is for the position of 'Head of Operations'.\n2 | Job location | The place of posting (the company's head office/city) is stated with the company's name and address in the heading of the notice, above the duties.\n3 | Duties and responsibilities | A bulleted block headed 'Duties and Responsibilities' lists what the post-holder will do - planning and monitoring the operations of the organisation, supervising and guiding teams, coordinating with other departments, preparing reports, and reporting to senior management.\n4 | Job requirements | A second bulleted block headed 'Qualifications & Skill Requirements' gives the required qualification (a degree, preferably in business/engineering), the number of years of relevant experience, and the managerial, communication and computer skills demanded.\n5 | Company and benefits | The employer's name and logo stand at the top of the notice, and the block of requirements ends with the terms offered - salary, allowances and other benefits such as medical cover and a congenial working environment.\n6 | Applying instructions | The closing lines tell the candidate how to apply: a detailed CV with a covering letter is to be sent (by post or e-mail) to the Human Resources Manager, with the name of the post written on the envelope, before the given closing date.",
+    "explanation": "The six components are exactly the six boxes of the structure diagram printed beside the advertisement; because the advertisement itself is a low-resolution scan, the answer identifies each part from its heading and position rather than quoting every line.",
+    "bookPage": 150
+  },
+  {
+    "id": "u9_w_ex2_q1",
+    "sectionCode": "U9S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Now, work individually and write your own resume keeping in view the given sample and tips for writing resume. After completing, compare your resume with your partner.",
+    "answer": "AHMED ALI\nHouse 12-B, Block 4, Gulshan-e-Iqbal, Karachi | 0300-1234567 | ahmed.ali.khi@email.com\n\nOBJECTIVE\nTo start my professional career as a Management Trainee in a reputable organisation where my analytical ability, computer skills and willingness to learn can contribute to the organisation's growth and help me become a capable operations professional.\n\nEDUCATION\n2023-2025  Higher Secondary Certificate (Pre-Engineering), Government College, Karachi - A grade (78%)\n2021-2023  Secondary School Certificate (Science), City School, Karachi - A1 grade (88%)\n2025          Certificate in MS Office and Data Handling, ABC Computer Institute, Karachi\n\nPROFESSIONAL EXPERIENCE\nJun-Aug 2025  Intern, Operations Department, Crescent Traders (Pvt.) Ltd., Karachi: prepared daily stock and dispatch reports in MS Excel, filed delivery challans, and helped the operations officer check delivery schedules.\n2024-2025     Part-time computer teacher, Al-Falah Academy, Karachi: taught MS Word, Excel and PowerPoint to a group of twenty school students and kept their attendance record.\n2024          Volunteer, Karachi Book Fair: managed a stall, maintained the sales register and handled customer queries.\n\nSKILLS\nMS Office (Word, Excel, PowerPoint), basic Python, typing at 40 words per minute; report writing, record keeping, time management, teamwork and customer dealing. Languages: English, Urdu and Sindhi (fluent in speech and writing).\n\nAWARDS AND ACHIEVEMENTS\n- Stood second in the college in the HSSC Pre-Engineering examination, 2025.\n- Winner, inter-college general knowledge quiz, 2024.\n- Certificate of merit for voluntary service at the school first-aid camp, 2023.\n\nINTERESTS\nReading, cricket, and community volunteering.\n\nREFERENCES\nProf. S. Mahmood, Principal, Government College, Karachi - 0301-2345678\nMr. Tariq Jamil, Operations Manager, Crescent Traders (Pvt.) Ltd. - 0302-3456789",
+    "explanation": "Model resume built exactly on the seven tips given in the book: personal and contact details, a summary/objective, experience with achievements, skills, optional sections (languages, interests), information tailored to a management-trainee advertisement, and proofreading. The book prints this task as 'Exercise 1' under 'b. Resume'.",
+    "bookPage": 152
+  },
+  {
+    "id": "u9_w_ex3_q1",
+    "sectionCode": "U9S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Now, work individually and write your own covering letter keeping in view the above tips for writing covering letter. After completing it, compare your resume with your partner.",
+    "answer": "House 45, Block C, North Nazimabad, Karachi\nayesha.khan@email.com | 0321-9876543\n15 August 2026\n\nThe Human Resources Manager\nSindh Industrial Services (Pvt.) Ltd.\nShahrah-e-Faisal, Karachi\n\nDear Sir/Madam,\n\nI am writing in response to the advertisement for the post of Management Trainee which was published in the Daily Dawn on 8 August 2026. I am a fresh higher secondary graduate with a keen interest in operations and administration, and I am writing to apply for this position.\n\nMy education includes a Higher Secondary Certificate in Pre-Engineering from Government College, Karachi, where I secured an A grade and stood second in my class. I have been studying mathematics, physics and computer science for the last two years, and I have also completed a short course in MS Excel and data handling. I have experience in record keeping and customer dealing: I worked at my uncle's stationery business for the last two summers, where I maintained the daily accounts, prepared the monthly sales summary and attended to customers.\n\nI am an ambitious person who is keen to learn new skills, and I believe I am the best choice for this position because the advertisement asks for exactly the qualities I have been developing - accuracy with figures, computer literacy and the confidence to deal with people. I am excited to have the opportunity to be able to work with a reputable organisation like yours, and I would bring energy, discipline and a willingness to be trained.\n\nThank you for taking the time to read through my CV. Please do not hesitate to contact me for further information, and please contact me at any time should you wish to arrange a meeting or an interview. I appreciate your consideration and look forward to hearing from you.\n\nYours sincerely,\nAyesha Khan",
+    "explanation": "Model letter follows the nine-part structure printed in the book - contact details, heading, greeting, introduction, reason for writing, education and previous experience, what makes the candidate ideal, closing statement and sign-off - and is kept to one page. The book prints this task as 'Exercise 2'.",
+    "bookPage": 153
+  },
+  {
+    "id": "u9_o_ex1_q1",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and practice the following dialogues. First, one of you should take the role of the interviewer and the other that of interviewee. Then, reverse the roles and practice again.",
+    "answer": "Full dialogue for practice:\n\nInterviewer: Tell me briefly about yourself?\nInterviewee: I have spent the last six years developing my skills as a customer service manager for OGDCL, where I have won several performance awards and been promoted twice. I love managing teams and solving customer problems and am looking for a new role that will challenge me.\n\nInterviewer: What are your strengths?\nInterviewee: I am highly motivated, enthusiastic and work well in team. I also handle pressure smartly which is the key factor of my achievements.\n\nInterviewer: Why are you interested in this position?\nInterviewee: I have always admired your company's products. I was really impressed with the recent interview of your CEO where he shared his vision of collaborative company culture. The job responsibilities also emphasize communication skills and leadership which are of my greatest strengths. I really feel that it is the role and organization in which I could excel.\n\nInterviewer: Why are you leaving your current job?\nInterviewee: I have already mentioned that I am zealous and keen to abreast myself. Also, I will also seek various opportunities here to learn and grow.\n\nInterviewer: Why should we hire you?\nInterviewee: Honestly, with all my great communication and leadership skills, I will prove myself a benefit and an asset to your reputable company.\n\nWhile practising, keep the etiquette in mind: sit straight only after being asked, keep eye contact with the speaker, do not interrupt, and speak at a moderate speed. Two of the printed sentences are slightly faulty English ('work well in team', 'keen to abreast myself'); in a real interview say 'work well in a team' and 'keen to keep myself abreast of new developments'.",
+    "explanation": "Role-play task; the printed dialogue is reproduced in full for practice, with a note on the etiquette points and on the two grammatical slips in the book's text.",
+    "bookPage": 154
+  },
+  {
+    "id": "u9_o_ex2_q1",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Situation: You have received a call letter for appearing in the job interview. You need to prepare for it. You have to grab this opportunity. Now, work in pairs and play role as an interviewee and interviewer. You can use some of the interview etiquettes/tips given in the box above.",
+    "answer": "Preparation before the interview: two copies of the CV and the call letter in a folder, attested academic documents, a pen and a small notepad, formal dress with polished shoes, trimmed hair and nails, mild fragrance, and the office address checked a day earlier so that I reach fifteen minutes early.\n\nModel role play:\n\nInterviewer: Good morning. Please come in and have a seat.\nInterviewee: Good morning, sir. Thank you. (sits only after being asked, keeps the folder on the table)\nInterviewer: Tell me a little about yourself.\nInterviewee: I am Ayesha Khan, a fresh higher secondary graduate from Government College, Karachi. I secured an A grade in Pre-Engineering and I have completed a short course in MS Excel and data handling. For the last two summers I worked in my uncle's stationery business, where I kept the daily accounts and dealt with customers.\nInterviewer: Why do you want to work here?\nInterviewee: Your company has a reputation for training young people properly, and the advertisement for management trainee asks for exactly the skills I have been building - accuracy with figures, computer work and confidence with people. I would like to learn the business from the ground up in an organisation like yours.\nInterviewer: What is your greatest weakness?\nInterviewee: I sometimes spend too long checking a piece of work to make it perfect. I am learning to set a time limit for each task and to ask for help when I need it.\nInterviewer: Why should we hire you?\nInterviewee: Because I am honest, hard-working and quick to learn, and because I will not treat this as a temporary job. I want to grow with the company.\nInterviewer: Do you have any questions for us?\nInterviewee: Yes, sir. Could you tell me what training a management trainee receives in the first six months?\nInterviewer: Certainly. Thank you for coming.\nInterviewee: Thank you very much for your time, sir. (stands, thanks the panel and leaves quietly)",
+    "explanation": "Role-play task; the answer supplies the preparation checklist and a model interview that uses the etiquette points printed in the table (knock, greet, sit when asked, eye contact, polite answers).",
+    "bookPage": 155
+  },
+  {
+    "id": "u9_o_ex3_q1",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "3",
+    "question": "Work in pairs. Assign the role of an interviewer and an interviewee and present the mock job interview in front of the class.",
+    "answer": "Plan for the class presentation (five minutes, two students):\n\nStage 1 - Entry: the interviewee knocks, waits for the panel to say 'come in', greets the class panel ('Good morning, sir/madam'), and sits only when asked, keeping the file of documents on the table and both feet on the floor.\n\nStage 2 - Opening: the interviewer introduces the company and the post ('We are interviewing for the post of management trainee'), then asks the first question.\n\nStage 3 - Questions and answers (four questions):\nInterviewer: Tell us briefly about yourself.\nInterviewee: I am Bilal Ahmed, a higher secondary graduate in commerce. I have worked part-time in a bank's customer service counter and I am comfortable with figures, computers and people.\nInterviewer: What are your strengths?\nInterviewee: I am punctual, accurate and calm under pressure; in the bank I handled forty customers a day without a single complaint.\nInterviewer: Where do you see yourself in five years?\nInterviewee: Working as a branch operations officer, having completed my B.Com and the bank's internal training.\nInterviewer: Why should we hire you?\nInterviewee: Because I have already done part of this work, I learn quickly, and I will stay long enough to be useful.\n\nStage 4 - Closing: the interviewee asks one question about training, thanks the panel, and leaves after being told to do so.\n\nStage 5 - The class observes and comments on dress, posture, eye contact, speed of speech and honesty of answers.",
+    "explanation": "Performance task; the answer gives a complete, presentable mock interview with stage directions and the points the class should observe.",
+    "bookPage": 155
+  },
+  {
+    "id": "u9_o_ex4_q1",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Tell me a little about yourself.",
+    "answer": "I am Hamza Raza, and I have just completed my Higher Secondary Certificate in Pre-Engineering from Government College, Karachi, with an A grade. For the last two years I have been teaching mathematics to younger students at a neighbourhood academy, which taught me patience and clear communication. I am good with computers, I enjoy solving problems in a team, and I am now looking for a first proper job in which I can learn the work from the beginning and grow with the organisation.",
+    "explanation": "Open-ended interview-response task; the model answer keeps to the present-post-education-future pattern recommended for a 'tell me about yourself' reply.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q2",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "2",
+    "question": "What is special about you?",
+    "answer": "What is special about me is that I finish what I start. When our college quiz team lost its captain a week before the district competition, I took over, made a study plan for the remaining members and we still reached the semi-final. I am also unusually accurate with details: in my part-time job I maintained the sales register for eight months without a single entry error. I would not call myself extraordinary, but I am reliable, and in a workplace reliability is rare enough to be special.",
+    "explanation": "Open-ended response; the answer supports the claim with two concrete examples instead of empty adjectives.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q3",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "3",
+    "question": "Why do you want to work here?",
+    "answer": "I want to work here for three reasons. First, your company has a name for training its junior staff properly, and as a fresh graduate I need that training more than a big salary. Second, the work of this department matches what I enjoy and what I am good at - records, figures and dealing with people. Third, I have spoken to one of your former employees, and he described a working culture in which people are trusted with responsibility early. That is the kind of place where I would work hard and stay long.",
+    "explanation": "Open-ended response; it links the candidate's needs and skills to specific facts about the organisation, which is what interviewers look for.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q4",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "4",
+    "question": "What interests you about this job?",
+    "answer": "What interests me most is the variety. The advertisement describes a post in which one day is spent checking reports and the next in coordinating with other departments, so the work will never become a fixed routine. I am also interested in the responsibility for a small team, because I enjoy helping people work well together, and in the chance to deal directly with clients, which is the part of my part-time job I liked best.",
+    "explanation": "Open-ended response; it picks out the duties listed in the job advertisement and connects them to the candidate's own preferences.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q5",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "5",
+    "question": "Why are you leaving your current job?",
+    "answer": "I am leaving my current job because it has no room left for growth. I joined the academy as a part-time teacher, and in two years I have learnt everything the post offers; there is no chance of training, promotion or new responsibility. I am grateful for the experience, and I am leaving on good terms, but I want a position where I can keep learning and take on bigger duties. I am not running away from a problem; I am moving towards an opportunity.",
+    "explanation": "Open-ended response; it gives a positive reason, avoids criticism of the present employer and ends on the future.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q6",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "6",
+    "question": "What are your strengths?",
+    "answer": "My main strengths are accuracy, punctuality and calmness. Accuracy, because I check every figure twice - my sales register at the academy was audited without a single mistake. Punctuality, because in two years of teaching I never missed a class, even during examinations. Calmness, because when an angry customer once refused to pay his fee, I listened to him, found that the fault was ours and settled the matter without an argument. I am also a quick learner, and I am comfortable with MS Office and basic accounting.",
+    "explanation": "Open-ended response; each strength is followed by evidence, which is the pattern recommended for this question.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q7",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "7",
+    "question": "What are your goals for the future?",
+    "answer": "In the short term, my goal is to become fully competent in this post within a year - to handle the daily reports and the client correspondence without supervision. In the medium term, I want to complete a B.Com degree in the evening and take on the responsibility of a small team. In the long term, I hope to become an operations manager who trains young people the way I was trained. My goals are all inside this profession, because I believe in growing where I am planted.",
+    "explanation": "Open-ended response; goals are arranged as short, medium and long term and tied to the employer's organisation.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q8",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "8",
+    "question": "Where do you see yourself in five years?",
+    "answer": "In five years I see myself as a senior member of this department, probably handling a team of four or five people and responsible for the monthly operations report. I also see myself having finished my B.Com and possibly a diploma in management. I would like to have earned the trust of my seniors so that new trainees are given to me to train. I do not see myself in another company, because everything I want to learn is available here.",
+    "explanation": "Open-ended response; it shows ambition that is realistic and inside the organisation, not a plan to leave.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q9",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "9",
+    "question": "Why should we hire you?",
+    "answer": "You should hire me because I can do the work you have advertised and I will not need to be persuaded to do it. I have the computer skills and the record-keeping experience the post requires, I have already worked with customers, and I am used to finishing tasks on time without being reminded. I am also at the beginning of my career, so I am willing to be trained and I am not looking for a stop-gap job. In short, I will be useful from the first month and I will still be useful in five years.",
+    "explanation": "Open-ended response; it summarises the candidate's fit in three points - skills, attitude and long-term commitment.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex4_q10",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "10",
+    "question": "What is your salary range expectation?",
+    "answer": "As a fresh graduate my first priority is to learn the work properly, so I am flexible about salary. I know that a trainee in this industry usually starts between twenty-five and thirty-five thousand rupees a month, and I would be comfortable anywhere in that range, depending on the responsibilities and the training you offer. What matters more to me is that the pay should be reviewed on performance after the training period. I am sure we can agree on a figure that is fair to both sides.",
+    "explanation": "Open-ended response; a range is given instead of a fixed demand, and the answer is left open for negotiation.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_o_ex5_q1",
+    "sectionCode": "U9S3",
+    "type": "sq",
+    "number": "5",
+    "question": "You have already studied about the job advertisement in this Unit (9.2). Now, imagine you are called for the job interview. Work in pairs. Devise your own questions and responses accordingly and practise them.",
+    "answer": "Post applied for: Management Trainee (Operations), Sindh Industrial Services (Pvt.) Ltd.\n\nQ1. What do you know about our company?\nA. Your company has been in industrial services for over twenty years and handles operations for several manufacturing units in Sindh. I read on your website that you have recently started a training programme for fresh graduates, and that is the programme I am applying for.\n\nQ2. The advertisement asks for a degree and two years of experience. You have neither. Why should we consider you?\nA. I have the equivalent in a different form: I am a fresh graduate with an A grade in Pre-Engineering, I have completed a certificate course in MS Excel and data handling, and I have two summers of paid work in a business where I kept accounts and dealt with customers. What I lack in years I make up in willingness to be trained.\n\nQ3. What do you understand by 'operations' in this company?\nA. From the duties listed in your advertisement, operations means making sure that the work of the departments runs on time - planning schedules, checking that materials and reports reach the right people, and solving problems before they become delays.\n\nQ4. How would you handle a colleague who is senior to you but keeps missing deadlines?\nA. First I would make sure my own part is not delayed. Then I would speak to him politely and privately, ask whether something is blocking his work, and offer help. If the delay continued, I would inform my supervisor, not as a complaint but as a request for guidance.\n\nQ5. Where do you see yourself after the training period?\nA. As a confirmed operations assistant handling my own section of the daily reporting, and preparing for a supervisory role within three to four years.\n\nQ6. Do you have any questions for us?\nA. Yes - what does the six-month training cover, and will I be rotated through other departments?\n\nPractice these answers aloud with your partner, taking turns as interviewer and candidate, and remember the etiquette: knock, greet, sit when asked, keep eye contact and thank the panel at the end.",
+    "explanation": "Open-ended role-play task; the answer first turns the 9.2 advertisement into interview material (company, requirements, duties) and then supplies a full model question-and-answer set for practice.",
+    "bookPage": 156
+  },
+  {
+    "id": "u9_g_ex1_q1",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "1",
+    "question": "The following paragraph is on 'Unsustainable Environment'. Work in group of three. Each group is required to write a paragraph proposing solutions to this issue. After completing, exchange your paragraphs to the other group.",
+    "answer": "The paragraph tells us that fish is one of Pakistan's favourite foods and that the average person eats about 16 kg of fish a year, but that many kinds of fish in the river are disappearing because people and poachers catch too many of them; environmentalists say that 90 per cent of the biggest fish are already gone from the River Indus, and that if we catch too many big fish now there will be no baby fish in the future. The present way of fishing is therefore not sustainable. If the government enforced a closed season of two or three months every year, the fish would get time to breed. If the fishing nets had a wider mesh, only grown-up fish would be caught and the young ones would slip back into the water. If the wildlife department deployed more guards and speedboats, the poachers would not be able to use explosives and illegal nets. If the fishing communities were given a share of the income from a well-managed fishery, they would themselves report the poachers. If restaurants and buyers refused to buy undersized fish, the market for illegal catch would disappear. If we acted on all these suggestions now, the River Indus would again be full of fish; if we waited another ten years, we would lose this gift for ever.",
+    "explanation": "The paragraph follows the printed model: it states the problem in the book's own words and then proposes solutions in conditional Type-II sentences, which is the grammar point of this section.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex2_q1",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "i",
+    "question": "Now, read the paragraphs and identify the type of sentence structure your class fellows have used.",
+    "answer": "The paragraphs written by my class fellows use conditional sentences of Type-II. Each solution is expressed in an 'if' clause in the simple past tense (often with 'were' for all persons, as in 'If the government were stricter ...') followed by a main clause with would, could or might plus the base verb: 'If the fishing nets had a wider mesh, only grown-up fish would be caught.' The past tense after 'if' does not refer to past time; it signals that the condition is unreal or unlikely at present, and the main clause gives its probable result. A comma separates the 'if' clause from the main clause when the 'if' clause comes first; when the order is reversed, no comma is needed ('The fish would recover if we banned netting in the breeding season').",
+    "explanation": "The answer names the structure taught on book page 157 and shows how the model paragraph uses it, including the 'were' rule and the comma rule.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex2_q2",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "ii",
+    "question": "Identify the situation from the following option in which the responses were used. (a) impossible condition in the past and its impossible result in the past (b) unlikely and hypothetical situation with probable result (c) possible condition with possible result",
+    "answer": "The correct option is (b): 'unlikely and hypothetical situation with probable result'. The solutions in the paragraphs ('If the government enforced a closed season ... the fish would get time to breed') describe a situation that is not true at present and is only imagined; the past tense after 'if' marks it as unreal, and 'would + verb' gives the probable result. Option (a) would need the past perfect ('If the government had enforced ... the fish would have recovered'), and option (c) would need the present tense with 'will' ('If the government enforces ... the fish will get time').",
+    "explanation": "Type-II conditionals are defined on book page 157 as structures for unreal situations in the present or future with a probable result; the other two options describe Type-III and Type-I structures.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex3_q1",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Write short paragraphs on the following topics by following the pattern of conditional type-II structures: If you were chairman of the Union Council of your area....",
+    "answer": "If I were the chairman of the Union Council of my area, I would begin with the two complaints that every street makes - water and rubbish. If the council kept a proper register of every street and every water connection, the tankers would be sent where they are actually needed instead of where the driver prefers to go. If each household paid a small monthly sanitation charge, we could hire two sweepers for every ward and their attendance would be checked by the ward councillor. If the councillors held an open meeting once a month, the people would see where the money was spent and would trust the council more. If I were the chairman, I would also publish the budget on a notice board in simple Urdu, so that even a shopkeeper with no English could read it. None of this would cost a great deal; it would only require honesty and a little organisation.",
+    "explanation": "The paragraph is built almost entirely of Type-II conditionals: past-tense 'if' clauses with 'would/could' results, including 'were' with 'I'.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex3_q2",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Write short paragraphs on the following topics by following the pattern of conditional type-II structures: If you were elected the Prime Minister of Pakistan...",
+    "answer": "If I were elected the Prime Minister of Pakistan, I would treat education as the first emergency. If every child between five and sixteen were actually in school, the country would gain a whole generation of literate workers within ten years. If the government spent even four per cent of the national income on schools instead of on buildings that remain empty, teachers could be paid properly and trained every year. If the provinces agreed on one curriculum for mathematics and science, a student from Larkana would compete with a student from Lahore on equal terms. If I were the Prime Minister, I would also make it compulsory for every ministry to publish its spending every quarter, because corruption would shrink if the public could see the accounts. These things would not happen in one year; but if a beginning were made honestly, the country would change within a decade.",
+    "explanation": "Uses Type-II conditionals throughout, with unreal past-tense conditions and 'would/could' results; 'If I were' follows the book's rule for the verb 'to be'.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex3_q3",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Write short paragraphs on the following topics by following the pattern of conditional type-II structures: If you were the Principal of your college....",
+    "answer": "If I were the Principal of my college, I would make three small changes before spending a single rupee on new furniture. If the library stayed open until seven in the evening, students who have no quiet room at home would have a place to study. If the timetable kept one period a week free for clubs and sports, the students who are weak in studies would discover something they are good at, and their confidence would improve. If the college opened a counselling office with one trained teacher and one senior student from each class, the boys and girls who are depressed or bullied would find someone to talk to before the problem became serious. If I were the Principal, I would also meet the parents of the weakest twenty students every term, because a college cannot succeed alone. If these things were done, the college would be a happier place, and happy students learn faster.",
+    "explanation": "Each suggestion is framed as an unreal present condition with a probable result, which is the Type-II pattern; the paragraph also models 'were' after 'if' with singular subjects.",
+    "bookPage": 158
+  },
+  {
+    "id": "u9_g_ex4_q1",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Now, work in pairs and use the square brackets where required in the following paragraph. After completing, compare it with your partner.",
+    "answer": "'He [Kasoma] was born in 1971. At that time, Namibia[,] a poor country[,] has [sic] many problems. The country was at war [from] 1966 to 1990. Because of the fighting, many indigenous [sic] the Namibians had rifles[,] which caused a problem [of] poaching. During that time, poachers killed many wild animals[,] black rhinos[,] for their horns[,] for [sic] their valuable body parts. To make things even worse[,] around 1980 a terrible drought killed [many] people, livestock, and wildlife. By 1995, there were only [a] few wild animals[,] lions and cheetahs[,] left in the Kunene region in the northwest of the country.'",
+    "explanation": "Square brackets are used as the book teaches: to supply or correct a word not in the original ([Kasoma], [from], [of], [many], [a]), to mark a grammatical error in the original with [sic] ('has' for 'had', 'indigenous the Namibians', 'for ... for'), and to add bracketed punctuation that clarifies the quoted sentence. The passage also mixes the present ('has') with the past, which is why [sic] is needed.",
+    "bookPage": 159
+  },
+  {
+    "id": "u9_g_ex5_q1",
+    "sectionCode": "U9S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Work individually. Use a thesaurus to find the synonyms closest to the meaning of the given words below. Use them in your own sentences separately. Follow the example given above.",
+    "answer": "Original Word | Synonyms | Contextual Meaning | Use in Sentence\nAfford | - | to have enough money or time for something | My father cannot afford a new car this year, so we shall keep using the old one.\n- | bear | to be able to meet the cost of something | The family could not bear the cost of treatment in a private hospital.\n- | provide | to give or make available (an opportunity, a view) | The new library affords students a quiet place to study.\n- | spare | to be able to give up (time, money) for a purpose | I can afford two hours every evening for revision.\nFine | - | of good quality; excellent | She gave a fine performance in the annual speech contest.\n- | excellent | extremely good of its kind | The teacher's explanation was excellent, and the whole class understood the topic.\n- | delicate | thin, light and easily damaged | The fine thread broke while my mother was stitching the hem.\n- | penalty | a sum of money paid as a punishment | The court imposed a fine of five thousand rupees on the shopkeeper for selling expired goods.",
+    "explanation": "The printed table merges the 'Contextual Meaning' cell for all four rows of each word, so the answer supplies the meaning sense row by row, as the model table for 'Modest' does. 'Fine' also means 'healthy' ('I am fine') and '(of weather) clear and dry', which are further senses a thesaurus would list.",
+    "bookPage": 160
+  }
+]

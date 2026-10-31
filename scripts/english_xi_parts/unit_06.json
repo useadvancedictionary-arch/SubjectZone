@@ -1,0 +1,612 @@
+[
+  {
+    "id": "u6_r_pre_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Think of an event occurred in your life that has positively impacted you and share it with the class.",
+    "answer": "One event that changed the way I work happened in Class IX. I had prepared for a physics test by memorising solved examples, and I failed it with 28 marks out of 75. Instead of hiding the paper I took it to my teacher and asked her where I had gone wrong. She made me solve two problems on the board every day for a month and explain every step aloud to the class. The first week was humiliating; by the fourth week it was easy. In the annual examination I scored 68. What stayed with me was not the marks but the discovery that I learn best when I have to explain a thing to somebody else. Since then I have used the same method for mathematics and chemistry, and I have begun helping two younger children in my street with their science homework. The failure itself was small; the habit it gave me has shaped three years of my studies.",
+    "explanation": "Open-ended personal-response task. The model answer is a short first-person narrative of one specific event and states clearly what changed in the speaker's attitude or habits, which is what the task asks students to share with the class.",
+    "bookPage": 91
+  },
+  {
+    "id": "u6_r_pre_q2",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "2",
+    "question": "According to you, what is required to succeed in the life?",
+    "answer": "Nothing succeeds without a mixture of a clear aim, steady effort and the willingness to fail and try again. The book puts 'To succeed in life' at the centre of six hexagons, and if I had to fill those hexagons I would write: a definite goal, because effort without direction is only noise; hard work and discipline, because talent without practice rarely lasts; self-belief, because a person who does not trust his own judgement gives up at the first criticism; knowledge and skill, because good intentions cannot replace competence; health and patience, because success is a long race and not a sprint; and honesty towards the people who help us, because nobody rises alone. Luck may open a door, but these qualities decide whether we can walk through it and stay in the room. The reading text that follows makes the same point in its own way: the power that is in a person 'is new in nature' and only he can discover it by trying.",
+    "explanation": "Open-ended opinion task linked to the hexagon diagram 'To succeed in life'. The answer fills the six hexagons with named qualities and gives a reason for each, so it can be spoken aloud as the pre-reading discussion the teacher's note asks for.",
+    "bookPage": 91
+  },
+  {
+    "id": "u6_r_ex1_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Find at least ten new words from the text and write their meaning contextually. After you have completed, share your work with your partner.",
+    "answer": "No. | Word | Contextual meaning\n1 | latent | existing but not yet expressed or acted upon; here the belief a man holds silently in his heart before he dares to speak it ('Speak your latent conviction')\n2 | conviction | a firmly held belief; the thing a person is convinced is true, as opposed to a mere opinion\n3 | lustre | shine, brilliance, fame; the inner 'ray of light' is said to matter more than the lustre of the spheres of bards and sages\n4 | alienated | separated from oneself, no longer felt as one's own; our rejected thoughts return to us as something distant and majestic\n5 | arduous | needing great effort, difficult; the rule 'what I must do is all that concerns me' is equally arduous in practical and in intellectual life\n6 | meanness | pettiness, smallness of mind or character; the opposite pole to greatness in the phrase 'the whole distinction between greatness and meanness'\n7 | aboriginal | original, native, belonging to the earliest natural condition; the 'aboriginal strength' the civilized man has lost\n8 | barbarous | uncivilized, savage, crude; one of the passing conditions of society ('it is barbarous, it is civilized')\n9 | solstice | either of the two times of the year when the sun is at its greatest distance from the equator, giving the longest and shortest days; the civilized man never observes it\n10 | almanac | a book or table of dates, astronomical data and forecasts for the year; the civilized man owns one and therefore never learns to read the sky\n11 | recedes | moves back, falls away; society 'recedes as fast on one side as it gains on the other'",
+    "explanation": "Open-ended vocabulary exercise; the table gives ten words (plus one) actually taken from the excerpt with meanings that fit the sentence in which each occurs, not dictionary meanings in the abstract.",
+    "bookPage": 93
+  },
+  {
+    "id": "u6_r_ex2_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually and write the antonyms of the following words. After completing, share your work with your class fellows.",
+    "answer": "No. | Word | Antonym\n1 | arduous | easy (also: effortless, simple)\n2 | Barbarous | civilized (also: refined)\n3 | betray | conceal (also: hide, keep secret; the text uses 'betraying their perception' in the sense of 'revealing')\n4 | solitude | company (also: companionship, society, togetherness)\n5 | noble | base (also: mean, ignoble, low)\n6 | Aboriginal | foreign (also: imported, alien, introduced)\n7 | civilized | barbarous (also: uncivilized, savage)\n8 | Temporary | permanent (also: lasting, enduring)\n9 | Ignorance | knowledge (also: wisdom, awareness)\n10 | Recedes | advances (also: proceeds, moves forward)",
+    "explanation": "Vocabulary exercise. Each antonym is the true opposite of the word as it is used in the excerpt, e.g. 'recedes' is opposed by 'advances' because society is said to recede on one side as it gains on the other.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q1",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "In every work of genius, we recognize our own rejected ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "ideas"
+      },
+      {
+        "key": "b",
+        "text": "thoughts"
+      },
+      {
+        "key": "c",
+        "text": "concepts"
+      },
+      {
+        "key": "d",
+        "text": "motives"
+      }
+    ],
+    "optionsRaw": "(a) ideas   (b) thoughts   (c) concepts   (d) motives",
+    "answer": "(b) thoughts - 'In every work of genius, we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.'",
+    "correctAnswer": "(b) thoughts",
+    "explanation": "The sentence is quoted almost word for word from the first paragraph of the excerpt, where the writer says that in a work of genius we recognise 'our own rejected thoughts'. 'Ideas', 'concepts' and 'motives' are plausible synonyms but are not the word printed in the text.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q2",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "According to the author, envy is ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "bliss"
+      },
+      {
+        "key": "b",
+        "text": "evil"
+      },
+      {
+        "key": "c",
+        "text": "suicide"
+      },
+      {
+        "key": "d",
+        "text": "ignorance"
+      }
+    ],
+    "optionsRaw": "(a) bliss   (b) evil   (c) suicide   (d) ignorance",
+    "answer": "(d) ignorance - 'he arrives at the conviction that envy is ignorance; that imitation is suicide'.",
+    "correctAnswer": "(d) ignorance",
+    "explanation": "The second paragraph names the two faults separately: envy is ignorance and imitation is suicide. Option (c) is the trap, because 'suicide' is the word attached to imitation, not to envy.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q3",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "Insist on yourself; never ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "imitate"
+      },
+      {
+        "key": "b",
+        "text": "indicate"
+      },
+      {
+        "key": "c",
+        "text": "initiate"
+      },
+      {
+        "key": "d",
+        "text": "imply"
+      }
+    ],
+    "optionsRaw": "(a) imitate   (b) indicate   (c) initiate   (d) imply",
+    "answer": "(a) imitate - the paragraph begins 'Insist on yourself; never imitate.'",
+    "correctAnswer": "(a) imitate",
+    "explanation": "Direct quotation from the paragraph that opens 'Insist on yourself; never imitate.' The other options look and sound similar but are different verbs with no support in the text. Note that the printed page has (c) circled, which is wrong; the word in the text is 'imitate', so (a) is correct.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q4",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "According to the author, it is ______ in the world to live after the world's opinion.",
+    "options": [
+      {
+        "key": "a",
+        "text": "important"
+      },
+      {
+        "key": "b",
+        "text": "unimportant"
+      },
+      {
+        "key": "c",
+        "text": "easy"
+      },
+      {
+        "key": "d",
+        "text": "difficult"
+      }
+    ],
+    "optionsRaw": "(a) important   (b) unimportant   (c) easy   (d) difficult",
+    "answer": "(c) easy - 'It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.'",
+    "correctAnswer": "(c) easy",
+    "explanation": "The text contrasts two easy things (following the world's opinion, and following one's own in solitude) with the one difficult thing: keeping one's independence in the middle of the crowd. So the blank needs 'easy', not 'difficult'.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q5",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "Society undergoes ______ changes.",
+    "options": [
+      {
+        "key": "a",
+        "text": "continuous"
+      },
+      {
+        "key": "b",
+        "text": "continual"
+      },
+      {
+        "key": "c",
+        "text": "collective"
+      },
+      {
+        "key": "d",
+        "text": "creative"
+      }
+    ],
+    "optionsRaw": "(a) continuous   (b) continual   (c) collective   (d) creative",
+    "answer": "(b) continual - 'It undergoes continual changes; it is barbarous, it is civilized, it is religious, it is rich, it is scientific; but this change is not for better.'",
+    "correctAnswer": "(b) continual",
+    "explanation": "The printed word is 'continual' (repeated, going on again and again). 'Continuous' would mean going on without any pause at all, which is not what the text says or means.",
+    "bookPage": 94
+  },
+  {
+    "id": "u6_r_ex3_q6",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "Every great man is ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "simple"
+      },
+      {
+        "key": "b",
+        "text": "unique"
+      },
+      {
+        "key": "c",
+        "text": "rare"
+      },
+      {
+        "key": "d",
+        "text": "common"
+      }
+    ],
+    "optionsRaw": "(a) simple   (b) unique   (c) rare   (d) common",
+    "answer": "(b) unique - 'Every great man is a unique. Shakespeare will never be made by the study of Shakespeare.'",
+    "correctAnswer": "(b) unique",
+    "explanation": "The sentence follows the list of masters who could not have been taught (Shakespeare, Franklin, Washington, Bacon, Newton) and states that every great man is 'a unique', i.e. one of a kind. The printed page numbers this item twice ('6. 6.'); the duplicate numeral is a printing slip and does not affect the question or the answer.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex3_q7",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "Society acquires new arts, and loses old ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "ways"
+      },
+      {
+        "key": "b",
+        "text": "methods"
+      },
+      {
+        "key": "c",
+        "text": "instincts"
+      },
+      {
+        "key": "d",
+        "text": "approaches"
+      }
+    ],
+    "optionsRaw": "(a) ways   (b) methods   (c) instincts   (d) approaches",
+    "answer": "(c) instincts - 'Society acquires new arts, and loses old instincts.'",
+    "correctAnswer": "(c) instincts",
+    "explanation": "Direct quotation from the paragraph on society. The word is 'instincts', which supports the argument that the civilized man has gained tools but lost natural strength and skill.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex3_q8",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "Civilized man has lost his ______ strength.",
+    "options": [
+      {
+        "key": "a",
+        "text": "aboriginal"
+      },
+      {
+        "key": "b",
+        "text": "original"
+      },
+      {
+        "key": "c",
+        "text": "real"
+      },
+      {
+        "key": "d",
+        "text": "physical"
+      }
+    ],
+    "optionsRaw": "(a) aboriginal   (b) original   (c) real   (d) physical",
+    "answer": "(a) aboriginal - 'compare the health of the two men, and you shall see that the civilized man has lost his aboriginal strength.'",
+    "correctAnswer": "(a) aboriginal",
+    "explanation": "The text uses the word 'aboriginal' (native, belonging to the earliest condition) in the comparison between the naked savage and the well-clad civilized man. 'Original' is close in meaning, which is why it is offered as a distractor, but it is not the printed word.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex3_q9",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "The civilized man has lost the use of his feet because he has built ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "car"
+      },
+      {
+        "key": "b",
+        "text": "coach"
+      },
+      {
+        "key": "c",
+        "text": "crutches"
+      },
+      {
+        "key": "d",
+        "text": "castle"
+      }
+    ],
+    "optionsRaw": "(a) car   (b) coach   (c) crutches   (d) castle",
+    "answer": "(b) coach - 'The civilized man has built a coach, but has lost the use of his feet.'",
+    "correctAnswer": "(b) coach",
+    "explanation": "The sentence is the opening of the last paragraph. 'Crutches' appears in the very next sentence, but the man is supported on crutches because he has lost muscle, not because he built them; the car is a modern equivalent and is not in the text.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex3_q10",
+    "sectionCode": "U6S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "A solstice is a ______.",
+    "options": [
+      {
+        "key": "a",
+        "text": "position of moon"
+      },
+      {
+        "key": "b",
+        "text": "position of sun"
+      },
+      {
+        "key": "c",
+        "text": "time of the day"
+      },
+      {
+        "key": "d",
+        "text": "period of year"
+      }
+    ],
+    "optionsRaw": "(a) position of moon   (b) position of sun   (c) time of the day   (d) period of year",
+    "answer": "(b) position of sun - a solstice is the point in the year at which the sun reaches its greatest distance north or south of the equator, giving the longest and shortest days; the text pairs it with the equinox, which is also a position of the sun: 'The solstice he does not observe; the equinox he knows as little.'",
+    "correctAnswer": "(b) position of sun",
+    "explanation": "The passage contrasts the civilized man's watch and almanac with his ignorance of the sun's positions in the sky; the solstice and equinox are the two solar markers he no longer observes. Option (d) 'period of year' describes the effect of a solstice rather than what the sentence is contrasting, so (b) is the intended answer.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex4_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually. Read the text again and mark (✓) for true, and (X) for false against each statement given below.",
+    "answer": "No. | Statement | Answer\n1 | In Self-Reliance, he urges people to trust themselves. | ✓ True - the essay opens with trust in one's own thought ('to believe that what is true for you in your private heart is true for all men') and repeats 'Trust thyself'.\n2 | According to the author, the greatest obstacle to trust yourself is society. | ✓ True - the difficulty comes from other people: 'you will always find those who think they know what is your duty better than you know it', and the impression must be kept 'when the whole cry of voices is on the other side'.\n3 | The author exhorts human beings to strive for absolute consistency. | X False - the excerpt nowhere asks for absolute consistency; it asks us to 'abide by our spontaneous impression' and to 'obey your heart'. Emerson's fuller essay in fact calls 'a foolish consistency' the hobgoblin of little minds.\n4 | We should abide by our own thoughts and opinions. | ✓ True - 'They teach us to abide by our spontaneous impression with good-humoured inflexibility' and 'Abide in the simple and noble regions of thy life, obey your heart'.\n5 | Great man always remains in solitude for perfection. | X False - the great man is not the man who lives alone: 'the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude'.\n6 | Society always undergoes constant changes from better to worse and vice versa. | X False - the changes are continual, but the text denies that they are improvement: 'but this change is not for better. For everything that is given, something is taken.'\n7 | Every man is responsible to make for himself and his own. | ✓ True - 'he must take himself for better, for worse, as his portion'; 'Do that which is assigned to you'; 'Nothing can bring you peace but yourself.'",
+    "explanation": "Table exercise; every printed statement is answered with a tick or cross and the words from the excerpt that decide it. Statements 3, 5 and 6 are the traps: each contains a partly true phrase ('changes', 'solitude', 'consistency') that the text qualifies or reverses.",
+    "bookPage": 95
+  },
+  {
+    "id": "u6_r_ex5_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "5",
+    "question": "In 'Self-Reliance' Ralph Waldo Emerson distinguishes between internal and external causes of behaviour. Work in groups. Read the text again and re-write the two internal causes and two external causes of behaviour and note these behaviours in your notebook. Compare the written responses with another group.",
+    "answer": "No. | Type of cause | Cause named in the text | Behaviour it produces (with the words of the text)\n1 | Internal | A man's own thought and private conviction - 'To believe your own thought, to believe that what is true for you in your private heart is true for all men' | Originality and self-trust: he speaks his 'latent conviction', trusts his 'spontaneous impression' even when 'the whole cry of voices is on the other side', and does his own work with his whole heart.\n2 | Internal | The power seated in the heart - 'the absolutely trustworthy was seated at their heart, working through their hands, predominating in all their being'; 'The power which resides in him is new in nature' | Reliance on inner judgement: he tries what he alone can do ('nor does he know until he has tried'), obeys his heart, and is 'relieved and happy' when he has done his best.\n3 | External | The opinion of the world and the voice of the crowd - 'It is easy in the world to live after the world's opinion'; 'the whole cry of voices'; those 'who think they know what is your duty better than you know it' | Conformity and shame: he dismisses his own thought, lives 'after the world's opinion', and is 'forced to take with shame our own opinion from another'.\n4 | External | Imitation of other men's gifts and dependence on society's instruments - 'Insist on yourself; never imitate'; the coach, the watch, the almanac, the note-book | Borrowed behaviour: he holds 'the borrowed talent of another' in 'temporary and incomplete possession', and though he has built a coach he 'has lost the use of his feet', and his note-books 'impair his memory'.",
+    "explanation": "The excerpt opposes what comes from inside a person (his own thought, the power in his heart) to what comes from outside him (public opinion and imitation, together with the tools society supplies). The behaviours named in the last column are all phrased in Emerson's own words so that the group work can be checked against the text.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Read the text and answer the following questions. 1. What makes a man great according to the author?",
+    "answer": "For Emerson greatness is not rank, wealth or learned reputation but fidelity to one's own thought. The essay opens with the claim that 'to believe your own thought... that is genius', and it ends the argument with the sentence 'the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude'. A great man therefore does two things: he refuses to live 'after the world's opinion', and he does the particular work that is given to him with his whole heart - 'Do that which is assigned to you, and you cannot hope too much or dare too much.' Because 'every great man is a unique', he cannot be produced by copying another; Shakespeare 'will never be made by the study of Shakespeare'. Greatness, in short, is self-trust put into action, and the distinction between greatness and meanness is exactly the distinction between doing what I must do and doing what people think.",
+    "explanation": "Comprehension answer built from three places in the text: the definition of genius in the first paragraph, the sentence about the great man in the crowd, and the closing paragraph on doing what is assigned to you.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q2",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Read the text and answer the following questions. 2. Why is self-reliance important for one's development?",
+    "answer": "Self-reliance is important because the power a person has is his own and cannot be supplied by anybody else: 'The power which resides in him is new in nature, and none but he knows what he can do, nor does he know until he has tried.' Unless a person relies on himself he never tests that power, and so he never discovers what he is capable of. Whatever he borrows remains second-hand - 'the borrowed talent of another, you have only temporary and incomplete possession' - and imitation is called 'suicide' because it kills the original self before it can grow. Self-reliance is also the condition of good work and of peace of mind: 'A man is relieved and happy when he has put his heart into his work and done his best; but what he has said or done otherwise, shall give him no peace.' Development, then, means cultivating one's own gift 'with the full force of a whole life's cultivation' rather than living on another man's talent.",
+    "explanation": "The answer collects the sentences in paragraphs two, three and five that explain why the individual must depend on his own power; the borrowed-talent sentence supplies the contrast.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q3",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "3",
+    "question": "Read the text and answer the following questions. 3. What is mark of genius according to the author?",
+    "answer": "The mark of genius, says the author in his very first sentence, is 'to believe your own thought, to believe that what is true for you in your private heart is true for all men'. A man of genius trusts the 'ray of light which flashes across his mind from within' more than 'the lustre of the spheres of bards and sages', and he speaks his 'latent conviction' instead of suppressing it, because 'always the inmost becomes the outmost'. The proof of such genius is that other people recognise themselves in it: 'In every work of genius, we recognize our own rejected thoughts; they come back to us with a certain alienated majesty.' In other words, genius is not extraordinary cleverness imported from outside but the courage to say aloud what everyone else has felt and timidly thrown away.",
+    "explanation": "Answer drawn from the opening paragraph, which defines genius directly and then describes how a work of genius affects its readers.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q4",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "4",
+    "question": "Read the text and answer the following questions. 4. What happens when a person doesn't value one's own qualities?",
+    "answer": "When a person does not value what is his own, he throws away his best thoughts before they can become anything: 'Yet he dismisses without notice his thought, because it is his.' The consequence is twofold. First, he loses the credit for his own insight - 'tomorrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.' Second, he loses his peace of mind, for 'what he has said or done otherwise, shall give him no peace.' Having rejected his own gift, he can only live on borrowed talent, which is 'temporary and incomplete possession', and he ends by measuring himself by other people's opinions instead of his own.",
+    "explanation": "The question is answered from the end of paragraph one (the dismissal of one's own thought and the stranger who says it later) and from paragraph two (the man who has not done his best has no peace).",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q5",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "5",
+    "question": "Read the text and answer the following questions. 5. Why does the author emphasize on developing one's own individuality?",
+    "answer": "The author insists on individuality because each person is given a particular plot of ground to cultivate and a particular power to use: 'nothing of substance can come to him but through his toil bestowed on that plot of ground which is given to him to till'. That power 'is new in nature' and nobody else can know or exercise it for him. If he does not develop it, he can only borrow, and a borrowed gift is held in 'temporary and incomplete possession'. Emerson proves the point with the example of the greatest men: no master could have taught Shakespeare, Franklin, Washington, Bacon or Newton, because 'every great man is a unique' and 'Shakespeare will never be made by the study of Shakespeare'. Individuality is therefore not vanity; it is the only route by which a person can 'reproduce your own creative world again' and add something to the world that did not exist before.",
+    "explanation": "The answer combines the 'plot of ground' image of paragraph two with the argument against imitation in paragraph five, where the Shakespeare example is given.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q6",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "6",
+    "question": "Read the text and answer the following questions. 6. How can a person be happy according to the author?",
+    "answer": "According to the author happiness is not something that is given from outside; it follows from work done with one's whole heart and from confidence in oneself. 'A man is relieved and happy when he has put his heart into his work and done his best', whereas anything done half-heartedly 'shall give him no peace'. The last two lines of the excerpt make the same point in a stronger form: 'Nothing can bring you peace but yourself. Nothing can bring you peace but the triumph of principles.' So a person is happy when he stops measuring himself by other people's approval, trusts his own thought, does the work assigned to him and lives by his principles. Since 'envy is ignorance' and 'imitation is suicide', comparing oneself with others and copying them are the surest ways to remain unhappy.",
+    "explanation": "The answer uses the explicit statement about happiness in paragraph two and the closing couplet about peace, and links them to the essay's rejection of envy and imitation.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q7",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Read the text and answer the following questions. 7. \"What I must do is all that concerns me, not what the people think.\" Do you agree to this statement? Give reasons for your agreement or disagreement.",
+    "answer": "I agree with the first half of the statement and accept the second half only with a qualification. Emerson is right that a person must finally decide what his duty is: if he waits for public approval before doing what he believes to be right, he will never act at all, because 'you will always find those who think they know what is your duty better than you know it'. History is full of people who were mocked and later proved right, and the student who chooses a subject or a career only to please relatives often ends up miserable. But 'not what the people think' cannot mean that other people's opinions are worthless. Parents and teachers often see our faults more clearly than we do, and a person who never listens becomes arrogant rather than independent. The balanced reading, I think, is the one the text itself supplies: the great man keeps 'the independence of solitude' in the midst of the crowd. He listens to the crowd and then decides for himself, and he is answerable for the consequences of that decision.",
+    "explanation": "Open-ended evaluative question. The model answer agrees with the text's core claim, gives reasons from the passage, and adds a reasoned qualification, which is what the task (agree or disagree with reasons) demands.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q8",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "8",
+    "question": "Read the text and answer the following questions. 8. What kind of changes does a society undergo according to the author?",
+    "answer": "According to the author society undergoes 'continual changes': 'it is barbarous, it is civilized, it is religious, it is rich, it is scientific'. But he denies that these changes are progress - 'this change is not for better' - because society 'recedes as fast on one side as it gains on the other'. The rule is exchange rather than improvement: 'For everything that is given, something is taken. Society acquires new arts, and loses old instincts.' His illustration is the civilized man with his watch, pencil and bill of exchange beside the naked savage with his club and spear: the civilized man has gained comfort and information but 'has lost his aboriginal strength'. He has built a coach and lost the use of his feet, owns an almanac and cannot read a star, keeps note-books and damages his memory. Social change, then, is a trade-off in which new skills are paid for by old capacities.",
+    "explanation": "The answer follows the paragraph beginning 'Society never advances' and the following paragraph on the coach and the watch, quoting the phrases that define the direction of change.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q9",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "9",
+    "question": "Read the text and answer the following questions. 9. How do you relate the message of essay to your life?",
+    "answer": "The message of the essay reaches me most sharply in the classroom. I have often known the answer to a teacher's question and said nothing because the clever boys in the front row were silent; a minute later one of them said the same thing and was praised for it. That is exactly Emerson's 'tomorrow a stranger will say with masterly good sense precisely what we have thought and felt all the time, and we shall be forced to take with shame our own opinion from another.' The essay also warns me about imitation in small daily matters: choosing a field of study because a cousin chose it, copying a friend's notes instead of making my own, dressing and speaking like a group so as not to stand out. What I take from the text is not a command to ignore advice but a rule for my own work: prepare my own answers, form my own opinion before a discussion, and judge myself by whether I have done my best rather than by applause. That is the 'independence of solitude' I can practise in the middle of my class.",
+    "explanation": "Open-ended personal-response question; the answer connects specific sentences of the essay to concrete school experiences, as the 'respond to the text' objective of the unit requires.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex6_q10",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "10",
+    "question": "Read the text and answer the following questions. 10. Write a brief summary of the arguments presented in the text?",
+    "answer": "Emerson argues that truth begins in the individual. To believe one's own thought, and to trust that what is true in one's private heart is true for all men, is genius; the inmost always becomes the outmost. A man therefore should attend to the ray of light that flashes across his mind rather than to the brilliance of established writers and thinkers, and should not dismiss a thought merely because it is his own, for in every work of genius we recognise our own rejected thoughts. Envy, he says, is ignorance and imitation is suicide: each person must accept himself as his portion and cultivate the plot of ground given to him, since his power is new in nature and only he can discover it by trying. Doing his best brings relief and happiness; doing otherwise brings no peace. Trusting himself, a man should do what he must do rather than what people think, for it is easy to follow the world's opinion and easy to follow one's own in solitude, but the great man keeps the independence of solitude in the midst of the crowd. Insisting on himself and never imitating, he remains unique, as every great man is unique. Society, by contrast, never really advances: it changes continually, acquiring new arts and losing old instincts, gaining the coach and the watch while losing the use of the feet and the knowledge of the stars. The conclusion is that nothing can bring a man peace but himself and the triumph of his principles.",
+    "explanation": "Summary written in continuous prose, following the order of the excerpt: the definition of genius, the rejection of envy and imitation, self-trust and duty, the uniqueness of great men, the argument about society, and the closing statement about peace.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_r_ex7_q1",
+    "sectionCode": "U6S1",
+    "type": "sq",
+    "number": "7",
+    "question": "Work in groups. Read the whole text and pick any five ideas that you like the most. Share your work with other groups and check each other's work.",
+    "answer": "1. 'To believe your own thought, to believe that what is true for you in your private heart is true for all men, - that is genius.' I like this because it makes confidence in one's own judgement the beginning of all original work, not a luxury for special people.\n2. 'In every work of genius, we recognize our own rejected thoughts.' This explains why a good book or a good speech feels familiar: it says what we already half-knew but were afraid to say.\n3. 'Envy is ignorance; imitation is suicide.' A short, hard sentence that names the two habits that waste most young lives - measuring oneself against others and copying them.\n4. 'The great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.' I like the word 'sweetness': independence is not rudeness or showing off, it is a quiet quality that can be kept while living among people.\n5. 'The civilized man has built a coach, but has lost the use of his feet.' This is the most memorable image in the essay, and it is still true of us with our phones and calculators: every convenience quietly takes away a skill.",
+    "explanation": "Open-ended selection task. The five ideas are quoted exactly from the excerpt, each followed by a short personal reason, which is what the group work and the sharing of responses require.",
+    "bookPage": 96
+  },
+  {
+    "id": "u6_w_ex1_q1",
+    "sectionCode": "U6S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Look at the following passages. First one is draft passage and the other is edited passage. Now, work in pairs and compare the draft and the edited passage and note down the difference. After you have completed, exchange your work with your partner. (Passage 1: the bats passage)",
+    "answer": "No. | Draft passage | Edited passage | Difference noted\n1 | did you no | Did you know | 'did' is capitalised at the beginning of a question, and 'no' is corrected to 'know'.\n2 | mammals. | mammals? | The full stop is replaced by a question mark, because the sentence asks a question.\n3 | we no | We know | A new sentence begins with a capital 'We', and 'no' is corrected to 'know'.\n4 | becaus | because | Spelling corrected.\n5 | warm blooded | warm-blooded | A hyphen is added in the compound adjective.\n6 | warm blooded they are the only mammals | warm-blooded. They are the only mammals | The long run-on sentence is broken in two, with a full stop and a capital 'They'.\n7 | that no how to fly bats are | that know how to fly. Bats are | 'no' becomes 'know', and a full stop plus a capital 'Bats' begins a new sentence.\n8 | Nocturnal | nocturnal | The unnecessary capital letter on an ordinary adjective is removed.\n9 | thay | they | Spelling corrected.\n10 | awak | awake | Spelling corrected.\n11 | at nite? | at night. | Spelling corrected, and the question mark is changed to a full stop because the clause is a statement, not a question.",
+    "explanation": "The task is to notice what the editor changed, so each row pairs the draft wording with the edited wording and names the kind of change: capitalisation, punctuation, spelling, hyphenation, or the splitting of run-on sentences.",
+    "bookPage": 97
+  },
+  {
+    "id": "u6_w_ex1_q2",
+    "sectionCode": "U6S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Look at the following passages. First one is draft passage and the other is edited passage. Now, work in pairs and compare the draft and the edited passage and note down the difference. After you have completed, exchange your work with your partner. (Passage 2: the Pan-American Highway passage)",
+    "answer": "No. | Draft passage | Edited passage | Difference noted\n1 | wear the longest | where the longest | Wrong homophone corrected ('wear' to 'where').\n2 | rode on Earth | road on Earth | Wrong homophone corrected ('rode' to 'road').\n3 | can be found. | can be found? | The full stop becomes a question mark, since the sentence begins with 'Do you know'.\n4 | in alaska | in Alaska | A proper noun is capitalised.\n5 | through Canada the United States and Mexico | through Canada, the United States and Mexico | Commas are inserted to separate the items in a list.\n6 | Than it continues | Then it continues | 'Than' (used for comparison) is replaced by 'Then' (used for sequence).\n7 | jungles and mountains the road is about 16,000 miles long | jungles and mountains. The road is about 16,000 miles long | The run-on sentence is split in two, with a full stop and a capital 'The'.\n8 | one 54-miles stretch | one 54-mile stretch | A compound adjective before a noun takes the singular form, with no plural 's'.\n9 | remains to be completed | remains to be completed. | The missing full stop at the end of the paragraph is supplied.",
+    "explanation": "The second table is edited for the same kinds of faults as the first: homophones (wear/where, rode/road), missing capitals, missing question mark, missing list commas, a run-on sentence, a compound-adjective error and the missing final stop.",
+    "bookPage": 97
+  },
+  {
+    "id": "u6_w_ex2_q1",
+    "sectionCode": "U6S2",
+    "type": "sq",
+    "number": "2",
+    "question": "Work in pair and find the incorrect words in the passage and correct them. After completing, exchange your work with your partner. Remember to use above tips while doing this exercise. (Passage: 'It is true that a natural disaster was a natural process...')",
+    "answer": "No. | Incorrect | Correct | Reason\n1 | was | is | The paragraph states a general truth about natural disasters, so the present tense is required: 'It is true that a natural disaster is a natural process'.\n2 | would | should | The sentence gives a recommendation, not a hypothetical result: 'we should reduce global warming'.\n3 | from | of | The correct preposition with 'the root cause' is 'of': 'the root cause of all the problems'.\n4 | such that | so that | Purpose is expressed by 'so that': 'we should also have insurance policies so that we have sufficient money'.\n5 | rebuilt | rebuild | After the infinitive marker 'to' the base form is needed: 'money to rebuild our lives'.\n\nEdited passage: It is true that a natural disaster is a natural process and we cannot stop it, but through making certain preparations, we can reduce the magnitude of the loss to life or property. First of all, we should reduce global warming, which is the root cause of all the problems. We should also have insurance policies so that we have sufficient money to rebuild our lives after any such disaster.",
+    "explanation": "Each row gives the word as printed, the corrected word, and the grammatical reason (tense, modal, preposition, conjunction of purpose, verb form after 'to'). The rewritten passage shows all five corrections in place.",
+    "bookPage": 98
+  },
+  {
+    "id": "u6_w_ex3_q1",
+    "sectionCode": "U6S2",
+    "type": "sq",
+    "number": "3",
+    "question": "There is an error in each of the following sentences. Work in pairs. Write the correct word in the space provided. After you have completed, share your work with your partner.",
+    "answer": "No. | Sentence (as printed) | S.No. | Incorrect | Correct\n1 | Exploring space mean to study | e.g | Mean | means\n2 | space to the sake of knowledge | a | to | for\n3 | in the largest interest of mankind. | b | largest | larger\n4 | Exploiting space mean using space | c | mean | means\n5 | for commercial use. There aims | d | There | Their\n6 | are quite difference. The former one | e | difference | different\n7 | is to enhance knowledge but to satisfy | f | but | and\n8 | curiosity while the later is | g | later | latter\n9 | to making money. | h | making | make\n10 | It is truth that his parents are the most humble to him. | i | truth | true\n\nEdited passage: Exploring space means to study space for the sake of knowledge in the larger interest of mankind. Exploiting space means using space for commercial use. Their aims are quite different. The former one is to enhance knowledge and to satisfy curiosity while the latter is to make money. It is true that his parents are the most humble to him.",
+    "explanation": "The ten fragments are one continuous passage cut into rows, so the corrections must be read in sequence; each row contains exactly one faulty word. Row 1 is the worked example. In row 10 the printed sentence also reads awkwardly at 'the most humble to him' (standard English would prefer 'the humblest to him'), but the word the exercise is testing is 'truth', which must be the adjective 'true' after 'It is'.",
+    "bookPage": 99
+  },
+  {
+    "id": "u6_o_ex1_q1",
+    "sectionCode": "U6S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in groups of three. Follow the above guidelines and prepare a presentation on one of the following topics. You will then have to give a group presentation in front of the class. 1. The Importance of Female Education",
+    "answer": "Speaker 1: Good morning, respected teacher and dear class fellows. I am Ayesha from grade XI, and I am speaking first for our group. My presentation will be in three parts. In the first part I will explain why female education matters, in the second my group fellows will give the evidence from Pakistan, and finally we will sum up with what students our age can do. Today's topic is the importance of female education.\n\nSpeaker 2: Let me turn to the first part. An educated woman earns, saves and decides better. For instance, the children of educated mothers are more likely to be vaccinated, to stay in school and to read at home, so one educated woman educates a whole family. Moreover, the World Bank and UNESCO repeatedly find that girls' education is among the strongest influences on a country's growth. In Pakistan the literacy gap is still wide: roughly half of our women can read and write, against about seven in ten men, and in rural Sindh the gap is wider still.\n\nSpeaker 3: In the second part, consider the practical side. A woman who has finished school can run a shop, teach, nurse, farm scientifically or sit in a laboratory. In our own town the girls' school produces teachers who staff three private schools. In addition to this, education protects women: an educated woman knows her legal rights, manages her health and resists early marriage. For example, every extra year of schooling raises a woman's future income by around ten per cent.\n\nSpeaker 1: To sum up, female education is not a favour to women; it is the cheapest and surest investment a society can make. Thank you for taking time out to listen to our presentation.",
+    "explanation": "Open-ended speaking task. The model follows the eight-part structure printed on page 100 (greetings, self-introduction, topic, organisation, beginning, supporting points with examples, summary, thanks) and supplies facts and figures as the exercise's checklist requires.",
+    "bookPage": 101
+  },
+  {
+    "id": "u6_o_ex1_q2",
+    "sectionCode": "U6S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Work in groups of three. Follow the above guidelines and prepare a presentation on one of the following topics. You will then have to give a group presentation in front of the class. 2. Services of Dr. Ruth Pfau for Humanity",
+    "answer": "Speaker 1: Good morning, respected teacher and dear friends. I am Bilal, and I am the first speaker of our group. Let me start by telling you a little about our subject. Today's topic is the services of Dr Ruth Pfau for humanity. My presentation will be in three parts: her life, her work against leprosy, and the lesson she leaves us.\n\nSpeaker 2: In the first part, Dr Ruth Pfau was born in Leipzig, Germany, in 1929. She trained as a doctor, joined the Daughters of the Heart of Mary, and came to Karachi in 1960 on her way to India. She stayed because she saw leprosy patients living on the streets, untreated and unwanted. She spent the rest of her life in Pakistan and died in Karachi in August 2017; she was given a state funeral.\n\nSpeaker 3: Then, in the second part, her work. In 1962 she opened a small leprosy clinic in Karachi, which grew into the Marie Adelaide Leprosy Centre. With government support she built a national network of treatment centres, and Pakistan was declared to have controlled leprosy in 1996. Her centre also treated tuberculosis, ran rehabilitation workshops and trained health workers. For this she was called the 'Mother Teresa of Pakistan' and received the Hilal-i-Imtiaz and the Lenin Peace Prize.\n\nSpeaker 1: Finally, I will go on to talk about the lesson. Dr Pfau did not wait for a big grant or a perfect plan; she began with one clinic and a few patients whom nobody else would touch. Further, she worked with the government instead of complaining about it. To conclude, her life shows that service is a form of patriotism, and that one determined person can change the health of a whole country. Thank you for listening, and we welcome your questions.",
+    "explanation": "Open-ended presentation task. The script follows the printed structure, gives verifiable factual information (birth, arrival in Karachi, MALC, 1996 leprosy control, awards, death) and is divided among three speakers as the group task requires.",
+    "bookPage": 101
+  },
+  {
+    "id": "u6_o_ex1_q3",
+    "sectionCode": "U6S3",
+    "type": "sq",
+    "number": "3",
+    "question": "Work in groups of three. Follow the above guidelines and prepare a presentation on one of the following topics. You will then have to give a group presentation in front of the class. 3. Three places in Sindh that students should visit",
+    "answer": "Speaker 1: Good afternoon, respected teacher and fellow students. I am Sana, and our group will take you to three places in Sindh that every student should see. My presentation will be in three parts, one place for each speaker. The subject of my presentation is travel as education.\n\nSpeaker 2: First, Mohenjo-daro, in Larkana district. Built about 2500 BC, it is one of the oldest planned cities in the world, with streets laid out on a grid, covered drains, the Great Bath and a granary. It is a UNESCO World Heritage Site. For a student of history or civics, an afternoon there teaches more about urban planning than a chapter can.\n\nSpeaker 3: Second, the Makli Necropolis near Thatta. It is one of the largest funerary sites in the world, with thousands of tombs and cenotaphs built between the fourteenth and eighteenth centuries. The carved stone on the tombs of kings, saints and scholars shows the blend of Persian, Gujarati and local Sindhi craft. For instance, the tomb of Jam Nizamuddin and the mausoleum of Isa Khan Tarkhan are masterpieces of stone carving.\n\nSpeaker 1: Finally, Keenjhar Lake, also in Thatta district, about two hours from Karachi. It is the largest freshwater lake in Pakistan and the main source of drinking water for Karachi. Students go there for bird-watching in winter, for the shrine of Noori Jam Tamachi on the island, and to understand why a lake must be protected from pollution. To sum up: Mohenjo-daro teaches us where we come from, Makli teaches us what we can build, and Keenjhar teaches us what we must preserve. Thank you for your attention.",
+    "explanation": "Open-ended presentation task. The three places are all in Sindh and each is supported with facts a Class XI student can defend (dates, UNESCO status, function of the site), and the script is shared among three speakers following the printed structure.",
+    "bookPage": 101
+  },
+  {
+    "id": "u6_o_ex2_q1",
+    "sectionCode": "U6S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Work individually. Select topic of your choice and prepare a presentation.",
+    "answer": "Topic chosen: How social media is changing the study habits of school students.\n\nGood morning, everyone. I am Hamza from grade XI, and today I want to talk about something we all carry in our pockets. My presentation will be in three parts: what has changed, why it matters, and what we can do. In the first part I will give the evidence, in the second I will explain the effect on study, and finally I will suggest three practical rules.\n\nTo begin with, the change is not that students use phones; it is how long and how often. A survey of 500 students in Karachi schools found that the average student spends about three and a half hours a day on social media, and that most of it is in short bursts of two to five minutes. Further, the bursts usually come during homework.\n\nNow let me move to the second point. The problem is not the time lost but the attention broken. It takes several minutes to return to a difficult paragraph after a notification, so a chapter that should take forty minutes takes two hours. For example, students who keep the phone in another room while studying report finishing their work in almost half the time. There is also the comparison effect: watching other people's results and holidays makes ordinary progress feel like failure.\n\nLet me turn to the last part. First, keep the phone outside the study room, not merely on silent. Second, use the twenty-five minute rule: study for twenty-five minutes, then check messages for five. Third, follow only accounts that teach something you are actually studying.\n\nTo conclude, social media is a tool, and a tool is judged by what we build with it. Used carelessly it eats our attention; used deliberately it can teach us more than a library. Thank you for listening.",
+    "explanation": "Open-ended task: the student may choose any topic, so a single model is supplied with a clear topic statement. It follows the eight-part presentation structure from page 100 and includes facts, an example and a summary.",
+    "bookPage": 101
+  },
+  {
+    "id": "u6_g_ex1_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually and make at least three sentences of each kind of adverb. After you have made the sentences, share your work with your class fellows.",
+    "answer": "1. Adverb of manner\n(a) She sang the national anthem sweetly.\n(b) The driver turned the bus carefully at the corner.\n(c) The carpenter finished the door skilfully.\n\n2. Adverb of frequency\n(a) I always brush my teeth before going to bed.\n(b) He rarely misses a cricket match.\n(c) We usually walk to school together.\n\n3. Adverb of degree\n(a) The soup is very hot today.\n(b) She was extremely tired after the match.\n(c) He almost missed the last train.\n\n4. Adverb of time\n(a) We will meet the principal tomorrow.\n(b) She telephoned me yesterday.\n(c) I have already finished my homework.\n\n5. Adverb of place\n(a) The children are playing outside.\n(b) I looked everywhere for my keys.\n(c) Please put the books there.\n\n6. Adverb of relative (relative adverbs: when, where, why)\n(a) This is the house where my grandfather was born.\n(b) Do you know the reason why he left so early?\n(c) I still remember the day when we first met.",
+    "explanation": "Open-ended sentence-making exercise. Three sentences are given for each of the six kinds of adverb in the printed table, and each adverb is underlined in effect by its position and function: manner answers 'how', frequency 'how often', degree 'how much', time 'when', place 'where', relative links a clause to a noun.",
+    "bookPage": 102
+  },
+  {
+    "id": "u6_g_ex2_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "2",
+    "question": "Read the following sentences. Work in pairs and identify an adverb and locate its position in each of the sentence using table given below. An example has been done for you. 1. Suddenly, I felt afraid. 2. Yesterday, detectives arrested a man and a woman in connection with the murder. 3. Apples always taste best when you pick them straight off the tree. 4. They have completely forgotten about our appointment. 5. Why do you always have to eat so fast? 6. They ate dinner quietly.",
+    "answer": "Adverb | Position (beginning, middle, end)\n1. Suddenly | Beginning\n2. Yesterday | Beginning\n3. always | Middle (between the subject 'Apples' and the verb 'taste'; 'straight' in 'straight off the tree' comes at the end, modifying the phrase)\n4. completely | Middle (between the auxiliary 'have' and the main verb 'forgotten')\n5. always | Middle (between the subject 'you' and the verb 'have to eat'; the adverb 'fast' stands at the end of the clause)\n6. quietly | End (after the object 'dinner')",
+    "explanation": "The table follows the printed example, which places the subject-adverb-verb adverb in the 'middle'. Sentences 3 and 5 contain more than one adverb, so the main frequency adverb is entered in the table and the second adverb is named in brackets.",
+    "bookPage": 102
+  },
+  {
+    "id": "u6_g_ex3_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "3",
+    "question": "Work in pairs and identify the position of adverb used in the following sentences. Write the position of adverb against each sentence. After completing, share your work with your partner.",
+    "answer": "No. | Sentence | Position of Adverb\n1 | She always goes to bed early. | Middle - 'always' stands between the subject and the verb; the time adverb 'early' is at the end.\n2 | We never watch TV. | Middle - 'never' between subject and verb.\n3 | Zakia and Zulfiqar often go to the cinema. | Middle - 'often' between the compound subject and the verb.\n4 | Abdullah meets Noman once a week. | End - the frequency expression 'once a week' closes the sentence.\n5 | I sometimes eat fast food. | Middle - 'sometimes' between subject and verb (it may also stand at the beginning or the end).\n6 | They hardly ever cook at home. | Middle - the two-word frequency adverb 'hardly ever' between subject and verb.\n7 | He studies English every night. | End - the time expression 'every night' comes after the object.\n8 | You normally drink coffee. | Middle - 'normally' between subject and verb.\n9 | I rarely go to the park. | Middle - 'rarely' between subject and verb.\n10 | They go to a restaurant from time to time. | End - the frequency expression 'from time to time' comes at the end of the sentence.",
+    "explanation": "The answer applies the position table printed on page 103: indefinite frequency adverbs (always, never, often, sometimes, hardly ever, normally, rarely) occupy the middle position, while longer frequency and time expressions (once a week, every night, from time to time) go at the end.",
+    "bookPage": 104
+  },
+  {
+    "id": "u6_g_ex4_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "4",
+    "question": "Work individually and answer the following questions using frequency expressions in the answer column. After completing, share your work with your partner.",
+    "answer": "No. | Question | Answer\n1 | How often do you eat fruit? | I eat fruit twice a day; I always take an apple with my lunch.\n2 | How often do you meet your friends? | I usually meet my friends on Fridays after school, and sometimes on Sundays.\n3 | How often do you do exercise? | I go for a walk every morning and I rarely miss it.\n4 | How often do you use the computer? | I use the computer every evening for about an hour, but I hardly ever play games on it.\n5 | How often do you go away? | We go away twice a year, usually in the summer holidays and at Eid.",
+    "explanation": "Open-ended personal questions. Each model answer contains a frequency expression (twice a day, usually, every morning, hardly ever, twice a year) placed where the grammar table allows it, which is the point of the exercise.",
+    "bookPage": 104
+  },
+  {
+    "id": "u6_g_ex5_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "5",
+    "question": "Work in pairs. Rewrite the following sentences by putting the frequency adverbs and expressions in the right place. Share your work with your partner when it is completed.",
+    "answer": "1. Rashid is never late for school. ('never' goes after the verb 'is')\n2. My brother doesn't usually write letters to his friends. ('usually' goes between the auxiliary 'doesn't' and the main verb)\n3. We go on holidays twice a year. ('twice a year' goes at the end)\n4. Asghar sometimes wears a tie. ('sometimes' goes between subject and verb; it may also begin the sentence)\n5. I eat fish once a week. ('once a week' goes at the end)\n6. Do the children often watch TV? ('often' goes after the subject in a question)\n7. My father is always very busy. ('always' goes after the verb 'is')\n8. Naeem never tidies his room. ('never' goes between subject and verb)\n9. My brother and I go fishing every week. ('every week' goes at the end)\n10. My mother always goes shopping on Saturdays. ('always' goes between subject and verb)\n11. Do you usually get up late at the weekend? ('usually' goes after the subject in a question)\n12. I drink tea every morning. ('every morning' goes at the end)\n13. Shazia sometimes rides her motorbike to work. ('sometimes' goes between subject and verb)\n14. I often exercise in the afternoons. ('often' goes between subject and verb)\n15. Does Shahid usually have lunch at home? ('usually' goes after the subject in a question)",
+    "explanation": "All fifteen sentences are rewritten. Note the printing slip on page 105: the third item, 'We go on holidays. (twice a year)', has lost its number 3, so the list runs 1, 2, [unnumbered], 4 ... 15; it is answered here as item 3 to keep the count right. The rule applied is the one in the position table: single-word frequency adverbs go in the middle (after 'be' and after the first auxiliary), longer expressions go at the end.",
+    "bookPage": 105
+  },
+  {
+    "id": "u6_g_ex6_q1",
+    "sectionCode": "U6S4",
+    "type": "sq",
+    "number": "6",
+    "question": "Work in pairs and fill in the blanks below with the best adverbs of frequency given in the box. You can use one word more than one time. After you have completed, share your work with your partner. (Box: always, almost always, usually, often, never, sometimes, seldom, rarely, hardly ever)",
+    "answer": "1. My brother is never sad. He's always happy. ('never sad' needs the opposite extreme, 'always')\n2. I was late for work only one time last year. I'm hardly ever late. (also correct: rarely / seldom)\n3. Mary failed only one test in high school. She almost always passed her tests. (one failure out of many means nearly every time)\n4. I always remember to do my homework. I never forget to do it. (the opposite of 'always remember')\n5. Steven seldom goes to a cinema. He rarely sees movies. (also correct: hardly ever / seldom)\n6. Judy saw a doctor for the first time in three years. She rarely gets sick. (also correct: seldom / hardly ever)\n7. I get up at five o'clock seven days a week. I always get up early. (every single day)\n8. It's always hot and sunny where I live. That's why I never see snow. (snow is impossible there)\n9. A: Do you ever drink coffee? B: Yes, but only sometimes, not often - just a few times a week. (the text itself says 'not often')\n10. My sister almost never eats burgers and fries. She almost always eats healthy foods. (the opposite of 'almost never'; 'usually' is also acceptable)",
+    "explanation": "Each blank is decided by the clue in the same sentence (only one time, only one test, seven days a week, first time in three years, 'not often'), which points to one end of the frequency scale. Where two adverbs of the box fit equally well, the alternatives are named in brackets.",
+    "bookPage": 106
+  }
+]

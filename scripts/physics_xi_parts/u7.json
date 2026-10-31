@@ -1,0 +1,413 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "For an incompressible fluid, the flow rate is",
+    "options": [
+      "equal for all surfaces.",
+      "constant throughout the pipe.",
+      "greater for the larger parts of the pipe.",
+      "none of the above"
+    ],
+    "correct": "b",
+    "answer": "(b) constant throughout the pipe.",
+    "explanation": "In steady flow of an incompressible fluid the mass entering any section per second equals the mass leaving it; since the density is constant, the volume flow rate Q = A v must be the same at every cross-section. So the flow rate is constant along the pipe, although the speed changes from place to place. Options (a) and (c) confuse flow rate with speed or with area, and (d) is wrong because a definite answer exists.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "Bernoulli's principle states that for horizontal flow of a fluid through a tube, the sum of the pressure and energy of motion per unit volume is",
+    "options": [
+      "increasing with time",
+      "decreasing with time",
+      "constant",
+      "varying with time"
+    ],
+    "correct": "c",
+    "answer": "(c) constant",
+    "explanation": "For steady horizontal flow the height term is the same at both points, so Bernoulli's equation reduces to P + ½ρv² = constant; this sum is the pressure plus the kinetic energy per unit volume. It is constant along the tube, not increasing, decreasing or varying with time, because steady flow means the velocity at each point does not change with time.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Which of the following is associated with the law of conservation of energy in fluids?",
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "equation of continuity"
+    ],
+    "correct": "b",
+    "answer": "(b) Bernoulli's principle",
+    "explanation": "Bernoulli's equation is obtained by applying the work-energy theorem to a moving fluid: the work done by the pressure forces appears as change of kinetic plus potential energy per unit volume, so it is conservation of energy written for a fluid. Archimedes' and Pascal's principles belong to fluid statics, and the equation of continuity follows from conservation of mass, not energy.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "As the speed of a moving fluid increases, the pressure in the fluid",
+    "options": [
+      "increases",
+      "remains constant",
+      "decreases",
+      "may increase or decrease, depending on the viscosity"
+    ],
+    "correct": "c",
+    "answer": "(c) decreases",
+    "explanation": "Bernoulli's equation P + ½ρv² + ρgh = constant requires that at the same height an increase of speed v be accompanied by a decrease of pressure P, because the sum of the two terms stays constant. The pressure therefore falls as the fluid speeds up; it does not rise or stay constant, and viscosity only causes an extra loss of energy, it does not reverse this relation for ideal streamline flow.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "If the cross-sectional area of a pipe decreases, what happens to the fluid velocity?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains the same",
+      "Depends on the fluid density"
+    ],
+    "correct": "a",
+    "answer": "(a) Increases",
+    "explanation": "By the equation of continuity A₁v₁ = A₂v₂ for an incompressible fluid, the product of area and speed must stay constant, so a smaller area forces a larger speed for the same volume flow rate. This is why water from a partly closed tap or a nozzle comes out faster. Density cancels out of the incompressible continuity equation, so the answer does not depend on it.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "A sky diver falls through the air at terminal velocity. The force of air resistance on him is",
+    "options": [
+      "half his weight",
+      "equal to his weight",
+      "twice his weight",
+      "Cannot be determined from the information given."
+    ],
+    "correct": "b",
+    "answer": "(b) equal to his weight",
+    "explanation": "Terminal velocity is the constant speed reached when the upward drag has grown until it exactly balances the downward weight, so the net force and hence the acceleration are zero. At that stage the air resistance equals his weight, not half or twice it, and it can be determined because the motion is stated to be at terminal velocity.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Wind speeding up as it blows over the top of a hill",
+    "options": [
+      "Increases atmospheric pressure there.",
+      "decreases atmospheric pressure there.",
+      "doesn't affect atmospheric pressure there.",
+      "equal's atmospheric pressure."
+    ],
+    "correct": "b",
+    "answer": "(b) decreases atmospheric pressure there.",
+    "explanation": "The air is forced to speed up as it crosses the hill, and along a streamline at nearly the same height Bernoulli's equation gives P + ½ρv² = constant; a larger v therefore means a smaller P. This low pressure over the crest explains why strong winds on hill tops are associated with reduced pressure and why roofs can be lifted in a gale. Options (a), (c) and (d) ignore the link between speed and pressure.",
+    "pdfPage": 162,
+    "bookPage": 158
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "A fluid is undergoing “incompressible” flow. This means that:",
+    "options": [
+      "the pressure at a given point cannot change with time",
+      "the velocity at a given point cannot change with time",
+      "the velocity must be the same everywhere",
+      "the pressure must be the same everywhere",
+      "the density cannot change with time or location"
+    ],
+    "correct": "e",
+    "answer": "(e) the density cannot change with time or location",
+    "explanation": "Incompressible means the volume of a given mass of fluid cannot be squeezed, so its density stays the same as it moves and as time passes; that is option (e). Options (a) and (b) define steady flow, option (c) describes uniform flow, and option (d) would mean no pressure differences at all, so none of them is what incompressibility means.",
+    "pdfPage": 163,
+    "bookPage": 159
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "A fluid is undergoing steady flow. Therefore:",
+    "options": [
+      "the velocity of any given molecule of fluid does not change",
+      "the pressure does not vary from point to point",
+      "the velocity at any given point does not vary with time",
+      "the density does not vary from point to point"
+    ],
+    "correct": "c",
+    "answer": "(c) the velocity at any given point does not vary with time",
+    "explanation": "Steady flow means the velocity field is independent of time: at a fixed point in space the speed and direction are always the same, though the fluid elements passing through may be speeding up or slowing down elsewhere. A given molecule can change its velocity as it moves to a new point (a), and neither the pressure (b) nor the density (d) has to be uniform in steady flow.",
+    "pdfPage": 163,
+    "bookPage": 159
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "The equation of continuity for fluid flow can be derived from the conservation of:",
+    "options": [
+      "energy",
+      "mass",
+      "volume",
+      "pressure"
+    ],
+    "correct": "b",
+    "answer": "(b) mass",
+    "explanation": "The continuity equation ρ₁A₁v₁ = ρ₂A₂v₂ states that the mass of fluid crossing every section per second is the same, which is conservation of mass for a steady flow with no sources or sinks. Conservation of energy gives Bernoulli's equation instead. Conservation of volume holds only as a consequence of constant density in an incompressible fluid, and pressure is not a conserved quantity.",
+    "pdfPage": 163,
+    "bookPage": 159
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "What is difference between streamline and turbulent flow?",
+    "answer": "In streamline (laminar) flow every particle that passes a given point follows the same path and has the same velocity as the particles before it, so the motion is smooth, orderly and can be drawn as streamlines that never cross. In turbulent flow the velocity at a point changes irregularly with time, eddies and whirlpools appear and the streamlines break up and cross one another. Laminar flow occurs at low speed, high viscosity and low Reynolds number (Re below about 1000 in a pipe); turbulent flow occurs at high speed, low viscosity and Re above about 2000. Laminar flow needs only a small driving pressure, while turbulent flow offers much greater resistance to motion because of the eddies, and it mixes the fluid rapidly.",
+    "explanation": "Key contrast: in laminar flow the velocity at each point is constant in time and streamlines do not cross; in turbulent flow the velocity fluctuates randomly and eddies form. A common mistake is to say laminar flow has no viscosity.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Would a drinking straw work in space where there is no gravity? Explain.",
+    "answer": "Yes, provided the spacecraft cabin still contains air at normal pressure. A straw works by a pressure difference, not by gravity: sucking lowers the pressure in the mouth, and the greater pressure of the surrounding air on the free surface of the drink pushes the liquid up the straw. Gravity actually opposes the rise, because the liquid has to be lifted through a height h (a pressure ρgh is needed), so its absence makes drinking easier. The practical problem is that without gravity the liquid does not settle at the bottom of the container but floats about as globules, so it may not stay around the lower end of the straw. If the straw is inside an enclosed drink bag, an astronaut can drink normally; in the vacuum outside the cabin there would be no pressure to push the liquid and the straw would not work.",
+    "explanation": "Common mistake: thinking suction pulls the liquid. The liquid is pushed up by the external (cabin) pressure acting on its free surface; gravity is not required and actually hinders the rise.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Why do airplanes take off into wind?",
+    "answer": "An aircraft takes off into the wind so that the speed of air relative to its wings is the ground speed plus the wind speed. Lift depends on the airspeed over the wing, L = ½ρ(v_top² − v_bottom²)A, and not on the ground speed. With a headwind the wing already experiences a high airspeed while the aircraft is still moving slowly along the runway, so the lift needed to leave the ground is produced at a lower ground speed; the take-off run is therefore shorter and the aircraft can clear obstacles sooner. The headwind also gives better steering and control at low ground speed. For the same reason aircraft land into the wind, which lowers the touchdown speed and shortens the landing run.",
+    "explanation": "Key point: lift depends on airspeed relative to the wing, not ground speed. A headwind adds to the airspeed, so the required lift is reached at a smaller ground speed and the runway needed is shorter.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "Describe terminal velocity in liquids.",
+    "answer": "When a body falls through a liquid, three forces act on it: its weight W downwards, the buoyant force U upwards and the viscous drag F upwards. The drag increases with speed according to Stokes' law, F = 6πηrv. At first W is greater than U + F, so the body accelerates; as its speed grows the drag grows too, until W = U + F and the net force becomes zero. From then on the body moves with a constant maximum speed called its terminal velocity. For a sphere, v_t = 2r²(ρ − σ)g/(9η), so the terminal velocity increases with the square of the radius and with the difference of densities, and decreases as the viscosity increases. This is why a steel ball sinks quickly in water while a tiny air bubble rises slowly, and why raindrops reach only a few metres per second.",
+    "explanation": "Essential point: terminal velocity is reached when weight = buoyancy + drag, so the acceleration is zero although the body still moves. The strong r² dependence is often forgotten.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Discuss the significance of Reynolds number.",
+    "answer": "The Reynolds number Re = ρvd/η = vd/ν is the ratio of inertial forces to viscous forces in a flow, and being dimensionless it characterises the flow itself rather than any particular fluid. Its main significance is that it predicts whether the flow will be laminar or turbulent: for flow through a pipe, Re below about 1000 gives steady laminar flow, Re above about 2000 gives turbulent flow, and in between the flow is unstable. A large Re (high speed, large pipe, low viscosity) means inertia dominates and eddies form, while a small Re means viscosity damps out disturbances. Engineers use Re to design pipes, pumps, aircraft and ships, and to test scale models, because two flows with the same Re behave in the same way (dynamic similarity).",
+    "explanation": "Key idea: Re = ρvd/η compares inertial with viscous forces; it is dimensionless, and the laminar-to-turbulent transition occurs near a critical value of about 2000 for pipe flow.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "State Bernoulli's principle.",
+    "answer": "Bernoulli's principle states that for the steady, streamline flow of an incompressible and non-viscous fluid, the sum of the pressure, the kinetic energy per unit volume and the potential energy per unit volume is constant at every point along a streamline: P + ½ρv² + ρgh = constant. The three terms are called the static pressure, the dynamic pressure ½ρv² and the potential term ρgh, and their sum is the total pressure. Equivalently, where the fluid moves faster its pressure is lower, and where it moves slower its pressure is higher. The principle is a statement of the conservation of energy per unit volume for a flowing fluid, and it holds only for steady, non-viscous, incompressible flow along a streamline.",
+    "explanation": "State the equation P + ½ρv² + ρgh = constant together with its conditions: steady, streamline, incompressible, non-viscous flow. Forgetting the assumptions is the usual mistake.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Give two applications of Bernoulli's principle.",
+    "answer": "Two applications are the atomizer and the venturi meter. In an atomizer, air is blown across the top of a vertical tube dipping into a liquid; the fast air lowers the pressure above the tube, and the atmospheric pressure on the liquid surface in the bottle pushes the liquid up the tube, where the air stream breaks it into a fine spray. In a venturi meter the fluid is forced through a narrow throat; by continuity its speed rises and by Bernoulli's principle its pressure falls, and measuring the pressure difference between the wide part and the throat gives the flow rate from ΔP = ½ρ(v₂² − v₁²). The same principle explains the lift on an aerofoil, the action of a filter pump or Bunsen burner, the draught in a chimney and the swing of a spinning ball.",
+    "explanation": "Each application must show the chain: constriction or spin gives higher speed, higher speed gives lower pressure, and the pressure difference produces the observed effect.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 8,
+    "question": "‘Fluid flow is turbulent rather than laminar’, support this statement.",
+    "answer": "In everyday situations the Reynolds number of a flow is usually far above the critical value, so turbulence is the rule rather than the exception. Water flowing at only 1 m/s through a 5 cm pipe has Re = ρvd/η ≈ 1000 × 1 × 0.05/10⁻³ = 5 × 10⁴, twenty-five times the critical value of about 2000, so eddies are bound to appear. Rivers, winds, smoke plumes, ocean currents and blood in the aorta are all turbulent. Rough internal surfaces, bends, valves and sudden changes of cross-section trip the flow into turbulence, and high speed or low viscosity makes it even more likely. Laminar flow survives only in narrow tubes, at low speeds, or in very viscous liquids such as honey and glycerine. Turbulence also mixes the fluid and greatly increases the resistance to motion, which is why it dominates practical designs.",
+    "explanation": "Support the statement with high Reynolds numbers, roughness, sudden changes of section, high speed and low viscosity, and with concrete examples such as rivers, smoke and blood flow.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 9,
+    "question": "Discuss importance of Stokes law.",
+    "answer": "Stokes' law gives the viscous drag on a small sphere moving slowly through a viscous fluid: F = 6πηrv. It is important for several reasons. It allows the terminal velocity of raindrops, dust particles, blood cells and sedimenting particles to be calculated, which explains why fine dust stays suspended for hours while sand settles quickly. It is the basis of the falling-sphere (Stokes) viscometer, in which the measured terminal speed of a steel ball gives the coefficient of viscosity of a liquid. It is also used in the analysis of sedimentation and centrifugation, in the design of filters and in Millikan's oil-drop experiment, where the drag on a charged droplet allows its charge to be found. The law is valid only for a smooth sphere, laminar flow and low Reynolds number, but it is the starting point for the theory of motion through a viscous medium.",
+    "explanation": "Key formula F = 6πηrv. Its importance lies in measuring viscosity, terminal velocity, sedimentation and the charge of an electron in Millikan's experiment.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "B",
+    "number": 10,
+    "question": "Justify spin of ball in Bernoulli’s principle.",
+    "answer": "When a ball spins as it moves through the air, the layer of air next to its surface is dragged round with it by friction. On one side of the ball the surface moves in the same direction as the air stream, so the relative speed of the air there is increased; on the opposite side the surface moves against the stream, so the relative speed is decreased. By Bernoulli's principle, P + ½ρv² = constant, the pressure is lower on the side where the air moves faster. The resulting pressure difference produces a net sideways force, which pushes the ball towards the low-pressure side. This is called the Magnus effect. It explains why a spinning cricket or football curves in flight, why a table-tennis ball with top spin dips, and why a golf ball with back spin gains lift.",
+    "explanation": "Magnus effect: spin makes the relative air speed higher on one side, so by Bernoulli's principle the pressure there is lower and the ball is pushed sideways towards that side.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Derive equation of continuity. Also show its physical significance.",
+    "answer": "Consider a tube of varying cross-section through which a fluid flows steadily. Let A₁ and A₂ be the areas of two sections, v₁ and v₂ the speeds of the fluid there and ρ₁ and ρ₂ the densities. In a small time Δt the mass entering at section 1 is Δm₁ = ρ₁A₁v₁Δt and the mass leaving at section 2 is Δm₂ = ρ₂A₂v₂Δt. Since the flow is steady, no fluid accumulates between the sections, so conservation of mass requires Δm₁ = Δm₂, giving ρ₁A₁v₁ = ρ₂A₂v₂. This is the equation of continuity. For an incompressible fluid ρ₁ = ρ₂, and therefore A₁v₁ = A₂v₂, or A v = constant = Q.\nPhysical significance: (i) it is the law of conservation of mass written for a flowing fluid; (ii) the volume flow rate Q is the same at every cross-section of the tube; (iii) the speed is inversely proportional to the cross-sectional area, which is why water speeds up when the end of a hose is partly closed and why a river slows down where it widens; (iv) it is the basis of the design of nozzles, carburettors and venturi meters and of the study of blood flow, where the aorta branches into billions of capillaries of very large total area, so the blood slows to a few mm/s. For a gas the density term must be kept, giving ρ A v = constant.",
+    "explanation": "Key idea: conservation of mass for steady flow. For an incompressible fluid A v = constant, so the speed is inversely proportional to the cross-sectional area.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Derive Bernoulli’s equation.",
+    "answer": "Assumptions: the flow is steady and streamline, the fluid is incompressible and non-viscous, and we follow a fixed mass of fluid along a streamline.\nConsider a pipe whose cross-section and height change, and follow a volume ΔV of fluid from point 1 (area A₁, pressure P₁, speed v₁, height h₁) to point 2 (area A₂, pressure P₂, speed v₂, height h₂). The mass of this element is Δm = ρΔV.\nWork done by pressure forces: the fluid behind section 1 pushes the element forward through Δx₁, doing work P₁A₁Δx₁ = P₁ΔV, while the fluid ahead of section 2 pushes back through Δx₂, doing work −P₂A₂Δx₂ = −P₂ΔV. Net work by pressure, W = (P₁ − P₂)ΔV.\nChange in kinetic energy: ΔK = ½Δm(v₂² − v₁²) = ½ρΔV(v₂² − v₁²).\nChange in potential energy: ΔU = Δm g(h₂ − h₁) = ρΔV g(h₂ − h₁).\nBy the work-energy theorem the net work equals the change in mechanical energy:\n(P₁ − P₂)ΔV = ½ρΔV(v₂² − v₁²) + ρΔV g(h₂ − h₁).\nDividing throughout by ΔV and rearranging,\nP₁ + ½ρv₁² + ρgh₁ = P₂ + ½ρv₂² + ρgh₂,\nthat is, P + ½ρv² + ρgh = constant along a streamline. This is Bernoulli's equation.\nThe three terms are the pressure energy, kinetic energy and potential energy per unit volume, so the equation is a statement of conservation of energy for a flowing fluid. For horizontal flow (h₁ = h₂) it reduces to P + ½ρv² = constant: where the fluid moves faster the pressure is lower, which explains aerofoil lift, the atomizer, the venturi meter and the swing of a spinning ball. The equation neglects viscous losses, compressibility and turbulence, so it applies only to steady, streamline flow of an incompressible, non-viscous fluid.",
+    "explanation": "Key idea: apply the work-energy theorem to a volume ΔV of fluid; the net pressure work (P₁ − P₂)ΔV equals the change in kinetic plus potential energy per unit volume.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "Discuss viscous force in fluids.",
+    "answer": "When a real fluid flows, adjacent layers move with different speeds, so there is relative motion between them. Because of the cohesive forces between molecules and the exchange of molecules between neighbouring layers, each layer exerts a tangential frictional force on the layer next to it which opposes their relative motion. This internal friction is called the viscous force.\nFor laminar flow between two parallel layers of area A separated by a distance dx and moving with a velocity difference dv, Newton's law of viscosity gives F = ηA(dv/dx), where dv/dx is the velocity gradient and η is the coefficient of viscosity. Its SI unit is Pa·s (N·s m⁻²) and it is a measure of the resistance of a fluid to flow: honey and glycerine have large viscosities, water and air much smaller ones. In liquids η decreases as the temperature rises because the cohesive forces weaken, whereas in gases η increases with temperature because the molecular momentum transfer becomes faster.\nViscous force is responsible for the parabolic velocity profile of flow in a pipe, for the drag on a body moving through a fluid (Stokes' law F = 6πηrv for a sphere) and hence for terminal velocity, and for the pressure drop along a pipe. It converts mechanical energy into heat, and it must be overcome in pumping, lubrication and the flow of blood through fine vessels.",
+    "explanation": "Key idea: Newton's law of viscosity F = ηA(dv/dx). Viscosity is internal friction between adjacent layers of the fluid, caused by cohesion and molecular interchange, not merely friction with the pipe wall.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "Define fluid dynamics and explain its significance in the study of fluids. How does it differ from fluid statics?",
+    "answer": "Fluid dynamics is the branch of fluid mechanics that deals with fluids in motion: with the velocity, pressure and energy of a flowing fluid and with the forces that cause or resist the flow. Its basic tools are the equation of continuity (conservation of mass), Bernoulli's equation (conservation of energy) and the laws of viscosity and turbulence.\nIts significance is very wide. It allows the flow of water, oil and gas in pipes, nozzles and pumps to be calculated and the required pipe sizes and pumping powers to be designed. It explains the lift on aircraft wings, the swing of a spinning ball, and the working of carburettors, atomizers, venturi meters and filter pumps. It describes the circulation of blood, the flow of rivers, ocean currents and weather systems, and it is essential in the design of ships, cars, dams, turbines and aeroplanes. Without fluid dynamics the safe and efficient transport of water, fuel and air would be impossible.\nFluid statics, on the other hand, deals with fluids at rest. It uses pressure, Pascal's law, Archimedes' principle and the result that pressure depends only on depth, P = hρg. In a static fluid there is no relative motion of layers, so there are no shear or viscous forces and only normal pressure acts. In fluid dynamics the fluid is moving, viscous shear appears and the pressure is no longer fixed by depth alone: Bernoulli's equation shows that pressure also depends on speed. Fluid statics is therefore the special case of fluid dynamics with v = 0.",
+    "explanation": "Key distinction: statics treats fluids at rest, where pressure depends only on depth and there are no shear forces; dynamics treats moving fluids, where viscosity and speed-dependent pressure must be included.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Discuss the concept of Reynolds number and its significance in fluid dynamics. Explain how Reynolds number relates to the transition between laminar and turbulent flow.",
+    "answer": "The Reynolds number is a dimensionless parameter defined by Re = ρvd/η = vd/ν, where ρ is the density of the fluid, v the speed of flow, d the diameter of the pipe (or some other characteristic length) and η the coefficient of viscosity; ν = η/ρ is the kinematic viscosity. It represents the ratio of the inertial forces (of order ρv²d²) to the viscous forces (of order ηvd), and therefore indicates which of the two dominates the flow.\nIts significance is that it characterises the flow rather than the particular fluid. Small Re means viscous forces dominate: disturbances are damped out and the flow is smooth and laminar. Large Re means inertial forces dominate: disturbances grow, eddies form and the flow becomes turbulent. Because Re is dimensionless, two flows with the same Re behave similarly even if they involve different fluids and different sizes; this is the principle of dynamic similarity, used to test scale models of aircraft, ships and dams in wind tunnels and towing tanks.\nFor flow through a straight pipe the transition occurs as follows. For Re below about 1000 the flow is laminar and Poiseuille's law holds. Between about 1000 and 2000 the flow is unstable: a small disturbance neither dies out nor grows. Above about 2000 the flow becomes turbulent, with random velocity fluctuations, eddies and a much larger resistance. In Reynolds' classic experiment, dye injected into the stream first moves as a straight thread (laminar), then wavers, and finally breaks up and mixes throughout the pipe (turbulent) as the speed, and hence Re, is increased.",
+    "explanation": "Key idea: Re = ρvd/η compares inertial and viscous forces. Laminar flow at low Re, turbulent flow above the critical value (about 2000 for pipe flow), with an unstable transition region in between.",
+    "pdfPage": 163,
+    "bookPage": 159,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 1,
+    "question": "Two spherical raindrops of equal size are falling through air at a velocity of 0.08 m/s. If the drops join together forming a large spherical drop, what will be the new terminal velocity?",
+    "answer": "Given:\nTwo equal spherical drops, each at terminal velocity v = 0.08 m/s, merge into a single spherical drop.\nFormula:\nAt terminal velocity v_t ∝ r² (Stokes' law), and the volume is conserved: (4/3)πR³ = 2 × (4/3)πr³, so R = 2^(1/3) r.\nSubstitution:\nv′ = v (R/r)² = 0.08 × (2^(1/3))² = 0.08 × 2^(2/3).\nCalculation:\n2^(2/3) = 1.587, so v′ = 0.08 × 1.587 = 0.127 m/s.\nResult:\nv′ ≈ 0.13 m/s, which agrees with the printed answer (0.13 m/s).",
+    "explanation": "Key relation: terminal velocity is proportional to the square of the radius, and joining two equal drops gives R = 2^(1/3) r, so the speed increases by the factor 2^(2/3) ≈ 1.59.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 2,
+    "question": "Calculate the viscous drag on a drop of oil of 0.1 mm radius falling through air at tis terminal velocity. (Viscosity of air = 1.8×10⁻⁵ Pa. s; density of oil = 850 kg / m³)",
+    "answer": "Given:\nr = 0.1 mm = 1.0 × 10⁻⁴ m; η(air) = 1.8 × 10⁻⁵ Pa·s; ρ(oil) = 850 kg/m³; the density of air is negligible.\nFormula:\nTerminal velocity v_t = 2r²(ρ − σ)g/(9η); Stokes' drag F = 6πηrv_t.\nSubstitution:\nv_t = 2(1.0 × 10⁻⁴)²(850)(9.8)/(9 × 1.8 × 10⁻⁵); F = 6π(1.8 × 10⁻⁵)(1.0 × 10⁻⁴)(1.03).\nCalculation:\nv_t = (2 × 1.0 × 10⁻⁸ × 8330)/(1.62 × 10⁻⁴) = 1.03 m/s;\nF = 6 × 3.1416 × 1.8 × 10⁻⁵ × 1.0 × 10⁻⁴ × 1.03 = 3.49 × 10⁻⁸ N.\nResult:\nF ≈ 3.49 × 10⁻⁸ N, in agreement with the printed 3.48 × 10⁻⁸ N (the small difference is only round-off).\nCheck: at terminal velocity the drag must equal the weight, (4/3)πr³ρg = (4/3)π(10⁻⁴)³(850)(9.8) = 3.49 × 10⁻⁸ N, which confirms the result.",
+    "explanation": "Key step: first find the terminal speed from Stokes' law, v_t = 2r²ρg/(9η), then use F = 6πηrv_t; at terminal velocity the drag also equals the weight, which provides a check.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 3,
+    "question": "What area must a heating duct have if air moving 3.0 m/s along it can replenish the air every 15 minutes in a room of volume 300 m³. Assume air density remains constant.",
+    "answer": "Given:\nV = 300 m³; t = 15 min = 900 s; v = 3.0 m/s.\nFormula:\nVolume flow rate Q = V/t; from Q = A v, A = Q/v; for a circular duct, d = √(4A/π).\nSubstitution:\nQ = 300/900 = 0.333 m³/s; A = 0.333/3.0; d = √(4 × 0.111/3.1416).\nCalculation:\nA = 0.111 m² ≈ 0.11 m²; d = √0.1415 = 0.376 m.\nResult:\nA ≈ 0.11 m² and d ≈ 0.38 m. The printed area (0.11 m²) agrees; the printed value 0.33 m for the diameter is a book error, since 0.33 m is √A (the side of a square duct), not the diameter of a circular one. Discrepancy noted.",
+    "explanation": "Key formulas: Q = V/t and Q = A v. Check the second printed answer with d = √(4A/π); it gives 0.38 m, not the printed 0.33 m.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 4,
+    "question": "Water circulates throughout a house in a hot-water heating system. If the water is pumped at a speed of 0.50 m/s through a 4.0 cm diameter pipe in the basement under a pressure of 3.0 atm, what will be the flow speed and pressure in a 2.6 cm diameter pipe on the second floor 5.0 m above? Assume the pipes do not divide into branches.",
+    "answer": "Given:\nd₁ = 4.0 cm, v₁ = 0.50 m/s, P₁ = 3.0 atm; d₂ = 2.6 cm; h₂ − h₁ = 5.0 m; ρ = 1000 kg/m³; 1 atm = 1.01 × 10⁵ Pa.\nFormula:\nContinuity A₁v₁ = A₂v₂, so v₂ = v₁(d₁/d₂)².\nBernoulli P₁ + ½ρv₁² + ρgh₁ = P₂ + ½ρv₂² + ρgh₂.\nSubstitution:\nv₂ = 0.50 × (4.0/2.6)² = 0.50 × 2.367;\nP₂ = P₁ − ρg(h₂ − h₁) + ½ρ(v₁² − v₂²)\n= 3.0 − (1000 × 9.8 × 5.0)/(1.01 × 10⁵) + 500(0.25 − 1.40)/(1.01 × 10⁵) atm.\nCalculation:\nv₂ = 1.18 m/s ≈ 1.2 m/s;\nP₂ = 3.0 − 0.485 − 0.006 = 2.51 atm.\nResult:\nv₂ ≈ 1.2 m/s and P₂ ≈ 2.5 atm, agreeing with the printed (1.2 m/s, 2.5 atm). The pressure drops because the water gains kinetic energy and is lifted 5.0 m.",
+    "explanation": "Use continuity for the speed and Bernoulli for the pressure; the pressure falls by ρgΔh ≈ 0.48 atm for the height and by a small ½ρ(v₂² − v₁²) term for the speed increase.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 5,
+    "question": "What is the volume rate of flow of water from a 1.85 cm diameter faucet if the pressure head is 12 m?",
+    "answer": "Given:\nd = 1.85 cm = 1.85 × 10⁻² m; pressure head h = 12 m; g = 9.8 m/s².\nFormula:\nSpeed of efflux v = √(2gh); volume flow rate Q = A v = (πd²/4)v.\nSubstitution:\nv = √(2 × 9.8 × 12) = √235.2; A = π(1.85 × 10⁻²)²/4.\nCalculation:\nv = 15.3 m/s; A = 2.69 × 10⁻⁴ m²;\nQ = 2.69 × 10⁻⁴ × 15.3 = 4.12 × 10⁻³ m³/s.\nResult:\nQ ≈ 4.1 × 10⁻³ m³/s (about 4.1 L/s). The printed answer is 4.6 × 10⁻³ m³/s, which is about 11% larger and is not obtained from the printed data; it would require a head of about 15 m or a diameter of about 1.95 cm. Discrepancy noted.",
+    "explanation": "Key formulas: Torricelli's law v = √(2gh) and Q = A v. The printed value 4.6 × 10⁻³ m³/s does not follow from d = 1.85 cm and h = 12 m.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 6,
+    "question": "The stream of water emerging from a faucet ‘neck down’ as it falls. The cross-sectional area is 1.2 cm² and 0.35 cm². The two levels are separated by a vertical distance of 45 mm as shown in figure. At what rate does water flow from the tap? [The tap's opening has area 1.2 cm², the lower section of the stream has area 0.35 cm², and the two levels are 45 mm apart.]",
+    "answer": "Given:\nA₁ = 1.2 cm² = 1.2 × 10⁻⁴ m² (at the tap); A₂ = 0.35 cm² = 3.5 × 10⁻⁵ m² (lower section); h = 45 mm = 0.045 m.\nFormula:\nContinuity A₁v₁ = A₂v₂ = Q; free fall of the stream gives v₂² = v₁² + 2gh.\nSubstitution:\n(Q/A₂)² − (Q/A₁)² = 2gh, so Q = √[2gh/(1/A₂² − 1/A₁²)]\n= √[2 × 9.8 × 0.045/(1/(3.5 × 10⁻⁵)² − 1/(1.2 × 10⁻⁴)²)].\nCalculation:\n1/A₂² = 8.16 × 10⁸ m⁻⁴; 1/A₁² = 6.94 × 10⁷ m⁻⁴; difference = 7.47 × 10⁸ m⁻⁴; 2gh = 0.882 m²/s².\nQ = √(0.882/7.47 × 10⁸) = √(1.18 × 10⁻⁹) = 3.44 × 10⁻⁵ m³/s.\nResult:\nQ ≈ 3.4 × 10⁻⁵ m³/s = 34 cm³/s, agreeing with the printed (34 cm³/s).",
+    "explanation": "Combine the equation of continuity with the free-fall relation v₂² = v₁² + 2gh; eliminating the speeds gives Q directly from the two areas and the height difference.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": "Photograph of water falling from a tap, narrowing from a 1.2 cm² cross-section at the opening to 0.35 cm² over a 45 mm drop."
+  },
+  {
+    "section": "D",
+    "number": 7,
+    "question": "Water leaves the jet of a horizontal hose at 10 m/s. If the velocity of water within the hose is 0.40 m/s, calculate the pressure within the hose. Density of water is 1000 kg/m³ and atmospheric pressure is 100000 Pa.",
+    "answer": "Given:\nv_jet = 10 m/s; v_hose = 0.40 m/s; ρ = 1000 kg/m³; P_atm = 100000 Pa; the hose is horizontal, so h₁ = h₂.\nFormula:\nBernoulli: P + ½ρv_hose² = P_atm + ½ρv_jet², so P = P_atm + ½ρ(v_jet² − v_hose²).\nSubstitution:\nP = 100000 + ½ × 1000 × (10² − 0.40²) = 100000 + 500 × (100 − 0.16).\nCalculation:\nP = 100000 + 500 × 99.84 = 100000 + 49920 = 149920 Pa.\nResult:\nP ≈ 1.5 × 10⁵ Pa, agreeing with the printed (1.5 × 10⁵ Pa). The pressure inside the hose must exceed atmospheric pressure because the water speeds up as it leaves the jet.",
+    "explanation": "Key formula: P + ½ρv² = constant at the same height, with the jet at atmospheric pressure. The gauge pressure inside the hose is ½ρ(v_jet² − v_hose²) ≈ 5.0 × 10⁴ Pa.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 8,
+    "question": "What is the maximum weight of an aircraft with a wing area of 50 m² flying horizontally, is the velocity of the air over the upper surface of the wing is 150 m/s and that the lower surface 140 m/s ? Density of air is 1.29 kg/m³",
+    "answer": "Given:\nA = 50 m²; v_upper = 150 m/s; v_lower = 140 m/s; ρ = 1.29 kg/m³.\nFormula:\nBernoulli at the same height: P_lower − P_upper = ½ρ(v_upper² − v_lower²); lift W = (P_lower − P_upper)A.\nSubstitution:\nΔP = ½ × 1.29 × (150² − 140²); W = ΔP × 50.\nCalculation:\n150² − 140² = 2900 m²/s²; ΔP = 0.645 × 2900 = 1870 Pa;\nW = 1870 × 50 = 9.35 × 10⁴ N.\nResult:\nW ≈ 9.4 × 10⁴ N, agreeing with the printed 9.3 × 10⁴ N (the difference comes only from rounding ΔP to 1870 Pa).",
+    "explanation": "Key idea: the pressure difference between the lower and upper surfaces, from Bernoulli's equation, multiplied by the wing area gives the lift; for horizontal flight this equals the maximum weight.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 9,
+    "question": "A liquid flows through a pipe with a diameter of 0.50 m at a speed of 4.20 m/s . What is the rate of flow in L/min?",
+    "answer": "Given:\nd = 0.50 m; v = 4.20 m/s; 1 m³ = 1000 L; 1 min = 60 s.\nFormula:\nQ = A v = (πd²/4)v; to convert m³/s to L/min multiply by 1000 × 60.\nSubstitution:\nQ = π(0.50)²/4 × 4.20 = 0.1963 × 4.20 m³/s.\nCalculation:\nQ = 0.825 m³/s = 825 L/s = 825 × 60 = 4.95 × 10⁴ L/min.\nResult:\nQ ≈ 49500 L/min, agreeing with the printed (49500 L/min).",
+    "explanation": "Key steps: area of the pipe A = πd²/4, then Q = A v, then convert m³/s to L/min by multiplying by 6 × 10⁴.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  },
+  {
+    "section": "D",
+    "number": 10,
+    "question": "Calculate the average speed of blood flow in the major arteries of the body, which have a total cross-sectional area of about 2.1 cm². Use the data of example [Worked Example 7.3: radius of the aorta = 1.2 cm, speed of blood in the aorta = 40 cm/s].",
+    "answer": "Given:\nTotal area of the major arteries A = 2.1 cm² = 2.1 × 10⁻⁴ m². Data of Worked Example 7.3: aorta radius r = 1.2 cm = 1.2 × 10⁻² m, blood speed in the aorta v₁ = 40 cm/s = 0.40 m/s.\nFormula:\nBlood is incompressible, so Q = A₁v₁ = A v, giving v = A₁v₁/A.\nSubstitution:\nQ = π(1.2 × 10⁻²)²(0.40) = 1.81 × 10⁻⁴ m³/s;\nv = 1.81 × 10⁻⁴/2.1 × 10⁻⁴.\nCalculation:\nv = 0.862 m/s = 86.2 cm/s.\nResult:\nv ≈ 86 cm/s (0.86 m/s). Note: the printed answer 13.6 cm/s does not follow from the data of Example 7.3; it would require a volume flow of only about 2.9 × 10⁻⁵ m³/s (about 1.7 L/min) through the 2.1 cm² arteries, which is a different set of source data. Discrepancy noted.",
+    "explanation": "Key idea: the volume flow rate found from the aorta data of Example 7.3 is the same in the major arteries, so v = A₁v₁/A. The printed 13.6 cm/s is not consistent with that example.",
+    "pdfPage": 164,
+    "bookPage": 160,
+    "figure": null
+  }
+]

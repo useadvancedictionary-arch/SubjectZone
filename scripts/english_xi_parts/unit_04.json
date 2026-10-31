@@ -1,0 +1,562 @@
+[
+  {
+    "id": "u4_r_pre_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "1",
+    "question": "What does this picture show? Think out a minute and write down the names of devices.",
+    "answer": "The picture shows a collection of modern digital devices, most of them small, portable and wireless. Reading from the top left I can name: an action camera fixed on a selfie stick or gimbal; a small wearable camera clipped to clothing; a pair of true-wireless earbuds in their blue charging case; a group of mobile phones, including an old keypad phone, a touchscreen smartphone and a portable music player (the white device with the circular control pad); a handheld gaming console with a controller attached on each side; a smart speaker with a rounded screen displaying the word 'Hello'; a tablet held upright in a black stand; a small smart display or mini tablet on a stand; a camera mounted on a handheld gimbal stabiliser; a set of hexagonal smart-light panels; a phone or VR viewer lying flat; and a small streaming stick or USB dongle.",
+    "explanation": "The pre-reading task asks students to look at the picture and identify the gadgets. The list is read off the picture, which groups communication, photography, gaming, music, lighting and home-assistant devices together to introduce the theme of the unit.",
+    "bookPage": 55
+  },
+  {
+    "id": "u4_r_pre_q2",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "2",
+    "question": "How has technology evolved over the period of time?",
+    "answer": "Technology has evolved from simple mechanical tools to connected digital systems, and each stage has made information easier and cheaper to handle. The passage itself traces the line from Gutenberg's invention of movable type, which made the mass printing of information possible, to the telephone and the mobile phone, which made information travel over distance. Early devices recorded information on paper and in analogue form, as 'atoms'; the digital stage converted it into 'bits' - binary digits of 1s and 0s - so that it could be copied, stored, manipulated and transmitted instantly. The materials revolution then produced automobiles, planes, appliances and telecom systems, and today sensors, wearables, smart phones, cloud conferencing, telemedicine and artificial intelligence are merging into one network. In short, the evolution has been from tools that extended human muscle, to machines that extended human senses, to networks that extend human thought.",
+    "explanation": "Open-ended but anchored in the text: the first paragraph gives the historical sequence (movable type, telephone, mobile phone) and the analogue-to-digital shift; the remaining paragraphs supply the modern examples.",
+    "bookPage": 55
+  },
+  {
+    "id": "u4_r_pre_q3",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "3",
+    "question": "List down technologies recently discovered/invented.",
+    "answer": "A list of recent technologies: smartphones and 5G mobile networks; wireless earbuds and smart watches that track health; smart speakers and other smart-home devices (smart bulbs, smart locks, security cameras); tablets, smart displays and handheld gaming consoles; drones and action cameras with gimbals; electric and self-driving vehicles; solar panels and wind-power systems; virtual-reality and augmented-reality headsets; cloud computing and video-conferencing platforms; online learning (teleschool, e-learning portals) and telemedicine; e-commerce and digital payment systems; artificial intelligence, machine translation and chatbots; three-dimensional printing; gene-editing (CRISPR) and mRNA vaccines; reusable rockets and satellite internet; and quantum computers.",
+    "explanation": "This is an open-ended recall task. The list deliberately includes the technologies named in the unit text (smart phones, wearables, cloud conferencing, teleschool, telemedicine, e-commerce) so that the pre-reading answer links to the reading that follows.",
+    "bookPage": 55
+  },
+  {
+    "id": "u4_r_ex1_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and deduce the meaning of words given in column A and write their contextual meaning in column B. Share with your partner once you have completed.",
+    "answer": "No. | Word | Contextual meaning\n1 | innovation | a new idea, method or device; here the new developments and products that the technological revolution keeps producing.\n2 | optimists | people who look on the bright side and expect good results; here those who greeted the new era of technology hopefully.\n3 | manipulate | to handle, arrange or control something skilfully; here to work with and process information - to develop, organise, store and transmit it.\n4 | heralded | announced or proclaimed the arrival of something; here the optimists announced that a new era had begun.\n5 | hazards | dangers or risks; here natural dangers such as storms and earthquakes that can turn into disasters.\n6 | hurricanes | violent tropical storms with very strong winds and heavy rain, named in the text among natural phenomena that technology helps to manage.\n7 | proliferated | increased quickly in number, multiplied; here games that also teach have spread widely.\n8 | impending | about to happen very soon; here problems that are coming and that drivers are warned about in real time.\n9 | calamities | great disasters that cause widespread damage and suffering; here outbreaks and natural disasters.\n10 | lessen | to make smaller or weaker; here to reduce the impact of a pandemic.",
+    "explanation": "Meanings are deduced from the sentences in which the words occur (for example 'proliferated' is used of learning games, 'impending' of problems drivers are warned about), not from a dictionary alone.",
+    "bookPage": 58
+  },
+  {
+    "id": "u4_r_ex2_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "2",
+    "question": "Read the text carefully. There are certain words that are related to word 'Tele' means 'far'. First, underline these words in the texts and then write description of these words. An example has been given for you.",
+    "answer": "All the words below contain the prefix tele- (from Greek 'far, at a distance') and are taken from the unit text.\n\nNo. | Word from the text | Description\n1 | Telephone | A device used for speaking to distant places by means of electrical signals (the example given in the book).\n2 | Tele-pointers | New-generation pointing or input devices that work at a distance and have replaced the pen, the pencil and older pointer models.\n3 | Telecom (telecommunication) system | A system that carries messages - voice, text, images or data - over a distance, through cables, radio waves or satellites.\n4 | Television (spectrum) | A system that sends moving pictures and sound from a distant studio to receivers; its spectrum (radio frequencies) is also used for public-safety networks.\n5 | Teleschool | Schooling at a distance: lessons and course material delivered to students who stay at home instead of going to a classroom.\n6 | Telemedicine | The practice of medicine at a distance: a patient gets information or advice about a medical condition through a network instead of visiting the doctor physically.\n7 | Telepresence | The technology that makes a person feel present, and able to act, in a distant or extreme place without travelling there.\n8 | Telework | Work done at a distance from the office, with the help of computers and the Internet.\n9 | Telemarketing | Marketing carried out over the telephone or the Internet, reaching customers far away instead of meeting them at a shop.",
+    "explanation": "The task is a word-detective exercise: students underline every 'tele-' word in the reading text and then explain it. The nine words above are exactly those that occur in the text; each description shows how the idea of 'far' is present in the word.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q1",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "1",
+    "question": "1. Digital revolution mainly depends on________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "physical nature"
+      },
+      {
+        "key": "b",
+        "text": "improved life"
+      },
+      {
+        "key": "c",
+        "text": "hardware innovations"
+      },
+      {
+        "key": "d",
+        "text": "integrated Circuit"
+      }
+    ],
+    "optionsRaw": "(a) physical nature   (b) improved life   (c) hardware innovations   (d) integrated Circuit",
+    "answer": "(c) hardware innovations. The text says that 'many advances in the technology depend on hardware innovations made possible by continued advancement in materials technology'.",
+    "correctAnswer": "(c) hardware innovations",
+    "explanation": "The first paragraph directly names hardware innovations, supported by materials technology, as the base on which technological advances rest; improved life is the result, not the base.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q2",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "2",
+    "question": "2. During World War-II, transmission of information was in________ form:",
+    "options": [
+      {
+        "key": "a",
+        "text": "material"
+      },
+      {
+        "key": "b",
+        "text": "analogue"
+      },
+      {
+        "key": "c",
+        "text": "electric"
+      },
+      {
+        "key": "d",
+        "text": "catalogue"
+      }
+    ],
+    "optionsRaw": "(a) material   (b) analogue   (c) electric   (d) catalogue",
+    "answer": "(b) analogue. The text explains that information processing 'relied on atoms to record or transmit information in analog form rather than the bits ... used to record or transmit information in digital form'.",
+    "correctAnswer": "(b) analogue",
+    "explanation": "The passage contrasts analogue ('atoms') with digital ('bits') and places the analogue stage before the digital one; 'analogue' in the option is the British spelling of the text's 'analog'. Electric waves were only the means used by telephones, not the form of the information.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q3",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "3",
+    "question": "3. ________ is the technological option to work in dangerous situation.",
+    "options": [
+      {
+        "key": "a",
+        "text": "Telephone"
+      },
+      {
+        "key": "b",
+        "text": "Telecom"
+      },
+      {
+        "key": "c",
+        "text": "Telepresence"
+      },
+      {
+        "key": "d",
+        "text": "Television"
+      }
+    ],
+    "optionsRaw": "(a) Telephone   (b) Telecom   (c) Telepresence   (d) Television",
+    "answer": "(c) Telepresence. The section on public safety says: 'Telepresence is possible option to work in any extreme condition'.",
+    "correctAnswer": "(c) Telepresence",
+    "explanation": "Telepresence lets a person act in a distant place without being physically there, which is exactly what working in an extreme or dangerous condition requires.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q4",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "4",
+    "question": "4. It is technology that people get things better according to their____.",
+    "options": [
+      {
+        "key": "a",
+        "text": "market demand"
+      },
+      {
+        "key": "b",
+        "text": "environment"
+      },
+      {
+        "key": "c",
+        "text": "needs"
+      },
+      {
+        "key": "d",
+        "text": "work"
+      }
+    ],
+    "optionsRaw": "(a) market demand   (b) environment   (c) needs   (d) work",
+    "answer": "(c) needs. The commerce section says the revolution is 'enabling them to get the kinds of products and services that fit their needs'.",
+    "correctAnswer": "(c) needs",
+    "explanation": "The text speaks of products and services that 'fit their needs'; market demand, environment and work are not the words used in that sentence.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q5",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "5",
+    "question": "5. E-learning can only be possible through__________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "portals"
+      },
+      {
+        "key": "b",
+        "text": "internet"
+      },
+      {
+        "key": "c",
+        "text": "smart adaptation"
+      },
+      {
+        "key": "d",
+        "text": "innovative system"
+      }
+    ],
+    "optionsRaw": "(a) portals   (b)internet   (c) smart adaptation   (d) innovative system",
+    "answer": "(b) internet. The text says parents use 'e-leaning via Internet' and that flexible online classes give access to education that 'would never have been possible before the Internet'.",
+    "correctAnswer": "(b) internet",
+    "explanation": "Portals, apps and smart systems are tools that run on the Internet; the passage names the Internet itself as the enabling medium of e-learning. (The printed option is set as 'b)internet' without a space.)",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q6",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "6",
+    "question": "6. People get information through ________ to help them better understand a medical condition.",
+    "options": [
+      {
+        "key": "a",
+        "text": "internet"
+      },
+      {
+        "key": "b",
+        "text": "integrated apps"
+      },
+      {
+        "key": "c",
+        "text": "telemedicine"
+      },
+      {
+        "key": "d",
+        "text": "visual images"
+      }
+    ],
+    "optionsRaw": "(a) internet   (b) integrated apps   (c) telemedicine   (d) visual images",
+    "answer": "(c) telemedicine. The text states: 'People get information through telemedicine to help them better understand a medical condition'.",
+    "correctAnswer": "(c) telemedicine",
+    "explanation": "This is a direct quotation from the 'Technology in Education & Health' section, so no inference is needed.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q7",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "7",
+    "question": "7. Bits used to record or transmit information in ________ form.",
+    "options": [
+      {
+        "key": "a",
+        "text": "binary"
+      },
+      {
+        "key": "b",
+        "text": "digital"
+      },
+      {
+        "key": "c",
+        "text": "analogue"
+      },
+      {
+        "key": "d",
+        "text": "logical"
+      }
+    ],
+    "optionsRaw": "(a) binary   (b) digital   (c) analogue   (d) logical",
+    "answer": "(b) digital. The text describes the bits as being 'used to record or transmit information in digital form'.",
+    "correctAnswer": "(b) digital",
+    "explanation": "Option (a) is tempting because the text calls bits 'binary digits', but the phrase to be completed is 'in ... form', and the passage's exact phrase is 'in digital form'. Follow the text, not the association with binary.",
+    "bookPage": 59
+  },
+  {
+    "id": "u4_r_ex3_q8",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "8",
+    "question": "8. ________ is an example of hydrological disaster.",
+    "options": [
+      {
+        "key": "a",
+        "text": "earthquake"
+      },
+      {
+        "key": "b",
+        "text": "hurricane"
+      },
+      {
+        "key": "c",
+        "text": "floods"
+      },
+      {
+        "key": "d",
+        "text": "wildfire"
+      }
+    ],
+    "optionsRaw": "(a) earthquake   (b) hurricane   (c) floods   (d) wildfire",
+    "answer": "(c) floods. A hydrological hazard is one connected with water, and floods are the water-related disaster among the options.",
+    "correctAnswer": "(c) floods",
+    "explanation": "The passage mentions hazards 'of atmospheric, geological, hydrological, and biological origins' and lists hurricanes, wildfires, tsunamis and landslides, but gives no example of a hydrological one. Floods are the standard hydrological example; an earthquake is geological, a hurricane atmospheric and a wildfire is not water-related at all.",
+    "bookPage": 60
+  },
+  {
+    "id": "u4_r_ex3_q9",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "9",
+    "question": "9. ________ technology assesses environmental changes and disease predictions.",
+    "options": [
+      {
+        "key": "a",
+        "text": "remote sensing"
+      },
+      {
+        "key": "b",
+        "text": "satellite"
+      },
+      {
+        "key": "c",
+        "text": "circuit"
+      },
+      {
+        "key": "d",
+        "text": "visual images"
+      }
+    ],
+    "optionsRaw": "(a) remote sensing   (b) satellite   (c) circuit   (d) visual images",
+    "answer": "(a) remote sensing. The passage says: 'The remote sensing technology could monitor environmental changes and disease predictions'.",
+    "correctAnswer": "(a) remote sensing",
+    "explanation": "Satellite images are one of the tools used, but the sentence that names environmental changes and disease predictions attributes them to remote sensing technology.",
+    "bookPage": 60
+  },
+  {
+    "id": "u4_r_ex3_q10",
+    "sectionCode": "U4S1",
+    "type": "mcq",
+    "number": "10",
+    "question": "10. A bulk of population at disaster risks may be located by________.",
+    "options": [
+      {
+        "key": "a",
+        "text": "telecom"
+      },
+      {
+        "key": "b",
+        "text": "satellite images"
+      },
+      {
+        "key": "c",
+        "text": "actuators"
+      },
+      {
+        "key": "d",
+        "text": "smart phones"
+      }
+    ],
+    "optionsRaw": "(a) telecom   (b) satellite images   (c) actuators   (d) smart phones",
+    "answer": "(b) satellite images. The text says satellite images, aerial photographs and on-the-ground inspections 'can be used to locate populations in dangerous or environmentally unstable places'.",
+    "correctAnswer": "(b) satellite images",
+    "explanation": "Telecom, actuators and phones are listed among smart-city devices, but locating populations at risk is linked in the text to satellite images, aerial photographs and ground inspections.",
+    "bookPage": 60
+  },
+  {
+    "id": "u4_r_ex4_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Work individually. Read the text again and mark (√) for true, and (X) for false against each statement given below.",
+    "answer": "No. | Statement | Answer | Reason\n1 | Use of technology can be harmful for our environment. | X | The text presents technology as 'the key enabler of' an 'efficient environment' and as making cars more energy efficient through renewable energy; it does not claim that technology harms the environment.\n2 | First use of technology was related to waves. | X | The first advance the text names is Gutenberg's movable type; electric waves appear much later, when 'telephones translated voices into electric waves'.\n3 | During World War II, the use of technology was not familiar. | √ | The text says information remained scarce and hard to use because it was handled in analogue form, and that 'many innovations arose after the World War II' - so advanced technology was not yet familiar in that period.\n4 | All tele devices may function with traditional type. | X | Telepresence, telework, teleschool and telemedicine all depend on modern digital networks; they cannot work with traditional, analogue devices.\n5 | An e-learning can only be possible without internet. | X | The text says e-learning is done 'via Internet' and that online classes would never have been possible before the Internet.\n6 | People can also purchase and sell things via internet. | √ | The commerce section describes e-commerce, which 'lets people buy a vast array of goods and services' online - buying and selling through the Internet.\n7 | Renewable things are those which cannot be utilized again. | X | The opposite is true: renewable sources such as wind power and solar energy are continuously available and can be used again and again.\n8 | Telework and telepresence are the internet ways to work in hazardous situation. | √ | Telepresence is described as the option 'to work in any extreme condition' and telework gives people the chance to work beyond the limits of a workplace.",
+    "explanation": "Each judgement is tied to a sentence in the reading text. Items 3 and 8 require inference rather than a direct quotation, so the reasoning is shown in the table.",
+    "bookPage": 60
+  },
+  {
+    "id": "u4_r_ex5_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "1",
+    "question": "1. What do you mean by technological revolution?",
+    "answer": "The technological revolution means the continuing transformation of life and work brought about by technology. The text calls technology 'the major driving force of both economic growth and improved quality of life' and says that it is this revolution 'that is driving innovation and enabling billions of people to live better and safer lives'. It is also 'the key enabler of better education, health care, efficient environment, safer and secure communities and nations'. At its centre is a change in the way information is handled: from analogue 'atoms' to digital 'bits'. In short, it is the ongoing shift, based on hardware and materials innovation, by which every field of life - education, health, commerce, safety, entertainment - is reshaped by technology.",
+    "explanation": "The definition is built from the opening paragraph of 'Technological Revolution', quoting its key phrases.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q2",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "2",
+    "question": "2. Why did innovation information remain scare at the time of World War-II?",
+    "answer": "Information remained scarce because it was still processed in analogue form. The text explains that although 'many innovations arose after the World War II', information 'remained scarce and hard to use and transmit'. The reason given is that 'the processing of information relied on atoms to record or transmit information in analog form rather than the bits (binary digits of 1s for on and 0s for off) used to record or transmit information in digital form'. Without digital bits, information had to be carried by physical records such as paper, so it could not be copied, stored, searched or sent quickly and cheaply. The equipment of the time - copiers, printers, telephones - was also limited, and the materials revolution that produced modern devices had not yet arrived.",
+    "explanation": "The answer follows the causal sentence in the first paragraph: analogue, atom-based processing is given as the reason why information was scarce and hard to use and transmit.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q3",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "3",
+    "question": "3. How is the technology boon for students?",
+    "answer": "Technology is a boon for students mainly because it puts education within reach. Course material is provided online through teleschool, so students can study 'without leaving homes'; flexible online classes 'give people access to education that would never have been possible before the Internet'. Parents can follow their child's school assignments and academic progress through web portals and innovative applications, which keeps the home and the school connected. Games designed to double as learning tools have proliferated, so learning becomes interactive and engaging, especially for young children. Information of every kind is at the students' fingertips, and they can revise a lesson, watch a demonstration or consult a library at any time.",
+    "explanation": "The answer gathers the education-related sentences from the 'Technology in Education & Health' and 'Technology & Entertainment' sections.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q4",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "4",
+    "question": "4. What are the benefits of E-commerce in today's world?",
+    "answer": "E-commerce gives people 'a wide variety of choices' and enables them 'to get the kinds of products and services that fit their needs'. It lets them 'buy a vast array of goods and services that previously might have been difficult to find at local stores', so a small town shopper can reach the same market as a city customer. Prices can be compared before buying, and goods are delivered to the door. On the employment side, telework and telemarketing give people 'the chance to move beyond the limits' of their local job market, and businesses can sell to customers far away without opening branch after branch. In short, e-commerce widens choice, saves time and travel, and connects producers and consumers across distances.",
+    "explanation": "The commerce paragraph supplies the quotations; the points about comparison, delivery and saving time are reasonable extensions of 'a vast array of goods and services' bought online.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q5",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "5",
+    "question": "5. How does technology work in environmentally risk areas?",
+    "answer": "In environmentally risky areas technology works as an early-warning and protection system. Remote sensing technology monitors environmental changes and disease predictions; satellite images, aerial photographs and on-the-ground inspections are used 'to locate populations in dangerous or environmentally unstable places and determine how to respond after disaster strikes'. Smart cities are equipped with sensors, processors, wearables, electronics, software, actuators, vehicles, cell phones and computers that collect and send data. Cellular, wireless, satellite and television-spectrum networks keep communications open when ordinary links fail, and the Internet is used 'to coordinate recovery efforts'. Technology also helps scientists understand the mechanism of atmospheric, geological, hydrological and biological hazards and how they turn into disasters.",
+    "explanation": "The answer combines the 'Disaster Risk Reduction' paragraph with the epidemics paragraph, where remote sensing and satellite data are described.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q6",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "6",
+    "question": "6. How has technology greatly supported doctors & medical practitioners?",
+    "answer": "Technology supports doctors and medical practitioners by giving them information and reach. Through telemedicine, people 'get information ... to help them better understand a medical condition', so patients in remote areas can be guided before they ever reach a hospital. Technology 'has helped improve medical care by making it easier for doctors to provide evidence-based medicine' - treatment based on recorded data, test results and research rather than guesswork. Online systems let doctors consult specialists at a distance and share reports and images quickly, and wearable devices and sensors supply continuous data about a patient's condition so that problems are noticed early.",
+    "explanation": "The quotations come from the health part of the 'Technology in Education & Health' section; the point about specialists and wearables follows from the telemedicine and smart-device sentences.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q7",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "7",
+    "question": "7. How does technology secure humans from calamities?",
+    "answer": "Technology secures humans from calamities by predicting, monitoring and managing them. Disasters forecasting, predictions, monitoring, risk assessment and damage assessment are 'the open grounds for integrating technology', and satellite images, aerial photographs and on-the-ground inspections are used to manage hurricanes, wildfires, tsunamis and landslides. Public safety networks built on cellular, wireless, satellite and existing analogue television spectrum keep warnings and instructions flowing, and communities use the Internet 'during an emergency to coordinate recovery efforts'. During epidemics and pandemics technology enables secure access to data, virtual meetings and cloud conferencing, and although it 'cannot prevent the onset of the pandemics', it can 'help prevent the spread, educate, warn, and empower those on the ground' and 'noticeably lessen the impact'.",
+    "explanation": "The answer draws on both the disaster-reduction and the epidemics paragraphs; the text itself limits the claim by saying technology cannot prevent a pandemic's onset.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q8",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "8",
+    "question": "8. Some people have opinion that youngsters are not safe in the technological era? Give reasons for your agreement or disagreement.",
+    "answer": "I partly agree, but I do not accept the opinion as it stands. It is true that the technological era exposes young people to real dangers: strangers can contact them through games and social media; cyberbullying can follow them into their bedrooms; false information and deepfakes can mislead them; endless scrolling damages sleep, eyesight and concentration; and personal data can be collected and misused. Yet the same technology keeps them safer in many ways - emergency alerts, location sharing with parents, online learning when schools are closed, health information and contact with family members far away. The danger lies less in the technology than in its unguided use. With digital literacy, privacy settings, agreed screen-time limits and open conversation at home and school, youngsters can enjoy the benefits and avoid most of the harm. I therefore disagree with the blanket claim that they are 'not safe'.",
+    "explanation": "This is an opinion question, so more than one answer is possible. The model answer gives a balanced judgement with reasons on both sides and a clear final position, which is what the task requires.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q9",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "9",
+    "question": "9. Which technology innovation has impacted you profoundly and how?",
+    "answer": "The innovation that has affected me most is the smartphone connected to the Internet. Before it, study meant waiting for a library book or for the teacher's next lesson; now a doubt about a formula or a date can be answered in a minute by a video lesson or a reliable website, and our class group shares notes and reminders every evening. It has also changed my relationships: I can speak to my cousins abroad and see my grandparents' faces whenever I wish. At the same time it has taught me a caution I did not need before - to check a fact before forwarding it, and to put the phone away when I am reading or talking to someone. So the impact has been both practical and character-forming: it has made learning and communication immediate, and it has made self-control a daily necessity.",
+    "explanation": "This is a personal-response question. The model answer names one innovation and shows both its practical effects and its effect on habits, which is what 'how' requires.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex5_q10",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "10",
+    "question": "10. How did technology contribute in keeping peoples' lives safe during the recent pandemic or disaster?",
+    "answer": "During the recent pandemic technology kept life going while people were kept apart. It enabled 'secure access to data, enterprise applications, virtual meetings and cloud conferencing', so offices, courts and classrooms moved online. Schools used teleschool and online classes, patients used telemedicine, and families used video calls to stay in touch with isolated relatives. Remote sensing and satellite images helped authorities monitor the spread of disease and 'locate populations in dangerous or environmentally unstable places'. E-commerce and digital payments delivered food and medicine to doorsteps, reducing crowds in markets. Public-health messages could be broadcast widely to 'educate, warn, and empower those on the ground', and the result, as the text says, was to 'noticeably lessen the impact' of the crisis.",
+    "explanation": "The epidemics/pandemics paragraph supplies the quotations; the examples of online classes, telemedicine and e-commerce are the applications described elsewhere in the same text.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_r_ex6_q1",
+    "sectionCode": "U4S1",
+    "type": "sq",
+    "number": "1",
+    "question": "Though use of technology has many advantages to ease living, it has some disadvantages too. Now, work in groups. First make outlines related to only disadvantages of technology, and then expand each outline in short paragraphs.",
+    "answer": "Outline of the disadvantages of technology\n1. Unemployment caused by automation.\n2. Addiction to screens and damage to health.\n3. Loss of privacy and the growth of cybercrime.\n4. The rapid spread of false information.\n5. The weakening of face-to-face relationships.\n6. Environmental damage from electronic waste and energy use.\n\n1. Unemployment caused by automation. Machines and software now do work that once employed people - billing clerks, ticket sellers, assembly-line workers and even junior office staff. When a factory installs robots or a bank installs cash machines, the owner saves money but the employees lose their incomes. Unless workers are retrained for new kinds of jobs, technology widens the gap between those who own the machines and those who are replaced by them.\n\n2. Addiction to screens and damage to health. Phones, games and streaming sites are designed to hold attention, and many young people sit for hours with bent necks and sleepless eyes. This leads to weak eyesight, back and neck pain, obesity from inactivity and constant tiredness in class. Addiction also makes people restless and irritable when they cannot check their devices, so it harms mental health as well as the body.\n\n3. Loss of privacy and the growth of cybercrime. Every click, purchase and location leaves a trace, and companies and criminals collect these traces. Hacked accounts, stolen passwords, fake calls and online fraud cost people their savings and their reputation. Because the crime crosses borders and leaves little physical evidence, it is very hard to trace and punish.\n\n4. The rapid spread of false information. A rumour or a doctored video can reach millions of people within minutes, and it is often shared before anyone checks it. False news about health, elections or religion can cause panic, violence and deep divisions in society. Technology gives every user a microphone, but not every user the training to use it responsibly.\n\n5. The weakening of face-to-face relationships. When people spend their evenings messaging, they may stop visiting, listening and sitting together. Families can be in the same room while each member is lost in a separate screen. Manners such as greeting, waiting one's turn and reading another person's face are learned only in real company, and these skills weaken when devices replace conversation.\n\n6. Environmental damage from electronic waste and energy use. Old phones, chargers and computers are discarded in huge quantities, and much of this e-waste is burned or dumped, releasing poisonous metals into soil and water. Data centres and cryptocurrency mining consume enormous amounts of electricity, much of it still produced from coal and gas. Technology must therefore be designed to be repaired, recycled and powered by clean energy.",
+    "explanation": "The group task is open-ended. The model answer keeps strictly to disadvantages, as instructed, and expands each outline point into a short paragraph with a cause, an effect and, where possible, a remedy.",
+    "bookPage": 61
+  },
+  {
+    "id": "u4_w_ex1_q1",
+    "sectionCode": "U4S2",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Write the précis of the following paragraph and suggest a suitable title. Remember to use steps given above. After completing, share the précis with your partner.\nTrees give shade for the benefit of others, and while they themselves stand in the sun and endure the heat, they produce the fruit of which others profit. The character of good human is like that of trees. Sandalwood, the more it is rubbed, the more scent does it yield. Sugarcane, the more it is peeled and cut up into pieces, the more juice does it produce. What matters whether other people praise them or not? What difference does it make whether they die at this moment or whether lives are prolonged? Happen what may, those who tread in the right path will not set foot in any other. Life itself is unprofitable to a human being who does not live for others. To live for the mere sake of living one's life is to live the life with no purpose.",
+    "answer": "Title: Trees - The Model of Selfless Service\n\nPrécis: Trees bear heat to give others shade and fruit. Good people resemble them, like sandalwood that yields more fragrance when rubbed and sugarcane that gives more juice when crushed. Praise or death hardly matters to such people, who never leave the right path. A life lived only for itself is purposeless.",
+    "explanation": "The passage is 141 words, so a précis of about one-third (the book's rule) is roughly 47 words; the model is 51 words. It keeps only the central idea (selfless service), drops the rhetorical questions and repeated examples, uses fresh wording, adds no opinion, and supplies the required title.",
+    "bookPage": 63
+  },
+  {
+    "id": "u4_o_ex1_q1",
+    "sectionCode": "U4S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Practise the following dialogue in groups of three. Three friends, Babar, Akmal and Zeeshan, were discussing about their future plan after completing intermediate. One dialogue has been left blank for each of the character. Each one should think of one more dialogue related to situation and say it; the others can agree or state another view point.",
+    "answer": "Model added turn for each character, to be spoken after the printed dialogue:\n\nBabar: In my opinion, we should also think about the cost. Medical and engineering both need long years of study and heavy fees, while a legal career needs years of reading before it pays. Speaking personally, I would rather choose a field where I can serve people and support my family at the same time.\nAkmal: I agree with Babar that cost matters, but I have the feeling that talent and hard work attract scholarships. As far as I am concerned, a good student should not give up a difficult field only because it is expensive; he should apply for every scholarship and then prove himself.\nZeeshan: My own opinion on the subject is that the field must suit the person, not the family's wish or the fashion of the year. It is my impression that a lawyer who hates courts, or a doctor who faints at the sight of blood, will serve nobody. So each of us should test his aptitude first and then decide.\n\nAgreement and counter-view (spoken by the other two after each turn): 'I agree with you, but ...' or 'That is true, however, in my view ...'. For example, after Zeeshan's turn Babar may reply: 'I agree that aptitude matters, but in my view aptitude can also be built by hard work once the choice is made.'",
+    "explanation": "The printed dialogue already gives each friend two turns; this task asks each student to add one further turn using the phrases for expressing a point of view, while the others agree or state another view. The model shows all three added turns and one sample agreement-and-counter-view exchange, so the dialogue remains a genuine three-way discussion.",
+    "bookPage": 64
+  },
+  {
+    "id": "u4_o_ex2_q1",
+    "sectionCode": "U4S3",
+    "type": "sq",
+    "number": "1",
+    "question": "Two dialogue activities should be presented in the class. The topics must be of any common interest like: 1. Personal Business and Employment",
+    "answer": "A dialogue on 'Personal Business and Employment' (three speakers: Ayesha, Bilal, Sameer):\n\nAyesha: In my opinion, a young person should first take a job and learn how a business actually runs before risking his own money. I think that a salaried start teaches discipline, accounting and dealing with customers.\nBilal: I would say that is too slow. As far as I am concerned, a small personal business - a repair shop, an online store, a tailoring unit - can be started with modest capital and grown step by step. Speaking personally, I would rather earn from my own effort than wait for a promotion.\nSameer: It is my impression that both of you are partly right. My own opinion is that the choice depends on the person's savings, skills and family responsibilities. A person with dependents should keep a job and test a small business in the evenings; a person with a useful skill and some capital can begin at once.\nAyesha: I agree with Sameer, but in my view a business without bookkeeping fails within a year, so anyone starting one should first learn basic accounts.\nBilal: That is true; however, I still believe that waiting too long destroys the courage to start. I am of the opinion that a carefully planned small beginning is better than a lifetime of hesitation.\nSameer: Then we agree on the essentials: skill, planning, savings and honest accounts - whether one begins with a job or with a business.",
+    "explanation": "Open-ended speaking task. The model dialogue uses the phrases for presenting a point of view given on the page (in my opinion, I think, I would say, as far as I am concerned, it is my impression, speaking personally, I am of the opinion) and shows agreement plus a counter-view, as the task requires.",
+    "bookPage": 64
+  },
+  {
+    "id": "u4_o_ex2_q2",
+    "sectionCode": "U4S3",
+    "type": "sq",
+    "number": "2",
+    "question": "Two dialogue activities should be presented in the class. The topics must be of any common interest like: 2. Manual Book Readings and Digital Readings",
+    "answer": "A dialogue on 'Manual Book Readings and Digital Readings' (three speakers: Hina, Omar, Farah):\n\nHina: In my opinion, a printed book is still the best way to read seriously. I find that I remember a page better when I can turn it, underline it and see it lying open on the table, and my eyes do not ache after an hour.\nOmar: I would say that digital reading has advantages a paper book cannot offer. As far as I am concerned, a single tablet can hold a whole library, the text can be searched in seconds, and the font can be enlarged. Speaking personally, I read more now because a book is always in my pocket.\nFarah: It is my impression that the purpose decides the medium. My own opinion is that for deep study - a novel, a poem, a long argument - paper is calmer and less distracting, while for quick reference, news and research, digital text is far more efficient.\nHina: I agree with Farah, but in my view the temptation of notifications makes digital reading difficult for young students unless the device is kept offline while reading.\nOmar: That is true; however, I am of the opinion that the same device can carry a dictionary, notes and audio, which helps weaker readers instead of harming them.\nFarah: So we conclude that neither medium is perfect: paper gives concentration, digital gives access, and a good reader uses each for what it does best.",
+    "explanation": "Open-ended speaking task. The model presents three clear viewpoints with the target phrases, one agreement, one counter-view and a concluding synthesis, which is what a classroom dialogue presentation needs.",
+    "bookPage": 64
+  },
+  {
+    "id": "u4_g_ex1_q1",
+    "sectionCode": "U4S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Look at the picture below and illustrate the use of prepositions of place and time and fill in the blanks. After completing, share your work with your partner.",
+    "answer": "Completed sentences (the filled prepositions are shown in brackets):\n\nNo. | Completed sentence\n1 | There is a doll on the sofa that was purchased on Monday last. [place: on; time: on]\n2 | There is a ball on the table. It will be taken to play in half an hour. [place: on; time: in]\n3 | There is a cat on the armchair. [place: on]\n4 | There is an apple on the table. [place: on]\n5 | There is a dog under the table. [place: under]\n6 | There is an umbrella behind the sofa. [place: behind]\n7 | There is a picture on the wall. [place: on]\n8 | There is a vase on the table. [place: on]\n9 | There is a robot on the floor. [place: on]\n10 | There is a car under the armchair. [place: under]\n11 | There is a lamp beside the sofa and will be lit at 10 pm. [place: beside; time: at]\n12 | There is a teddy on the armchair. It will go to sleep at 11 pm. [place: on; time: at]\n\nNote on prepositions: 'on' is used for a surface (sofa, table, wall, floor) and for days and dates (on Monday); 'in' for a period of time in the future (in half an hour); 'at' for exact clock times (at 10 pm, at 11 pm); 'under', 'behind' and 'beside' for position relative to an object. 'Beside' may be replaced by 'next to'.",
+    "explanation": "The answers are read from the picture: the doll is seated on the sofa, the ball and the apple stand on the tables, the dog and the toy car are tucked under the furniture, and the lamp stands beside the sofa. The picture is small in print, so where a toy is partly hidden, a near-synonym (for example 'next to' for 'beside') is equally acceptable; the grammar point being tested is the choice of place preposition versus time preposition.",
+    "bookPage": 65
+  },
+  {
+    "id": "u4_g_ex2_q1",
+    "sectionCode": "U4S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs. Look at the picture below and illustrate the use of prepositions of place & movement and fill in the blanks. After completing, share your work with your partner.",
+    "answer": "Completed sentences:\n\nNo. | Completed sentence\n0 | He is walking from the post office to the bank. [movement: from ... to]\n1 | The ladder is standing against the wall. [place: against]\n2 | The post office is next to the travel agency. [place: next to]\n3 | The aeroplane is flying over the town. [movement: over]\n4 | The bank is between the post office and the library. [place: between]\n5 | My flat is above the bank. [place: above]\n6 | They are standing in front of the building. [place: in front of]\n7 | The flat is near the park. [place: near]\n8 | The park is behind the library. [place: behind]\n9 | The library is next to the bank. [place: next to]\n10 | He is standing outside the library. [place: outside]\n11 | She is walking along the road. [movement: along]\n12 | They are sitting on the bridge. [place: on]\n13 | He is walking across the road. [movement: across]\n14 | He is driving over the bridge. [movement: over]\n15 | The bus stop is in front of the bank. [place: in front of]\n16 | She is walking towards the market. [movement: towards]\n17 | She is walking up the stairs. [movement: up]\n18 | He is walking down the steps. [movement: down]",
+    "explanation": "The numbered labels and arrows on the town map show where each person or object is and which way the arrows point: the ladder leans on the wall, the plane flies above the town, the car crosses the bridge, the woman climbs the stairs and the man comes down the steps. The map is printed faintly, so a few blanks (for example 5, 7 and 10) can take another suitable place preposition - above/near, near/opposite, outside/in front of - provided the sentence remains true to the picture; the essential distinction is between position (in, on, at, between, behind, next to) and movement (from ... to, along, across, over, towards, up, down).",
+    "bookPage": 66
+  },
+  {
+    "id": "u4_g_ex3_q1",
+    "sectionCode": "U4S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Now, work individually and fill in the gaps with the verbs followed by appropriate prepositions to complete the sentences given below. You can choose from the above given table.",
+    "answer": "i. Since Sara is arrogant, she never apologises for her rude behaviour. [apologise for]\nii. The luggage belongs to the man in black hat. [belong to]\niii. She asked for the second chance to rectify her mistake. [ask for]\niv. Last year, Moiz arrived at Mirpur Khas and stayed at his home town for a month. [arrive at]\nv. In today's session, he commented on the current situation of Pakistan. [comment on]\nvi. The committee consists of Mr. Ali Miral, Mr. Zohair Anees, and Ms. Saima Huq. [consist of]\nvii. The nation suffers from the inflation and poverty. [suffer from]\nviii. The Prime Minister did not agree with his cabinet's opinions. [agree with]\nix. When she participates in races, she only concentrates on the time. [concentrate on]\nx. Now, it is the time to invest in as many companies as possible. [invest in]",
+    "explanation": "Each answer uses a verb plus the preposition that the table on book page 67 lists for it: for (purpose/reason), to (direction/connection), about, with (relationships), of, in (involvement), at (place), on (with certain verbs such as comment on) and from (origin). Note: 'arrive in' is also used with large cities, but the table gives 'arrive at'; in (iv) 'at' also matches the printed 'at his home town'. In (ix), 'cares about' would also fit the blank, but 'concentrates on' matches the sense of a runner's attention to time.",
+    "bookPage": 68
+  },
+  {
+    "id": "u4_g_ex4_q1",
+    "sectionCode": "U4S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Now, work individually and fill in the blanks with the appropriate words in the box below. After you have completed, share your work with your partner.",
+    "answer": "Word box: forecast, disinfect, semiformal, nonverbal, biannual, rejoice, substandard\n\nNo. | Completed sentence | Word used\n1 | The cleaning staff disinfects the area to avoid the spread of Corona Virus. | disinfect\n2 | The problem is that he expected you to understand his nonverbal communication. | nonverbal\n3 | Her wedding was semiformal, so everyone just dressed neat and tidy. | semiformal\n4 | Living conditions such as substandard housing have a major impact on health. | substandard\n5 | You have just forecast how quickly people would accept this information and how supportive they would be while learning to accept this 'change'. | forecast\n6 | The biannual dental and medical check-ups are offered if you take total coverage medical policy. | biannual\n7 | His victory was rejoiced by the political analyst due to his commitment and promises with the nation. | rejoice (used as rejoiced)",
+    "explanation": "Each blank is filled from the meaning of the prefix: dis- (opposite), non- (not), semi- (half), sub- (under/below), fore- (before), bi- (twice) and re- (again). Note on 7: the only word left is 'rejoice', so the expected answer is 'rejoiced'; standard usage, however, prefers the intransitive 'rejoiced at/over his victory', so the printed passive 'was rejoiced by the political analyst' is awkward. If the sentence is to be fully idiomatic, the analyst's action is better expressed as 'His victory was hailed/celebrated by the political analyst'. In 1, 'disinfect' is also acceptable if 'staff' is treated as a plural collective.",
+    "bookPage": 70
+  },
+  {
+    "id": "u4_g_ex5_q1",
+    "sectionCode": "U4S4",
+    "type": "sq",
+    "number": "1",
+    "question": "Work in pairs and identify the words which have prefixes in any news from a newspaper which is provided by the teacher. After completing, share your work with your partner.",
+    "answer": "Model worked on this short news item: 'The government has announced an unprejudiced inquiry into the disagreement between the two provinces over the sharing of canal water, which had been disinfected before supply. Officials said the situation was unprecedented and that misinformation on social media had worsened it. A spokesperson promised to reopen the case and to review the substandard construction of the canal, calling the delay unacceptable and the repair work overdue.'\n\nNo. | Word | Prefix | Root word | Suffix | Meaning of the word\n1 | unprejudiced | un- (not) | prejudice (judge beforehand) | -ed | not influenced by prejudice; fair\n2 | disagreement | dis- (opposite of) | agree | -ment | failure to agree; quarrel\n3 | disinfected | dis- (opposite of) | infect | -ed | freed from infection; cleaned of germs\n4 | unprecedented | un- (not) + pre- (before) | cede/cedent (go) | -ed | never known or done before\n5 | misinformation | mis- (wrongly) | inform | -ation | false or wrong information\n6 | reopen | re- (again) | open | - | to open again\n7 | review | re- (again) | view (look) | - | to look at again; to examine\n8 | substandard | sub- (below) | standard | - | below the accepted standard; of poor quality\n9 | unacceptable | un- (not) | accept | -able | not able to be accepted; intolerable\n10 | overdue | over- (too much/beyond) | due | - | not paid or done by the due time; late\n\nMethod: underline each word, mark the prefix at the beginning and, if there is one, the suffix at the end, and then remove them to find the root word; the meaning of the whole word is the meaning of the root changed by the prefix and suffix.",
+    "explanation": "This exercise is open-ended because the newspaper passage is supplied by the teacher, so the answer gives a short model news item and a fully worked table. The table also distinguishes prefix, root and suffix, as the teacher's note on the page requires.",
+    "bookPage": 71
+  }
+]

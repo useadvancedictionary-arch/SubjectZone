@@ -1,0 +1,71 @@
+{
+  "name": "subjectzone",
+  "version": "1.0.0",
+  "description": "SubjectZone - SSC & HSC All-Subjects Learning App for Teachers and Students",
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite --port 3000 --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start:desktop": "electron .",
+    "package:win": "vite build && electron-builder --win"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.3",
+    "electron": "^44.4.5",
+    "electron-builder": "^26.15.3",
+    "vite": "^6.0.0"
+  },
+  "build": {
+    "appId": "com.subjectzone.app",
+    "productName": "SubjectZone",
+    "electronDist": "node_modules/electron/dist",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "electron/*.cjs",
+      "electron/icon.ico",
+      "dist/**/*",
+      "!dist/books/**/pages/**",
+      "!dist/Books and Solutions/**",
+      "!node_modules/**"
+    ],
+    "win": {
+      "icon": "build/icon.ico",
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    },
+    "appx": {
+      "applicationId": "SubjectZone",
+      "identityName": "SubjectZone.SubjectZone",
+      "publisher": "CN=SubjectZone",
+      "publisherDisplayName": "SubjectZone",
+      "displayName": "SubjectZone",
+      "customManifestPath": "build/msix/AppxManifest.xml"
+    }
+  },
+  "author": "SubjectZone",
+  "dependencies": {
+    "@capacitor/android": "^6.2.3",
+    "@capacitor/core": "^6.2.3"
+  }
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "section": "A",
+    "number": 1,
+    "question": "Lymph most closely resembles which of the following?",
+    "options": ["Blood", "Urine", "Plasma", "Interstitial fluid"],
+    "correct": "d",
+    "explanation": "Lymph is formed from interstitial (tissue) fluid that enters the blind-ended lymph capillaries. It is similar in composition to plasma but contains less protein and no red blood cells, and it is not urine or whole blood.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 2,
+    "question": "What event initiates blood clotting?",
+    "options": [
+      "Contact with an irregular surface by platelets and other factors in plasma.",
+      "Production of the enzyme thrombin",
+      "Conversion of fibrinogen into fibrin",
+      "Excess flow of blood through a capillary"
+    ],
+    "correct": "a",
+    "explanation": "Clotting begins when platelets come into contact with an irregular surface such as exposed collagen at a damaged vessel wall and release clotting factors. Thrombin production and the conversion of fibrinogen to fibrin are later steps in the cascade.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 3,
+    "question": "Damage to the S.A Node in humans",
+    "options": [
+      "Is a major contributor to heart attacks.",
+      "Would block conductance between the bundle branches and the purkinje fibers.",
+      "Would have a negative effect on peripheral resistance.",
+      "Would disrupt the rate and timing of cardiac muscle contractions."
+    ],
+    "correct": "d",
+    "explanation": "The SA node is the pacemaker that sets the rate and rhythm of the heart. Damage to it disrupts the initiation and timing of cardiac muscle contraction. The AV node may take over as a slower backup pacemaker, but the normal rhythm is lost.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 4,
+    "question": "Which of the following is measured by an electrocardiogram?",
+    "options": [
+      "Impulses from the AV node",
+      "Impulses of the parasympathetic nervous system that control heartbeat",
+      "The speed on impulses from the SA node",
+      "Contraction of the two atria"
+    ],
+    "correct": "c",
+    "explanation": "An ECG records the electrical currents produced as impulses travel through cardiac muscle. The P–R interval specifically indicates the time required for depolarization initiated by the SA node to reach the ventricles, i.e. the conduction time (speed) of those impulses. An ECG does not record mechanical contraction or parasympathetic impulses directly.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 5,
+    "question": "Where are semilunar valves to be found in the mammalian heart?",
+    "options": [
+      "Where blood goes from atria to ventricles",
+      "On the right side of the heart only",
+      "Where the pulmonary veins attach to the heart",
+      "At the places where blood leaves via the aorta and pulmonary arteries"
+    ],
+    "correct": "d",
+    "explanation": "Semilunar valves guard the two exits of the heart: the pulmonary semilunar valve at the opening of the pulmonary trunk from the right ventricle and the aortic semilunar valve at the opening of the aorta from the left ventricle. AV valves lie between atria and ventricles.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 6,
+    "question": "Organisms in which a circulating body fluid is distinct from the fluid that directly surrounds the body's cells are likely to have which of the following?",
+    "options": [
+      "An open circulatory system",
+      "A closed circulatory system",
+      "A gastrovascular cavity",
+      "Branched tracheae"
+    ],
+    "correct": "b",
+    "explanation": "In a closed circulatory system the blood is confined to vessels and remains distinct from the interstitial fluid bathing the cells. In an open system, haemolymph leaves the vessels and directly bathes the organs, so no such distinction exists.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 7,
+    "question": "Average blood pressure is lowest in which structure (s)",
+    "options": ["Aorta", "Arterioles", "Capillaries", "Vena cava"],
+    "correct": "d",
+    "explanation": "Blood pressure falls progressively as blood moves away from the heart: it is highest in the aorta, decreases through arteries and arterioles, falls further across the capillary bed, and is lowest in the venae cavae, which return blood to the right atrium at very low pressure.",
+    "pdfPage": 297,
+    "bookPage": 292
+  },
+  {
+    "section": "A",
+    "number": 8,
+    "question": "Which of the following is/ are a cause (s) of vasoconstriction?",
+    "options": [
+      "Lying down after standing",
+      "Standing after lying down",
+      "Stress or hormone concentration",
+      "Histamine secretion"
+    ],
+    "correct": "c",
+    "explanation": "The muscular walls of arterioles are controlled by nerves, hormones and local chemicals. Stress raises the concentration of constrictor hormones such as adrenaline, angiotensin and ADH, causing vasoconstriction; histamine causes vasodilation. Standing after lying down also provokes a reflex vasoconstriction through the baroreceptor reflex, but the textbook attributes vasoconstriction directly to hormonal and nervous control, so (c) is the best single choice.",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "A",
+    "number": 9,
+    "question": "Blood returning to the human heart in a pulmonary vein drains first into the?",
+    "options": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+    "correct": "a",
+    "explanation": "Pulmonary veins carry oxygenated blood from the lungs back to the heart and open into the left atrium. From there blood passes through the bicuspid (mitral) valve into the left ventricle.",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "A",
+    "number": 10,
+    "question": "Which of the following is NOT an important function of the human circulation?",
+    "options": [
+      "Transport of nutrients and respiratory gases",
+      "Regulation of body temperature",
+      "Protection of the body by circulating antibodies",
+      "Removal of waste products for excretion from the body"
+    ],
+    "correct": "c",
+    "explanation": "The circulatory system transports nutrients, respiratory gases, hormones and metabolic wastes, and helps regulate body temperature. Protection by circulating antibodies is primarily a function of the immune system (blood cells and plasma proteins) rather than a primary function of the circulation itself; the blood merely serves as the transport medium for these immune components.",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 1,
+    "question": "Why higher animals need circulatory system?",
+    "answer": "Higher animals are large and multicellular, so most of their cells lie far from the external environment. Diffusion alone is too slow over such distances — the time required for a substance to diffuse is proportional to the square of the distance it must travel. A circulatory system solves this problem by keeping the distance from blood to any cell very short: it transports oxygen, nutrients, hormones and water to the tissues and carries carbon dioxide and metabolic wastes away to the lungs, kidneys and other excretory organs. It also distributes heat for temperature regulation and carries white blood cells and antibodies for defence. In this way the circulatory system functionally connects the aqueous environment of the cells with the organs that exchange gases, absorb nutrients and dispose of wastes.",
+    "explanation": "Textbook section 12.1: diffusion is inadequate over macroscopic distances; the circulatory system ensures no substance must diffuse far to enter or leave a cell.",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 2,
+    "question": "Why SA node is called pace maker of heart?",
+    "answer": "The sino-atrial (SA) node is a small region of specialized muscle tissue in the wall of the right atrium, near the opening of the superior vena cava. It generates electrical impulses spontaneously and rhythmically, without any external nerve stimulation, at a rate of about 72 times per minute at rest. These impulses spread rapidly through the walls of both atria, making them contract together, and then pass to the AV node, bundle of His and Purkinje fibres to excite the ventricles. Because the SA node sets the rate and rhythm at which all cardiac muscle cells contract, it is called the pacemaker of the heart. If it is damaged, the AV node can take over as a slower backup pacemaker.",
+    "explanation": "Textbook section 12.3.3 (SA node and AV node).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 3,
+    "question": "Why the capillaries have a single layer of endothelium?",
+    "answer": "Capillaries are the site of exchange between blood and tissue fluid, so their wall is reduced to the minimum thickness: a single layer of squamous endothelial cells resting on a basement membrane. This thin wall offers very little resistance to diffusion, allowing oxygen, carbon dioxide, nutrients, hormones, water and wastes to pass rapidly between the blood and the interstitial fluid. The capillaries are also extremely narrow (7–9 µm), which slows the blood flow and gives more time for exchange, and their walls have openings between cells through which white blood cells can squeeze out. A thicker wall would increase the diffusion distance and make exchange inefficient.",
+    "explanation": "Textbook section 12.5.2 (capillaries).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 4,
+    "question": "What are LUB and DUB?",
+    "answer": "LUB and DUB are the two heart sounds heard through a stethoscope as 'lub-dub'. LUB is the first, longer and lower-pitched sound. It is produced by the sudden closure of the atrioventricular valves (tricuspid and bicuspid/mitral) at the beginning of ventricular systole, when ventricular pressure rises above atrial pressure and the valve flaps are forced shut. DUB is the second, shorter and sharper sound. It is caused by the closure of the semilunar valves (aortic and pulmonary) at the end of ventricular systole, when blood starts to flow back toward the relaxing ventricles and closes the valve cusps. The sounds are due to vibrations of the heart walls and valves, not to the flow of blood itself.",
+    "explanation": "Textbook section 12.3.2 (phases of heartbeat).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 5,
+    "question": "Why circulatory system of arthropods is called open type?",
+    "answer": "In arthropods the circulatory system is called open because the blood (haemolymph) is not confined to a continuous system of vessels. The tubular heart pumps haemolymph through short arteries into irregular spaces called sinuses or the haemocoel, where it directly bathes the internal organs and cells. It is then collected back into the heart through openings called ostia. Because the haemolymph leaves the vessels and mixes with the interstitial fluid, there is no distinction between blood and tissue fluid, and the system operates at low pressure. Open circulation is adequate for small animals with relatively low metabolic rates, but it is less efficient than closed circulation for rapid transport of oxygen and nutrients.",
+    "explanation": "Textbook section 12.1 (open circulatory system).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 6,
+    "question": "Why blood flow faster in arteries?",
+    "answer": "Blood flows faster in arteries because it is driven by the high pressure generated by ventricular contraction and because arteries have a relatively small total cross-sectional area. The thick muscular and elastic walls of arteries stretch during systole and recoil during diastole, maintaining a high pressure and pushing blood onward between heartbeats. Since the velocity of flow is inversely related to the total cross-sectional area of the vessels, blood moves rapidly through the narrow arterial tree; as the arteries branch into many arterioles and then into an enormous number of capillaries, the total cross-sectional area increases greatly and the flow slows down, allowing time for exchange. In veins, by contrast, pressure is low, walls are thin and the lumen is wider, so flow is slower and depends on valves and skeletal-muscle pumping.",
+    "explanation": "Textbook sections 12.5.1 (arteries) and 12.5.3 (veins).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "B",
+    "number": 7,
+    "question": "Distinguish between single circuit circulation and double circuit circulation:",
+    "answer": "In single circuit circulation, blood passes through the heart only once during one complete circuit of the body. The heart has two chambers (one atrium and one ventricle), as in fish. Deoxygenated blood is pumped from the heart to the gills, where it is oxygenated, and then flows directly through the body tissues before returning to the heart. The blood loses pressure in the gill capillaries, so the systemic circulation is at low pressure and the tissues receive blood relatively slowly. In double circuit circulation, blood passes through the heart twice during one complete circuit: once through the pulmonary circuit (heart → lungs → heart) and once through the systemic circuit (heart → body → heart). The heart has three chambers in amphibians and most reptiles and four chambers in birds and mammals. Oxygenated and deoxygenated blood are separated (completely in birds and mammals), so the systemic circulation can be maintained at high pressure and oxygen delivery to the tissues is more efficient.",
+    "explanation": "Textbook section 12.2 (evolution of vertebrate heart and double circulation).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 1,
+    "question": "Describe the structure of blood vessels in man.",
+    "answer": "The blood vessels of man form a continuous system of tubes of three main types — arteries, capillaries and veins — through which blood travels from the heart to the tissues and back.\n\n1. Arteries. Arteries are thick-walled vessels that carry blood away from the heart. Their wall consists of three layers (tunics). The outer tunica externa is made of fibrous connective tissue containing collagen fibres, giving strength. The middle tunica media is the thickest layer and contains smooth muscle and elastic fibres; it allows the artery to stretch during systole and recoil during diastole, maintaining a steady flow of blood. The inner tunica intima consists of a single layer of squamous endothelium, which provides a smooth lining. Arteries have a narrow lumen and no valves. They branch into smaller vessels called arterioles, whose muscular walls can constrict or dilate to control the distribution of blood and peripheral resistance.\n\n2. Capillaries. Capillaries are the smallest vessels, connecting arterioles to venules. Their wall is only one cell thick — a single layer of endothelial cells resting on a basement membrane — and their diameter is about 7–9 µm, just wide enough for red blood cells to pass in single file. This thin wall allows rapid exchange of gases, nutrients, hormones and wastes between blood and interstitial fluid. Capillaries form dense networks in the tissues. The large plasma proteins, red blood cells and platelets cannot leave the capillaries, but white blood cells can pass through openings between the endothelial cells.\n\n3. Veins and venules. Venules collect blood from the capillary networks and join to form veins, which return blood to the heart. Veins have thinner walls than arteries, with less smooth muscle and elastic tissue, and a wider lumen, so they offer little resistance to flow. Blood pressure in veins is low, so veins contain one-way valves that prevent backflow; the contraction of skeletal muscles during exercise and the movements of breathing squeeze the veins and help push blood toward the heart. The largest veins, the superior and inferior venae cavae, empty into the right atrium.\n\nThus arteries are adapted for high-pressure transport away from the heart, capillaries for exchange, and veins for low-pressure return of blood to the heart.",
+    "explanation": "Textbook section 12.5 (blood vessels: arteries, capillaries, veins; Fig. 12.7).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 2,
+    "question": "Describe the structure of human heart.",
+    "answer": "The human heart is a hollow, somewhat conical muscular organ about the size of a fist. It lies in the thorax between the lungs, behind the sternum, with about one third of its mass to the right of the midline and two thirds to the left.\n\nPericardium. The heart is enclosed in a tough sac called the pericardium. It has an outer fibrous layer (fibrous pericardium) and an inner double serous membrane (serous pericardium). Between the two layers of the serous pericardium is a small amount of pericardial fluid, which lubricates the surfaces and prevents friction during heart contractions.\n\nWall of the heart. The heart wall consists of three layers. The epicardium is the outer layer, formed by the visceral layer of the serous pericardium. The myocardium is the thick middle layer of cardiac muscle; it contains the excitable tissue and the conducting system of the heart and is responsible for the pumping action. The endocardium is the inner layer, consisting of squamous endothelium and a subendocardial layer, which lines the chambers and valves.\n\nChambers. Internally the heart is divided into four chambers: two thin-walled atria above and two thick-walled ventricles below. The right and left atria are separated by a thin membranous interatrial septum, and the right and left ventricles by a thick muscular interventricular septum. The right atrium receives deoxygenated blood from the superior and inferior venae cavae; the left atrium receives oxygenated blood from the four pulmonary veins. The right ventricle pumps blood into the pulmonary trunk, and the left ventricle pumps blood into the aorta. The wall of the left ventricle is much thicker than that of the right because it must drive blood through the systemic circulation, whereas the right ventricle pumps only to the lungs.\n\nValves. Four valves ensure one-way flow. The right atrioventricular (tricuspid) valve lies between the right atrium and ventricle, and the left atrioventricular (bicuspid or mitral) valve between the left atrium and ventricle. Their flaps are anchored by chordae tendineae to papillary muscles, which prevent the valves from turning inside out during ventricular contraction. The pulmonary semilunar valve guards the opening of the pulmonary trunk, and the aortic semilunar valve guards the opening of the aorta.\n\nGreat vessels. The superior and inferior venae cavae enter the right atrium; the pulmonary trunk leaves the right ventricle and divides into right and left pulmonary arteries; four pulmonary veins enter the left atrium; and the aorta leaves the left ventricle and arches over the heart. The heart also has its own coronary arteries and veins, which supply and drain the myocardium.",
+    "explanation": "Textbook sections 12.3, 12.3.1 and Fig. 12.3–12.4.",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 3,
+    "question": "What is circulation? Explain needs of circulation",
+    "answer": "Circulation is the movement of blood (or another body fluid) through the body, driven by a heart or other pumping structures, so that substances are transported between the exchange organs and the cells. In animals there are two basic types: open circulation, in which haemolymph leaves the vessels and directly bathes the organs, and closed circulation, in which blood remains confined to vessels and is distinct from the interstitial fluid. Man has a closed, double circulatory system.\n\nThe need for circulation arises from the size and complexity of multicellular animals. In a unicellular organism or a very small animal, diffusion alone is sufficient to supply oxygen and nutrients and remove wastes. In a large animal, however, most cells are far from the body surface and from the gut, and the time taken for diffusion is proportional to the square of the distance. Diffusion would therefore be far too slow to meet metabolic demands. Circulation solves this problem by keeping the distance between blood and each cell very short and by continuously renewing the fluid around the cells.\n\nSpecifically, circulation is needed for:\n1. Transport of respiratory gases — oxygen from the lungs to the tissues and carbon dioxide from the tissues to the lungs.\n2. Transport of nutrients — glucose, amino acids, fatty acids, vitamins, minerals and water absorbed from the digestive tract to all cells.\n3. Transport of metabolic wastes — urea, uric acid, creatinine, excess salts and water — to the kidneys and other excretory organs.\n4. Transport of hormones from endocrine glands to their target organs, and of enzymes and plasma proteins.\n5. Distribution of heat, helping to regulate body temperature and maintain a constant internal environment (homeostasis).\n6. Defence — carrying white blood cells, antibodies and clotting factors to sites of injury or infection.\n7. Maintaining the composition of interstitial fluid, so that tissue cells are bathed in a suitable medium for metabolism.\n\nThus circulation functionally connects the aqueous environment of the cells with the organs that exchange gases, absorb nutrients and dispose of wastes. Without it, the metabolic rate and size of higher animals would be severely limited.",
+    "explanation": "Textbook sections 12.1 and 12.2 (circulation, types and needs).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 4,
+    "question": "State the phases of heartbeat in man.",
+    "answer": "The heartbeat is the rhythmic contraction of the heart chambers. At rest the human heart beats about 72 times per minute, so one complete cardiac cycle — one contraction and relaxation of the atria and ventricles — lasts about 0.8 second. The cycle has three main phases.\n\n1. Atrial systole (about 0.1 s). The SA node fires, and electrical impulses spread through the walls of both atria, causing them to contract together. The atrioventricular valves are open, so blood is forced from the atria into the ventricles, which are relaxed and filling.\n\n2. Ventricular systole (about 0.3 s). The impulse passes through the AV node, bundle of His and Purkinje fibres to the ventricular muscle. The ventricles contract, raising the pressure inside them. This closes the atrioventricular valves, producing the first heart sound (LUB), and then opens the semilunar valves. Blood is ejected into the pulmonary trunk from the right ventricle and into the aorta from the left ventricle. During this phase the atria relax and begin to fill again.\n\n3. Ventricular diastole (about 0.5 s). The ventricles relax, their pressure falls, and the semilunar valves close, producing the second heart sound (DUB). The atrioventricular valves then open, and blood flows from the atria into the ventricles. This is a period of complete cardiac relaxation before the next atrial systole begins. The coronary arteries are also filled during diastole, when the ventricular muscle is relaxed.\n\nThe alternating contraction and relaxation of the chambers, together with the opening and closing of the valves, therefore maintain a continuous one-way flow of blood through the heart. The sequence repeats with each heartbeat.",
+    "explanation": "Textbook section 12.3.2 (phases of heartbeat; Fig. 12.5).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 5,
+    "question": "Describe the flow of blood through human heart as regulated by the valves.",
+    "answer": "Blood flows through the human heart in a definite one-way path, and the four heart valves ensure that it never flows backward.\n\nDeoxygenated blood returning from the body enters the right atrium through the superior and inferior venae cavae. When the right atrium contracts, the right atrioventricular (tricuspid) valve opens and blood passes into the right ventricle. During ventricular systole the tricuspid valve closes, preventing blood from being forced back into the right atrium; its flaps are held in place by chordae tendineae attached to papillary muscles. The pressure in the right ventricle opens the pulmonary semilunar valve, and blood is ejected into the pulmonary trunk and pulmonary arteries to the lungs.\n\nIn the lungs the blood is oxygenated and returns to the left atrium through the four pulmonary veins. When the left atrium contracts, the left atrioventricular (bicuspid or mitral) valve opens and blood enters the left ventricle. During left ventricular systole the bicuspid valve closes, preventing backflow into the left atrium. The rising ventricular pressure opens the aortic semilunar valve, and blood is ejected into the aorta and distributed to the body.\n\nThe valves work purely passively, opening and closing in response to pressure differences on their two sides:\n- Atrioventricular valves (tricuspid and bicuspid) are open when atrial pressure exceeds ventricular pressure (during atrial filling and atrial systole) and are closed when ventricular pressure rises during ventricular systole.\n- Semilunar valves (pulmonary and aortic) are closed when ventricular pressure falls during diastole, preventing blood in the great arteries from flowing back into the ventricles; they open only when ventricular pressure exceeds arterial pressure during systole.\n\nThe closing of the AV valves produces the first heart sound (LUB), and the closing of the semilunar valves produces the second heart sound (DUB). In this way the valves maintain the sequence: right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta → body, with no backward leakage at any step.",
+    "explanation": "Textbook sections 12.3.1 and 12.3.2 (heart valves and the cardiac cycle).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 6,
+    "question": "Describe the lymphatic system of man",
+    "answer": "The lymphatic system is a network of thin-walled vessels and lymphoid organs that returns excess tissue fluid to the blood and helps defend the body against infection.\n\nFormation of lymph. All body tissues are bathed in interstitial (tissue) fluid, which is formed when blood passes through the capillaries. About 85% of this fluid returns into the blood at the venous end of the capillaries; the remaining 15% drains into blind-ended lymphatic capillaries as lymph. Lymph is a colourless fluid containing lymphocytes, small proteins, fats, cell debris and microorganisms. It also carries substances that are too large to penetrate the blood capillaries, such as fat globules absorbed from the villi of the small intestine.\n\nLymph capillaries and vessels. Lymph capillaries are microscopically narrow, thin-walled vessels with openings between their cells that act as one-way valves, allowing relatively large particles and fluid to enter. They join to form larger lymph vessels, which have somewhat muscular walls and numerous one-way valves. Lymph is propelled mainly by the contraction of nearby skeletal muscles during breathing and walking, and the valves prevent backflow. The larger vessels merge into two ducts: the thoracic duct, which drains most of the body and empties into the left subclavian vein, and the right lymphatic duct, which drains the right side of the head, thorax and right arm and empties into the right subclavian vein.\n\nLymphoid organs. Lymph vessels are interrupted at intervals by kidney-bean-shaped lymph nodes, about one inch long. Lymph is forced through channels lined with macrophages, and lymphocytes are also produced in the nodes; both types of white blood cells recognise and destroy foreign particles such as bacteria and viruses. The spleen, located on the left side of the abdominal cavity between the stomach and diaphragm, filters blood and exposes it to macrophages and lymphocytes that destroy foreign particles and aged red blood cells. The thymus is a lymphoid organ in the upper chest where T lymphocytes mature, and the tonsils are masses of lymphoid tissue guarding the throat.\n\nFunctions. The lymphatic system (1) returns excess interstitial fluid and small proteins to the blood, maintaining fluid balance; (2) transports absorbed fats from the intestine; (3) filters lymph and blood and destroys pathogens and worn-out cells; and (4) produces and distributes lymphocytes for immune defence. If lymph drainage is blocked, interstitial fluid accumulates and causes swelling called oedema.",
+    "explanation": "Textbook section 12.8 (lymphatic system; Figs. 12.13–12.14).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 7,
+    "question": "Explain the electrocardiogram with the help of diagram.",
+    "answer": "An electrocardiogram (ECG) is a graphic record of the electrical currents produced by the heart during the cardiac cycle. The impulses that travel through cardiac muscle produce electrical currents, which are conducted through body fluids to the body surface. These currents are detected by electrodes placed on the skin and are recorded as a trace called an ECG.\n\nA normal ECG consists of a repeating sequence of waves (P, QRS and T) on a baseline:\n- P wave: a small upward wave produced by depolarization of the atrial muscle fibres, initiated by the SA node. It represents atrial depolarization, which is followed by atrial contraction.\n- P–R interval: the time from the beginning of the P wave to the beginning of the QRS complex. It indicates the time required for the depolarization initiated by the SA node to reach the ventricles, and therefore reflects conduction through the AV node (normally about 0.1 s).\n- QRS complex: a sharp downward deflection (Q), a tall upward spike (R) and a downward deflection (S). It represents depolarization of the ventricles, which begins at the apex of the heart and spreads upward. Atrial repolarization also occurs during this time but is hidden by the larger QRS complex.\n- S–T segment: the period between the end of ventricular depolarization and the beginning of repolarization. During this interval the ventricles are in systole and blood is being ejected from the heart.\n- T wave: a broader upward wave produced by ventricular repolarization, which occurs just before the ventricles relax.\n\nDiagram (described): draw a horizontal baseline; add a small rounded P wave, followed after a short flat P–R segment by a tall sharp QRS spike (small Q dip, tall R peak, S dip below baseline), then a flat S–T segment, and finally a broader rounded T wave. The sequence P–QRS–T repeats with each heartbeat.\n\nBy examining the ECG, a physician can see the electrical changes in the form of depolarization and repolarization and can detect abnormalities such as irregular rhythm, heart block, myocardial damage or hypertrophy. A normal ECG indicates that the heart is functioning and conducting impulses properly.",
+    "explanation": "Textbook section 12.4 (electrocardiogram; Figs. 12.6 and ECG waves).",
+    "pdfPage": 298,
+    "bookPage": 293
+  },
+  {
+    "section": "C",
+    "number": 8,
+    "question": "Describe pulmonary circulation and systemic circulation",
+    "answer": "In man the circulatory system is a double circuit: blood passes through the heart twice during one complete circuit of the body. The two circuits are the pulmonary circulation and the systemic circulation.\n\nPulmonary circulation. This circuit carries deoxygenated blood from the right side of the heart to the lungs and returns oxygenated blood to the left side of the heart. Blood enters the right atrium from the body through the superior and inferior venae cavae, passes through the tricuspid valve into the right ventricle, and is pumped through the pulmonary semilunar valve into the pulmonary trunk. The trunk divides into the right and left pulmonary arteries, which carry blood to the two lungs. In the pulmonary capillaries, carbon dioxide diffuses out of the blood into the alveoli and oxygen diffuses from the alveoli into the blood. The oxygenated blood then returns through four pulmonary veins to the left atrium. The pulmonary circuit is short and operates at low pressure, which protects the delicate lung capillaries from damage.\n\nSystemic circulation. This circuit carries oxygenated blood from the left side of the heart to all body tissues and returns deoxygenated blood to the right side. Blood passes from the left atrium through the bicuspid (mitral) valve into the left ventricle, which pumps it through the aortic semilunar valve into the aorta. The aorta branches into arteries and arterioles that distribute blood to the head, limbs, trunk and internal organs. In the tissue capillaries, oxygen and nutrients pass into the cells, while carbon dioxide and metabolic wastes enter the blood. The deoxygenated blood then flows through venules and veins and returns to the right atrium through the superior and inferior venae cavae. The systemic circuit is long and operates at high pressure, because the left ventricle has a thick muscular wall. The coronary arteries, which supply the heart muscle itself, are also part of the systemic circulation.\n\nThus pulmonary circulation oxygenates the blood at low pressure, while systemic circulation delivers oxygen and nutrients to the tissues and removes wastes at high pressure. Together they ensure that oxygenated and deoxygenated blood remain separate in the four-chambered human heart, making oxygen delivery to the tissues highly efficient.",
+    "explanation": "Textbook sections 12.2 and 12.3 (double circulation, pulmonary and systemic circuits).",
+    "pdfPage": 298,
+    "bookPage": 293
+  }
+]
